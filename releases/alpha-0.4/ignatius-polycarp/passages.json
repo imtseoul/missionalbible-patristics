@@ -1,0 +1,3573 @@
+{
+  "attribution_url": "https://imtseoul.github.io/patristics-ko-reference/rights.html",
+  "correction_registry_url": "https://imtseoul.github.io/patristics-ko-reference/data/corrections.json",
+  "coverage": [
+    "praef.1",
+    "1.1",
+    "1.2",
+    "1.3",
+    "2.1",
+    "2.2",
+    "2.3",
+    "3.1",
+    "3.2",
+    "4.1",
+    "4.2",
+    "4.3",
+    "5.1",
+    "5.2",
+    "6.1",
+    "6.2",
+    "7.1",
+    "7.2",
+    "7.3",
+    "8.1",
+    "8.2",
+    "8.3"
+  ],
+  "coverage_kind": "complete_adopted_edition",
+  "human_review_status": "not_reviewed",
+  "passages": [
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:b3395d09758171493254d8430eb169b136b12102398c3203df0f897cb9527f69",
+        "part_links": [
+          [
+            "sha256:e3b2501a5800fc098e01a29681c741ff23abefdd21b3888406215f8fb9427f6e"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:d7fa5800bf1629dd6356fc837c991a1540f612108b7fcd2141d6e6806efcce8b"
+        ],
+        "translation_revision_ids": [
+          "sha256:ea127c4dd905f091f903770f630986487ae2351ab0ed00ca3c58f575469a6d04"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:praef.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 praef.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-praef-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-praef-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:218eafa933e397af83a49bf4c3809e2787df958b518dd36dc23347f949ed06e5",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:b3395d09758171493254d8430eb169b136b12102398c3203df0f897cb9527f69",
+            "source_revision_id": "sha256:d7fa5800bf1629dd6356fc837c991a1540f612108b7fcd2141d6e6806efcce8b",
+            "translation_revision_id": "sha256:ea127c4dd905f091f903770f630986487ae2351ab0ed00ca3c58f575469a6d04"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:praef.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:7ce000b2f4956e2bff7d9a1f5af866028474573d35c516a9cc6484d0791178f0",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:b3395d09758171493254d8430eb169b136b12102398c3203df0f897cb9527f69",
+            "source_revision_id": "sha256:d7fa5800bf1629dd6356fc837c991a1540f612108b7fcd2141d6e6806efcce8b",
+            "translation_revision_id": "sha256:ea127c4dd905f091f903770f630986487ae2351ab0ed00ca3c58f575469a6d04"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:praef.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:218eafa933e397af83a49bf4c3809e2787df958b518dd36dc23347f949ed06e5",
+          "sha256:7ce000b2f4956e2bff7d9a1f5af866028474573d35c516a9cc6484d0791178f0"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-praef-1",
+      "source": {
+        "applied_corrections": [
+          {
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n271.jpg",
+            "from": 268,
+            "to": 266,
+            "type": "page_location"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "7379d64b1519b451a1f41a0c72beb8acf5bc1e808b7ae8ec0b25b7a3bcf02342",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n271.jpg",
+            "printed_page": 266,
+            "segment_id": "sha256:e3b2501a5800fc098e01a29681c741ff23abefdd21b3888406215f8fb9427f6e",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Ἰγνάτιος, ὁ καὶ Θεοφόρος, Πολυκάρπῳ ἐπισκόπῳ ἐκκλησίας Σμυρναίων, μᾶλλον ἐπισκοπημένῳ ὑπὸ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ, πλεῖστα χαίρειν.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:d7fa5800bf1629dd6356fc837c991a1540f612108b7fcd2141d6e6806efcce8b",
+        "text": "Ἰγνάτιος, ὁ καὶ Θεοφόρος, Πολυκάρπῳ ἐπισκόπῳ ἐκκλησίας Σμυρναίων, μᾶλλον ἐπισκοπημένῳ ὑπὸ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ, πλεῖστα χαίρειν.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.praef.1",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:4493adb649b83c0e780994a2bb261266d24b39b2bcfac49062d89841f2f007f8",
+        "upstream_text": "Ἰγνάτιος, ὁ καὶ Θεοφόρος, Πολυκάρπῳ ἐπισκόπῳ ἐκκλησίας Σμυρναίων, μᾶλλον ἐπισκοπημένῳ ὑπὸ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ, πλεῖστα χαίρειν.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='praef']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:praef.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "ἐπίσκοπος와 ἐπισκοπέω는 ‘감독’과 ‘돌보다’로 옮겼다. 교회를 돌보는 감독 자신도 하나님의 돌봄을 받는다는 말놀이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:e3b2501a5800fc098e01a29681c741ff23abefdd21b3888406215f8fb9427f6e"
+            ],
+            "text": "테오포로스라고도 하는 이그나티우스가 스미르나 교회의 감독이며, 오히려 하나님 아버지와 주 예수 그리스도의 돌보심을 받는 폴리카르포스에게 풍성한 문안을 전합니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:d7fa5800bf1629dd6356fc837c991a1540f612108b7fcd2141d6e6806efcce8b"
+        ],
+        "text": "테오포로스라고도 하는 이그나티우스가 스미르나 교회의 감독이며, 오히려 하나님 아버지와 주 예수 그리스도의 돌보심을 받는 폴리카르포스에게 풍성한 문안을 전합니다.",
+        "translation_revision_id": "sha256:ea127c4dd905f091f903770f630986487ae2351ab0ed00ca3c58f575469a6d04",
+        "work_passage_id": "ignatius-polycarp:lake-1914:praef.1"
+      },
+      "work_location": "praef.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:praef.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:3fd7967f41f2fea77550e7ec72d4019ae3eb43eb1d011f88acf7236a777477a4",
+        "part_links": [
+          [
+            "sha256:9fea3f956cf6c3ef2954a398b6460396d8e5bf89fb727fcedb98411d2096ecde"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:602aafcb54572256364bebefc2cae714b4cdd168fb67b801f873592e83ca68b3"
+        ],
+        "translation_revision_ids": [
+          "sha256:874c4a54d7ad304c42272aa146d121922a8eaec4d2dd6a46add14b550d19fb80"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 1.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-1-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-1-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:e69aa061c764a893b8c8263e008b3611e1123e4e2bec67585ed20e520ef16c63",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:3fd7967f41f2fea77550e7ec72d4019ae3eb43eb1d011f88acf7236a777477a4",
+            "source_revision_id": "sha256:602aafcb54572256364bebefc2cae714b4cdd168fb67b801f873592e83ca68b3",
+            "translation_revision_id": "sha256:874c4a54d7ad304c42272aa146d121922a8eaec4d2dd6a46add14b550d19fb80"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:1.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:e2758eb8e7f5295afbc2b719c9f5e0a31c04aedebe2b092be962fa9bc815c60a",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:3fd7967f41f2fea77550e7ec72d4019ae3eb43eb1d011f88acf7236a777477a4",
+            "source_revision_id": "sha256:602aafcb54572256364bebefc2cae714b4cdd168fb67b801f873592e83ca68b3",
+            "translation_revision_id": "sha256:874c4a54d7ad304c42272aa146d121922a8eaec4d2dd6a46add14b550d19fb80"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:1.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:e69aa061c764a893b8c8263e008b3611e1123e4e2bec67585ed20e520ef16c63",
+          "sha256:e2758eb8e7f5295afbc2b719c9f5e0a31c04aedebe2b092be962fa9bc815c60a"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-1-1",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "7e0ca38b2ca944e28ed003de5bb74f898dae3cd1beb42d6b519b533443c4b9c6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+            "printed_page": 268,
+            "segment_id": "sha256:9fea3f956cf6c3ef2954a398b6460396d8e5bf89fb727fcedb98411d2096ecde",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Ἀποδεχόμενός σου τὴν ἐν θεῷ γνώμην ἡδρασμένην ὡς ἐπὶ πέτραν ἀκίνητον, ὑπερδοξάζω, καταξιωθεὶς τοῦ προσώπου σου τοῦ ἀμώμου, οὗ ὀναίμην ἐν θεῷ.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:602aafcb54572256364bebefc2cae714b4cdd168fb67b801f873592e83ca68b3",
+        "text": "Ἀποδεχόμενός σου τὴν ἐν θεῷ γνώμην ἡδρασμένην ὡς ἐπὶ πέτραν ἀκίνητον, ὑπερδοξάζω, καταξιωθεὶς τοῦ προσώπου σου τοῦ ἀμώμου, οὗ ὀναίμην ἐν θεῷ.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.1.1",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:60146c5561426c8611d9cdf83fa28b03bf901b40c9d6c69e77c952583d3bd151",
+        "upstream_text": "Ἀποδεχόμενός σου τὴν ἐν θεῷ γνώμην ἡδρασμένην ὡς ἐπὶ πέτραν ἀκίνητον, ὑπερδοξάζω, καταξιωθεὶς τοῦ προσώπου σου τοῦ ἀμώμου, οὗ ὀναίμην ἐν θεῷ.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='1']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:9fea3f956cf6c3ef2954a398b6460396d8e5bf89fb727fcedb98411d2096ecde"
+            ],
+            "text": "하나님 안에서 흔들리지 않는 바위 위에 세운 듯 굳건한 당신의 뜻을 반갑게 받아들이며, 흠 없는 당신의 얼굴을 뵐 영예를 얻었기에 크게 찬양합니다. 하나님 안에서 당신에게서 유익을 얻기를 바랍니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:602aafcb54572256364bebefc2cae714b4cdd168fb67b801f873592e83ca68b3"
+        ],
+        "text": "하나님 안에서 흔들리지 않는 바위 위에 세운 듯 굳건한 당신의 뜻을 반갑게 받아들이며, 흠 없는 당신의 얼굴을 뵐 영예를 얻었기에 크게 찬양합니다. 하나님 안에서 당신에게서 유익을 얻기를 바랍니다.",
+        "translation_revision_id": "sha256:874c4a54d7ad304c42272aa146d121922a8eaec4d2dd6a46add14b550d19fb80",
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.1"
+      },
+      "work_location": "1.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:1.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:1a246066adeda6444ebb1eab087ad9f37aee397340b1a4d600d253fa58e25b75",
+        "part_links": [
+          [
+            "sha256:5e113a5a026e087b36293e8d05f94f681bbda4930143f851b88dce1f0a4bbdab"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:0b12f1cf3a108a521b767956647e1be1c86b1561291b9c510fd1d66ad19a89d0"
+        ],
+        "translation_revision_ids": [
+          "sha256:8cbfd25c2e9845a0b6d64908c0f6111e7940c96b284dbfb4a45768d144c936c7"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "Ephesians",
+          "chapter": 4,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+          "label": "에베소서 4:2",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 2,
+          "verse_end": null
+        }
+      ],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 1.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-1-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-1-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b19d47181f4bcd94205e5e96b79c1cc05b262893c4ee37b971b4ddc24f943c73",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:1a246066adeda6444ebb1eab087ad9f37aee397340b1a4d600d253fa58e25b75",
+            "source_revision_id": "sha256:0b12f1cf3a108a521b767956647e1be1c86b1561291b9c510fd1d66ad19a89d0",
+            "translation_revision_id": "sha256:8cbfd25c2e9845a0b6d64908c0f6111e7940c96b284dbfb4a45768d144c936c7"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:1.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:c588c07e5437bb46779b9215328e438221c5ae3788b2b00fd6b6c9e3787e5bc5",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:1a246066adeda6444ebb1eab087ad9f37aee397340b1a4d600d253fa58e25b75",
+            "source_revision_id": "sha256:0b12f1cf3a108a521b767956647e1be1c86b1561291b9c510fd1d66ad19a89d0",
+            "translation_revision_id": "sha256:8cbfd25c2e9845a0b6d64908c0f6111e7940c96b284dbfb4a45768d144c936c7"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:1.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:b19d47181f4bcd94205e5e96b79c1cc05b262893c4ee37b971b4ddc24f943c73",
+          "sha256:c588c07e5437bb46779b9215328e438221c5ae3788b2b00fd6b6c9e3787e5bc5"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-1-2",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "7e0ca38b2ca944e28ed003de5bb74f898dae3cd1beb42d6b519b533443c4b9c6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+            "printed_page": 268,
+            "segment_id": "sha256:5e113a5a026e087b36293e8d05f94f681bbda4930143f851b88dce1f0a4bbdab",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "παρακαλῶ σε ἐν χάριτι ᾗ ἐνδέδυσαι, προσθεῖναι τῷ δρόμῳ σου καὶ πάντας παρακαλεῖν, ἵνα σώζωνται. ἐκδίκει σου τὸν τόπον ἐν πάσῃ ἐπιμελείᾳ σαρκικῇ τε καὶ πνευματικῇ. τῆς ἑνώσεως φρόντιζε, ἧς οὐδὲν ἄμεινον, πάντας βάσταζε, ὡς καὶ σὲ ὁ κύριος: πάντων ἀνέχου ἐν ἀγάπῃ, ὥσπερ καὶ ποιεῖς.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:0b12f1cf3a108a521b767956647e1be1c86b1561291b9c510fd1d66ad19a89d0",
+        "text": "παρακαλῶ σε ἐν χάριτι ᾗ ἐνδέδυσαι, προσθεῖναι τῷ δρόμῳ σου καὶ πάντας παρακαλεῖν, ἵνα σώζωνται. ἐκδίκει σου τὸν τόπον ἐν πάσῃ ἐπιμελείᾳ σαρκικῇ τε καὶ πνευματικῇ. τῆς ἑνώσεως φρόντιζε, ἧς οὐδὲν ἄμεινον, πάντας βάσταζε, ὡς καὶ σὲ ὁ κύριος: πάντων ἀνέχου ἐν ἀγάπῃ, ὥσπερ καὶ ποιεῖς.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.1.2",
+        "upstream_editorial_notes": [
+          {
+            "number": null,
+            "printed_page": 268,
+            "references": [
+              {
+                "corresp": "cts:urn:greekLit:tlg0031.tlg010:4.2",
+                "label": "Eph. 4, 2"
+              }
+            ],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "Eph. 4, 2",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='1']/tei:div[@n='2']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:4562ebe2eec86011966518635681ca151b98659073fc35410376de5a3c6be928",
+        "upstream_text": "παρακαλῶ σε ἐν χάριτι ᾗ ἐνδέδυσαι, προσθεῖναι τῷ δρόμῳ σου καὶ πάντας παρακαλεῖν, ἵνα σώζωνται. ἐκδίκει σου τὸν τόπον ἐν πάσῃ ἐπιμελείᾳ σαρκικῇ τε καὶ πνευματικῇ. τῆς ἑνώσεως φρόντιζε, ἧς οὐδὲν ἄμεινον, πάντας βάσταζε, ὡς καὶ σὲ ὁ κύριος: πάντων ἀνέχου ἐν ἀγάπῃ, ὥσπερ καὶ ποιεῖς.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='1']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "δρόμος는 경기의 ‘달음질’로 옮겼다. 뒤이어 경기자와 수고의 비유가 나온다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:5e113a5a026e087b36293e8d05f94f681bbda4930143f851b88dce1f0a4bbdab"
+            ],
+            "text": "당신이 입고 있는 은혜 안에서 권합니다. 달음질에 더욱 힘을 보태고 모든 사람이 구원받도록 격려하십시오. 육과 영의 모든 정성을 다해 당신의 자리를 지키십시오. 일치를 돌보십시오. 그보다 더 좋은 것은 없습니다. 주님께서 당신을 품어 주시듯 모든 사람을 품어 주십시오. 지금도 그렇게 하듯, 사랑 안에서 모든 사람을 견뎌 주십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:0b12f1cf3a108a521b767956647e1be1c86b1561291b9c510fd1d66ad19a89d0"
+        ],
+        "text": "당신이 입고 있는 은혜 안에서 권합니다. 달음질에 더욱 힘을 보태고 모든 사람이 구원받도록 격려하십시오. 육과 영의 모든 정성을 다해 당신의 자리를 지키십시오. 일치를 돌보십시오. 그보다 더 좋은 것은 없습니다. 주님께서 당신을 품어 주시듯 모든 사람을 품어 주십시오. 지금도 그렇게 하듯, 사랑 안에서 모든 사람을 견뎌 주십시오.",
+        "translation_revision_id": "sha256:8cbfd25c2e9845a0b6d64908c0f6111e7940c96b284dbfb4a45768d144c936c7",
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.2"
+      },
+      "work_location": "1.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:1.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:99edc74ade2529a96901e90c5ebe9e90df29c97d0df01569bfaef275abb9db6a",
+        "part_links": [
+          [
+            "sha256:da804115c3260a85f1c13d1a0933c9556a674abad026c3a8db8ba0d18023c261"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:b23001f2fe759502368a12f3d583cc0b7ce7909c82acb2f5f646a66e670fd210"
+        ],
+        "translation_revision_ids": [
+          "sha256:908434f83f32152744e92eb689d3a4bc4cc9c5ab751ac933e3a61c58960bfe54"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.3"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "Matthew",
+          "chapter": 8,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+          "label": "마태복음 8:17",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 17,
+          "verse_end": null
+        }
+      ],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 1.3, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-1-3",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-1-3",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:526ed537d79ad6aa61b210afa69d4fbcad580f16908f122356c592f9a455ff3d",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:99edc74ade2529a96901e90c5ebe9e90df29c97d0df01569bfaef275abb9db6a",
+            "source_revision_id": "sha256:b23001f2fe759502368a12f3d583cc0b7ce7909c82acb2f5f646a66e670fd210",
+            "translation_revision_id": "sha256:908434f83f32152744e92eb689d3a4bc4cc9c5ab751ac933e3a61c58960bfe54"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:1.3"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:a591d7477020c131ce1c44cfad12d528c51c825237887f25f7d8013f6eab3dfe",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:99edc74ade2529a96901e90c5ebe9e90df29c97d0df01569bfaef275abb9db6a",
+            "source_revision_id": "sha256:b23001f2fe759502368a12f3d583cc0b7ce7909c82acb2f5f646a66e670fd210",
+            "translation_revision_id": "sha256:908434f83f32152744e92eb689d3a4bc4cc9c5ab751ac933e3a61c58960bfe54"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:1.3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:526ed537d79ad6aa61b210afa69d4fbcad580f16908f122356c592f9a455ff3d",
+          "sha256:a591d7477020c131ce1c44cfad12d528c51c825237887f25f7d8013f6eab3dfe"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-1-3",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "7e0ca38b2ca944e28ed003de5bb74f898dae3cd1beb42d6b519b533443c4b9c6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+            "printed_page": 268,
+            "segment_id": "sha256:da804115c3260a85f1c13d1a0933c9556a674abad026c3a8db8ba0d18023c261",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "προσευχαῖς σχόλαζε ἀδιαλείπτοις: αἰτοῦ σύνεσιν πλείονα ἧς ἔχεις: γρηγόρει ἀκοίμητον πνεῦμα κεκτημένος. τοῖς κατ’ ἄνδρα κατὰ ὁμοήθειαν θεοῦ λάλει: πάντων τὰς νόσους βάσταζε ὡς τέλειος ἀθλητής. ὅπου πλείων κόπος, πολὺ κέρδος.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:b23001f2fe759502368a12f3d583cc0b7ce7909c82acb2f5f646a66e670fd210",
+        "text": "προσευχαῖς σχόλαζε ἀδιαλείπτοις: αἰτοῦ σύνεσιν πλείονα ἧς ἔχεις: γρηγόρει ἀκοίμητον πνεῦμα κεκτημένος. τοῖς κατ’ ἄνδρα κατὰ ὁμοήθειαν θεοῦ λάλει: πάντων τὰς νόσους βάσταζε ὡς τέλειος ἀθλητής. ὅπου πλείων κόπος, πολὺ κέρδος.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.1.3",
+        "upstream_editorial_notes": [
+          {
+            "number": null,
+            "printed_page": 268,
+            "references": [
+              {
+                "corresp": "cts:urn:greekLit:tlg0031.tlg001:3.17",
+                "label": "Mt. 3, 17"
+              }
+            ],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "Mt. 3, 17",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='1']/tei:div[@n='3']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:9b67f6b8c93856ebce62dbfffb5aea50c430359dcdc5187a032e866acf20083a",
+        "upstream_text": "προσευχαῖς σχόλαζε ἀδιαλείπτοις: αἰτοῦ σύνεσιν πλείονα ἧς ἔχεις: γρηγόρει ἀκοίμητον πνεῦμα κεκτημένος. τοῖς κατ’ ἄνδρα κατὰ ὁμοήθειαν θεοῦ λάλει: πάντων τὰς νόσους βάσταζε ὡς τέλειος ἀθλητής. ὅπου πλείων κόπος, πολὺ κέρδος.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='1']/tei:div[@n='3']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "ὁμοήθεια θεοῦ는 하나님의 성품을 닮는다는 뜻으로 읽어 ‘하나님을 본받아’로 옮겼다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:da804115c3260a85f1c13d1a0933c9556a674abad026c3a8db8ba0d18023c261"
+            ],
+            "text": "끊임없는 기도에 전념하십시오. 지금 지닌 것보다 더 큰 분별력을 구하십시오. 잠들지 않는 영을 지니고 깨어 있으십시오. 하나님을 본받아 각 사람에게 말하십시오. 온전한 경기자처럼 모든 사람의 질병을 짊어지십시오. 수고가 더 큰 곳에는 큰 이익이 있습니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:b23001f2fe759502368a12f3d583cc0b7ce7909c82acb2f5f646a66e670fd210"
+        ],
+        "text": "끊임없는 기도에 전념하십시오. 지금 지닌 것보다 더 큰 분별력을 구하십시오. 잠들지 않는 영을 지니고 깨어 있으십시오. 하나님을 본받아 각 사람에게 말하십시오. 온전한 경기자처럼 모든 사람의 질병을 짊어지십시오. 수고가 더 큰 곳에는 큰 이익이 있습니다.",
+        "translation_revision_id": "sha256:908434f83f32152744e92eb689d3a4bc4cc9c5ab751ac933e3a61c58960bfe54",
+        "work_passage_id": "ignatius-polycarp:lake-1914:1.3"
+      },
+      "work_location": "1.3",
+      "work_passage_id": "ignatius-polycarp:lake-1914:1.3"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:6d1a420d6013d8ac034fbfd43f50d93d8fbbe5df6037f82f1fc20d222d1ceaa4",
+        "part_links": [
+          [
+            "sha256:36cece34b5e2e1ad1cf60441168a90e1fc7647359009ee2886fee62526cb5260"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:1a5b5fbb4c6578b9cfab8642d8031d59729fa3261b1f5fcc0e3c24a6cdd488ae"
+        ],
+        "translation_revision_ids": [
+          "sha256:d6229be45d044c72abe3d53cf71ec173886734a614166a9582d47f9c551dee9f"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 2.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-2-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-2-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:d5b8ec3ad64bbacfc0bf4f17031bf2c0da564459e0db374a212ff48b0813ee30",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:6d1a420d6013d8ac034fbfd43f50d93d8fbbe5df6037f82f1fc20d222d1ceaa4",
+            "source_revision_id": "sha256:1a5b5fbb4c6578b9cfab8642d8031d59729fa3261b1f5fcc0e3c24a6cdd488ae",
+            "translation_revision_id": "sha256:d6229be45d044c72abe3d53cf71ec173886734a614166a9582d47f9c551dee9f"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:2.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:dd89d99f4acb67dacf09cc9d6c06840af3edde7548f11f97dc170346055da56b",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:6d1a420d6013d8ac034fbfd43f50d93d8fbbe5df6037f82f1fc20d222d1ceaa4",
+            "source_revision_id": "sha256:1a5b5fbb4c6578b9cfab8642d8031d59729fa3261b1f5fcc0e3c24a6cdd488ae",
+            "translation_revision_id": "sha256:d6229be45d044c72abe3d53cf71ec173886734a614166a9582d47f9c551dee9f"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:2.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:d5b8ec3ad64bbacfc0bf4f17031bf2c0da564459e0db374a212ff48b0813ee30",
+          "sha256:dd89d99f4acb67dacf09cc9d6c06840af3edde7548f11f97dc170346055da56b"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-2-1",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "7e0ca38b2ca944e28ed003de5bb74f898dae3cd1beb42d6b519b533443c4b9c6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+            "printed_page": 268,
+            "segment_id": "sha256:36cece34b5e2e1ad1cf60441168a90e1fc7647359009ee2886fee62526cb5260",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Καλοὺς μαθητὰς ἐὰν φιλῇς, χάρις σοι οὐκ ἔστιν: μᾶλλον τοὺς λοιμοτέρους ἐν πραότητι ὑπότασσε. οὐ πᾶν τραῦμα τῇ αὐτῇ ἐμπλάστρῳ θεραπεύεται. τοὺς παροξυσμοὺς ἐμβροχαῖς παῦε.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:1a5b5fbb4c6578b9cfab8642d8031d59729fa3261b1f5fcc0e3c24a6cdd488ae",
+        "text": "Καλοὺς μαθητὰς ἐὰν φιλῇς, χάρις σοι οὐκ ἔστιν: μᾶλλον τοὺς λοιμοτέρους ἐν πραότητι ὑπότασσε. οὐ πᾶν τραῦμα τῇ αὐτῇ ἐμπλάστρῳ θεραπεύεται. τοὺς παροξυσμοὺς ἐμβροχαῖς παῦε.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.2.1",
+        "upstream_editorial_notes": [
+          {
+            "number": null,
+            "printed_page": 268,
+            "references": [
+              {
+                "corresp": "cts:urn:greekLit:tlg0031.tlg001:10.16",
+                "label": "Mt. 10, 16"
+              }
+            ],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "Mt. 10, 16",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='2']/tei:div[@n='1']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:16d3af9087b5a62f6dbb20f95c80ed962a73dc8328797a01cf6a50329aabe653",
+        "upstream_text": "Καλοὺς μαθητὰς ἐὰν φιλῇς, χάρις σοι οὐκ ἔστιν: μᾶλλον τοὺς λοιμοτέρους ἐν πραότητι ὑπότασσε. οὐ πᾶν τραῦμα τῇ αὐτῇ ἐμπλάστρῳ θεραπεύεται. τοὺς παροξυσμοὺς ἐμβροχαῖς παῦε.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='2']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "상처·고약·젖은 찜질은 사람마다 다른 돌봄이 필요하다는 권면에 쓰인 치료 비유이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:36cece34b5e2e1ad1cf60441168a90e1fc7647359009ee2886fee62526cb5260"
+            ],
+            "text": "훌륭한 제자들만 사랑한다면 당신에게 무슨 은혜가 있겠습니까? 오히려 더 까다로운 이들을 온유함으로 이끄십시오. 모든 상처가 같은 고약으로 낫지는 않습니다. 열이 달아오르면 젖은 찜질로 가라앉히십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:1a5b5fbb4c6578b9cfab8642d8031d59729fa3261b1f5fcc0e3c24a6cdd488ae"
+        ],
+        "text": "훌륭한 제자들만 사랑한다면 당신에게 무슨 은혜가 있겠습니까? 오히려 더 까다로운 이들을 온유함으로 이끄십시오. 모든 상처가 같은 고약으로 낫지는 않습니다. 열이 달아오르면 젖은 찜질로 가라앉히십시오.",
+        "translation_revision_id": "sha256:d6229be45d044c72abe3d53cf71ec173886734a614166a9582d47f9c551dee9f",
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.1"
+      },
+      "work_location": "2.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:2.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:9490a0080b5f1acb25b8f7502bd797174843909e6a0aa0e0a81a4c375b09d0f5",
+        "part_links": [
+          [
+            "sha256:dc506ea69751754abe10650d9a836185ade348cc104778115bc75a84952fe1e4",
+            "sha256:4b629cdfb4a72c30acb848a508ab13a9f0e3c36a1d553d170c74ef73bc3b9788"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:035b394ac896edd08db7f31e4d16eb32dbfa2f81cfe1bfae8c0b234b903b4b7b"
+        ],
+        "translation_revision_ids": [
+          "sha256:2e113630d33e3f717a5f6545ca2af9d0db1eecbfa169dcf18578c0326e6caf2e"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+          "label": "마태복음 10:16",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 16,
+          "verse_end": null
+        }
+      ],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 2.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-2-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-2-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b97b5a9f4123a6eb2a4e77a3741175593d9ad4ae9630e1b2ca63b7d7a3e5f993",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:9490a0080b5f1acb25b8f7502bd797174843909e6a0aa0e0a81a4c375b09d0f5",
+            "source_revision_id": "sha256:035b394ac896edd08db7f31e4d16eb32dbfa2f81cfe1bfae8c0b234b903b4b7b",
+            "translation_revision_id": "sha256:2e113630d33e3f717a5f6545ca2af9d0db1eecbfa169dcf18578c0326e6caf2e"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:2.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:0e72102cea2d1a9f744d12240bd904fb43def20ca0c033be42a82a38b74d12d4",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:9490a0080b5f1acb25b8f7502bd797174843909e6a0aa0e0a81a4c375b09d0f5",
+            "source_revision_id": "sha256:035b394ac896edd08db7f31e4d16eb32dbfa2f81cfe1bfae8c0b234b903b4b7b",
+            "translation_revision_id": "sha256:2e113630d33e3f717a5f6545ca2af9d0db1eecbfa169dcf18578c0326e6caf2e"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:2.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:b97b5a9f4123a6eb2a4e77a3741175593d9ad4ae9630e1b2ca63b7d7a3e5f993",
+          "sha256:0e72102cea2d1a9f744d12240bd904fb43def20ca0c033be42a82a38b74d12d4"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-2-2",
+      "source": {
+        "applied_corrections": [
+          {
+            "edition_location": "2.2",
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "type": "split_merged_sections",
+            "upstream_location": "2.2"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "7e0ca38b2ca944e28ed003de5bb74f898dae3cd1beb42d6b519b533443c4b9c6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n273.jpg",
+            "printed_page": 268,
+            "segment_id": "sha256:dc506ea69751754abe10650d9a836185ade348cc104778115bc75a84952fe1e4",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "φρόνιμος γίνου ὡς ὁ ὄφις ἐν ἅπασιν καὶ ἀκέραιος εἰς ἀεὶ ὡς ἡ περιστερά. διὰ τοῦτο σαρκικὸς εἶ καὶ πνευματικός, ἵνα τὰ φαινόμενά σου εἰς πρόσωπον",
+            "transmission": "greek_text"
+          },
+          {
+            "image_sha256": "b2ca93b710221e33c8a72e305b637e493e1c66f7727fcceed0a149905d8c5417",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "printed_page": 270,
+            "segment_id": "sha256:4b629cdfb4a72c30acb848a508ab13a9f0e3c36a1d553d170c74ef73bc3b9788",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "κολακεύῃς: τὰ δὲ ἀόρατα αἴτει ἵνα σοι φανερωθῇ, ὅπως μηδενὸς λείπῃ καὶ παντὸς χαρίσματος περισσεύῃς.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:035b394ac896edd08db7f31e4d16eb32dbfa2f81cfe1bfae8c0b234b903b4b7b",
+        "text": "φρόνιμος γίνου ὡς ὁ ὄφις ἐν ἅπασιν καὶ ἀκέραιος εἰς ἀεὶ ὡς ἡ περιστερά. διὰ τοῦτο σαρκικὸς εἶ καὶ πνευματικός, ἵνα τὰ φαινόμενά σου εἰς πρόσωπον κολακεύῃς: τὰ δὲ ἀόρατα αἴτει ἵνα σοι φανερωθῇ, ὅπως μηδενὸς λείπῃ καὶ παντὸς χαρίσματος περισσεύῃς.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.2.2",
+        "upstream_editorial_notes": [
+          {
+            "number": "1",
+            "printed_page": 268,
+            "references": [],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "o( om. G, but the paralleliam sith h( peristera/ shoss that this is only an accident.",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='2']/tei:div[@n='2']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:edf2cfce16b5dba938582c00b33dd7e3463b07dfdaaa44cd4d78592831da91de",
+        "upstream_text": "φρόνιμος γίνου ὡς ὁ ὄφις ἐν ἅπασιν καὶ ἀκέραιος εἰς ἀεὶ ὡς ἡ περιστερά. διὰ τοῦτο σαρκικὸς εἶ καὶ πνευματικός, ἵνα τὰ φαινόμενά σου εἰς πρόσωπον κολακεύῃς: τὰ δὲ ἀόρατα αἴτει ἵνα σοι φανερωθῇ, ὅπως μηδενὸς λείπῃ καὶ παντὸς χαρίσματος περισσεύῃς, 3, ὁ καιρὸς ἀπαιτεῖ σε, ὡς κυβερνῆται ἀνέμους καὶ ὡς χειμαζόμενος λιμένα, εἰς τὸ θεοῦ ἐπιτυχεῖν. νῆφε, ὡς θεοῦ ἀθλητής: τὸ θέμα ἀφθαρσία καὶ ζωὴ αἰώνιος, περὶ ἧς καὶ σὺ πέπεισαι. κατὰ πάντα σου ἀντίψυχον ἐγὼ καὶ τὰ δεσμά μου, ἃ ἠγάπησας.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='2']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "κολακεύω는 이 문맥에서 눈앞의 것을 ‘부드럽게 다루다’로 옮겼다. 몸의 돌봄과 영적 분별을 함께 권하는 표현이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:dc506ea69751754abe10650d9a836185ade348cc104778115bc75a84952fe1e4",
+              "sha256:4b629cdfb4a72c30acb848a508ab13a9f0e3c36a1d553d170c74ef73bc3b9788"
+            ],
+            "text": "모든 일에서 뱀처럼 지혜롭고 언제나 비둘기처럼 순수하십시오. 당신이 육적인 동시에 영적인 까닭은 눈앞에 보이는 것들을 부드럽게 다루기 위해서입니다. 보이지 않는 것들은 당신에게 드러나도록 구하십시오. 아무것도 부족하지 않고 모든 은사가 넘치도록 말입니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:035b394ac896edd08db7f31e4d16eb32dbfa2f81cfe1bfae8c0b234b903b4b7b"
+        ],
+        "text": "모든 일에서 뱀처럼 지혜롭고 언제나 비둘기처럼 순수하십시오. 당신이 육적인 동시에 영적인 까닭은 눈앞에 보이는 것들을 부드럽게 다루기 위해서입니다. 보이지 않는 것들은 당신에게 드러나도록 구하십시오. 아무것도 부족하지 않고 모든 은사가 넘치도록 말입니다.",
+        "translation_revision_id": "sha256:2e113630d33e3f717a5f6545ca2af9d0db1eecbfa169dcf18578c0326e6caf2e",
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.2"
+      },
+      "work_location": "2.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:2.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:9362fd7a37691ab37d7935de5307903dff570cfcfe3e2a3b9c6439b620d92138",
+        "part_links": [
+          [
+            "sha256:74156fa67607e420d1a76e2f009e05731a8d1ae640843bd085828260b2010a40"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:c5252a6b73c5d56de51451658cb9b8300d3602a3697f4dc7b057597529ade610"
+        ],
+        "translation_revision_ids": [
+          "sha256:a2fae9d15b50538bb90d84d5f3fbff3a4aa9edfd70e496cff589bcdcfea7a5d6"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.3"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 2.3, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-2-3",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-2-3",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:6ed2bdd58fd06e70f900f299646cb415df6d477e265372ab8c439e3e79e72a49",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:9362fd7a37691ab37d7935de5307903dff570cfcfe3e2a3b9c6439b620d92138",
+            "source_revision_id": "sha256:c5252a6b73c5d56de51451658cb9b8300d3602a3697f4dc7b057597529ade610",
+            "translation_revision_id": "sha256:a2fae9d15b50538bb90d84d5f3fbff3a4aa9edfd70e496cff589bcdcfea7a5d6"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:2.3"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:61344d0ac437f93b683ee2268b6f0af90e3df4353fd82f918bcf1b97c6881cb6",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:9362fd7a37691ab37d7935de5307903dff570cfcfe3e2a3b9c6439b620d92138",
+            "source_revision_id": "sha256:c5252a6b73c5d56de51451658cb9b8300d3602a3697f4dc7b057597529ade610",
+            "translation_revision_id": "sha256:a2fae9d15b50538bb90d84d5f3fbff3a4aa9edfd70e496cff589bcdcfea7a5d6"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:2.3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:6ed2bdd58fd06e70f900f299646cb415df6d477e265372ab8c439e3e79e72a49",
+          "sha256:61344d0ac437f93b683ee2268b6f0af90e3df4353fd82f918bcf1b97c6881cb6"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-2-3",
+      "source": {
+        "applied_corrections": [
+          {
+            "edition_location": "2.3",
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "type": "split_merged_sections",
+            "upstream_location": "2.2"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "b2ca93b710221e33c8a72e305b637e493e1c66f7727fcceed0a149905d8c5417",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "printed_page": 270,
+            "segment_id": "sha256:74156fa67607e420d1a76e2f009e05731a8d1ae640843bd085828260b2010a40",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "ὁ καιρὸς ἀπαιτεῖ σε, ὡς κυβερνῆται ἀνέμους καὶ ὡς χειμαζόμενος λιμένα, εἰς τὸ θεοῦ ἐπιτυχεῖν. νῆφε, ὡς θεοῦ ἀθλητής: τὸ θέμα ἀφθαρσία καὶ ζωὴ αἰώνιος, περὶ ἧς καὶ σὺ πέπεισαι. κατὰ πάντα σου ἀντίψυχον ἐγὼ καὶ τὰ δεσμά μου, ἃ ἠγάπησας.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:c5252a6b73c5d56de51451658cb9b8300d3602a3697f4dc7b057597529ade610",
+        "text": "ὁ καιρὸς ἀπαιτεῖ σε, ὡς κυβερνῆται ἀνέμους καὶ ὡς χειμαζόμενος λιμένα, εἰς τὸ θεοῦ ἐπιτυχεῖν. νῆφε, ὡς θεοῦ ἀθλητής: τὸ θέμα ἀφθαρσία καὶ ζωὴ αἰώνιος, περὶ ἧς καὶ σὺ πέπεισαι. κατὰ πάντα σου ἀντίψυχον ἐγὼ καὶ τὰ δεσμά μου, ἃ ἠγάπησας.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.2.2",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:edf2cfce16b5dba938582c00b33dd7e3463b07dfdaaa44cd4d78592831da91de",
+        "upstream_text": "φρόνιμος γίνου ὡς ὁ ὄφις ἐν ἅπασιν καὶ ἀκέραιος εἰς ἀεὶ ὡς ἡ περιστερά. διὰ τοῦτο σαρκικὸς εἶ καὶ πνευματικός, ἵνα τὰ φαινόμενά σου εἰς πρόσωπον κολακεύῃς: τὰ δὲ ἀόρατα αἴτει ἵνα σοι φανερωθῇ, ὅπως μηδενὸς λείπῃ καὶ παντὸς χαρίσματος περισσεύῃς, 3, ὁ καιρὸς ἀπαιτεῖ σε, ὡς κυβερνῆται ἀνέμους καὶ ὡς χειμαζόμενος λιμένα, εἰς τὸ θεοῦ ἐπιτυχεῖν. νῆφε, ὡς θεοῦ ἀθλητής: τὸ θέμα ἀφθαρσία καὶ ζωὴ αἰώνιος, περὶ ἧς καὶ σὺ πέπεισαι. κατὰ πάντα σου ἀντίψυχον ἐγὼ καὶ τὰ δεσμά μου, ἃ ἠγάπησας.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='2']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "ἀντίψυχον은 상대를 위해 자기 생명을 내어놓는 헌신의 표현으로 옮겼다. 이 구절은 XML의 2.2에 합쳐져 있어 인쇄본의 절 구분을 따라 분리했다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:74156fa67607e420d1a76e2f009e05731a8d1ae640843bd085828260b2010a40"
+            ],
+            "text": "시대는 당신을 필요로 합니다. 항해자들이 바람을, 폭풍을 만난 이가 항구를 필요로 하듯이, 하나님께 이르기 위해 당신을 필요로 합니다. 하나님의 경기자로서 정신을 차리십시오. 상은 불멸과 영원한 생명이며, 당신도 이를 확신합니다. 나는 모든 면에서 당신을 위해 내 생명을 바치며, 당신이 사랑한 나의 결박도 함께 바칩니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:c5252a6b73c5d56de51451658cb9b8300d3602a3697f4dc7b057597529ade610"
+        ],
+        "text": "시대는 당신을 필요로 합니다. 항해자들이 바람을, 폭풍을 만난 이가 항구를 필요로 하듯이, 하나님께 이르기 위해 당신을 필요로 합니다. 하나님의 경기자로서 정신을 차리십시오. 상은 불멸과 영원한 생명이며, 당신도 이를 확신합니다. 나는 모든 면에서 당신을 위해 내 생명을 바치며, 당신이 사랑한 나의 결박도 함께 바칩니다.",
+        "translation_revision_id": "sha256:a2fae9d15b50538bb90d84d5f3fbff3a4aa9edfd70e496cff589bcdcfea7a5d6",
+        "work_passage_id": "ignatius-polycarp:lake-1914:2.3"
+      },
+      "work_location": "2.3",
+      "work_passage_id": "ignatius-polycarp:lake-1914:2.3"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:1a98149402764a622269fdf95cd2d6647f0941d06af5505aacca16d0791c6e08",
+        "part_links": [
+          [
+            "sha256:710b0dc592bcbe4b0ad4527c0d8e73b7670c48037b19eced64f0cd5a9bddc15d"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:9ff5c2c56508eff3d2c8897de2ba06dcae7e9c737291233c2efce036253a7ff2"
+        ],
+        "translation_revision_ids": [
+          "sha256:95d8a386b54891ff898fa6f93ec0d5e0671957e68a2215e30d5703a8f456ba4a"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:3.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 3.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-3-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-3-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:2c0971851e5854959c9ea2756b58bfddef433344cf11eb76b5b5df378296836f",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:1a98149402764a622269fdf95cd2d6647f0941d06af5505aacca16d0791c6e08",
+            "source_revision_id": "sha256:9ff5c2c56508eff3d2c8897de2ba06dcae7e9c737291233c2efce036253a7ff2",
+            "translation_revision_id": "sha256:95d8a386b54891ff898fa6f93ec0d5e0671957e68a2215e30d5703a8f456ba4a"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:3.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:6eb017054d2d8974e73a9bc2b9a89cedbca52a502e8310a6f099706a8d238aff",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:1a98149402764a622269fdf95cd2d6647f0941d06af5505aacca16d0791c6e08",
+            "source_revision_id": "sha256:9ff5c2c56508eff3d2c8897de2ba06dcae7e9c737291233c2efce036253a7ff2",
+            "translation_revision_id": "sha256:95d8a386b54891ff898fa6f93ec0d5e0671957e68a2215e30d5703a8f456ba4a"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:3.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:2c0971851e5854959c9ea2756b58bfddef433344cf11eb76b5b5df378296836f",
+          "sha256:6eb017054d2d8974e73a9bc2b9a89cedbca52a502e8310a6f099706a8d238aff"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-3-1",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "b2ca93b710221e33c8a72e305b637e493e1c66f7727fcceed0a149905d8c5417",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "printed_page": 270,
+            "segment_id": "sha256:710b0dc592bcbe4b0ad4527c0d8e73b7670c48037b19eced64f0cd5a9bddc15d",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Οἱ δοκοῦντες ἀξιόπιστοι εἶναι καὶ ἑτεροδιδασκαλοῦντες μή σε καταπλησσέτωσαν. στῆθι ἑδραῖος ὡς ἄκμων τυπτόμενος. μεγάλου ἐστιν ἀθλητοῦ τὸ δέρεσθαι καὶ νικᾶν. μάλιστα δὲ ἕνεκεν θεοῦ πάντα ὑπομένειν ἡμᾶς δεῖ, ἵνα καὶ αὐτὸς ἡμᾶς ὑπομείνῃ.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:9ff5c2c56508eff3d2c8897de2ba06dcae7e9c737291233c2efce036253a7ff2",
+        "text": "Οἱ δοκοῦντες ἀξιόπιστοι εἶναι καὶ ἑτεροδιδασκαλοῦντες μή σε καταπλησσέτωσαν. στῆθι ἑδραῖος ὡς ἄκμων τυπτόμενος. μεγάλου ἐστιν ἀθλητοῦ τὸ δέρεσθαι καὶ νικᾶν. μάλιστα δὲ ἕνεκεν θεοῦ πάντα ὑπομένειν ἡμᾶς δεῖ, ἵνα καὶ αὐτὸς ἡμᾶς ὑπομείνῃ.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.3.1",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:feb80dd052656ead8311c1844a5930bbb9406753d84e8a55a1f050487f73f16a",
+        "upstream_text": "Οἱ δοκοῦντες ἀξιόπιστοι εἶναι καὶ ἑτεροδιδασκαλοῦντες μή σε καταπλησσέτωσαν. στῆθι ἑδραῖος ὡς ἄκμων τυπτόμενος. μεγάλου ἐστιν ἀθλητοῦ τὸ δέρεσθαι καὶ νικᾶν. μάλιστα δὲ ἕνεκεν θεοῦ πάντα ὑπομένειν ἡμᾶς δεῖ, ἵνα καὶ αὐτὸς ἡμᾶς ὑπομείνῃ.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='3']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:3.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:710b0dc592bcbe4b0ad4527c0d8e73b7670c48037b19eced64f0cd5a9bddc15d"
+            ],
+            "text": "믿을 만해 보이면서 다른 가르침을 전하는 이들에게 위축되지 마십시오. 두드려 맞는 모루처럼 굳게 서십시오. 맞으면서도 이기는 것이 위대한 경기자의 몫입니다. 무엇보다 우리는 하나님을 위해 모든 것을 견뎌야 합니다. 그분도 우리를 견뎌 주시도록 말입니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:9ff5c2c56508eff3d2c8897de2ba06dcae7e9c737291233c2efce036253a7ff2"
+        ],
+        "text": "믿을 만해 보이면서 다른 가르침을 전하는 이들에게 위축되지 마십시오. 두드려 맞는 모루처럼 굳게 서십시오. 맞으면서도 이기는 것이 위대한 경기자의 몫입니다. 무엇보다 우리는 하나님을 위해 모든 것을 견뎌야 합니다. 그분도 우리를 견뎌 주시도록 말입니다.",
+        "translation_revision_id": "sha256:95d8a386b54891ff898fa6f93ec0d5e0671957e68a2215e30d5703a8f456ba4a",
+        "work_passage_id": "ignatius-polycarp:lake-1914:3.1"
+      },
+      "work_location": "3.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:3.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:5fc0724fe98bc79a3bc188fa251d48f808bbe851564a78b7571531dfccf8e889",
+        "part_links": [
+          [
+            "sha256:24d0d845378645179a1e12f7a2122bbc0b8509871d0da90ee992a598b08e7e34"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:f972488170890dd37ab453ae598b6052a3cefed57884443505364e4e029d37c4"
+        ],
+        "translation_revision_ids": [
+          "sha256:3de352440c69900002613a365e4ee91a308f088e45bd1b6260d50142269450d8"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:3.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 3.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-3-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-3-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:11bc11694df96e140741a6f38a38cabfcfa94865e457175d0e51025691c744d2",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:5fc0724fe98bc79a3bc188fa251d48f808bbe851564a78b7571531dfccf8e889",
+            "source_revision_id": "sha256:f972488170890dd37ab453ae598b6052a3cefed57884443505364e4e029d37c4",
+            "translation_revision_id": "sha256:3de352440c69900002613a365e4ee91a308f088e45bd1b6260d50142269450d8"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:3.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:bbe0490f5171d8809f09c209d519edfdc9eff9dbfe1b0118cff0e1f917e913d1",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:5fc0724fe98bc79a3bc188fa251d48f808bbe851564a78b7571531dfccf8e889",
+            "source_revision_id": "sha256:f972488170890dd37ab453ae598b6052a3cefed57884443505364e4e029d37c4",
+            "translation_revision_id": "sha256:3de352440c69900002613a365e4ee91a308f088e45bd1b6260d50142269450d8"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:3.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:11bc11694df96e140741a6f38a38cabfcfa94865e457175d0e51025691c744d2",
+          "sha256:bbe0490f5171d8809f09c209d519edfdc9eff9dbfe1b0118cff0e1f917e913d1"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-3-2",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "δι’",
+            "before": "δἰ",
+            "count": 3,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "location": "3.2",
+            "patch_id": "ignatius-polycarp-001",
+            "printed_page": 270,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "b2ca93b710221e33c8a72e305b637e493e1c66f7727fcceed0a149905d8c5417",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "printed_page": 270,
+            "segment_id": "sha256:24d0d845378645179a1e12f7a2122bbc0b8509871d0da90ee992a598b08e7e34",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "πλέον σπουδαῖος γίνου οὗ εἶ. τοὺς καιροὺς καταμάνθανε. τὸν ὑπὲρ καιρὸν προσδόκα, τὸν ἄχρονον, τὸν ἀόρατον, τὸν δι’ ἡμᾶς ὁρατόν, τὸν ἀψηλάφητον, τὸν ἀπαθῆ, τὸν δι’ ἡμᾶς παθητόν, τὸν κατὰ πάντα τρόπον δι’ ἡμᾶς ὑπομείναντα.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:f972488170890dd37ab453ae598b6052a3cefed57884443505364e4e029d37c4",
+        "text": "πλέον σπουδαῖος γίνου οὗ εἶ. τοὺς καιροὺς καταμάνθανε. τὸν ὑπὲρ καιρὸν προσδόκα, τὸν ἄχρονον, τὸν ἀόρατον, τὸν δι’ ἡμᾶς ὁρατόν, τὸν ἀψηλάφητον, τὸν ἀπαθῆ, τὸν δι’ ἡμᾶς παθητόν, τὸν κατὰ πάντα τρόπον δι’ ἡμᾶς ὑπομείναντα.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.3.2",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:4d3e4851e1f7ff82c3898ba85319708d49ff369effb619e9e3e6a73ae723e80a",
+        "upstream_text": "πλέον σπουδαῖος γίνου οὗ εἶ. τοὺς καιροὺς καταμάνθανε. τὸν ὑπὲρ καιρὸν προσδόκα, τὸν ἄχρονον, τὸν ἀόρατον, τὸν δἰ ἡμᾶς ὁρατόν, τὸν ἀψηλάφητον, τὸν ἀπαθῆ, τὸν δἰ ἡμᾶς παθητόν, τὸν κατὰ πάντα τρόπον δἰ ἡμᾶς ὑπομείναντα.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='3']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:3.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "시간을 초월함과 역사 속에 나타남, 고난을 초월함과 실제로 고난받음의 대조를 그리스도에 관한 표현으로 읽었다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:24d0d845378645179a1e12f7a2122bbc0b8509871d0da90ee992a598b08e7e34"
+            ],
+            "text": "지금보다 더 열심을 내십시오. 때를 분별하십시오. 때를 초월하신 분, 시간에 매이지 않는 분을 기다리십시오. 보이지 않으시지만 우리를 위해 보이게 되신 분, 만질 수 없고 고난을 받지 않으시지만 우리를 위해 고난을 받게 되신 분, 우리를 위해 온갖 방식으로 견디신 분을 기다리십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:f972488170890dd37ab453ae598b6052a3cefed57884443505364e4e029d37c4"
+        ],
+        "text": "지금보다 더 열심을 내십시오. 때를 분별하십시오. 때를 초월하신 분, 시간에 매이지 않는 분을 기다리십시오. 보이지 않으시지만 우리를 위해 보이게 되신 분, 만질 수 없고 고난을 받지 않으시지만 우리를 위해 고난을 받게 되신 분, 우리를 위해 온갖 방식으로 견디신 분을 기다리십시오.",
+        "translation_revision_id": "sha256:3de352440c69900002613a365e4ee91a308f088e45bd1b6260d50142269450d8",
+        "work_passage_id": "ignatius-polycarp:lake-1914:3.2"
+      },
+      "work_location": "3.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:3.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:4396edb72b8b8105ea34683938fb00fdcf7bf152214c3870bf6fb1c10c01641a",
+        "part_links": [
+          [
+            "sha256:d1c90edea67ef9ec64793fefb2d157cfafbf328807c5e798e1835e7c5138eb9e",
+            "sha256:59d5873fd82368955ab69ed43dae863d10f42ff32051909b866e02c1bafbb460"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:ef1680877c5d2b853b62fe3d8167bc63f5f9391067020b689459f14cd565140a"
+        ],
+        "translation_revision_ids": [
+          "sha256:22c48970520839a4ba4c400f6d64e7efa63ce3cf111b370c1a9d1af49e052c1b"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 4.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-4-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-4-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:4edd2bf85e845f51e1700ef58b12c5596be0d9644d82882b67ab0fedefc88339",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:4396edb72b8b8105ea34683938fb00fdcf7bf152214c3870bf6fb1c10c01641a",
+            "source_revision_id": "sha256:ef1680877c5d2b853b62fe3d8167bc63f5f9391067020b689459f14cd565140a",
+            "translation_revision_id": "sha256:22c48970520839a4ba4c400f6d64e7efa63ce3cf111b370c1a9d1af49e052c1b"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:4.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:cca3c57206386738de5eeb5d10b426f2a3fca488907abe0791de04f925b47159",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:4396edb72b8b8105ea34683938fb00fdcf7bf152214c3870bf6fb1c10c01641a",
+            "source_revision_id": "sha256:ef1680877c5d2b853b62fe3d8167bc63f5f9391067020b689459f14cd565140a",
+            "translation_revision_id": "sha256:22c48970520839a4ba4c400f6d64e7efa63ce3cf111b370c1a9d1af49e052c1b"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:4.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:4edd2bf85e845f51e1700ef58b12c5596be0d9644d82882b67ab0fedefc88339",
+          "sha256:cca3c57206386738de5eeb5d10b426f2a3fca488907abe0791de04f925b47159"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-4-1",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "b2ca93b710221e33c8a72e305b637e493e1c66f7727fcceed0a149905d8c5417",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n275.jpg",
+            "printed_page": 270,
+            "segment_id": "sha256:d1c90edea67ef9ec64793fefb2d157cfafbf328807c5e798e1835e7c5138eb9e",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Χῆραι μὴ ἀμελείσθωσαν: μετὰ τὸν κύριον σὺ αὐτῶν φροντιστὴς ἔσο. μηδὲν ἄνευ γνώμης",
+            "transmission": "greek_text"
+          },
+          {
+            "image_sha256": "cfdeacd842bc351dc97dea41025451dd652237a363d2717358dd20542ce619b6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "printed_page": 272,
+            "segment_id": "sha256:59d5873fd82368955ab69ed43dae863d10f42ff32051909b866e02c1bafbb460",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "σου γινέσθω μηδὲ σὺ ἄνευ θεοῦ τι πρᾶσσε, ὅπερ οὐδὲ πράσσεις: εὐστάθει.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:ef1680877c5d2b853b62fe3d8167bc63f5f9391067020b689459f14cd565140a",
+        "text": "Χῆραι μὴ ἀμελείσθωσαν: μετὰ τὸν κύριον σὺ αὐτῶν φροντιστὴς ἔσο. μηδὲν ἄνευ γνώμης σου γινέσθω μηδὲ σὺ ἄνευ θεοῦ τι πρᾶσσε, ὅπερ οὐδὲ πράσσεις: εὐστάθει.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.4.1",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:90c7a389cf84032581647d24b223e5ae4c1ac5b8c17991e3e0f8e3a722a650fc",
+        "upstream_text": "Χῆραι μὴ ἀμελείσθωσαν: μετὰ τὸν κύριον σὺ αὐτῶν φροντιστὴς ἔσο. μηδὲν ἄνευ γνώμης σου γινέσθω μηδὲ σὺ ἄνευ θεοῦ τι πρᾶσσε, ὅπερ οὐδὲ πράσσεις: εὐστάθει.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='4']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:d1c90edea67ef9ec64793fefb2d157cfafbf328807c5e798e1835e7c5138eb9e",
+              "sha256:59d5873fd82368955ab69ed43dae863d10f42ff32051909b866e02c1bafbb460"
+            ],
+            "text": "과부들이 돌봄에서 빠지지 않게 하십시오. 주님 다음으로 당신이 그들을 돌보는 사람이 되십시오. 당신의 뜻 없이 아무 일도 일어나지 않게 하되, 당신도 하나님 없이 아무 일도 하지 마십시오. 당신은 이미 그렇게 하고 있습니다. 굳건히 서십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:ef1680877c5d2b853b62fe3d8167bc63f5f9391067020b689459f14cd565140a"
+        ],
+        "text": "과부들이 돌봄에서 빠지지 않게 하십시오. 주님 다음으로 당신이 그들을 돌보는 사람이 되십시오. 당신의 뜻 없이 아무 일도 일어나지 않게 하되, 당신도 하나님 없이 아무 일도 하지 마십시오. 당신은 이미 그렇게 하고 있습니다. 굳건히 서십시오.",
+        "translation_revision_id": "sha256:22c48970520839a4ba4c400f6d64e7efa63ce3cf111b370c1a9d1af49e052c1b",
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.1"
+      },
+      "work_location": "4.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:4.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:3db2d77707776f561f127098ba33285b62af47e4fedcc24b1e84229821a55882",
+        "part_links": [
+          [
+            "sha256:80c43c7e1bd914d370016f666a00db768d51b5da7aae461cabf580e3d9bbdfc2"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:590de30863a92ce2d491a0d9fa3312a4c09d6efa54601e19c2556f228481c97d"
+        ],
+        "translation_revision_ids": [
+          "sha256:24ca9057b14eecdee2af1ad5cd12c4ef1d8b81d81551881a533bfb08c993c9a7"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 4.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-4-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-4-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:332944056efa7404b7fa1d6d8db917ee41552a2481ae5f516b87088ba523bae7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:3db2d77707776f561f127098ba33285b62af47e4fedcc24b1e84229821a55882",
+            "source_revision_id": "sha256:590de30863a92ce2d491a0d9fa3312a4c09d6efa54601e19c2556f228481c97d",
+            "translation_revision_id": "sha256:24ca9057b14eecdee2af1ad5cd12c4ef1d8b81d81551881a533bfb08c993c9a7"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:4.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:3ef75ee40548e2007ca00b9ef4d66850e4f341369fdf018f4198b9f79ba13733",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:3db2d77707776f561f127098ba33285b62af47e4fedcc24b1e84229821a55882",
+            "source_revision_id": "sha256:590de30863a92ce2d491a0d9fa3312a4c09d6efa54601e19c2556f228481c97d",
+            "translation_revision_id": "sha256:24ca9057b14eecdee2af1ad5cd12c4ef1d8b81d81551881a533bfb08c993c9a7"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:4.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:332944056efa7404b7fa1d6d8db917ee41552a2481ae5f516b87088ba523bae7",
+          "sha256:3ef75ee40548e2007ca00b9ef4d66850e4f341369fdf018f4198b9f79ba13733"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-4-2",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "cfdeacd842bc351dc97dea41025451dd652237a363d2717358dd20542ce619b6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "printed_page": 272,
+            "segment_id": "sha256:80c43c7e1bd914d370016f666a00db768d51b5da7aae461cabf580e3d9bbdfc2",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "πυκνότερον συναγωγαὶ γινέσθωσαν: ἐξ ὀνόματος πάντας ζήτει.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:590de30863a92ce2d491a0d9fa3312a4c09d6efa54601e19c2556f228481c97d",
+        "text": "πυκνότερον συναγωγαὶ γινέσθωσαν: ἐξ ὀνόματος πάντας ζήτει.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.4.2",
+        "upstream_editorial_notes": [
+          {
+            "number": null,
+            "printed_page": 272,
+            "references": [
+              {
+                "corresp": "cts:urn:greekLit:tlg0031.tlg015:6.2",
+                "label": "1 Tim. 6, 2"
+              }
+            ],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "1 Tim. 6, 2",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='4']/tei:div[@n='2']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:8da8fcf0775f631b6cdeb8bd42437b9aaeb93e6606ca681350438774acb4a292",
+        "upstream_text": "πυκνότερον συναγωγαὶ γινέσθωσαν: ἐξ ὀνόματος πάντας ζήτει.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='4']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:80c43c7e1bd914d370016f666a00db768d51b5da7aae461cabf580e3d9bbdfc2"
+            ],
+            "text": "모임을 더 자주 가지십시오. 모든 사람을 이름으로 찾아 돌보십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:590de30863a92ce2d491a0d9fa3312a4c09d6efa54601e19c2556f228481c97d"
+        ],
+        "text": "모임을 더 자주 가지십시오. 모든 사람을 이름으로 찾아 돌보십시오.",
+        "translation_revision_id": "sha256:24ca9057b14eecdee2af1ad5cd12c4ef1d8b81d81551881a533bfb08c993c9a7",
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.2"
+      },
+      "work_location": "4.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:4.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:2c324c4505f4a9b64bfeeebb8d4787c2c6d00bce2b84759bbc73bb087153e46f",
+        "part_links": [
+          [
+            "sha256:a985bada4e71890e08e77a8893c5c76c124470281ff29c1b6d7475977ecfbd4c"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:ba7de7bb61b16c82bdf3056f323154f4b3e03049e8eefc9fa92743b23780a409"
+        ],
+        "translation_revision_ids": [
+          "sha256:cc01009c02ce99e07a365ebd4833afc16daa17373bdf6c645b568b9b482d70ad"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.3"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "1 Timothy",
+          "chapter": 6,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+          "label": "디모데전서 6:2",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 2,
+          "verse_end": null
+        }
+      ],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 4.3, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-4-3",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-4-3",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:c022cdf987cb95c4695734e0b7b37900defab764bf462b070abffbea1396d0e2",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:2c324c4505f4a9b64bfeeebb8d4787c2c6d00bce2b84759bbc73bb087153e46f",
+            "source_revision_id": "sha256:ba7de7bb61b16c82bdf3056f323154f4b3e03049e8eefc9fa92743b23780a409",
+            "translation_revision_id": "sha256:cc01009c02ce99e07a365ebd4833afc16daa17373bdf6c645b568b9b482d70ad"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:4.3"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:a7bfdfdf047be5cb433385477e784b89953c8bbaf3b152b2b50b0231c940d3fb",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:2c324c4505f4a9b64bfeeebb8d4787c2c6d00bce2b84759bbc73bb087153e46f",
+            "source_revision_id": "sha256:ba7de7bb61b16c82bdf3056f323154f4b3e03049e8eefc9fa92743b23780a409",
+            "translation_revision_id": "sha256:cc01009c02ce99e07a365ebd4833afc16daa17373bdf6c645b568b9b482d70ad"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:4.3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:c022cdf987cb95c4695734e0b7b37900defab764bf462b070abffbea1396d0e2",
+          "sha256:a7bfdfdf047be5cb433385477e784b89953c8bbaf3b152b2b50b0231c940d3fb"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-4-3",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "cfdeacd842bc351dc97dea41025451dd652237a363d2717358dd20542ce619b6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "printed_page": 272,
+            "segment_id": "sha256:a985bada4e71890e08e77a8893c5c76c124470281ff29c1b6d7475977ecfbd4c",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "δούλους καὶ δούλας μὴ ὑπερηφάνει: ἀλλὰ μηδὲ αὐτοὶ φυσιούσθωσαν, ἀλλ’ εἰς δόξαν θεοῦ πλέον δουλευέτωσαν, ἵνα κρείττονος ἐλευθερίας ἀπὸ θεοῦ τύχωσιν. μὴ ἐράτωσαν ἀπὸ τοῦ κοινοῦ ἐλευθεροῦσθαι, ἵνα μὴ δοῦλοι εὑρεθῶσιν ἐπιθυμίας.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:ba7de7bb61b16c82bdf3056f323154f4b3e03049e8eefc9fa92743b23780a409",
+        "text": "δούλους καὶ δούλας μὴ ὑπερηφάνει: ἀλλὰ μηδὲ αὐτοὶ φυσιούσθωσαν, ἀλλ’ εἰς δόξαν θεοῦ πλέον δουλευέτωσαν, ἵνα κρείττονος ἐλευθερίας ἀπὸ θεοῦ τύχωσιν. μὴ ἐράτωσαν ἀπὸ τοῦ κοινοῦ ἐλευθεροῦσθαι, ἵνα μὴ δοῦλοι εὑρεθῶσιν ἐπιθυμίας.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.4.3",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:565a08f0d45d58b98afc5f8a397c84d1127f2b572fc14f182c8c38494d1c3263",
+        "upstream_text": "δούλους καὶ δούλας μὴ ὑπερηφάνει: ἀλλὰ μηδὲ αὐτοὶ φυσιούσθωσαν, ἀλλ’ εἰς δόξαν θεοῦ πλέον δουλευέτωσαν, ἵνα κρείττονος ἐλευθερίας ἀπὸ θεοῦ τύχωσιν. μὴ ἐράτωσαν ἀπὸ τοῦ κοινοῦ ἐλευθεροῦσθαι, ἵνα μὴ δοῦλοι εὑρεθῶσιν ἐπιθυμίας.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='4']/tei:div[@n='3']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "τὸ κοινόν은 공동체가 함께 관리하는 재정으로 읽었다. 고대의 종을 해방하는 비용이 문맥에 포함된다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:a985bada4e71890e08e77a8893c5c76c124470281ff29c1b6d7475977ecfbd4c"
+            ],
+            "text": "남종과 여종을 업신여기지 마십시오. 그들도 우쭐대지 말고 하나님의 영광을 위해 더 힘써 섬기게 하십시오. 하나님께 더 좋은 자유를 얻도록 말입니다. 공동체의 재정으로 자유를 얻으려 하지 않게 하십시오. 욕망의 종이 되지 않도록 말입니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:ba7de7bb61b16c82bdf3056f323154f4b3e03049e8eefc9fa92743b23780a409"
+        ],
+        "text": "남종과 여종을 업신여기지 마십시오. 그들도 우쭐대지 말고 하나님의 영광을 위해 더 힘써 섬기게 하십시오. 하나님께 더 좋은 자유를 얻도록 말입니다. 공동체의 재정으로 자유를 얻으려 하지 않게 하십시오. 욕망의 종이 되지 않도록 말입니다.",
+        "translation_revision_id": "sha256:cc01009c02ce99e07a365ebd4833afc16daa17373bdf6c645b568b9b482d70ad",
+        "work_passage_id": "ignatius-polycarp:lake-1914:4.3"
+      },
+      "work_location": "4.3",
+      "work_passage_id": "ignatius-polycarp:lake-1914:4.3"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:2b616979d57509ff70fa5c4fb70bc2622ccac1499f02b5902c6c1db3f6c2dd76",
+        "part_links": [
+          [
+            "sha256:28461e0fe5a70922463c1347894f415fc176343b6654768278ba1d1d0820c690"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:7a2a80f27ff0f9975bc352a40ab1b696b7e547397e3ceb553f27643fef2a7739"
+        ],
+        "translation_revision_ids": [
+          "sha256:ea9fa1463f58c6fdffc2f288254120565ce5e90b01e318e480656cbe53dac6fd"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:5.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "Ephesians",
+          "chapter": 5,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+          "label": "에베소서 5:25",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 25,
+          "verse_end": null
+        },
+        {
+          "book": "Ephesians",
+          "chapter": 5,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+          "label": "에베소서 5:29",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 29,
+          "verse_end": null
+        }
+      ],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 5.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-5-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-5-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:ed6734b5025640d96b5aad15c199ab6083bc49ae4a2d8b4096abc22a1037c6e9",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:2b616979d57509ff70fa5c4fb70bc2622ccac1499f02b5902c6c1db3f6c2dd76",
+            "source_revision_id": "sha256:7a2a80f27ff0f9975bc352a40ab1b696b7e547397e3ceb553f27643fef2a7739",
+            "translation_revision_id": "sha256:ea9fa1463f58c6fdffc2f288254120565ce5e90b01e318e480656cbe53dac6fd"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:5.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:8328d17ee2a9933b8678de145d15de07a38a15eedde9d07b7ce11101c6df400a",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:2b616979d57509ff70fa5c4fb70bc2622ccac1499f02b5902c6c1db3f6c2dd76",
+            "source_revision_id": "sha256:7a2a80f27ff0f9975bc352a40ab1b696b7e547397e3ceb553f27643fef2a7739",
+            "translation_revision_id": "sha256:ea9fa1463f58c6fdffc2f288254120565ce5e90b01e318e480656cbe53dac6fd"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:5.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:ed6734b5025640d96b5aad15c199ab6083bc49ae4a2d8b4096abc22a1037c6e9",
+          "sha256:8328d17ee2a9933b8678de145d15de07a38a15eedde9d07b7ce11101c6df400a"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-5-1",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "Τὰς",
+            "before": "1, Τὰς",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "location": "5.1",
+            "patch_id": "ignatius-polycarp-002",
+            "printed_page": 272,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "cfdeacd842bc351dc97dea41025451dd652237a363d2717358dd20542ce619b6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "printed_page": 272,
+            "segment_id": "sha256:28461e0fe5a70922463c1347894f415fc176343b6654768278ba1d1d0820c690",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Τὰς κακοτεχνίας φεῦγε, μᾶλλον δὲ περὶ τούτων ὁμιλίαν ποιοῦ. ταῖς ἀδελφαῖς μου προσλάλει, ἀγαπᾶν τὸν κύριον καὶ τοῖς συμβίοις ἀρκεῖσθαι σαρκὶ καὶ πνεύματι. ὁμοίως καὶ τοῖς ἀδελφοῖς μου παράγγελλε ἐν ὀνόματι Ἰησοῦ Χριστοῦ, ἀγαπᾶν τὰς συμβίους ὡς ὁ κύριος τὴν ἐκκλησίαν.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:7a2a80f27ff0f9975bc352a40ab1b696b7e547397e3ceb553f27643fef2a7739",
+        "text": "Τὰς κακοτεχνίας φεῦγε, μᾶλλον δὲ περὶ τούτων ὁμιλίαν ποιοῦ. ταῖς ἀδελφαῖς μου προσλάλει, ἀγαπᾶν τὸν κύριον καὶ τοῖς συμβίοις ἀρκεῖσθαι σαρκὶ καὶ πνεύματι. ὁμοίως καὶ τοῖς ἀδελφοῖς μου παράγγελλε ἐν ὀνόματι Ἰησοῦ Χριστοῦ, ἀγαπᾶν τὰς συμβίους ὡς ὁ κύριος τὴν ἐκκλησίαν.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.5.1",
+        "upstream_editorial_notes": [
+          {
+            "number": null,
+            "printed_page": 272,
+            "references": [
+              {
+                "corresp": "cts:urn:greekLit:tlg0031.tlg010:3.15 cts:urn:greekLit:tlg0031.tlg010:3.20",
+                "label": "Eph.3 15. 20"
+              }
+            ],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "Eph.3 15. 20",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='5']/tei:div[@n='1']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:a2bb0edf8351db377faa5329e8522114593652e28be1893c98f9bd117a0d5e5a",
+        "upstream_text": "1, Τὰς κακοτεχνίας φεῦγε, μᾶλλον δὲ περὶ τούτων ὁμιλίαν ποιοῦ. ταῖς ἀδελφαῖς μου προσλάλει, ἀγαπᾶν τὸν κύριον καὶ τοῖς συμβίοις ἀρκεῖσθαι σαρκὶ καὶ πνεύματι. ὁμοίως καὶ τοῖς ἀδελφοῖς μου παράγγελλε ἐν ὀνόματι Ἰησοῦ Χριστοῦ, ἀγαπᾶν τὰς συμβίους ὡς ὁ κύριος τὴν ἐκκλησίαν.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='5']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:5.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:28461e0fe5a70922463c1347894f415fc176343b6654768278ba1d1d0820c690"
+            ],
+            "text": "그릇된 수법들을 피하고, 오히려 그런 일들에 관해 이야기하십시오. 나의 자매들에게 주님을 사랑하고 육과 영으로 자기 남편에게 만족하라고 말하십시오. 마찬가지로 나의 형제들에게도 예수 그리스도의 이름으로 명하십시오. 주님께서 교회를 사랑하시듯 자기 아내를 사랑하게 하십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:7a2a80f27ff0f9975bc352a40ab1b696b7e547397e3ceb553f27643fef2a7739"
+        ],
+        "text": "그릇된 수법들을 피하고, 오히려 그런 일들에 관해 이야기하십시오. 나의 자매들에게 주님을 사랑하고 육과 영으로 자기 남편에게 만족하라고 말하십시오. 마찬가지로 나의 형제들에게도 예수 그리스도의 이름으로 명하십시오. 주님께서 교회를 사랑하시듯 자기 아내를 사랑하게 하십시오.",
+        "translation_revision_id": "sha256:ea9fa1463f58c6fdffc2f288254120565ce5e90b01e318e480656cbe53dac6fd",
+        "work_passage_id": "ignatius-polycarp:lake-1914:5.1"
+      },
+      "work_location": "5.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:5.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:5e50f9cfee953c4972274125dc11aa1fdcd5dd10dc5d8610b1f9e8e137391223",
+        "part_links": [
+          [
+            "sha256:d2f8d9ab5da2a96f9e0eb7c681b2ea608c16d145f3388d1c7fa7505684b5fafc"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:7a7360fbbcb1b50b8d4efa718a7db5410f798b835e7dba6410860d39e4f7068e"
+        ],
+        "translation_revision_ids": [
+          "sha256:2c350e9c6ec478890b07dfb0e273448671805fb2e6d7f6adaa2942a696b96a1e"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:5.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 5.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-5-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-5-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b2e81952da37541c78f0db706404e3687233ff808c3646ac7c226665c13d4cb1",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:5e50f9cfee953c4972274125dc11aa1fdcd5dd10dc5d8610b1f9e8e137391223",
+            "source_revision_id": "sha256:7a7360fbbcb1b50b8d4efa718a7db5410f798b835e7dba6410860d39e4f7068e",
+            "translation_revision_id": "sha256:2c350e9c6ec478890b07dfb0e273448671805fb2e6d7f6adaa2942a696b96a1e"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:5.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:d3f550c2b3beba62ef38ea23b7823a3427b5f2b812e6ddd2dbdbffe1789a1bb2",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:5e50f9cfee953c4972274125dc11aa1fdcd5dd10dc5d8610b1f9e8e137391223",
+            "source_revision_id": "sha256:7a7360fbbcb1b50b8d4efa718a7db5410f798b835e7dba6410860d39e4f7068e",
+            "translation_revision_id": "sha256:2c350e9c6ec478890b07dfb0e273448671805fb2e6d7f6adaa2942a696b96a1e"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:5.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:b2e81952da37541c78f0db706404e3687233ff808c3646ac7c226665c13d4cb1",
+          "sha256:d3f550c2b3beba62ef38ea23b7823a3427b5f2b812e6ddd2dbdbffe1789a1bb2"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-5-2",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "εἴ τις",
+            "before": "εἵ τις",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "location": "5.2",
+            "patch_id": "ignatius-polycarp-003",
+            "printed_page": 272,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "cfdeacd842bc351dc97dea41025451dd652237a363d2717358dd20542ce619b6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "printed_page": 272,
+            "segment_id": "sha256:d2f8d9ab5da2a96f9e0eb7c681b2ea608c16d145f3388d1c7fa7505684b5fafc",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "εἴ τις δύναται ἐν ἁγνείᾳ μένειν εἰς τιμὴν τῆς σαρκὸς τοῦ κυρίου, ἐν ἀκαυχησίᾳ μενέτω. ἐὰν καυχήσηται, ἀπώλετο, καὶ ἐὰν γνωσθῇ πλέον τοῦ ἐπισκόπου, ἔφθαρται. πρέπει δὲ τοῖς γαμοῦσι καὶ ταῖς γαμουμέναις μετὰ γνώμης τοῦ ἐπισκόπου τὴν ἕνωσιν ποιεῖσθαι, ἵνα ὁ γάμος ᾖ κατὰ κύριον καὶ μὴ κατ’ ἐπιθυμίαν. πάντα εἰς τιμὴν θεοῦ γινέσθω.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:7a7360fbbcb1b50b8d4efa718a7db5410f798b835e7dba6410860d39e4f7068e",
+        "text": "εἴ τις δύναται ἐν ἁγνείᾳ μένειν εἰς τιμὴν τῆς σαρκὸς τοῦ κυρίου, ἐν ἀκαυχησίᾳ μενέτω. ἐὰν καυχήσηται, ἀπώλετο, καὶ ἐὰν γνωσθῇ πλέον τοῦ ἐπισκόπου, ἔφθαρται. πρέπει δὲ τοῖς γαμοῦσι καὶ ταῖς γαμουμέναις μετὰ γνώμης τοῦ ἐπισκόπου τὴν ἕνωσιν ποιεῖσθαι, ἵνα ὁ γάμος ᾖ κατὰ κύριον καὶ μὴ κατ’ ἐπιθυμίαν. πάντα εἰς τιμὴν θεοῦ γινέσθω.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.5.2",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:7ca324cbd633066c3e5a19282d15a0eaca9ce4810b374db57d629341fc08a78c",
+        "upstream_text": "εἵ τις δύναται ἐν ἁγνείᾳ μένειν εἰς τιμὴν τῆς σαρκὸς τοῦ κυρίου, ἐν ἀκαυχησίᾳ μενέτω. ἐὰν καυχήσηται, ἀπώλετο, καὶ ἐὰν γνωσθῇ πλέον τοῦ ἐπισκόπου, ἔφθαρται. πρέπει δὲ τοῖς γαμοῦσι καὶ ταῖς γαμουμέναις μετὰ γνώμης τοῦ ἐπισκόπου τὴν ἕνωσιν ποιεῖσθαι, ἵνα ὁ γάμος ᾖ κατὰ κύριον καὶ μὴ κατ’ ἐπιθυμίαν. πάντα εἰς τιμὴν θεοῦ γινέσθω.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='5']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:5.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "πλέον τοῦ ἐπισκόπου는 ‘감독을 넘어 알려지면’으로 잠정 번역했다. 알려지는 범위와 감독의 관계를 여러 방식으로 해석할 수 있다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:d2f8d9ab5da2a96f9e0eb7c681b2ea608c16d145f3388d1c7fa7505684b5fafc"
+            ],
+            "text": "주님의 육신을 존중하여 정결하게 지낼 수 있는 사람은 자랑 없이 그렇게 지내십시오. 자랑한다면 그는 잃어버린 사람이며, 감독을 넘어 알려지면 그는 타락한 사람입니다. 결혼하는 남녀는 감독의 뜻을 따라 결합하는 것이 마땅합니다. 그 결혼이 욕망을 따라 이루어지지 않고 주님을 따르도록 하십시오. 모든 일을 하나님의 영예를 위해 하십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:7a7360fbbcb1b50b8d4efa718a7db5410f798b835e7dba6410860d39e4f7068e"
+        ],
+        "text": "주님의 육신을 존중하여 정결하게 지낼 수 있는 사람은 자랑 없이 그렇게 지내십시오. 자랑한다면 그는 잃어버린 사람이며, 감독을 넘어 알려지면 그는 타락한 사람입니다. 결혼하는 남녀는 감독의 뜻을 따라 결합하는 것이 마땅합니다. 그 결혼이 욕망을 따라 이루어지지 않고 주님을 따르도록 하십시오. 모든 일을 하나님의 영예를 위해 하십시오.",
+        "translation_revision_id": "sha256:2c350e9c6ec478890b07dfb0e273448671805fb2e6d7f6adaa2942a696b96a1e",
+        "work_passage_id": "ignatius-polycarp:lake-1914:5.2"
+      },
+      "work_location": "5.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:5.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:81484b6bfeae3e1b8c924a1fd9868f8c20e90c49c128134526db371771db6395",
+        "part_links": [
+          [
+            "sha256:7d79f993d0550ce4702ce766270345046eeee1357cf76a8f521f56f41799dedd",
+            "sha256:ec7d793d8f4ec2b016c244dbe9bdf86e67b6230c34344a9d412907a2bff5c5a1"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:96fb571eaaac4f7b4ab95cea51b5caf5d599eda02c1041ef36d1bee847f85cd5"
+        ],
+        "translation_revision_ids": [
+          "sha256:e2f87087c6b75f92cd79c6e431f2f1b1672912b82dbdbbb959def13836dcab14"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:6.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 6.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-6-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-6-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:432f068a6dcf0ee04d8d6fc84a8d8d34752bab2de5766f4336d13820e2b982e6",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:81484b6bfeae3e1b8c924a1fd9868f8c20e90c49c128134526db371771db6395",
+            "source_revision_id": "sha256:96fb571eaaac4f7b4ab95cea51b5caf5d599eda02c1041ef36d1bee847f85cd5",
+            "translation_revision_id": "sha256:e2f87087c6b75f92cd79c6e431f2f1b1672912b82dbdbbb959def13836dcab14"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:6.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:ff87ed293fd1b065a9b8be0ef135b046a2ce5fe6fdf6221fbd0e430c2babc919",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:81484b6bfeae3e1b8c924a1fd9868f8c20e90c49c128134526db371771db6395",
+            "source_revision_id": "sha256:96fb571eaaac4f7b4ab95cea51b5caf5d599eda02c1041ef36d1bee847f85cd5",
+            "translation_revision_id": "sha256:e2f87087c6b75f92cd79c6e431f2f1b1672912b82dbdbbb959def13836dcab14"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:6.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:432f068a6dcf0ee04d8d6fc84a8d8d34752bab2de5766f4336d13820e2b982e6",
+          "sha256:ff87ed293fd1b065a9b8be0ef135b046a2ce5fe6fdf6221fbd0e430c2babc919"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-6-1",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "συγκοιμᾶσθε,",
+            "before": "συγκοιμᾶσθε.",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "location": "6.1",
+            "patch_id": "ignatius-polycarp-004",
+            "printed_page": 274,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "cfdeacd842bc351dc97dea41025451dd652237a363d2717358dd20542ce619b6",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n277.jpg",
+            "printed_page": 272,
+            "segment_id": "sha256:7d79f993d0550ce4702ce766270345046eeee1357cf76a8f521f56f41799dedd",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Τῷ ἐπισκόπῳ προσέχετε, ἵνα καὶ ὁ θεὸς ὑμῖν. ἀντίψυχον ἐγὼ τῶν ὑποτασσομένων τῷ ἐπισκόπῳ, πρεσβυτέροις, διακόνοις: καὶ μετ’",
+            "transmission": "greek_text"
+          },
+          {
+            "image_sha256": "fb275bb5905608bc682274fc214f12d3579a4b1b28636b0afa9151257084e9a3",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "printed_page": 274,
+            "segment_id": "sha256:ec7d793d8f4ec2b016c244dbe9bdf86e67b6230c34344a9d412907a2bff5c5a1",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "αὐτῶν μοι τὸ μέρος γένοιτο σχεῖν ἐν θεῷ. συγκοπιᾶτε ἀλλήλοις, συναθλεῖτε, συντρέχετε, συμπάσχετε, συγκοιμᾶσθε, συνεγείρεσθε ὡς θεοῦ οἰκονόμοι καὶ πάρεδροι καὶ ὑπηρέται.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:96fb571eaaac4f7b4ab95cea51b5caf5d599eda02c1041ef36d1bee847f85cd5",
+        "text": "Τῷ ἐπισκόπῳ προσέχετε, ἵνα καὶ ὁ θεὸς ὑμῖν. ἀντίψυχον ἐγὼ τῶν ὑποτασσομένων τῷ ἐπισκόπῳ, πρεσβυτέροις, διακόνοις: καὶ μετ’ αὐτῶν μοι τὸ μέρος γένοιτο σχεῖν ἐν θεῷ. συγκοπιᾶτε ἀλλήλοις, συναθλεῖτε, συντρέχετε, συμπάσχετε, συγκοιμᾶσθε, συνεγείρεσθε ὡς θεοῦ οἰκονόμοι καὶ πάρεδροι καὶ ὑπηρέται.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.6.1",
+        "upstream_editorial_notes": [
+          {
+            "number": null,
+            "printed_page": 274,
+            "references": [
+              {
+                "corresp": "cts:urn:greekLit:tlg0031.tlg016:2.1",
+                "label": "II Tim. 2, 1"
+              }
+            ],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "II Tim. 2, 1",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='6']/tei:div[@n='1']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:cf7613f293e095dfbc1c758c69238e6de57a35450329b58f62776feb7077dd54",
+        "upstream_text": "Τῷ ἐπισκόπῳ προσέχετε, ἵνα καὶ ὁ θεὸς ὑμῖν. ἀντίψυχον ἐγὼ τῶν ὑποτασσομένων τῷ ἐπισκόπῳ, πρεσβυτέροις, διακόνοις: καὶ μετ’ αὐτῶν μοι τὸ μέρος γένοιτο σχεῖν ἐν θεῷ. συγκοπιᾶτε ἀλλήλοις, συναθλεῖτε, συντρέχετε, συμπάσχετε, συγκοιμᾶσθε. συνεγείρεσθε ὡς θεοῦ οἰκονόμοι καὶ πάρεδροι καὶ ὑπηρέται.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='6']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:6.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "이 구절부터 복수형 명령이 이어져 ‘여러분’으로 옮겼다. 함께 수고하고 고난받는 행위를 여섯 개의 σύν- 합성동사로 나열한다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:7d79f993d0550ce4702ce766270345046eeee1357cf76a8f521f56f41799dedd",
+              "sha256:ec7d793d8f4ec2b016c244dbe9bdf86e67b6230c34344a9d412907a2bff5c5a1"
+            ],
+            "text": "여러분은 감독에게 주의를 기울이십시오. 그러면 하나님께서도 여러분에게 주의를 기울이실 것입니다. 나는 감독과 장로들과 집사들에게 복종하는 이들을 위해 내 생명을 바칩니다. 하나님 안에서 그들과 함께 나의 몫을 얻기를 바랍니다. 하나님의 청지기와 협력자와 일꾼으로서 서로 함께 수고하고, 함께 겨루고, 함께 달리고, 함께 고난을 겪고, 함께 잠들고, 함께 일어나십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:96fb571eaaac4f7b4ab95cea51b5caf5d599eda02c1041ef36d1bee847f85cd5"
+        ],
+        "text": "여러분은 감독에게 주의를 기울이십시오. 그러면 하나님께서도 여러분에게 주의를 기울이실 것입니다. 나는 감독과 장로들과 집사들에게 복종하는 이들을 위해 내 생명을 바칩니다. 하나님 안에서 그들과 함께 나의 몫을 얻기를 바랍니다. 하나님의 청지기와 협력자와 일꾼으로서 서로 함께 수고하고, 함께 겨루고, 함께 달리고, 함께 고난을 겪고, 함께 잠들고, 함께 일어나십시오.",
+        "translation_revision_id": "sha256:e2f87087c6b75f92cd79c6e431f2f1b1672912b82dbdbbb959def13836dcab14",
+        "work_passage_id": "ignatius-polycarp:lake-1914:6.1"
+      },
+      "work_location": "6.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:6.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:f7cf28e757f20ae94fd40a3ee50b466f238ab18710c642d98010eed0b2b86a79",
+        "part_links": [
+          [
+            "sha256:07402adb6021ea8fafd2d7bff2c73ae731a3324217a45b9c297239c9defae078"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:7a346f7de687fcb4a5915119055f25064813caf95b20c8942e84e87b9f8c35fb"
+        ],
+        "translation_revision_ids": [
+          "sha256:8b0606d07f07e5b59c8d140d2de45ff76c5ae646d7e7d749d432ae07723e3698"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:6.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "2 Timothy",
+          "chapter": 2,
+          "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+          "label": "디모데후서 2:4",
+          "reference_scope": "Lake의 인쇄면 여백 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 4,
+          "verse_end": null
+        }
+      ],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 6.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-6-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-6-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:6e63be09c14b328400b470409f2780f308ad0093de3d9a62932b6efe87754d84",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:f7cf28e757f20ae94fd40a3ee50b466f238ab18710c642d98010eed0b2b86a79",
+            "source_revision_id": "sha256:7a346f7de687fcb4a5915119055f25064813caf95b20c8942e84e87b9f8c35fb",
+            "translation_revision_id": "sha256:8b0606d07f07e5b59c8d140d2de45ff76c5ae646d7e7d749d432ae07723e3698"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:6.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:9895cd1bed516c8e5d42de531140eee584add8b22674f26a45bdcc1402992989",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:f7cf28e757f20ae94fd40a3ee50b466f238ab18710c642d98010eed0b2b86a79",
+            "source_revision_id": "sha256:7a346f7de687fcb4a5915119055f25064813caf95b20c8942e84e87b9f8c35fb",
+            "translation_revision_id": "sha256:8b0606d07f07e5b59c8d140d2de45ff76c5ae646d7e7d749d432ae07723e3698"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:6.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:6e63be09c14b328400b470409f2780f308ad0093de3d9a62932b6efe87754d84",
+          "sha256:9895cd1bed516c8e5d42de531140eee584add8b22674f26a45bdcc1402992989"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-6-2",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "ἀφ’ οὗ",
+            "before": "ἀφ̓ οὖ",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "location": "6.2",
+            "patch_id": "ignatius-polycarp-005",
+            "printed_page": 274,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          },
+          {
+            "after": "δόρυ,",
+            "before": "δόρυ.",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "location": "6.2",
+            "patch_id": "ignatius-polycarp-006",
+            "printed_page": 274,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          },
+          {
+            "after": "μεθ’",
+            "before": "μεθ̓",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "location": "6.2",
+            "patch_id": "ignatius-polycarp-007",
+            "printed_page": 274,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          },
+          {
+            "after": "ὑμῶν. ὀναίμην",
+            "before": "ὑμῶν, ὀναίμην",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "location": "6.2",
+            "patch_id": "ignatius-polycarp-008",
+            "printed_page": 274,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "fb275bb5905608bc682274fc214f12d3579a4b1b28636b0afa9151257084e9a3",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "printed_page": 274,
+            "segment_id": "sha256:07402adb6021ea8fafd2d7bff2c73ae731a3324217a45b9c297239c9defae078",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "ἀρέσκετε ᾧ στρατεύεσθε, ἀφ’ οὗ καὶ τὰ ὀψώνια κομίζεσθε: μή τις ὑμῶν δεσέρτωρ εὑρεθῇ. τὸ βάπτισμα ὑμῶν μενέτω ὡς ὅπλα, ἡ πίστις ὡς περικεφαλαία, ἡ ἀγάπη ὡς δόρυ, ἡ ὑπομονὴ ὡς πανοπλία. τὰ δεπόσιτα ὑμῶν τὰ ἔργα ὑμῶν, ἵνα τὰ ἄκκεπτα ὑμῶν ἄξια κομίσησθε. μακροθυμήσατε οὖν μετ’ ἀλλήλων ἐν πραότητι, ὡς ὁ θεὸς μεθ’ ὑμῶν. ὀναίμην ὑμῶν διὰ παντός.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:7a346f7de687fcb4a5915119055f25064813caf95b20c8942e84e87b9f8c35fb",
+        "text": "ἀρέσκετε ᾧ στρατεύεσθε, ἀφ’ οὗ καὶ τὰ ὀψώνια κομίζεσθε: μή τις ὑμῶν δεσέρτωρ εὑρεθῇ. τὸ βάπτισμα ὑμῶν μενέτω ὡς ὅπλα, ἡ πίστις ὡς περικεφαλαία, ἡ ἀγάπη ὡς δόρυ, ἡ ὑπομονὴ ὡς πανοπλία. τὰ δεπόσιτα ὑμῶν τὰ ἔργα ὑμῶν, ἵνα τὰ ἄκκεπτα ὑμῶν ἄξια κομίσησθε. μακροθυμήσατε οὖν μετ’ ἀλλήλων ἐν πραότητι, ὡς ὁ θεὸς μεθ’ ὑμῶν. ὀναίμην ὑμῶν διὰ παντός.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.6.2",
+        "upstream_editorial_notes": [
+          {
+            "number": "1",
+            "printed_page": 274,
+            "references": [],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "The use of the Latin sords is remarkable: dese/rtwr= desertor, depo/sita=deposita, and a)/kkepta=accepta.",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='6']/tei:div[@n='2']/tei:p[1]/tei:note[1]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:b2101e1d37ab9e386b35eba9add301065cab9667f6c9a630f0850159593e5432",
+        "upstream_text": "ἀρέσκετε ᾧ στρατεύεσθε, ἀφ̓ οὖ καὶ τὰ ὀψώνια κομίζεσθε: μή τις ὑμῶν δεσέρτωρ εὑρεθῇ. τὸ βάπτισμα ὑμῶν μενέτω ὡς ὅπλα, ἡ πίστις ὡς περικεφαλαία, ἡ ἀγάπη ὡς δόρυ. ἡ ὑπομονὴ ὡς πανοπλία. τὰ δεπόσιτα ὑμῶν τὰ ἔργα ὑμῶν, ἵνα τὰ ἄκκεπτα ὑμῶν ἄξια κομίσησθε. μακροθυμήσατε οὖν μετ’ ἀλλήλων ἐν πραότητι, ὡς ὁ θεὸς μεθ̓ ὑμῶν, ὀναίμην ὑμῶν διὰ παντός.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='6']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:6.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "δεσέρτωρ·δεπόσιτα·ἄκκεπτα는 라틴어에서 온 말로, 각각 탈영병·예치금·지급금으로 옮겼다. 군사와 회계의 비유를 함께 사용한다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:07402adb6021ea8fafd2d7bff2c73ae731a3324217a45b9c297239c9defae078"
+            ],
+            "text": "여러분이 군인으로 섬기는 분을 기쁘시게 하십시오. 여러분은 그분에게서 급료도 받습니다. 여러분 중에 탈영병이 생기지 않게 하십시오. 여러분의 세례는 무기처럼, 믿음은 투구처럼, 사랑은 창처럼, 인내는 온몸을 갖춘 갑옷처럼 지니십시오. 여러분의 행위가 여러분의 예치금입니다. 마땅한 지급금을 받도록 하십시오. 그러므로 하나님께서 여러분에게 하시듯 온유함으로 서로 오래 참으십시오. 언제나 여러분에게서 유익을 얻기를 바랍니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:7a346f7de687fcb4a5915119055f25064813caf95b20c8942e84e87b9f8c35fb"
+        ],
+        "text": "여러분이 군인으로 섬기는 분을 기쁘시게 하십시오. 여러분은 그분에게서 급료도 받습니다. 여러분 중에 탈영병이 생기지 않게 하십시오. 여러분의 세례는 무기처럼, 믿음은 투구처럼, 사랑은 창처럼, 인내는 온몸을 갖춘 갑옷처럼 지니십시오. 여러분의 행위가 여러분의 예치금입니다. 마땅한 지급금을 받도록 하십시오. 그러므로 하나님께서 여러분에게 하시듯 온유함으로 서로 오래 참으십시오. 언제나 여러분에게서 유익을 얻기를 바랍니다.",
+        "translation_revision_id": "sha256:8b0606d07f07e5b59c8d140d2de45ff76c5ae646d7e7d749d432ae07723e3698",
+        "work_passage_id": "ignatius-polycarp:lake-1914:6.2"
+      },
+      "work_location": "6.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:6.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:c04357b8acef096de3507d5d8f42c241d5290a74ca71a09651afa3a33f8117e8",
+        "part_links": [
+          [
+            "sha256:6890677397e241ab9f98695925a152dcad590c46642942f857661d8148458e9a"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:e00b49d53f8228b212314fc50f14b96babf9e8cff4f59112233c2bcc3fbc4025"
+        ],
+        "translation_revision_ids": [
+          "sha256:824478a1fcca76ab2b6065645ce4e0d3c9d8f106f5e24233e497f7d482b510bd"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 7.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-7-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-7-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:43f605c939587f03d870ee20d4f92e12979aeaaa640b8ffaa347c449e41914e8",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:c04357b8acef096de3507d5d8f42c241d5290a74ca71a09651afa3a33f8117e8",
+            "source_revision_id": "sha256:e00b49d53f8228b212314fc50f14b96babf9e8cff4f59112233c2bcc3fbc4025",
+            "translation_revision_id": "sha256:824478a1fcca76ab2b6065645ce4e0d3c9d8f106f5e24233e497f7d482b510bd"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:7.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b54d6e1af0dc0f3ca0a94a2cad84595b645d28268374d48d6aa7298bcec2501a",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:c04357b8acef096de3507d5d8f42c241d5290a74ca71a09651afa3a33f8117e8",
+            "source_revision_id": "sha256:e00b49d53f8228b212314fc50f14b96babf9e8cff4f59112233c2bcc3fbc4025",
+            "translation_revision_id": "sha256:824478a1fcca76ab2b6065645ce4e0d3c9d8f106f5e24233e497f7d482b510bd"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:7.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:43f605c939587f03d870ee20d4f92e12979aeaaa640b8ffaa347c449e41914e8",
+          "sha256:b54d6e1af0dc0f3ca0a94a2cad84595b645d28268374d48d6aa7298bcec2501a"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-7-1",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "fb275bb5905608bc682274fc214f12d3579a4b1b28636b0afa9151257084e9a3",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "printed_page": 274,
+            "segment_id": "sha256:6890677397e241ab9f98695925a152dcad590c46642942f857661d8148458e9a",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Ἐπειδὴ ἡ ἐκκλησία ἡ ἐν Ἀντιοχείᾳ τῆς Συρίας εἰρηνεύει, ὡς ἐδηλώθη μοι, διὰ τὴν προσευχὴν ὑμῶν, κἀγὼ εὐθυμότερος ἐγενόμην ἐν ἀμεριμνίᾳ θεοῦ, ἐάνπερ διὰ τοῦ παθεῖν θεοῦ ἐπιτύχω, εἰς τὸ εὑρεθῆναί με ἐν τῇ ἀναστάσει ὑμῶν μαθητήν.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:e00b49d53f8228b212314fc50f14b96babf9e8cff4f59112233c2bcc3fbc4025",
+        "text": "Ἐπειδὴ ἡ ἐκκλησία ἡ ἐν Ἀντιοχείᾳ τῆς Συρίας εἰρηνεύει, ὡς ἐδηλώθη μοι, διὰ τὴν προσευχὴν ὑμῶν, κἀγὼ εὐθυμότερος ἐγενόμην ἐν ἀμεριμνίᾳ θεοῦ, ἐάνπερ διὰ τοῦ παθεῖν θεοῦ ἐπιτύχω, εἰς τὸ εὑρεθῆναί με ἐν τῇ ἀναστάσει ὑμῶν μαθητήν.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.7.1",
+        "upstream_editorial_notes": [
+          {
+            "number": "2",
+            "printed_page": 274,
+            "references": [],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "dia\\ th\\n proseuxh/n G. dia\\ th=s proseuxh=s Lg.",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='7']/tei:div[@n='1']/tei:p[1]/tei:note[1]"
+          },
+          {
+            "number": "3",
+            "printed_page": 274,
+            "references": [],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "a)nasta/sei GL, ai)th/sei through your intercession gA.",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='7']/tei:div[@n='1']/tei:p[1]/tei:note[2]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:a799feb48b5b6e79efaedf2f60471363c1bf91dface68c2aafe1e816e7a4e46b",
+        "upstream_text": "Ἐπειδὴ ἡ ἐκκλησία ἡ ἐν Ἀντιοχείᾳ τῆς Συρίας εἰρηνεύει, ὡς ἐδηλώθη μοι, διὰ τὴν προσευχὴν ὑμῶν, κἀγὼ εὐθυμότερος ἐγενόμην ἐν ἀμεριμνίᾳ θεοῦ, ἐάνπερ διὰ τοῦ παθεῖν θεοῦ ἐπιτύχω, εἰς τὸ εὑρεθῆναί με ἐν τῇ ἀναστάσει ὑμῶν μαθητήν.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='7']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "채택 본문의 ἀνάστασις를 따라 ‘부활’로 옮겼다. Lake의 각주는 ‘간구’라는 대안 독법도 소개한다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:6890677397e241ab9f98695925a152dcad590c46642942f857661d8148458e9a"
+            ],
+            "text": "여러분의 기도 덕분에 시리아의 안티오키아 교회가 평안을 누린다는 소식을 들었습니다. 나도 하나님께서 주시는 평온 속에서 더욱 용기를 얻었습니다. 고난을 겪어 하나님께 이르고, 여러분이 부활할 때 제자로 드러날 수 있기만 하다면 말입니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:e00b49d53f8228b212314fc50f14b96babf9e8cff4f59112233c2bcc3fbc4025"
+        ],
+        "text": "여러분의 기도 덕분에 시리아의 안티오키아 교회가 평안을 누린다는 소식을 들었습니다. 나도 하나님께서 주시는 평온 속에서 더욱 용기를 얻었습니다. 고난을 겪어 하나님께 이르고, 여러분이 부활할 때 제자로 드러날 수 있기만 하다면 말입니다.",
+        "translation_revision_id": "sha256:824478a1fcca76ab2b6065645ce4e0d3c9d8f106f5e24233e497f7d482b510bd",
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.1"
+      },
+      "work_location": "7.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:7.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:84dc8322e8cbc1c94b28fbbce6f70bd138ed2259eb3c0d094f0fbfdca3e50085",
+        "part_links": [
+          [
+            "sha256:7967d20ad77c68460b59a6bc0bcc9dbe2c7a4c751f2ada2a6d7a085ddec10ecf"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:567e58952a07229f0166e6f4157d7c8138db8a35ff7c603e354d7852763011d1"
+        ],
+        "translation_revision_ids": [
+          "sha256:2b0e92e78ce47c8b34f7420a816f6f3e2c95be73ddaef67162a38cef73991afa"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 7.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-7-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-7-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:a45ab593a99276d2a77ad64e623a9fa2e98cb4b5b53dddd818bea28160800bff",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:84dc8322e8cbc1c94b28fbbce6f70bd138ed2259eb3c0d094f0fbfdca3e50085",
+            "source_revision_id": "sha256:567e58952a07229f0166e6f4157d7c8138db8a35ff7c603e354d7852763011d1",
+            "translation_revision_id": "sha256:2b0e92e78ce47c8b34f7420a816f6f3e2c95be73ddaef67162a38cef73991afa"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:7.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:079175b4c2e77850273ec572ec735347fe803f75785f7aab4442e51e5657f377",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:84dc8322e8cbc1c94b28fbbce6f70bd138ed2259eb3c0d094f0fbfdca3e50085",
+            "source_revision_id": "sha256:567e58952a07229f0166e6f4157d7c8138db8a35ff7c603e354d7852763011d1",
+            "translation_revision_id": "sha256:2b0e92e78ce47c8b34f7420a816f6f3e2c95be73ddaef67162a38cef73991afa"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:7.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:a45ab593a99276d2a77ad64e623a9fa2e98cb4b5b53dddd818bea28160800bff",
+          "sha256:079175b4c2e77850273ec572ec735347fe803f75785f7aab4442e51e5657f377"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-7-2",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "fb275bb5905608bc682274fc214f12d3579a4b1b28636b0afa9151257084e9a3",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "printed_page": 274,
+            "segment_id": "sha256:7967d20ad77c68460b59a6bc0bcc9dbe2c7a4c751f2ada2a6d7a085ddec10ecf",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "πρέπει, Πολύκαρπε θεομακαριστότατε, συμβούλιον ἀγαγεῖν θεοπρεπέστατον καὶ χειροτονῆσαί τινα, ὃν ἀγαπητὸν λίαν ἔχετε καὶ ἄοκνον, ὃς δυνήσεται θεοδρόμος καλεῖσθαι: τοῦτον καταξιῶσαι, ἵνα πορευθεὶς εἰς Συρίαν δοξάσῃ ὑμῶν τὴν ἄοκνον ἀγάπην εἰς δόξαν θεοῦ:",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:567e58952a07229f0166e6f4157d7c8138db8a35ff7c603e354d7852763011d1",
+        "text": "πρέπει, Πολύκαρπε θεομακαριστότατε, συμβούλιον ἀγαγεῖν θεοπρεπέστατον καὶ χειροτονῆσαί τινα, ὃν ἀγαπητὸν λίαν ἔχετε καὶ ἄοκνον, ὃς δυνήσεται θεοδρόμος καλεῖσθαι: τοῦτον καταξιῶσαι, ἵνα πορευθεὶς εἰς Συρίαν δοξάσῃ ὑμῶν τὴν ἄοκνον ἀγάπην εἰς δόξαν θεοῦ:",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.7.2",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:1e3031170ed6a7d0bd778d2c2c47c337bc4fdfe0e04819a9a8377378e64e8964",
+        "upstream_text": "πρέπει, Πολύκαρπε θεομακαριστότατε, συμβούλιον ἀγαγεῖν θεοπρεπέστατον καὶ χειροτονῆσαί τινα, ὃν ἀγαπητὸν λίαν ἔχετε καὶ ἄοκνον, ὃς δυνήσεται θεοδρόμος καλεῖσθαι: τοῦτον καταξιῶσαι, ἵνα πορευθεὶς εἰς Συρίαν δοξάσῃ ὑμῶν τὴν ἄοκνον ἀγάπην εἰς δόξαν θεοῦ:",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='7']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "θεοδρόμος는 하나님을 위해 달리는 사람이라는 뜻을 살려 ‘하나님의 심부름꾼’으로 옮겼다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:7967d20ad77c68460b59a6bc0bcc9dbe2c7a4c751f2ada2a6d7a085ddec10ecf"
+            ],
+            "text": "하나님께 크게 복받은 폴리카르포스여, 하나님께 가장 합당한 회의를 모으고, 여러분이 매우 사랑하며 부지런한 사람 한 명을 세우는 것이 마땅합니다. 그는 하나님의 심부름꾼이라 불릴 수 있을 것입니다. 그에게 시리아로 가는 영예를 주십시오. 하나님의 영광을 위해 여러분의 지칠 줄 모르는 사랑을 기리게 하십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:567e58952a07229f0166e6f4157d7c8138db8a35ff7c603e354d7852763011d1"
+        ],
+        "text": "하나님께 크게 복받은 폴리카르포스여, 하나님께 가장 합당한 회의를 모으고, 여러분이 매우 사랑하며 부지런한 사람 한 명을 세우는 것이 마땅합니다. 그는 하나님의 심부름꾼이라 불릴 수 있을 것입니다. 그에게 시리아로 가는 영예를 주십시오. 하나님의 영광을 위해 여러분의 지칠 줄 모르는 사랑을 기리게 하십시오.",
+        "translation_revision_id": "sha256:2b0e92e78ce47c8b34f7420a816f6f3e2c95be73ddaef67162a38cef73991afa",
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.2"
+      },
+      "work_location": "7.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:7.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:8db387b281fefe558d7314cd7f6e26d9559357e36d2e8c1f601ec9c36f1b76ca",
+        "part_links": [
+          [
+            "sha256:9b30c56546bd0a0a93e6d114979bbbb85a805480b5bcf0e9339ff6b72906da80",
+            "sha256:8de8fb990d72d448d73f9f48098e0606d9192862cf59798c9068f8dd4cd9d5ad"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:91f7386bec5d8b15a52be1bb9158195d0c55b8f66791c9f769c0599948a065b5"
+        ],
+        "translation_revision_ids": [
+          "sha256:a22af6d39b336c3ddd385118188849d4020e1f49b265a87b839393a9354fca72"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.3"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 7.3, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-7-3",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-7-3",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:065918487d35dab4d9e4bc665635bf1faa6d840c22bd0890554bff0673fe06bb",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:8db387b281fefe558d7314cd7f6e26d9559357e36d2e8c1f601ec9c36f1b76ca",
+            "source_revision_id": "sha256:91f7386bec5d8b15a52be1bb9158195d0c55b8f66791c9f769c0599948a065b5",
+            "translation_revision_id": "sha256:a22af6d39b336c3ddd385118188849d4020e1f49b265a87b839393a9354fca72"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:7.3"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:2b36ae84e0821c7a8d12754addbf3c29ca08ac7253e1ba36a01fa2a2efa36006",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:8db387b281fefe558d7314cd7f6e26d9559357e36d2e8c1f601ec9c36f1b76ca",
+            "source_revision_id": "sha256:91f7386bec5d8b15a52be1bb9158195d0c55b8f66791c9f769c0599948a065b5",
+            "translation_revision_id": "sha256:a22af6d39b336c3ddd385118188849d4020e1f49b265a87b839393a9354fca72"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:7.3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:065918487d35dab4d9e4bc665635bf1faa6d840c22bd0890554bff0673fe06bb",
+          "sha256:2b36ae84e0821c7a8d12754addbf3c29ca08ac7253e1ba36a01fa2a2efa36006"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-7-3",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "δι’",
+            "before": "δἰ",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "location": "7.3",
+            "patch_id": "ignatius-polycarp-009",
+            "printed_page": 276,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "fb275bb5905608bc682274fc214f12d3579a4b1b28636b0afa9151257084e9a3",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n279.jpg",
+            "printed_page": 274,
+            "segment_id": "sha256:9b30c56546bd0a0a93e6d114979bbbb85a805480b5bcf0e9339ff6b72906da80",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Χριστιανὸς",
+            "transmission": "greek_text"
+          },
+          {
+            "image_sha256": "a4ac5e25ed5b6c14f3da34c70644b66fbb3d12922781bad592a42d3d9079ec42",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "printed_page": 276,
+            "segment_id": "sha256:8de8fb990d72d448d73f9f48098e0606d9192862cf59798c9068f8dd4cd9d5ad",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "ἑαυτοῦ ἐξουσίαν οὐκ ἔχει, ἀλλὰ θεῷ σχολάζει. τοῦτο τὸ ἔργον θεοῦ ἐστιν καὶ ὑμῶν, ὅταν αὐτὸ ἀπαρτίσητε. πιστεύω γὰρ τῇ χάριτι, ὅτι ἕτοιμοί ἐστε εἰς εὐποιΐαν θεῷ ἀνήκουσαν. εἰδὼς ὑμῶν τὸ σύντονον τῆς ἀληθείας, δι’ ὀλίγων ὑμᾶς γραμμάτων παρεκάλεσα.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:91f7386bec5d8b15a52be1bb9158195d0c55b8f66791c9f769c0599948a065b5",
+        "text": "Χριστιανὸς ἑαυτοῦ ἐξουσίαν οὐκ ἔχει, ἀλλὰ θεῷ σχολάζει. τοῦτο τὸ ἔργον θεοῦ ἐστιν καὶ ὑμῶν, ὅταν αὐτὸ ἀπαρτίσητε. πιστεύω γὰρ τῇ χάριτι, ὅτι ἕτοιμοί ἐστε εἰς εὐποιΐαν θεῷ ἀνήκουσαν. εἰδὼς ὑμῶν τὸ σύντονον τῆς ἀληθείας, δι’ ὀλίγων ὑμᾶς γραμμάτων παρεκάλεσα.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.7.3",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:527474dad5f78d9e8d3165543c26925450b0a3ddf0b4fb78767c89fdd4e0afde",
+        "upstream_text": "Χριστιανὸς ἑαυτοῦ ἐξουσίαν οὐκ ἔχει, ἀλλὰ θεῷ σχολάζει. τοῦτο τὸ ἔργον θεοῦ ἐστιν καὶ ὑμῶν, ὅταν αὐτὸ ἀπαρτίσητε. πιστεύω γὰρ τῇ χάριτι, ὅτι ἕτοιμοί ἐστε εἰς εὐποιΐαν θεῷ ἀνήκουσαν. εἰδὼς ὑμῶν τὸ σύντονον τῆς ἀληθείας, δἰ ὀλίγων ὑμᾶς γραμμάτων παρεκάλεσα.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='7']/tei:div[@n='3']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:9b30c56546bd0a0a93e6d114979bbbb85a805480b5bcf0e9339ff6b72906da80",
+              "sha256:8de8fb990d72d448d73f9f48098e0606d9192862cf59798c9068f8dd4cd9d5ad"
+            ],
+            "text": "그리스도인은 자기 자신을 마음대로 할 권한을 지니지 않고 하나님께 전념합니다. 여러분이 이 일을 완수하면 그것은 하나님과 여러분의 일이 됩니다. 나는 은혜를 믿기에 여러분이 하나님께 합당한 선행을 할 준비가 되었다고 믿습니다. 여러분이 진리에 쏟는 열성을 알기에 짧은 편지로 권했습니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:91f7386bec5d8b15a52be1bb9158195d0c55b8f66791c9f769c0599948a065b5"
+        ],
+        "text": "그리스도인은 자기 자신을 마음대로 할 권한을 지니지 않고 하나님께 전념합니다. 여러분이 이 일을 완수하면 그것은 하나님과 여러분의 일이 됩니다. 나는 은혜를 믿기에 여러분이 하나님께 합당한 선행을 할 준비가 되었다고 믿습니다. 여러분이 진리에 쏟는 열성을 알기에 짧은 편지로 권했습니다.",
+        "translation_revision_id": "sha256:a22af6d39b336c3ddd385118188849d4020e1f49b265a87b839393a9354fca72",
+        "work_passage_id": "ignatius-polycarp:lake-1914:7.3"
+      },
+      "work_location": "7.3",
+      "work_passage_id": "ignatius-polycarp:lake-1914:7.3"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:179a3badcc7f833724652755f2072f5b67873c2e72c12b8e45eb8dd69d691805",
+        "part_links": [
+          [
+            "sha256:65c646a5ee75c4bcff4ea8ab3c74c7ce38b814b34c2b88883368e2407aa035f8"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:71548872df20cd72cfec9937b8767907362141fee084d1da6df16f6797f72f5b"
+        ],
+        "translation_revision_ids": [
+          "sha256:0f324a7247df615927dca8c9deddee97e3d5e616a565c0150ec00908a457dc3f"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.1"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 8.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-8-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-8-1",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b59a046dd76a8571ee38bcb2a82a87205d5f141cc729707624e6f955635b2a1a",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:179a3badcc7f833724652755f2072f5b67873c2e72c12b8e45eb8dd69d691805",
+            "source_revision_id": "sha256:71548872df20cd72cfec9937b8767907362141fee084d1da6df16f6797f72f5b",
+            "translation_revision_id": "sha256:0f324a7247df615927dca8c9deddee97e3d5e616a565c0150ec00908a457dc3f"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:8.1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:56a8a9b4c8c0f0843c281ef75433d60ad739228adf1dcbccdc3aeabf675d80de",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:179a3badcc7f833724652755f2072f5b67873c2e72c12b8e45eb8dd69d691805",
+            "source_revision_id": "sha256:71548872df20cd72cfec9937b8767907362141fee084d1da6df16f6797f72f5b",
+            "translation_revision_id": "sha256:0f324a7247df615927dca8c9deddee97e3d5e616a565c0150ec00908a457dc3f"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:8.1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:b59a046dd76a8571ee38bcb2a82a87205d5f141cc729707624e6f955635b2a1a",
+          "sha256:56a8a9b4c8c0f0843c281ef75433d60ad739228adf1dcbccdc3aeabf675d80de"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-8-1",
+      "source": {
+        "applied_corrections": [
+          {
+            "after": "(οἱ",
+            "before": "ʽοἱ",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "location": "8.1",
+            "patch_id": "ignatius-polycarp-010",
+            "printed_page": 276,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          },
+          {
+            "after": "πεμπομένων,",
+            "before": "πεμπομένων.",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "location": "8.1",
+            "patch_id": "ignatius-polycarp-011",
+            "printed_page": 276,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          },
+          {
+            "after": "ἔργῳ),",
+            "before": "ἔργῳ.ʼ",
+            "count": 1,
+            "evidence_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "location": "8.1",
+            "patch_id": "ignatius-polycarp-012",
+            "printed_page": 276,
+            "reason": "Lake 1914 인쇄면의 철자·기식·구두점 대조",
+            "reviewer": "Codex AI"
+          }
+        ],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "a4ac5e25ed5b6c14f3da34c70644b66fbb3d12922781bad592a42d3d9079ec42",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "printed_page": 276,
+            "segment_id": "sha256:65c646a5ee75c4bcff4ea8ab3c74c7ce38b814b34c2b88883368e2407aa035f8",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "Ἐπεὶ πάσαις ταῖς ἐκκλησίαις οὐκ ἠδυνήθην γράψαι διὰ τὸ ἐξαίφνης πλεῖν με ἀπὸ Τρωάδος εἰς Νεάπολιν, ὡς τὸ θέλημα προστάσσει, γράψεις ταῖς ἔμπροσθεν ἐκκλησίαις, ὡς θεοῦ γνώμην κεκτημένος, εἰς τὸ καὶ αὐτοὺς τὸ αὐτὸ ποιῆσαι, (οἱ μὲν δυνάμενοι πεζοὺς πέμψαι, οἱ δὲ ἐπιστολὰς διὰ τῶν ὑπό σου πεμπομένων, ἵνα δοξασθῆτε αἰωνίῳ ἔργῳ), ὡς ἄξιος ὤν.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:71548872df20cd72cfec9937b8767907362141fee084d1da6df16f6797f72f5b",
+        "text": "Ἐπεὶ πάσαις ταῖς ἐκκλησίαις οὐκ ἠδυνήθην γράψαι διὰ τὸ ἐξαίφνης πλεῖν με ἀπὸ Τρωάδος εἰς Νεάπολιν, ὡς τὸ θέλημα προστάσσει, γράψεις ταῖς ἔμπροσθεν ἐκκλησίαις, ὡς θεοῦ γνώμην κεκτημένος, εἰς τὸ καὶ αὐτοὺς τὸ αὐτὸ ποιῆσαι, (οἱ μὲν δυνάμενοι πεζοὺς πέμψαι, οἱ δὲ ἐπιστολὰς διὰ τῶν ὑπό σου πεμπομένων, ἵνα δοξασθῆτε αἰωνίῳ ἔργῳ), ὡς ἄξιος ὤν.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.8.1",
+        "upstream_editorial_notes": [
+          {
+            "number": "1",
+            "printed_page": 276,
+            "references": [],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "e)pei/ GA, e)pei\\ ou)=n Lg.",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='8']/tei:div[@n='1']/tei:p[1]/tei:note[1]"
+          },
+          {
+            "number": "2",
+            "printed_page": 276,
+            "references": [],
+            "status": "upstream_editorial_transcription_unreviewed",
+            "text": "The combination of singular and plural is very strange. L makes all singular, A all plural. The punctuation given is in the main Lightfoot's, but even so the sentence is unsatisfactory.",
+            "xml_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='8']/tei:div[@n='1']/tei:p[1]/tei:note[2]"
+          }
+        ],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:f566c6b52b492f2631c9cc5e6dccf5482f75881f22b3a7cd55434616582a8500",
+        "upstream_text": "Ἐπεὶ πάσαις ταῖς ἐκκλησίαις οὐκ ἠδυνήθην γράψαι διὰ τὸ ἐξαίφνης πλεῖν με ἀπὸ Τρωάδος εἰς Νεάπολιν, ὡς τὸ θέλημα προστάσσει, γράψεις ταῖς ἔμπροσθεν ἐκκλησίαις, ὡς θεοῦ γνώμην κεκτημένος, εἰς τὸ καὶ αὐτοὺς τὸ αὐτὸ ποιῆσαι, ʽοἱ μὲν δυνάμενοι πεζοὺς πέμψαι, οἱ δὲ ἐπιστολὰς διὰ τῶν ὑπό σου πεμπομένων. ἵνα δοξασθῆτε αἰωνίῳ ἔργῳ.ʼ ὡς ἄξιος ὤν.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='8']/tei:div[@n='1']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "단수형 ‘당신’과 복수형 ‘여러분’이 함께 쓰인다. 본문에서는 폴리카르포스에게 하는 부탁과 여러 교회에 관한 지시를 나누어 읽었다. ἔμπροσθεν은 ‘앞쪽의’로 옮겼다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:65c646a5ee75c4bcff4ea8ab3c74c7ce38b814b34c2b88883368e2407aa035f8"
+            ],
+            "text": "나는 그 뜻이 명하는 대로 갑자기 트로아스에서 네아폴리스로 배를 타고 가게 되어 모든 교회에 편지를 쓰지 못했습니다. 당신은 하나님의 뜻을 지닌 사람으로서 앞쪽의 교회들에 편지를 써서 그들도 같은 일을 하게 하십시오. 할 수 있는 교회들은 사람을 걸어서 보내고, 다른 교회들은 당신이 보내는 이들을 통해 편지를 보내게 하십시오. 그리하여 여러분이 영원한 일로 영광을 얻도록 하십시오. 당신은 이에 합당한 사람입니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:71548872df20cd72cfec9937b8767907362141fee084d1da6df16f6797f72f5b"
+        ],
+        "text": "나는 그 뜻이 명하는 대로 갑자기 트로아스에서 네아폴리스로 배를 타고 가게 되어 모든 교회에 편지를 쓰지 못했습니다. 당신은 하나님의 뜻을 지닌 사람으로서 앞쪽의 교회들에 편지를 써서 그들도 같은 일을 하게 하십시오. 할 수 있는 교회들은 사람을 걸어서 보내고, 다른 교회들은 당신이 보내는 이들을 통해 편지를 보내게 하십시오. 그리하여 여러분이 영원한 일로 영광을 얻도록 하십시오. 당신은 이에 합당한 사람입니다.",
+        "translation_revision_id": "sha256:0f324a7247df615927dca8c9deddee97e3d5e616a565c0150ec00908a457dc3f",
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.1"
+      },
+      "work_location": "8.1",
+      "work_passage_id": "ignatius-polycarp:lake-1914:8.1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:85f5a879e843bdb319ccdee5e145924df9684f27c1545792eb9438aebf8a64e6",
+        "part_links": [
+          [
+            "sha256:84bcf41716d8ed32812b8a7eb2d8cf703d96a4d011daccf1d48e39b077d47d0f"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:183fcaf372a2e16508dc1742dffae8fac5e8c4cad761e7d625f76ed76c8110bb"
+        ],
+        "translation_revision_ids": [
+          "sha256:49374113e3355fd3f22b089c13a0448334cfd2832674dbc35599839927017275"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.2"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 8.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-8-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-8-2",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:9a6b9df9f4e436a355c1389b3485251d9a83f07f0694cc8440d27a050bae5e36",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:85f5a879e843bdb319ccdee5e145924df9684f27c1545792eb9438aebf8a64e6",
+            "source_revision_id": "sha256:183fcaf372a2e16508dc1742dffae8fac5e8c4cad761e7d625f76ed76c8110bb",
+            "translation_revision_id": "sha256:49374113e3355fd3f22b089c13a0448334cfd2832674dbc35599839927017275"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:8.2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:f3e25fb3200e63fa9a35148d130b708b800509348db5628f0e04876de0a23e0b",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:85f5a879e843bdb319ccdee5e145924df9684f27c1545792eb9438aebf8a64e6",
+            "source_revision_id": "sha256:183fcaf372a2e16508dc1742dffae8fac5e8c4cad761e7d625f76ed76c8110bb",
+            "translation_revision_id": "sha256:49374113e3355fd3f22b089c13a0448334cfd2832674dbc35599839927017275"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:8.2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:9a6b9df9f4e436a355c1389b3485251d9a83f07f0694cc8440d27a050bae5e36",
+          "sha256:f3e25fb3200e63fa9a35148d130b708b800509348db5628f0e04876de0a23e0b"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-8-2",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "a4ac5e25ed5b6c14f3da34c70644b66fbb3d12922781bad592a42d3d9079ec42",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "printed_page": 276,
+            "segment_id": "sha256:84bcf41716d8ed32812b8a7eb2d8cf703d96a4d011daccf1d48e39b077d47d0f",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "ἀσπάζομαι πάντας ἐξ ὀνόματος καὶ τὴν τοῦ Ἐπιτρόπου σὺν ὅλῳ τῷ οἴκῳ αὐτῆς καὶ τῶν τέκνων. ἀσπάζομαι Ἄτταλον τὸν ἀγαπητόν μου. ἀσπάζομαι τὸν μέλλοντα καταξιοῦσθαι τοῦ εἰς Συρίαν πορεύεσθαι. ἔσται ἡ χάρις μετ’ αὐτοῦ διὰ παντὸς καὶ τοῦ πέμποντος αὐτὸν Πολυκάρπου.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:183fcaf372a2e16508dc1742dffae8fac5e8c4cad761e7d625f76ed76c8110bb",
+        "text": "ἀσπάζομαι πάντας ἐξ ὀνόματος καὶ τὴν τοῦ Ἐπιτρόπου σὺν ὅλῳ τῷ οἴκῳ αὐτῆς καὶ τῶν τέκνων. ἀσπάζομαι Ἄτταλον τὸν ἀγαπητόν μου. ἀσπάζομαι τὸν μέλλοντα καταξιοῦσθαι τοῦ εἰς Συρίαν πορεύεσθαι. ἔσται ἡ χάρις μετ’ αὐτοῦ διὰ παντὸς καὶ τοῦ πέμποντος αὐτὸν Πολυκάρπου.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.8.2",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:868fe3f7a8c4559394ab1442ad59edcf0c71c24c424f2b954cbbca49a6a7bb3e",
+        "upstream_text": "ἀσπάζομαι πάντας ἐξ ὀνόματος καὶ τὴν τοῦ Ἐπιτρόπου σὺν ὅλῳ τῷ οἴκῳ αὐτῆς καὶ τῶν τέκνων. ἀσπάζομαι Ἄτταλον τὸν ἀγαπητόν μου. ἀσπάζομαι τὸν μέλλοντα καταξιοῦσθαι τοῦ εἰς Συρίαν πορεύεσθαι. ἔσται ἡ χάρις μετ’ αὐτοῦ διὰ παντὸς καὶ τοῦ πέμποντος αὐτὸν Πολυκάρπου.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='8']/tei:div[@n='2']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "τὴν τοῦ Ἐπιτρόπου는 ‘에피트로포스의 아내’로 읽었다. 여성 단수 관사와 뒤따르는 가족 표현을 따른 번역이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:84bcf41716d8ed32812b8a7eb2d8cf703d96a4d011daccf1d48e39b077d47d0f"
+            ],
+            "text": "나는 모든 사람에게 이름을 들어 문안하며, 에피트로포스의 아내와 그녀의 온 집안과 자녀들에게 문안합니다. 나의 사랑하는 아탈로스에게 문안합니다. 시리아로 가는 영예를 얻게 될 사람에게 문안합니다. 은혜가 언제나 그와, 그를 보내는 폴리카르포스와 함께 있을 것입니다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:183fcaf372a2e16508dc1742dffae8fac5e8c4cad761e7d625f76ed76c8110bb"
+        ],
+        "text": "나는 모든 사람에게 이름을 들어 문안하며, 에피트로포스의 아내와 그녀의 온 집안과 자녀들에게 문안합니다. 나의 사랑하는 아탈로스에게 문안합니다. 시리아로 가는 영예를 얻게 될 사람에게 문안합니다. 은혜가 언제나 그와, 그를 보내는 폴리카르포스와 함께 있을 것입니다.",
+        "translation_revision_id": "sha256:49374113e3355fd3f22b089c13a0448334cfd2832674dbc35599839927017275",
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.2"
+      },
+      "work_location": "8.2",
+      "work_passage_id": "ignatius-polycarp:lake-1914:8.2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:a50b381c8ad7d2c7985ac1bb5772f24e3c48350e3a53b76ce545cc9291a1a2c2",
+        "part_links": [
+          [
+            "sha256:397fa945734821c4c19e25c9bcbd741b14c10adc2b89eaea0ce69f65a878c00f"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:0c12362e6e5b3fd4413ff7fdee8fe993107b43aa5c0143fbdec660c1f6391283"
+        ],
+        "translation_revision_ids": [
+          "sha256:a67a65c3d98504bea76655fa31d2685e492a5907ace987176e510bfe141d4257"
+        ],
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.3"
+      },
+      "annotation_rights_id": "corpus-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "이그나티우스, 『폴리카르포스에게 보낸 편지』 8.3, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.4, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-8-3",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.4/ignatius-polycarp/index.html#p-8-3",
+      "review_records": [
+        {
+          "observation": "해당 그리스어 인쇄면과 본문을 대조하고 본문·편집주·참조를 구별했다. 라틴어 대본을 사용한 구절은 없다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:aa567f8edcd2fb1229f3eb4f3807e9bb4711ea3e075f0538093029800dc244e7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:a50b381c8ad7d2c7985ac1bb5772f24e3c48350e3a53b76ce545cc9291a1a2c2",
+            "source_revision_id": "sha256:0c12362e6e5b3fd4413ff7fdee8fe993107b43aa5c0143fbdec660c1f6391283",
+            "translation_revision_id": "sha256:a67a65c3d98504bea76655fa31d2685e492a5907ace987176e510bfe141d4257"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:8.3"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:320a491008cb1f3cf7307515ed1b2826fb54869d4d8f99faf815f4ae174e1c40",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:a50b381c8ad7d2c7985ac1bb5772f24e3c48350e3a53b76ce545cc9291a1a2c2",
+            "source_revision_id": "sha256:0c12362e6e5b3fd4413ff7fdee8fe993107b43aa5c0143fbdec660c1f6391283",
+            "translation_revision_id": "sha256:a67a65c3d98504bea76655fa31d2685e492a5907ace987176e510bfe141d4257"
+          },
+          "work_passage_id": "ignatius-polycarp:lake-1914:8.3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:aa567f8edcd2fb1229f3eb4f3807e9bb4711ea3e075f0538093029800dc244e7",
+          "sha256:320a491008cb1f3cf7307515ed1b2826fb54869d4d8f99faf815f4ae174e1c40"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.4/ignatius-polycarp/index.html#p-8-3",
+      "source": {
+        "applied_corrections": [],
+        "edition_id": "lake-1914-vol1-ignatius-polycarp",
+        "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+        "human_review_status": "not_reviewed",
+        "original_work_language": "grc",
+        "recension_id": "seven-letter-middle",
+        "rights_id": "first1k-cc-by-sa-4.0",
+        "segments": [
+          {
+            "image_sha256": "a4ac5e25ed5b6c14f3da34c70644b66fbb3d12922781bad592a42d3d9079ec42",
+            "image_url": "https://archive.org/download/in.ernet.dli.2015.232411/page/n281.jpg",
+            "printed_page": 276,
+            "segment_id": "sha256:397fa945734821c4c19e25c9bcbd741b14c10adc2b89eaea0ce69f65a878c00f",
+            "source_kind": "edited_original_language_text",
+            "source_language": "grc",
+            "text": "ἐρρῶσθαι ὑμᾶς διὰ παντὸς ἐν θεῷ ἡμῶν Ἰησοῦ Χριστῷ εὔχομαι, ἐν ᾧ διαμείνητε ἐν ἑνότητι θεοῦ καὶ ἐπισκοπῇ. ἀσπάζομαι Ἄλκην, τὸ ποθητόν μοι ὄνομα. ἔρρωσθε ἐν κυρίῳ.",
+            "transmission": "greek_text"
+          }
+        ],
+        "source_kind": "edited_original_language_text",
+        "source_language": "grc",
+        "source_revision_id": "sha256:0c12362e6e5b3fd4413ff7fdee8fe993107b43aa5c0143fbdec660c1f6391283",
+        "text": "ἐρρῶσθαι ὑμᾶς διὰ παντὸς ἐν θεῷ ἡμῶν Ἰησοῦ Χριστῷ εὔχομαι, ἐν ᾧ διαμείνητε ἐν ἑνότητι θεοῦ καὶ ἐπισκοπῇ. ἀσπάζομαι Ἄλκην, τὸ ποθητόν μοι ὄνομα. ἔρρωσθε ἐν κυρίῳ.",
+        "typographic_policy": "인쇄 줄 끝 분철과 XML 공백을 결합하고 그리스어 중점은 콜론으로 유지. 외교적 전사본은 아님.",
+        "upstream_cts_urn": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.8.3",
+        "upstream_editorial_notes": [],
+        "upstream_file_sha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
+        "upstream_file_url": "https://github.com/OpenGreekAndLatin/First1KGreek/blob/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
+        "upstream_revision_id": "sha256:d9a99cb89ef61c21cf593b4c9c44593cb4c51159462c7c69207a7d56a8225d3f",
+        "upstream_text": "ἐρρῶσθαι ὑμᾶς διὰ παντὸς ἐν θεῷ ἡμῶν Ἰησοῦ Χριστῷ εὔχομαι, ἐν ᾧ διαμείνητε ἐν ἑνότητι θεοῦ καὶ ἐπισκοπῇ. ἀσπάζομαι Ἄλκην, τὸ ποθητόν μοι ὄνομα. ἔρρωσθε ἐν κυρίῳ.",
+        "upstream_text_status": "historical_input_with_known_errors_not_the_translation_base",
+        "upstream_xpath": "/tei:TEI/tei:text/tei:body/tei:div[@type='edition']/tei:div[@subtype='epistle'][@n='7']/tei:div[@n='8']/tei:div[@n='3']",
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:397fa945734821c4c19e25c9bcbd741b14c10adc2b89eaea0ce69f65a878c00f"
+            ],
+            "text": "여러분이 우리의 하나님이신 예수 그리스도 안에서 언제나 강건하기를 기도합니다. 그분 안에서 하나님의 일치와 감독의 돌봄 가운데 계속 머무르십시오. 내게 그 이름도 사랑스러운 알케에게 문안합니다. 주님 안에서 강건하십시오."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:0c12362e6e5b3fd4413ff7fdee8fe993107b43aa5c0143fbdec660c1f6391283"
+        ],
+        "text": "여러분이 우리의 하나님이신 예수 그리스도 안에서 언제나 강건하기를 기도합니다. 그분 안에서 하나님의 일치와 감독의 돌봄 가운데 계속 머무르십시오. 내게 그 이름도 사랑스러운 알케에게 문안합니다. 주님 안에서 강건하십시오.",
+        "translation_revision_id": "sha256:a67a65c3d98504bea76655fa31d2685e492a5907ace987176e510bfe141d4257",
+        "work_passage_id": "ignatius-polycarp:lake-1914:8.3"
+      },
+      "work_location": "8.3",
+      "work_passage_id": "ignatius-polycarp:lake-1914:8.3"
+    }
+  ],
+  "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/ignatius-polycarp/index.html",
+  "publication_status": "ai_translation_beta",
+  "release_id": "alpha-0.4",
+  "rights": {
+    "corpus-ko-cc-by-sa-4.0": {
+      "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+      "license": "CC-BY-SA-4.0",
+      "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "corpus-notes-cc-by-sa-4.0": {
+      "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "first1k-cc-by-sa-4.0": {
+      "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+      "license": "CC-BY-SA-4.0",
+      "scope": "First1KGreek에서 가공한 그리스어 자료",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "pilot-ko-cc-by-sa-4.0": {
+      "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+      "license": "CC-BY-SA-4.0",
+      "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "pilot-notes-cc-by-sa-4.0": {
+      "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  "schema_version": "patristics-library-0.1",
+  "scope": "서두와 1-8장, 일곱 서신 전승형의 채택 본문 전체",
+  "work": {
+    "aliases": [
+      "폴리카르포스에게 보낸 편지",
+      "Ign. Pol."
+    ],
+    "ambiguous_aliases": [],
+    "author": "이그나티우스",
+    "author_aliases": [
+      "이그나티우스",
+      "이그나티오",
+      "Ignatius of Antioch"
+    ],
+    "chapters": 8,
+    "id": "ignatius-polycarp",
+    "passages": 22,
+    "scope": "서두와 1-8장, 일곱 서신 전승형의 채택 본문 전체",
+    "title": "폴리카르포스에게 보낸 편지"
+  }
+}

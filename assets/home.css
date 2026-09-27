@@ -1,0 +1,102 @@
+.library-layout { max-width: 1240px; margin: auto; padding: 40px; display: grid; grid-template-columns: 192px minmax(0, 1fr); gap: 54px; align-items: start; }
+.library-sidebar { position: sticky; top: 28px; font-size: 14px; }
+.library-sidebar h2 { color: var(--muted); font-size: 12px; font-weight: 400; margin: 0 12px 14px; }
+.author-nav { display: flex; flex-direction: column; gap: 3px; }
+.author-nav a { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 9px 12px; border-radius: 3px; color: #45515a; min-height: 43px; }
+.author-nav a:hover { background: var(--wash); text-decoration: none; }
+.author-nav a[aria-current] { background: var(--selected); color: var(--blue); font-weight: 600; }
+.author-nav a[aria-current] .count { color: inherit; }
+.count { font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+main { min-width: 0; }
+.catalogue-header { display: flex; align-items: baseline; flex-wrap: wrap; gap: 16px; }
+.catalogue-header h1 { font-size: 30px; line-height: 1.4; letter-spacing: -.03em; }
+.catalogue-header p { font-size: 14px; color: var(--muted); }
+#catalogue-count { margin-left: auto; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+.search-section { margin: 24px 0 35px; }
+#search-form { display: flex; gap: 8px; }
+input, select, button { font: inherit; caret-color: var(--blue); }
+input, select { height: 44px; border: 1px solid #b9c3ca; border-radius: 3px; background: #fff; color: var(--ink); }
+.search-field { position: relative; flex: 1; min-width: 0; }
+.search-field svg { position: absolute; top: 13px; left: 13px; width: 18px; height: 18px; fill: none; stroke: var(--muted); stroke-width: 1.6; stroke-linecap: round; }
+input { width: 100%; padding: 9px 12px 9px 39px; font-size: 14px; }
+input::placeholder { color: var(--muted); opacity: 1; }
+select { width: 162px; padding: 7px 26px 7px 10px; font-size: 13px; text-overflow: ellipsis; }
+button { background: var(--blue); color: #fff; border: 0; border-radius: 3px; padding: 8px 19px; cursor: pointer; font-size: 14px; }
+button:hover { background: #16455f; }
+#search-status { color: var(--muted); font-size: 12px; margin-top: 7px; }
+.results { list-style: none; padding: 0; margin: 0; }
+.results li { border-bottom: 1px solid var(--line); padding: 20px 0; }
+.results h3 { font-size: 16px; }
+.results p { max-width: 75ch; margin-top: 8px; }
+.author-catalogue { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 36px 38px; }
+.author-section { min-width: 0; scroll-margin-top: 24px; }
+.author-ignatius { grid-column: 1 / -1; }
+.author-heading { border-bottom: 1px solid #b4c7d2; padding-bottom: 11px; display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+.author-heading h2 { font-size: 19px; color: #354a57; }
+.author-heading > span { font: 14px/1.5 Georgia, 'Times New Roman', serif; color: var(--muted); }
+.work-list { margin: 0; padding: 0; list-style: none; }
+.author-ignatius .work-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 38px; }
+.work-entry { padding: 17px 0 15px; border-bottom: 1px solid #edf0f2; min-width: 0; }
+.work-entry:last-child { border-bottom-color: transparent; }
+.work-entry h3 { font-size: 17px; line-height: 1.65; font-weight: 400; }
+.work-entry h3 a { display: inline-block; }
+.work-original { font: 12px/1.7 Georgia, 'Times New Roman', serif; color: #606f7a; letter-spacing: .025em; margin-top: 3px; overflow-wrap: anywhere; }
+.work-description { font-size: 13px; color: #505c65; margin-top: 9px; word-break: keep-all; }
+.work-extent { font-size: 12px; line-height: 1.7; color: var(--muted); margin-top: 6px; }
+.author-catalogue.is-filtered .author-section { grid-column: 1 / -1; }
+.reference-links { margin-top: 34px; padding-top: 24px; border-top: 1px solid var(--line); }
+.reference-links h2 { font-size: 14px; font-weight: 600; color: #465c69; }
+.reference-links ul { margin: 13px 0 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 14px 26px; }
+.reference-links a { display: block; font-size: 13px; }
+.reference-links span { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }
+.site-footer { margin-top: 34px; padding: 22px 0 4px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
+.site-footer p { line-height: 1.9; }
+.site-footer nav { display: flex; flex-wrap: wrap; gap: 8px 22px; margin-top: 10px; }
+.site-footer a { color: var(--muted); padding: 4px 0; }
+@media (max-width: 1000px) {
+  .library-layout { padding: 30px 28px; grid-template-columns: 168px minmax(0, 1fr); gap: 32px; }
+  .author-catalogue { gap: 30px; }
+  .author-ignatius .work-list { column-gap: 26px; }
+  .catalogue-header { gap: 10px; }
+  .catalogue-header p { font-size: 13px; }
+  .work-entry h3 { font-size: 16px; }
+  .author-heading { gap: 3px 12px; }
+  select { width: 125px; }
+}
+@media (max-width: 720px) {
+  html { scroll-padding-top: 18px; }
+  .library-layout { display: flex; flex-direction: column; gap: 25px; padding: 24px 20px; }
+  .library-sidebar { position: static; width: 100%; }
+  .author-nav { flex-direction: row; flex-wrap: wrap; gap: 4px 10px; }
+  .author-nav h2 { display: none; }
+  .author-nav a { font-size: 13px; padding: 7px 10px; min-height: 36px; gap: 9px; }
+  .author-nav .count { font-size: 11px; }
+  main { width: 100%; }
+  .catalogue-header h1 { font-size: 26px; }
+  .catalogue-header p { font-size: 12px; }
+  #catalogue-count { font-size: 12px; }
+  .search-section { margin: 19px 0 28px; }
+  #search-form { flex-wrap: wrap; }
+  .search-field { flex-basis: 100%; }
+  select { flex: 1; width: 0; min-width: 0; }
+  button { padding-inline: 25px; }
+  #search-status { font-size: 11px; }
+  .author-catalogue { grid-template-columns: 1fr; gap: 29px; }
+  .author-ignatius .work-list { grid-template-columns: 1fr; }
+  .author-heading h2 { font-size: 18px; }
+  .author-heading > span { font-size: 13px; }
+  .work-entry { padding: 15px 0; }
+  .work-entry h3 { font-size: 17px; }
+  .reference-links { margin-top: 29px; padding-top: 21px; }
+  .reference-links ul { display: grid; gap: 15px; }
+  .site-footer { margin-top: 29px; font-size: 11px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .author-nav a, button { transition: background-color .15s ease-out; }
+}
+@media print {
+  .site-header, .library-sidebar, .search-section { display: none; }
+  .library-layout { display: block; padding: 0; }
+  .author-section { break-inside: avoid; }
+  .site-footer { margin-top: 20px; }
+}

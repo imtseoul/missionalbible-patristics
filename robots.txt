@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patristics.missionalbible.org/sitemap.xml

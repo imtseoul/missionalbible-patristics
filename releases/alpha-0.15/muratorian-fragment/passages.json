@@ -1,0 +1,3700 @@
+{
+  "attribution_url": "https://imtseoul.github.io/patristics-ko-reference/rights.html",
+  "correction_registry_url": "https://imtseoul.github.io/patristics-ko-reference/data/corrections.json",
+  "coverage": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22"
+  ],
+  "coverage_kind": "complete_adopted_edition",
+  "human_review_status": "not_reviewed",
+  "passages": [
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:cd5c5dbcd4cdf3eb7e37774d65056e577e4e78e72d00be7d896a06e59434e254",
+        "part_links": [
+          [
+            "sha256:bbdb7474e1566853c281390e95325a41acb5aa4f4db0dc98837fea5bbe79c65c"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:2e9c41bb6517c6ee36026c2c4ba9111c316b9824b5ad1586992c42c285e272f2"
+        ],
+        "translation_revision_ids": [
+          "sha256:81e5776bffdc5024aa96fc9c04731bb1eeb968926431e1f8853a1ff876b66c80"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:1"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 1, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-1",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-1",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b1b86a8ae68eeaf792ff9b40089ea8c20336e2301ae30e8305ad7259b8e2f31c",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:cd5c5dbcd4cdf3eb7e37774d65056e577e4e78e72d00be7d896a06e59434e254",
+            "source_revision_id": "sha256:2e9c41bb6517c6ee36026c2c4ba9111c316b9824b5ad1586992c42c285e272f2",
+            "translation_revision_id": "sha256:81e5776bffdc5024aa96fc9c04731bb1eeb968926431e1f8853a1ff876b66c80"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:1"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:cbcbaf57486a6bf08ddbd09c8f5f04f5fb1d1f0c553dd40ceab497c9f74e2072",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:cd5c5dbcd4cdf3eb7e37774d65056e577e4e78e72d00be7d896a06e59434e254",
+            "source_revision_id": "sha256:2e9c41bb6517c6ee36026c2c4ba9111c316b9824b5ad1586992c42c285e272f2",
+            "translation_revision_id": "sha256:81e5776bffdc5024aa96fc9c04731bb1eeb968926431e1f8853a1ff876b66c80"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:1"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:b1b86a8ae68eeaf792ff9b40089ea8c20336e2301ae30e8305ad7259b8e2f31c",
+          "sha256:cbcbaf57486a6bf08ddbd09c8f5f04f5fb1d1f0c553dd40ceab497c9f74e2072"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-1",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "75a1dc1dd73084ea2edb4ab7d21bb2e74b821dc8e8bd070f8911950e91790d8f",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n32.jpg",
+                "printed_page": 17
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott의 시작 별표 행을 세 점으로 표시했다. 앞 문맥이 전하지 않는 상태에서 시작한다.",
+            "representation": "...",
+            "type": "missing_beginning"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 612,
+            "image_sha256": "9ca12cbb0e0073ffe039d865df27e72bf6493263ad0b33708b04e888df8c9a6b",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n612.jpg",
+            "printed_page": 543,
+            "segment_id": "sha256:bbdb7474e1566853c281390e95325a41acb5aa4f4db0dc98837fea5bbe79c65c",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "... quibus tamen interfuit et ita posuit.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:2e9c41bb6517c6ee36026c2c4ba9111c316b9824b5ad1586992c42c285e272f2",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "... quibus tamen interfuit et ita posuit.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:1"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "현존 단편은 앞 문장의 일부에서 시작한다. 이 단락의 ‘그’와 ‘그 일들’이 가리키는 대상은 앞부분의 결락 때문에 해석의 대상이다. Westcott는 마가가 베드로에게서 들은 일을 기록했다는 맥락으로 읽는다. 이 사이트의 1-22는 읽기와 인용을 위해 붙인 자체 단락 번호이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:bbdb7474e1566853c281390e95325a41acb5aa4f4db0dc98837fea5bbe79c65c"
+            ],
+            "text": "... 그는 그 일들에 함께 있었으며, 그렇게 기록했다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:2e9c41bb6517c6ee36026c2c4ba9111c316b9824b5ad1586992c42c285e272f2"
+        ],
+        "text": "... 그는 그 일들에 함께 있었으며, 그렇게 기록했다.",
+        "translation_revision_id": "sha256:81e5776bffdc5024aa96fc9c04731bb1eeb968926431e1f8853a1ff876b66c80",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:1"
+      },
+      "work_location": "1",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:1"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:1113891caca16218e77d5ff3d02ecae45c3f630d7665eb0c5b3b60361a00fb91",
+        "part_links": [
+          [
+            "sha256:15595d0f88b5e0fd6b0621a704c2c5d2c7ced6eaa9f00545910eec7688fbfe3c"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:c24fbc4d5750c635089064a187cc625210e59c2b7df5ad5c8fff1b5900ccacf5"
+        ],
+        "translation_revision_ids": [
+          "sha256:f90b80861fd79ffe579f3a9e087ab33f96848c0493701a8c38cafce6155c3c22"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:2"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 2, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-2",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-2",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:7d61eb0cfeed71aea05527ecccc90e26caf18e1b6893b513c47ec2f006a4704b",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:1113891caca16218e77d5ff3d02ecae45c3f630d7665eb0c5b3b60361a00fb91",
+            "source_revision_id": "sha256:c24fbc4d5750c635089064a187cc625210e59c2b7df5ad5c8fff1b5900ccacf5",
+            "translation_revision_id": "sha256:f90b80861fd79ffe579f3a9e087ab33f96848c0493701a8c38cafce6155c3c22"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:2"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:467fae8a7b44f9e04964fcc26e58e6ac68a09bccc47b228611b4b6e6f94989ee",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:1113891caca16218e77d5ff3d02ecae45c3f630d7665eb0c5b3b60361a00fb91",
+            "source_revision_id": "sha256:c24fbc4d5750c635089064a187cc625210e59c2b7df5ad5c8fff1b5900ccacf5",
+            "translation_revision_id": "sha256:f90b80861fd79ffe579f3a9e087ab33f96848c0493701a8c38cafce6155c3c22"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:2"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:7d61eb0cfeed71aea05527ecccc90e26caf18e1b6893b513c47ec2f006a4704b",
+          "sha256:467fae8a7b44f9e04964fcc26e58e6ac68a09bccc47b228611b4b6e6f94989ee"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-2",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "75a1dc1dd73084ea2edb4ab7d21bb2e74b821dc8e8bd070f8911950e91790d8f",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n32.jpg",
+                "printed_page": 17
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott가 본문 손상을 표시하고 각주에서 여러 교정안을 비교한다.",
+            "expression": "†ut iuris studiosum secundum",
+            "type": "textual_uncertainty"
+          },
+          {
+            "explanation": "Westcott의 별표 표시를 보존했다.",
+            "expression": "dicere*",
+            "type": "editorial_boundary_marker"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 612,
+            "image_sha256": "9ca12cbb0e0073ffe039d865df27e72bf6493263ad0b33708b04e888df8c9a6b",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n612.jpg",
+            "printed_page": 543,
+            "segment_id": "sha256:15595d0f88b5e0fd6b0621a704c2c5d2c7ced6eaa9f00545910eec7688fbfe3c",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Tertium Euangelii librum secundum Lucan Lucas iste medicus post ascensum Christi cum eum Paulus quasi †ut iuris studiosum secundum adsumsisset nomine suo ex opinione conscripsit: Dominum tamen nec ipse uidit in carne, et idem prout assequi potuit, ita et a natiuitate Iohannis incepit dicere*.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:c24fbc4d5750c635089064a187cc625210e59c2b7df5ad5c8fff1b5900ccacf5",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Tertium Euangelii librum secundum Lucan Lucas iste medicus post ascensum Christi cum eum Paulus quasi †ut iuris studiosum secundum adsumsisset nomine suo ex opinione conscripsit: Dominum tamen nec ipse uidit in carne, et idem prout assequi potuit, ita et a natiuitate Iohannis incepit dicere*.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:2"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "본문의 †ut iuris studiosum secundum은 손상된 구절이다. 여기서는 남아 있는 iuris studiosum을 ‘법률에 힘쓰는 사람’, secundum을 ‘보조자’로 잠정적으로 읽었다. Westcott의 각주는 secum으로 고치는 안과, Hort의 ‘자신의 여행 동료’라는 교정안을 함께 제시한다.",
+          "ex opinione는 전해 들은 바에 근거한다는 뜻으로 읽었다. 이 단편은 누가를 의사로 소개하고, 주님을 육신으로 직접 보지 못했다는 진술과 자료를 알아내어 기록했다는 진술을 함께 둔다. 여기서 탄생이 언급된 요한은 누가복음 첫머리의 세례 요한으로 읽힌다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:15595d0f88b5e0fd6b0621a704c2c5d2c7ced6eaa9f00545910eec7688fbfe3c"
+            ],
+            "text": "세 번째 복음서는 누가에 따른 것이다. 이 의사 누가는 그리스도께서 승천하신 뒤, 바울이 그를 법률에 힘쓰는 사람처럼 보조자로 삼았을 때, 전해 들은 바에 따라 자기 이름으로 기록했다. 그러나 그 자신도 육신으로 계신 주님을 보지는 못했다. 그는 알아낼 수 있었던 대로 요한의 탄생에서부터 이야기를 시작했다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:c24fbc4d5750c635089064a187cc625210e59c2b7df5ad5c8fff1b5900ccacf5"
+        ],
+        "text": "세 번째 복음서는 누가에 따른 것이다. 이 의사 누가는 그리스도께서 승천하신 뒤, 바울이 그를 법률에 힘쓰는 사람처럼 보조자로 삼았을 때, 전해 들은 바에 따라 자기 이름으로 기록했다. 그러나 그 자신도 육신으로 계신 주님을 보지는 못했다. 그는 알아낼 수 있었던 대로 요한의 탄생에서부터 이야기를 시작했다.",
+        "translation_revision_id": "sha256:f90b80861fd79ffe579f3a9e087ab33f96848c0493701a8c38cafce6155c3c22",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:2"
+      },
+      "work_location": "2",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:2"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:55cb596a527fd7c1cf2a03961b78ae6a442effcca9a62d5ef9c210c0dd1adb9e",
+        "part_links": [
+          [
+            "sha256:e269b20307f10996d2b91ea3d0d87dcbbb752621298e3c68ce7764b3a12e27e8"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:8bbdcce84518e21f4219cc2eda3898f50e294746505e49836c3f533e8a42ebd6"
+        ],
+        "translation_revision_ids": [
+          "sha256:c091e88616654dc24c208e99b2a1d9aa471dd2ec0eebf936336ea22a021c15b0"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:3"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 3, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-3",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-3",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:7e39f30d8c39638f23e381619bb52d072de718334038630f2a53ec2a428d252d",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:55cb596a527fd7c1cf2a03961b78ae6a442effcca9a62d5ef9c210c0dd1adb9e",
+            "source_revision_id": "sha256:8bbdcce84518e21f4219cc2eda3898f50e294746505e49836c3f533e8a42ebd6",
+            "translation_revision_id": "sha256:c091e88616654dc24c208e99b2a1d9aa471dd2ec0eebf936336ea22a021c15b0"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:3"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:09e495d588170be09a6d74044af193b476dd2f961d5d49abfaa0c32db6bdcbff",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:55cb596a527fd7c1cf2a03961b78ae6a442effcca9a62d5ef9c210c0dd1adb9e",
+            "source_revision_id": "sha256:8bbdcce84518e21f4219cc2eda3898f50e294746505e49836c3f533e8a42ebd6",
+            "translation_revision_id": "sha256:c091e88616654dc24c208e99b2a1d9aa471dd2ec0eebf936336ea22a021c15b0"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:3"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:7e39f30d8c39638f23e381619bb52d072de718334038630f2a53ec2a428d252d",
+          "sha256:09e495d588170be09a6d74044af193b476dd2f961d5d49abfaa0c32db6bdcbff"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-3",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "75a1dc1dd73084ea2edb4ab7d21bb2e74b821dc8e8bd070f8911950e91790d8f",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n32.jpg",
+                "printed_page": 17
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott가 이 구절의 손상을 양쪽 단검표로 표시했다.",
+            "expression": "†Quarti Euangeliorum†",
+            "type": "textual_uncertainty"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 612,
+            "image_sha256": "9ca12cbb0e0073ffe039d865df27e72bf6493263ad0b33708b04e888df8c9a6b",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n612.jpg",
+            "printed_page": 543,
+            "segment_id": "sha256:e269b20307f10996d2b91ea3d0d87dcbbb752621298e3c68ce7764b3a12e27e8",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "†Quarti Euangeliorum† Iohannes ex discipulis.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:8bbdcce84518e21f4219cc2eda3898f50e294746505e49836c3f533e8a42ebd6",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "†Quarti Euangeliorum† Iohannes ex discipulis.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:3"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "Westcott는 Quarti Euangeliorum을 단검표로 감싸 손상된 표제 구문으로 제시한다. 문맥을 따라 네 번째 복음서의 저자로 요한을 소개하는 말로 옮겼다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:e269b20307f10996d2b91ea3d0d87dcbbb752621298e3c68ce7764b3a12e27e8"
+            ],
+            "text": "네 번째 복음서는 제자들 가운데 한 사람인 요한의 것이다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:8bbdcce84518e21f4219cc2eda3898f50e294746505e49836c3f533e8a42ebd6"
+        ],
+        "text": "네 번째 복음서는 제자들 가운데 한 사람인 요한의 것이다.",
+        "translation_revision_id": "sha256:c091e88616654dc24c208e99b2a1d9aa471dd2ec0eebf936336ea22a021c15b0",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:3"
+      },
+      "work_location": "3",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:3"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:53325fb16a644aa2a09750f7192fe3eb5c9bf10ed0638df51cab02ccf97c7a25",
+        "part_links": [
+          [
+            "sha256:77adfcb69e5ce845e6a1abed58affc9943c42c6300e5613d4fd103e0d57009e0",
+            "sha256:38ec4bb7dadb82bce65d889625d58d59a434f40b088c59f44c998dad2ac930e1"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:6804dd0cb6c9962060a17f9f7119779dd706197daefd413d685f21f623a698ee"
+        ],
+        "translation_revision_ids": [
+          "sha256:4db965c4bd8c0462d039db708c29cdd839eb8c43fa241e661e865e8e1509d9fa"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:4"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 4, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-4",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-4",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:a538623fbf921956a2786df316d210295bec09a22ea53b00677ff3fbce274279",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:53325fb16a644aa2a09750f7192fe3eb5c9bf10ed0638df51cab02ccf97c7a25",
+            "source_revision_id": "sha256:6804dd0cb6c9962060a17f9f7119779dd706197daefd413d685f21f623a698ee",
+            "translation_revision_id": "sha256:4db965c4bd8c0462d039db708c29cdd839eb8c43fa241e661e865e8e1509d9fa"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:4"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:ef6013cdf32e3bd2c7d91aa64870754593a4ba66c3e7601b87389f8944863d68",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:53325fb16a644aa2a09750f7192fe3eb5c9bf10ed0638df51cab02ccf97c7a25",
+            "source_revision_id": "sha256:6804dd0cb6c9962060a17f9f7119779dd706197daefd413d685f21f623a698ee",
+            "translation_revision_id": "sha256:4db965c4bd8c0462d039db708c29cdd839eb8c43fa241e661e865e8e1509d9fa"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:4"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:a538623fbf921956a2786df316d210295bec09a22ea53b00677ff3fbce274279",
+          "sha256:ef6013cdf32e3bd2c7d91aa64870754593a4ba66c3e7601b87389f8944863d68"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-4",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "75a1dc1dd73084ea2edb4ab7d21bb2e74b821dc8e8bd070f8911950e91790d8f",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n32.jpg",
+                "printed_page": 17
+              },
+              {
+                "image_sha256": "ca4545c584e00c79a122d84040dfb09d3402bff6d1896ff141763437b650a267",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+                "printed_page": 18
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott의 대괄호 보충.",
+            "expression": "[Is]",
+            "type": "editorial_supply"
+          },
+          {
+            "explanation": "Westcott가 별표로 표시한 문맥 단절. 편집자의 판단으로 구분한다.",
+            "representation": "...",
+            "type": "editorial_discontinuity"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 612,
+            "image_sha256": "9ca12cbb0e0073ffe039d865df27e72bf6493263ad0b33708b04e888df8c9a6b",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n612.jpg",
+            "printed_page": 543,
+            "segment_id": "sha256:77adfcb69e5ce845e6a1abed58affc9943c42c6300e5613d4fd103e0d57009e0",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "[Is] cohortantibus condiscipulis",
+            "transmission": "latin_witness_in_print_edition"
+          },
+          {
+            "image_index": 613,
+            "image_sha256": "c94264bba8b42fc8c807251b14161ca62ee28e2215d6f14de4d28e50ef52f2ad",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+            "printed_page": 544,
+            "segment_id": "sha256:38ec4bb7dadb82bce65d889625d58d59a434f40b088c59f44c998dad2ac930e1",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "et episcopis suis dixit: Conieiunate mihi hodie triduum, et quid cuique fuerit reuelatum alterutrum nobis enarremus. Eadem nocte reuelatum Andreae ex apostolis, ut recognoscentibus cunctis, Iohannes suo nomine cuncta describeret. ...",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:6804dd0cb6c9962060a17f9f7119779dd706197daefd413d685f21f623a698ee",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "[Is] cohortantibus condiscipulis et episcopis suis dixit: Conieiunate mihi hodie triduum, et quid cuique fuerit reuelatum alterutrum nobis enarremus. Eadem nocte reuelatum Andreae ex apostolis, ut recognoscentibus cunctis, Iohannes suo nomine cuncta describeret. ...",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:4"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "대괄호 속 [Is]는 Westcott가 보충한 주어이다. 본문은 동료 제자들과 감독들의 요청, 사흘간의 금식, 안드레아가 받은 계시, 요한의 기록이라는 순서로 저술 전승을 제시한다. 마지막 세 점은 Westcott의 별표 구분을 옮긴 것으로, 편집자가 판단한 문맥 단절을 표시한다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:77adfcb69e5ce845e6a1abed58affc9943c42c6300e5613d4fd103e0d57009e0",
+              "sha256:38ec4bb7dadb82bce65d889625d58d59a434f40b088c59f44c998dad2ac930e1"
+            ],
+            "text": "동료 제자들과 그의 감독들이 권하자, 그는 말했다. “오늘부터 사흘 동안 나와 함께 금식합시다. 각 사람에게 계시된 것을 서로 이야기합시다.” 그날 밤 사도들 가운데 한 사람인 안드레아에게 계시가 내렸다. 모두가 확인하는 가운데 요한이 자기 이름으로 모든 것을 기록하라는 것이었다. ..."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:6804dd0cb6c9962060a17f9f7119779dd706197daefd413d685f21f623a698ee"
+        ],
+        "text": "동료 제자들과 그의 감독들이 권하자, 그는 말했다. “오늘부터 사흘 동안 나와 함께 금식합시다. 각 사람에게 계시된 것을 서로 이야기합시다.” 그날 밤 사도들 가운데 한 사람인 안드레아에게 계시가 내렸다. 모두가 확인하는 가운데 요한이 자기 이름으로 모든 것을 기록하라는 것이었다. ...",
+        "translation_revision_id": "sha256:4db965c4bd8c0462d039db708c29cdd839eb8c43fa241e661e865e8e1509d9fa",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:4"
+      },
+      "work_location": "4",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:4"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:7d59483e89e235e0afd3c1df17b7ac85edf9e2925c6eb73230bb940cc7cff472",
+        "part_links": [
+          [
+            "sha256:e3b95743b15850187b7843270662d7ce8eddc1e6b4851894588cded0b8846f88"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:682640286295bea6e8a5fee1acadbd28ec78495a6d9452612b4aad35682d2478"
+        ],
+        "translation_revision_ids": [
+          "sha256:9c3f73f2f1f64e69b25a15eb39975be32e6f385d1a82d71f864b52aede49fe9a"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:5"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 5, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-5",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-5",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:b537cc30b2b34a08b578afa9c1845e286f872844c4cb2ff93fc3ad2ee16b5f4b",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:7d59483e89e235e0afd3c1df17b7ac85edf9e2925c6eb73230bb940cc7cff472",
+            "source_revision_id": "sha256:682640286295bea6e8a5fee1acadbd28ec78495a6d9452612b4aad35682d2478",
+            "translation_revision_id": "sha256:9c3f73f2f1f64e69b25a15eb39975be32e6f385d1a82d71f864b52aede49fe9a"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:5"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:868fbd9f2a4d7a927f46a0d7282edb40d2367d99e7f1f2511cfb110e2c2d9c52",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:7d59483e89e235e0afd3c1df17b7ac85edf9e2925c6eb73230bb940cc7cff472",
+            "source_revision_id": "sha256:682640286295bea6e8a5fee1acadbd28ec78495a6d9452612b4aad35682d2478",
+            "translation_revision_id": "sha256:9c3f73f2f1f64e69b25a15eb39975be32e6f385d1a82d71f864b52aede49fe9a"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:5"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:b537cc30b2b34a08b578afa9c1845e286f872844c4cb2ff93fc3ad2ee16b5f4b",
+          "sha256:868fbd9f2a4d7a927f46a0d7282edb40d2367d99e7f1f2511cfb110e2c2d9c52"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-5",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "ca4545c584e00c79a122d84040dfb09d3402bff6d1896ff141763437b650a267",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+                "printed_page": 18
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 613,
+            "image_sha256": "c94264bba8b42fc8c807251b14161ca62ee28e2215d6f14de4d28e50ef52f2ad",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+            "printed_page": 544,
+            "segment_id": "sha256:e3b95743b15850187b7843270662d7ce8eddc1e6b4851894588cded0b8846f88",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Et ideo licet uaria singulis Euangeliorum libris principia doceantur nihil tamen differt credentium fidei, cum uno ac principali spiritu declarata sint in omnibus omnia de natiuitate, de passione, de resurrectione, de conuersatione cum discipulis suis,",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:682640286295bea6e8a5fee1acadbd28ec78495a6d9452612b4aad35682d2478",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Et ideo licet uaria singulis Euangeliorum libris principia doceantur nihil tamen differt credentium fidei, cum uno ac principali spiritu declarata sint in omnibus omnia de natiuitate, de passione, de resurrectione, de conuersatione cum discipulis suis,",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:5"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "principia는 시작이나 출발점을 뜻한다. 각 복음서의 서로 다른 시작과, 한 성령이 전하는 공통 내용을 연결한다. principali spiritu는 주권을 지니고 이끄는 영으로 읽었다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:e3b95743b15850187b7843270662d7ce8eddc1e6b4851894588cded0b8846f88"
+            ],
+            "text": "그러므로 각 복음서에서 서로 다른 시작을 가르치더라도, 믿는 이들의 신앙에는 아무 차이가 없다. 하나이며 주권을 지닌 성령을 통하여 모든 복음서에 모든 일이 밝혀졌기 때문이다. 탄생과, 수난과, 부활과, 자신의 제자들과 함께 지내신 일,"
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:682640286295bea6e8a5fee1acadbd28ec78495a6d9452612b4aad35682d2478"
+        ],
+        "text": "그러므로 각 복음서에서 서로 다른 시작을 가르치더라도, 믿는 이들의 신앙에는 아무 차이가 없다. 하나이며 주권을 지닌 성령을 통하여 모든 복음서에 모든 일이 밝혀졌기 때문이다. 탄생과, 수난과, 부활과, 자신의 제자들과 함께 지내신 일,",
+        "translation_revision_id": "sha256:9c3f73f2f1f64e69b25a15eb39975be32e6f385d1a82d71f864b52aede49fe9a",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:5"
+      },
+      "work_location": "5",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:5"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:ecd91f797e2e8043e44b3514fedd5829ad7c4b0e20209bd9ab559d0fa30eda26",
+        "part_links": [
+          [
+            "sha256:bc7fbc12b3322cc676981504e0eb9bbccd3a9b71c9c4e6f42b619f065bc30550"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:6c69789da3c8a94a0d07fced6c4ae7cee3eca7ed38934c55ab4efed8b998e464"
+        ],
+        "translation_revision_ids": [
+          "sha256:70265952d96484ee2c9e7d6360b2d8ceae80f7350e38fec8108dce2950d739be"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:6"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 6, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-6",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-6",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:9e6e6888f4e1086485fc374db37e70db94dee99dfb32c3bd8ceb9b0fd2df11a6",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:ecd91f797e2e8043e44b3514fedd5829ad7c4b0e20209bd9ab559d0fa30eda26",
+            "source_revision_id": "sha256:6c69789da3c8a94a0d07fced6c4ae7cee3eca7ed38934c55ab4efed8b998e464",
+            "translation_revision_id": "sha256:70265952d96484ee2c9e7d6360b2d8ceae80f7350e38fec8108dce2950d739be"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:6"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:a4c6e49cbf05a65a7ce93b4ab6279c49824b2d09a0b7aebd7e16c86155ca59f7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:ecd91f797e2e8043e44b3514fedd5829ad7c4b0e20209bd9ab559d0fa30eda26",
+            "source_revision_id": "sha256:6c69789da3c8a94a0d07fced6c4ae7cee3eca7ed38934c55ab4efed8b998e464",
+            "translation_revision_id": "sha256:70265952d96484ee2c9e7d6360b2d8ceae80f7350e38fec8108dce2950d739be"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:6"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:9e6e6888f4e1086485fc374db37e70db94dee99dfb32c3bd8ceb9b0fd2df11a6",
+          "sha256:a4c6e49cbf05a65a7ce93b4ab6279c49824b2d09a0b7aebd7e16c86155ca59f7"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-6",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "ca4545c584e00c79a122d84040dfb09d3402bff6d1896ff141763437b650a267",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+                "printed_page": 18
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott의 별표 표시.",
+            "expression": "*primum",
+            "type": "editorial_boundary_marker"
+          },
+          {
+            "explanation": "Westcott의 별표 세 개를 세 점으로 표시했다.",
+            "representation": "...",
+            "type": "editorial_discontinuity"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 613,
+            "image_sha256": "c94264bba8b42fc8c807251b14161ca62ee28e2215d6f14de4d28e50ef52f2ad",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+            "printed_page": 544,
+            "segment_id": "sha256:bc7fbc12b3322cc676981504e0eb9bbccd3a9b71c9c4e6f42b619f065bc30550",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "ac de gemino eius aduento *primum in humilitate despectûs, quod fuit, secundum potestate regali praeclarum, quod futurum est. ...",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:6c69789da3c8a94a0d07fced6c4ae7cee3eca7ed38934c55ab4efed8b998e464",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "ac de gemino eius aduento *primum in humilitate despectûs, quod fuit, secundum potestate regali praeclarum, quod futurum est. ...",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:6"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "앞 단락의 공통 내용 열거를 이어받는다. 첫 번째 오심은 이미 이루어진 낮아짐, 두 번째 오심은 앞으로 있을 왕의 영광으로 서술된다. 어형 aduento와 despectûs, 별표는 채택 본문에 따른 것이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:bc7fbc12b3322cc676981504e0eb9bbccd3a9b71c9c4e6f42b619f065bc30550"
+            ],
+            "text": "또 그분의 두 번의 오심에 관한 일이다. 첫 번째 오심은 낮아져 멸시를 받으신 것으로, 이미 이루어졌다. 두 번째 오심은 왕의 권능으로 영광스럽게 오시는 것으로, 앞으로 이루어질 것이다. ..."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:6c69789da3c8a94a0d07fced6c4ae7cee3eca7ed38934c55ab4efed8b998e464"
+        ],
+        "text": "또 그분의 두 번의 오심에 관한 일이다. 첫 번째 오심은 낮아져 멸시를 받으신 것으로, 이미 이루어졌다. 두 번째 오심은 왕의 권능으로 영광스럽게 오시는 것으로, 앞으로 이루어질 것이다. ...",
+        "translation_revision_id": "sha256:70265952d96484ee2c9e7d6360b2d8ceae80f7350e38fec8108dce2950d739be",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:6"
+      },
+      "work_location": "6",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:6"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:c635e6373cb09d8ef51c2b96ad3996a36a24cf2d39f15644bf7ed10ccbe6ffc3",
+        "part_links": [
+          [
+            "sha256:c00ca6694adbaea7055ad86ded1267137704de4cb7b3faf3b0f519c33c138e32"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:eb5cfac372dddd87351eaa334d124296dd6dc1d75ea78ce2835675421b00a95c"
+        ],
+        "translation_revision_ids": [
+          "sha256:05720d3f4c2829922167da93ae13a4e2369b547eab2118458332b673766a5387"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:7"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "1 John",
+          "chapter": 1,
+          "evidence_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+          "label": "요한일서 1:1",
+          "reference_scope": "Westcott 1896, 544쪽 각주 7의 인용 대조",
+          "type": "editorial_biblical_reference",
+          "verse": 1,
+          "verse_end": null
+        },
+        {
+          "evidence_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+          "label": "Westcott와 Tregelles의 인용문 끝 비교",
+          "summary": "Westcott의 haec scripsimus 뒤에 Tregelles의 전사본에는 uobis가 있다.",
+          "type": "edition_comparison"
+        }
+      ],
+      "citation": "익명, 『무라토리 단편』 자체 단락 7, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-7",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-7",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:0dc81505a34494f52d1c6553e84fcbdd1595919af7f936afcd22160ec059aec8",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:c635e6373cb09d8ef51c2b96ad3996a36a24cf2d39f15644bf7ed10ccbe6ffc3",
+            "source_revision_id": "sha256:eb5cfac372dddd87351eaa334d124296dd6dc1d75ea78ce2835675421b00a95c",
+            "translation_revision_id": "sha256:05720d3f4c2829922167da93ae13a4e2369b547eab2118458332b673766a5387"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:7"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:3bed29a204da01258827687e7584a3ea56de346f347d6751f9f667f3676c6c1e",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:c635e6373cb09d8ef51c2b96ad3996a36a24cf2d39f15644bf7ed10ccbe6ffc3",
+            "source_revision_id": "sha256:eb5cfac372dddd87351eaa334d124296dd6dc1d75ea78ce2835675421b00a95c",
+            "translation_revision_id": "sha256:05720d3f4c2829922167da93ae13a4e2369b547eab2118458332b673766a5387"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:7"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:0dc81505a34494f52d1c6553e84fcbdd1595919af7f936afcd22160ec059aec8",
+          "sha256:3bed29a204da01258827687e7584a3ea56de346f347d6751f9f667f3676c6c1e"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-7",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "ca4545c584e00c79a122d84040dfb09d3402bff6d1896ff141763437b650a267",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+                "printed_page": 18
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 613,
+            "image_sha256": "c94264bba8b42fc8c807251b14161ca62ee28e2215d6f14de4d28e50ef52f2ad",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+            "printed_page": 544,
+            "segment_id": "sha256:c00ca6694adbaea7055ad86ded1267137704de4cb7b3faf3b0f519c33c138e32",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Quid ergo mirum si Iohannes tam constanter singula etiam in epistulis suis proferat dicens in semetipsum: Quae uidimus oculis nostris, et auribus audiuimus, et manus nostrae palpauerunt, haec scripsimus?",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:eb5cfac372dddd87351eaa334d124296dd6dc1d75ea78ce2835675421b00a95c",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Quid ergo mirum si Iohannes tam constanter singula etiam in epistulis suis proferat dicens in semetipsum: Quae uidimus oculis nostris, et auribus audiuimus, et manus nostrae palpauerunt, haec scripsimus?",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:7"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "요한의 편지에서 가져온 인용을 그 단편의 형태로 옮겼다. Westcott 본문은 haec scripsimus로 끝나며, Tregelles의 전사본은 그 뒤에 uobis도 싣는다. 두 판본의 차이를 원문 대조 정보로 구분한다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:c00ca6694adbaea7055ad86ded1267137704de4cb7b3faf3b0f519c33c138e32"
+            ],
+            "text": "그러므로 요한이 자신의 편지들에서도 그토록 일관되게 하나하나의 일을 제시하고, 자신에 관하여 말하기를, “우리 눈으로 보고, 귀로 듣고, 우리 손으로 만진 것들을 우리가 썼다”라고 한다고 해서, 무엇이 놀랍겠는가?"
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:eb5cfac372dddd87351eaa334d124296dd6dc1d75ea78ce2835675421b00a95c"
+        ],
+        "text": "그러므로 요한이 자신의 편지들에서도 그토록 일관되게 하나하나의 일을 제시하고, 자신에 관하여 말하기를, “우리 눈으로 보고, 귀로 듣고, 우리 손으로 만진 것들을 우리가 썼다”라고 한다고 해서, 무엇이 놀랍겠는가?",
+        "translation_revision_id": "sha256:05720d3f4c2829922167da93ae13a4e2369b547eab2118458332b673766a5387",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:7"
+      },
+      "work_location": "7",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:7"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:146972ec44c9bc7c35eb9a984fa9d0996864ac74dfd272bda6ee45c9e679845f",
+        "part_links": [
+          [
+            "sha256:6be6ea6a36cd9ef1e9b1e24e5776beec1d55ec6afdb2fc35849ff92ede8d743d"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:1eabcff047abd9a4ed28f62451ee590b4cc49f2fe3a2a759cbb2f831c75c69a2"
+        ],
+        "translation_revision_ids": [
+          "sha256:d03c5488574396943510d980df1f0c8b0c29e61a8307e8220111adef336223e9"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:8"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 8, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-8",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-8",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:863e27bad543d662bbb52999c4ff7e816780c2e97eae7b6deefc87b5f08f0078",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:146972ec44c9bc7c35eb9a984fa9d0996864ac74dfd272bda6ee45c9e679845f",
+            "source_revision_id": "sha256:1eabcff047abd9a4ed28f62451ee590b4cc49f2fe3a2a759cbb2f831c75c69a2",
+            "translation_revision_id": "sha256:d03c5488574396943510d980df1f0c8b0c29e61a8307e8220111adef336223e9"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:8"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:87163fadb4e0c98c4ff0333305ba19accef737332d18c014fd0b599c80ca0bd0",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:146972ec44c9bc7c35eb9a984fa9d0996864ac74dfd272bda6ee45c9e679845f",
+            "source_revision_id": "sha256:1eabcff047abd9a4ed28f62451ee590b4cc49f2fe3a2a759cbb2f831c75c69a2",
+            "translation_revision_id": "sha256:d03c5488574396943510d980df1f0c8b0c29e61a8307e8220111adef336223e9"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:8"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:863e27bad543d662bbb52999c4ff7e816780c2e97eae7b6deefc87b5f08f0078",
+          "sha256:87163fadb4e0c98c4ff0333305ba19accef737332d18c014fd0b599c80ca0bd0"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-8",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "ca4545c584e00c79a122d84040dfb09d3402bff6d1896ff141763437b650a267",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+                "printed_page": 18
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott의 대괄호 보충.",
+            "expression": "[se]",
+            "type": "editorial_supply"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 613,
+            "image_sha256": "c94264bba8b42fc8c807251b14161ca62ee28e2215d6f14de4d28e50ef52f2ad",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+            "printed_page": 544,
+            "segment_id": "sha256:6be6ea6a36cd9ef1e9b1e24e5776beec1d55ec6afdb2fc35849ff92ede8d743d",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Sic enim non solum uisorem [se], sed et auditorem, sed et scriptorem omnium mirabilium domini per ordinem profitetur.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:1eabcff047abd9a4ed28f62451ee590b4cc49f2fe3a2a759cbb2f831c75c69a2",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Sic enim non solum uisorem [se], sed et auditorem, sed et scriptorem omnium mirabilium domini per ordinem profitetur.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:8"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "대괄호 속 [se]는 Westcott의 보충이다. 목격자, 청취자, 기록자라는 세 역할을 한 사람에게 연결한다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:6be6ea6a36cd9ef1e9b1e24e5776beec1d55ec6afdb2fc35849ff92ede8d743d"
+            ],
+            "text": "이처럼 그는 목격자일 뿐 아니라 직접 들은 사람이며, 주님의 모든 놀라운 일을 차례대로 기록한 사람이라고 자신을 밝힌다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:1eabcff047abd9a4ed28f62451ee590b4cc49f2fe3a2a759cbb2f831c75c69a2"
+        ],
+        "text": "이처럼 그는 목격자일 뿐 아니라 직접 들은 사람이며, 주님의 모든 놀라운 일을 차례대로 기록한 사람이라고 자신을 밝힌다.",
+        "translation_revision_id": "sha256:d03c5488574396943510d980df1f0c8b0c29e61a8307e8220111adef336223e9",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:8"
+      },
+      "work_location": "8",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:8"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:38574bdffdf318bc4d15db52bc98bf8f7a25c504535a86d494f01f9b45868778",
+        "part_links": [
+          [
+            "sha256:76a3c88668da75cc355d1d65015ea895e2b8d2769d2374e57e0c78291736e01a",
+            "sha256:0b4ac35acfa71511e4e2f3d0ae48de4f3283f9df3c9578c971f030c86e03579f"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:57f759577431e26b267d4462e3d640219b03ebec507c5d8be1dcb218d56b79b0"
+        ],
+        "translation_revision_ids": [
+          "sha256:8c1885ed36f3f53fdcd6a83c35b02b54260bf4d1e858f3bc0dd3a364dac83d8e"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:9"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 9, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-9",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-9",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:39d095acd71416d2df16a97346353d571514aab8be6c82e1e01501e41b0263df",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:38574bdffdf318bc4d15db52bc98bf8f7a25c504535a86d494f01f9b45868778",
+            "source_revision_id": "sha256:57f759577431e26b267d4462e3d640219b03ebec507c5d8be1dcb218d56b79b0",
+            "translation_revision_id": "sha256:8c1885ed36f3f53fdcd6a83c35b02b54260bf4d1e858f3bc0dd3a364dac83d8e"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:9"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:5b35b786f8c1a043b449b23be16058c636713990b7839adbd5cd67c2acced9c7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:38574bdffdf318bc4d15db52bc98bf8f7a25c504535a86d494f01f9b45868778",
+            "source_revision_id": "sha256:57f759577431e26b267d4462e3d640219b03ebec507c5d8be1dcb218d56b79b0",
+            "translation_revision_id": "sha256:8c1885ed36f3f53fdcd6a83c35b02b54260bf4d1e858f3bc0dd3a364dac83d8e"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:9"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:39d095acd71416d2df16a97346353d571514aab8be6c82e1e01501e41b0263df",
+          "sha256:5b35b786f8c1a043b449b23be16058c636713990b7839adbd5cd67c2acced9c7"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-9",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "ca4545c584e00c79a122d84040dfb09d3402bff6d1896ff141763437b650a267",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n33.jpg",
+                "printed_page": 18
+              },
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott는 전체 구문의 손상을 표시하고 각주에서 여러 해석을 제시한다.",
+            "expression": "†semote passionem Petri euidenter declarat, sed et profectionem Pauli ab urbe ad Spaniam proficiscentis.†",
+            "type": "textual_uncertainty"
+          },
+          {
+            "explanation": "Westcott의 별표 세 개를 세 점으로 표시했다.",
+            "representation": "...",
+            "type": "editorial_discontinuity"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 613,
+            "image_sha256": "c94264bba8b42fc8c807251b14161ca62ee28e2215d6f14de4d28e50ef52f2ad",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n613.jpg",
+            "printed_page": 544,
+            "segment_id": "sha256:76a3c88668da75cc355d1d65015ea895e2b8d2769d2374e57e0c78291736e01a",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Acta autem omnium apostolorum sub uno libro scripta sunt. Lucas optime Theophilo comprendit, quia sub praesentia eius singula gerebantur, sicuti et †semote passionem Petri euidenter",
+            "transmission": "latin_witness_in_print_edition"
+          },
+          {
+            "image_index": 614,
+            "image_sha256": "e6301772fd9db8e556d85fc47fee55793cf6772277f2233016ef6a49e4fd7b6e",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n614.jpg",
+            "printed_page": 545,
+            "segment_id": "sha256:0b4ac35acfa71511e4e2f3d0ae48de4f3283f9df3c9578c971f030c86e03579f",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "declarat, sed et profectionem Pauli ab urbe ad Spaniam proficiscentis.† ...",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:57f759577431e26b267d4462e3d640219b03ebec507c5d8be1dcb218d56b79b0",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Acta autem omnium apostolorum sub uno libro scripta sunt. Lucas optime Theophilo comprendit, quia sub praesentia eius singula gerebantur, sicuti et †semote passionem Petri euidenter declarat, sed et profectionem Pauli ab urbe ad Spaniam proficiscentis.† ...",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:9"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "†semote부터 문장 끝까지는 Westcott가 손상된 구문으로 표시한 범위이다. 여기서는 사도행전이 베드로의 수난과 바울의 스페인행을 생략했다는 뜻으로 잠정적으로 읽었다. Westcott는 격과 동사를 달리 고치는 해석도 비교한다.",
+          "ab urbe는 ‘그 도시에서’이다. 구체적인 도시 이름은 이 구문에서 생략되어 있다. 스페인은 라틴어 Spaniam을 옮긴 것으로, 고대 이베리아 지역을 가리키는 표현이다. 페이지를 넘는 euidenter는 하나의 낱말로 결합했다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:76a3c88668da75cc355d1d65015ea895e2b8d2769d2374e57e0c78291736e01a",
+              "sha256:0b4ac35acfa71511e4e2f3d0ae48de4f3283f9df3c9578c971f030c86e03579f"
+            ],
+            "text": "모든 사도들의 행적은 한 책에 기록되어 있다. 누가는 테오필로를 위하여 아주 잘 묶어 기록했다. 그가 보는 앞에서 각각의 일이 벌어졌기 때문이다. 베드로의 수난과, 그 도시에서 스페인으로 향한 바울의 출발을 빼놓았다는 점도 이를 분명히 드러낸다. ..."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:57f759577431e26b267d4462e3d640219b03ebec507c5d8be1dcb218d56b79b0"
+        ],
+        "text": "모든 사도들의 행적은 한 책에 기록되어 있다. 누가는 테오필로를 위하여 아주 잘 묶어 기록했다. 그가 보는 앞에서 각각의 일이 벌어졌기 때문이다. 베드로의 수난과, 그 도시에서 스페인으로 향한 바울의 출발을 빼놓았다는 점도 이를 분명히 드러낸다. ...",
+        "translation_revision_id": "sha256:8c1885ed36f3f53fdcd6a83c35b02b54260bf4d1e858f3bc0dd3a364dac83d8e",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:9"
+      },
+      "work_location": "9",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:9"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:ad9d3ebceff9efa5fda4bf68a56a1ac2bc00f62a95cd8e80d34777af03a2833b",
+        "part_links": [
+          [
+            "sha256:16244544b6cf9de8a66d1e7a4ae6240ac070d654a7677f7d0cb4baf21c38bdba"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:c9e52e071ca2e1c6d8cbf3f10a0c6c16179ebf3a470d88e7bb736e50ff3f53fb"
+        ],
+        "translation_revision_ids": [
+          "sha256:6506d708ad4809f8999aab41f9ff5f60b58f79b6a7530b8f1dc56c41d2456c74"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:10"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 10, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-10",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-10",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:bad19e599c2f3914e28ddac246dc18fdcf3257bc5f8c6f74447e00f14d328350",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:ad9d3ebceff9efa5fda4bf68a56a1ac2bc00f62a95cd8e80d34777af03a2833b",
+            "source_revision_id": "sha256:c9e52e071ca2e1c6d8cbf3f10a0c6c16179ebf3a470d88e7bb736e50ff3f53fb",
+            "translation_revision_id": "sha256:6506d708ad4809f8999aab41f9ff5f60b58f79b6a7530b8f1dc56c41d2456c74"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:10"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:1384720703a374c8d696ff87aa7affb6b2f3033a607c13caa8136a86557d955e",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:ad9d3ebceff9efa5fda4bf68a56a1ac2bc00f62a95cd8e80d34777af03a2833b",
+            "source_revision_id": "sha256:c9e52e071ca2e1c6d8cbf3f10a0c6c16179ebf3a470d88e7bb736e50ff3f53fb",
+            "translation_revision_id": "sha256:6506d708ad4809f8999aab41f9ff5f60b58f79b6a7530b8f1dc56c41d2456c74"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:10"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:bad19e599c2f3914e28ddac246dc18fdcf3257bc5f8c6f74447e00f14d328350",
+          "sha256:1384720703a374c8d696ff87aa7affb6b2f3033a607c13caa8136a86557d955e"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-10",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 614,
+            "image_sha256": "e6301772fd9db8e556d85fc47fee55793cf6772277f2233016ef6a49e4fd7b6e",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n614.jpg",
+            "printed_page": 545,
+            "segment_id": "sha256:16244544b6cf9de8a66d1e7a4ae6240ac070d654a7677f7d0cb4baf21c38bdba",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Epistulae autem Pauli, quae, a quo loco, uel qua ex causa directae sint, uolentibus intellegere ipsae declarant.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:c9e52e071ca2e1c6d8cbf3f10a0c6c16179ebf3a470d88e7bb736e50ff3f53fb",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Epistulae autem Pauli, quae, a quo loco, uel qua ex causa directae sint, uolentibus intellegere ipsae declarant.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:10"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:16244544b6cf9de8a66d1e7a4ae6240ac070d654a7677f7d0cb4baf21c38bdba"
+            ],
+            "text": "바울의 편지들은 어떤 편지가, 어디에서, 무슨 이유로 보내졌는지 알고자 하는 사람들에게 스스로 설명해 준다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:c9e52e071ca2e1c6d8cbf3f10a0c6c16179ebf3a470d88e7bb736e50ff3f53fb"
+        ],
+        "text": "바울의 편지들은 어떤 편지가, 어디에서, 무슨 이유로 보내졌는지 알고자 하는 사람들에게 스스로 설명해 준다.",
+        "translation_revision_id": "sha256:6506d708ad4809f8999aab41f9ff5f60b58f79b6a7530b8f1dc56c41d2456c74",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:10"
+      },
+      "work_location": "10",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:10"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:bb83f24e2ce6b7bb5c795c2bc70535da8e70700cc935a0db9049f932f6281b91",
+        "part_links": [
+          [
+            "sha256:235ebc97f526503cf5d765ade6fcc228f1ef2551655e78e121849a5046e03a9d"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:e368acda1330b87ba28491d3323b5ee0c82562070510dfccf9ba255adb79237d"
+        ],
+        "translation_revision_ids": [
+          "sha256:d64f6723fa42e2c8faaf79304ad533da9a805295089831356df8c807f8fa2c2f"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:11"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 11, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-11",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-11",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:696c62ac7dde6f2973d0289869b56a183b037fc6908c5a2c2792c3ea3db4b3c8",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:bb83f24e2ce6b7bb5c795c2bc70535da8e70700cc935a0db9049f932f6281b91",
+            "source_revision_id": "sha256:e368acda1330b87ba28491d3323b5ee0c82562070510dfccf9ba255adb79237d",
+            "translation_revision_id": "sha256:d64f6723fa42e2c8faaf79304ad533da9a805295089831356df8c807f8fa2c2f"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:11"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:6e2f9a66c44a066a0db78d151c2ff59541b7defe41ea065b13dbda245735fd41",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:bb83f24e2ce6b7bb5c795c2bc70535da8e70700cc935a0db9049f932f6281b91",
+            "source_revision_id": "sha256:e368acda1330b87ba28491d3323b5ee0c82562070510dfccf9ba255adb79237d",
+            "translation_revision_id": "sha256:d64f6723fa42e2c8faaf79304ad533da9a805295089831356df8c807f8fa2c2f"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:11"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:696c62ac7dde6f2973d0289869b56a183b037fc6908c5a2c2792c3ea3db4b3c8",
+          "sha256:6e2f9a66c44a066a0db78d151c2ff59541b7defe41ea065b13dbda245735fd41"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-11",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 614,
+            "image_sha256": "e6301772fd9db8e556d85fc47fee55793cf6772277f2233016ef6a49e4fd7b6e",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n614.jpg",
+            "printed_page": 545,
+            "segment_id": "sha256:235ebc97f526503cf5d765ade6fcc228f1ef2551655e78e121849a5046e03a9d",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Primum omnium Corinthiis schisma haeresis interdicens, deinceps Galatis circumcisionem, Romanis autem ordine scripturarum, sed et principium earum esse Christum intimans, prolixius scripsit,",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:e368acda1330b87ba28491d3323b5ee0c82562070510dfccf9ba255adb79237d",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Primum omnium Corinthiis schisma haeresis interdicens, deinceps Galatis circumcisionem, Romanis autem ordine scripturarum, sed et principium earum esse Christum intimans, prolixius scripsit,",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:11"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "고린토, 갈라디아, 로마에 보낸 편지의 주제를 차례로 요약한다. schisma haeresis는 이단이 일으키는 분열로, ordine scripturarum은 성경의 질서나 전체 흐름에 따르는 것으로 읽었다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:235ebc97f526503cf5d765ade6fcc228f1ef2551655e78e121849a5046e03a9d"
+            ],
+            "text": "무엇보다 먼저 고린토인들에게 이단의 분열을 금하면서, 그다음 갈라디아인들에게 할례를 금하면서, 로마인들에게는 성경의 질서를 따라, 성경의 근원이 그리스도이심을 아울러 알리면서 길게 썼다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:e368acda1330b87ba28491d3323b5ee0c82562070510dfccf9ba255adb79237d"
+        ],
+        "text": "무엇보다 먼저 고린토인들에게 이단의 분열을 금하면서, 그다음 갈라디아인들에게 할례를 금하면서, 로마인들에게는 성경의 질서를 따라, 성경의 근원이 그리스도이심을 아울러 알리면서 길게 썼다.",
+        "translation_revision_id": "sha256:d64f6723fa42e2c8faaf79304ad533da9a805295089831356df8c807f8fa2c2f",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:11"
+      },
+      "work_location": "11",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:11"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:1ab9e64c10a0db32218a30fc628aba225764ce1e76351e4ce41a743839c6213f",
+        "part_links": [
+          [
+            "sha256:b4e4ca8c0b39628051286da770ade0fadffc0105a0e7963299990e9b37961701"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:d06e74fb16dea3e3a898e55444a89b8bceb0d975ec42e32374ef8258867fc406"
+        ],
+        "translation_revision_ids": [
+          "sha256:d54ed1571f474c778e79058d9ad20af1178685fe1330aca30aa90156d4f943f8"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:12"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 12, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-12",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-12",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:d1845bc932589d362b1926c3a06f83a3defb4ad165b55d0ea97fc2c753a780d7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:1ab9e64c10a0db32218a30fc628aba225764ce1e76351e4ce41a743839c6213f",
+            "source_revision_id": "sha256:d06e74fb16dea3e3a898e55444a89b8bceb0d975ec42e32374ef8258867fc406",
+            "translation_revision_id": "sha256:d54ed1571f474c778e79058d9ad20af1178685fe1330aca30aa90156d4f943f8"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:12"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:6ff13ca750acaa7a43e04667097cac92275e5c9300bc02b0ebbc3da03033d269",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:1ab9e64c10a0db32218a30fc628aba225764ce1e76351e4ce41a743839c6213f",
+            "source_revision_id": "sha256:d06e74fb16dea3e3a898e55444a89b8bceb0d975ec42e32374ef8258867fc406",
+            "translation_revision_id": "sha256:d54ed1571f474c778e79058d9ad20af1178685fe1330aca30aa90156d4f943f8"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:12"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:d1845bc932589d362b1926c3a06f83a3defb4ad165b55d0ea97fc2c753a780d7",
+          "sha256:6ff13ca750acaa7a43e04667097cac92275e5c9300bc02b0ebbc3da03033d269"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-12",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 614,
+            "image_sha256": "e6301772fd9db8e556d85fc47fee55793cf6772277f2233016ef6a49e4fd7b6e",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n614.jpg",
+            "printed_page": 545,
+            "segment_id": "sha256:b4e4ca8c0b39628051286da770ade0fadffc0105a0e7963299990e9b37961701",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "de quibus singulis necesse est a nobis disputari;",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:d06e74fb16dea3e3a898e55444a89b8bceb0d975ec42e32374ef8258867fc406",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "de quibus singulis necesse est a nobis disputari;",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:12"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "채택 본문에는 ‘각각 논의할 필요가 있다’는 긍정 진술이 있다. 이는 단편이 속했던 더 큰 논의와 연결해 읽을 수 있는 말이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:b4e4ca8c0b39628051286da770ade0fadffc0105a0e7963299990e9b37961701"
+            ],
+            "text": "이 각각의 문제를 우리가 논의할 필요가 있다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:d06e74fb16dea3e3a898e55444a89b8bceb0d975ec42e32374ef8258867fc406"
+        ],
+        "text": "이 각각의 문제를 우리가 논의할 필요가 있다.",
+        "translation_revision_id": "sha256:d54ed1571f474c778e79058d9ad20af1178685fe1330aca30aa90156d4f943f8",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:12"
+      },
+      "work_location": "12",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:12"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:d55294b946aac90a480d6a933bf7dd9aed55c8e95e4e17e68c54d7bf72205e74",
+        "part_links": [
+          [
+            "sha256:92f92ba9814d5cd751ec399851db49c31555c7e6248e48ce240f20cc121c2ae3",
+            "sha256:c393ef0628f332f291198676ec166bb0545c5014f980de3f1104e4c8a9fe75db"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:fe2535f173cf6e1a28f70d39623c51e376af377d66f9830611a9fb0ad48e1f20"
+        ],
+        "translation_revision_ids": [
+          "sha256:6a0df4a53fbb5f7a66e2a63b9a90376975795bf23f5598c05340cc55c43b133f"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:13"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [
+        {
+          "book": "Galatians",
+          "chapter": 1,
+          "evidence_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n614.jpg",
+          "label": "갈라디아서 1:17",
+          "reference_scope": "Westcott 1896, 545쪽 각주 7. 요한을 바울보다 앞선 사람이라 부르는 말의 가능한 해석을 위한 참조",
+          "type": "editorial_biblical_reference",
+          "verse": 17,
+          "verse_end": null
+        }
+      ],
+      "citation": "익명, 『무라토리 단편』 자체 단락 13, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-13",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-13",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:be1230f4f8f1fcf2db3bb93a131b942a6c82a902aa95f683239deecf35f81445",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:d55294b946aac90a480d6a933bf7dd9aed55c8e95e4e17e68c54d7bf72205e74",
+            "source_revision_id": "sha256:fe2535f173cf6e1a28f70d39623c51e376af377d66f9830611a9fb0ad48e1f20",
+            "translation_revision_id": "sha256:6a0df4a53fbb5f7a66e2a63b9a90376975795bf23f5598c05340cc55c43b133f"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:13"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:54a40a333649d8a8c487fd605dd69a3177787827548cd10ff292a92fd8b1a34b",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:d55294b946aac90a480d6a933bf7dd9aed55c8e95e4e17e68c54d7bf72205e74",
+            "source_revision_id": "sha256:fe2535f173cf6e1a28f70d39623c51e376af377d66f9830611a9fb0ad48e1f20",
+            "translation_revision_id": "sha256:6a0df4a53fbb5f7a66e2a63b9a90376975795bf23f5598c05340cc55c43b133f"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:13"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:be1230f4f8f1fcf2db3bb93a131b942a6c82a902aa95f683239deecf35f81445",
+          "sha256:54a40a333649d8a8c487fd605dd69a3177787827548cd10ff292a92fd8b1a34b"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-13",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 614,
+            "image_sha256": "e6301772fd9db8e556d85fc47fee55793cf6772277f2233016ef6a49e4fd7b6e",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n614.jpg",
+            "printed_page": 545,
+            "segment_id": "sha256:92f92ba9814d5cd751ec399851db49c31555c7e6248e48ce240f20cc121c2ae3",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "cum ipse beatus apostolus Paulus, sequens prodecessoris sui Iohannis ordinem, nonnisi nominatim septem ecclesiis scribat ordine",
+            "transmission": "latin_witness_in_print_edition"
+          },
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:c393ef0628f332f291198676ec166bb0545c5014f980de3f1104e4c8a9fe75db",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "tali: ad Corinthios (prima), ad Ephesios (secunda), ad Philippenses (tertia), ad Colossenses (quarta), ad Galatas (quinta), ad Thessalonicenses (sexta), ad Romanos (septima).",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:fe2535f173cf6e1a28f70d39623c51e376af377d66f9830611a9fb0ad48e1f20",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "cum ipse beatus apostolus Paulus, sequens prodecessoris sui Iohannis ordinem, nonnisi nominatim septem ecclesiis scribat ordine tali: ad Corinthios (prima), ad Ephesios (secunda), ad Philippenses (tertia), ad Colossenses (quarta), ad Galatas (quinta), ad Thessalonicenses (sexta), ad Romanos (septima).",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:13"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "nonnisi nominatim은 이름으로 구별되는 일곱 교회라는 뜻으로 읽었다. 뒤의 보편 교회와 일곱 교회의 관계를 고려한 선택이다. 요한을 바울의 prodecessor라 부르는 표현은 ‘자기보다 앞선 요한’으로 옮겼다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:92f92ba9814d5cd751ec399851db49c31555c7e6248e48ce240f20cc121c2ae3",
+              "sha256:c393ef0628f332f291198676ec166bb0545c5014f980de3f1104e4c8a9fe75db"
+            ],
+            "text": "복된 사도 바울 자신은 자기보다 앞선 요한의 순서를 따라, 이름으로만 구별되는 일곱 교회에 썼으며, 그 순서는 이러하다. 첫째는 고린토인들에게, 둘째는 에베소인들에게, 셋째는 필리피인들에게, 넷째는 골로새인들에게, 다섯째는 갈라디아인들에게, 여섯째는 테살로니카인들에게, 일곱째는 로마인들에게 쓴 것이다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:fe2535f173cf6e1a28f70d39623c51e376af377d66f9830611a9fb0ad48e1f20"
+        ],
+        "text": "복된 사도 바울 자신은 자기보다 앞선 요한의 순서를 따라, 이름으로만 구별되는 일곱 교회에 썼으며, 그 순서는 이러하다. 첫째는 고린토인들에게, 둘째는 에베소인들에게, 셋째는 필리피인들에게, 넷째는 골로새인들에게, 다섯째는 갈라디아인들에게, 여섯째는 테살로니카인들에게, 일곱째는 로마인들에게 쓴 것이다.",
+        "translation_revision_id": "sha256:6a0df4a53fbb5f7a66e2a63b9a90376975795bf23f5598c05340cc55c43b133f",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:13"
+      },
+      "work_location": "13",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:13"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:10790b0e657a4370dd123f8e8edfa414bb46716b54162961479bfc2f1c31ffbd",
+        "part_links": [
+          [
+            "sha256:b936eaa14967f0fcbac9b28f0149bcd742c801a5ddd2efa5fe0f113299f688d4"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:12a564eefe556ddf1f3ee3fa8437c466e02b8f6659d144cdf4b595ce36315d38"
+        ],
+        "translation_revision_ids": [
+          "sha256:a04f80976597622eccff823403f85c536a59c97f9db8cdfcabf4197fe951770c"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:14"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 14, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-14",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-14",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:8787a4de9c521d81bbc6c4f51684ac38eda17c0561f5a01271314f46fb63adff",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:10790b0e657a4370dd123f8e8edfa414bb46716b54162961479bfc2f1c31ffbd",
+            "source_revision_id": "sha256:12a564eefe556ddf1f3ee3fa8437c466e02b8f6659d144cdf4b595ce36315d38",
+            "translation_revision_id": "sha256:a04f80976597622eccff823403f85c536a59c97f9db8cdfcabf4197fe951770c"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:14"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:89e3dd99d4286a4fd759200bf1bde473b5fa6fc90a64fa6a8fdb3e266cbc724b",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:10790b0e657a4370dd123f8e8edfa414bb46716b54162961479bfc2f1c31ffbd",
+            "source_revision_id": "sha256:12a564eefe556ddf1f3ee3fa8437c466e02b8f6659d144cdf4b595ce36315d38",
+            "translation_revision_id": "sha256:a04f80976597622eccff823403f85c536a59c97f9db8cdfcabf4197fe951770c"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:14"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:8787a4de9c521d81bbc6c4f51684ac38eda17c0561f5a01271314f46fb63adff",
+          "sha256:89e3dd99d4286a4fd759200bf1bde473b5fa6fc90a64fa6a8fdb3e266cbc724b"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-14",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:b936eaa14967f0fcbac9b28f0149bcd742c801a5ddd2efa5fe0f113299f688d4",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Uerum Corinthiis et Thessalonicensibus licet pro correptione iteretur, una tamen per omnem orbem terrae ecclesia diffusa esse dinoscitur;",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:12a564eefe556ddf1f3ee3fa8437c466e02b8f6659d144cdf4b595ce36315d38",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Uerum Corinthiis et Thessalonicensibus licet pro correptione iteretur, una tamen per omnem orbem terrae ecclesia diffusa esse dinoscitur;",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:14"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "고린토와 테살로니카에 두 차례씩 쓴 사실을 인정하면서, 온 세상에 퍼진 교회가 하나라는 논지를 이어 간다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:b936eaa14967f0fcbac9b28f0149bcd742c801a5ddd2efa5fe0f113299f688d4"
+            ],
+            "text": "고린토인들과 테살로니카인들에게는 바로잡아 주기 위해 거듭 썼지만, 온 세상에 퍼져 있는 교회가 하나라는 것은 분명하다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:12a564eefe556ddf1f3ee3fa8437c466e02b8f6659d144cdf4b595ce36315d38"
+        ],
+        "text": "고린토인들과 테살로니카인들에게는 바로잡아 주기 위해 거듭 썼지만, 온 세상에 퍼져 있는 교회가 하나라는 것은 분명하다.",
+        "translation_revision_id": "sha256:a04f80976597622eccff823403f85c536a59c97f9db8cdfcabf4197fe951770c",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:14"
+      },
+      "work_location": "14",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:14"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:746ad51d89d9d794590ffedad34e74d6c17d5300b4c5612829d9ce77fa2acebc",
+        "part_links": [
+          [
+            "sha256:bf22347ff417b34d0b4d715278ca49e20053c80d20134b986c3aa9a2b681bbb3"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:8af6f90df42f953aa3d55d4b391bffdbc0575f23e1114b1881ac5b05bdb952ce"
+        ],
+        "translation_revision_ids": [
+          "sha256:c943e6a3d1c840dd19dabebe807b677734995453dc7d26c3aa53deca93490ec3"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:15"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 15, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-15",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-15",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:adeb267c16fbd9254a6b378596b8dc885474113715f6d91e9b4a30725f6b61c7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:746ad51d89d9d794590ffedad34e74d6c17d5300b4c5612829d9ce77fa2acebc",
+            "source_revision_id": "sha256:8af6f90df42f953aa3d55d4b391bffdbc0575f23e1114b1881ac5b05bdb952ce",
+            "translation_revision_id": "sha256:c943e6a3d1c840dd19dabebe807b677734995453dc7d26c3aa53deca93490ec3"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:15"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:7a8392770900908be347340822a1d4a0cd7148ec01e2eec8f4016c76a537fb7e",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:746ad51d89d9d794590ffedad34e74d6c17d5300b4c5612829d9ce77fa2acebc",
+            "source_revision_id": "sha256:8af6f90df42f953aa3d55d4b391bffdbc0575f23e1114b1881ac5b05bdb952ce",
+            "translation_revision_id": "sha256:c943e6a3d1c840dd19dabebe807b677734995453dc7d26c3aa53deca93490ec3"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:15"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:adeb267c16fbd9254a6b378596b8dc885474113715f6d91e9b4a30725f6b61c7",
+          "sha256:7a8392770900908be347340822a1d4a0cd7148ec01e2eec8f4016c76a537fb7e"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-15",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:bf22347ff417b34d0b4d715278ca49e20053c80d20134b986c3aa9a2b681bbb3",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "et Iohannes enim in Apocalypsi, licet septem ecclesiis scribat, tamen omnibus dicit.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:8af6f90df42f953aa3d55d4b391bffdbc0575f23e1114b1881ac5b05bdb952ce",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "et Iohannes enim in Apocalypsi, licet septem ecclesiis scribat, tamen omnibus dicit.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:15"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:bf22347ff417b34d0b4d715278ca49e20053c80d20134b986c3aa9a2b681bbb3"
+            ],
+            "text": "요한도 묵시록에서 일곱 교회에 쓰지만, 모든 이에게 말한다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:8af6f90df42f953aa3d55d4b391bffdbc0575f23e1114b1881ac5b05bdb952ce"
+        ],
+        "text": "요한도 묵시록에서 일곱 교회에 쓰지만, 모든 이에게 말한다.",
+        "translation_revision_id": "sha256:c943e6a3d1c840dd19dabebe807b677734995453dc7d26c3aa53deca93490ec3",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:15"
+      },
+      "work_location": "15",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:15"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:c891aec5d6b24c2d6b7a40dd2087cf1688bacead2881701373babf65e987dc28",
+        "part_links": [
+          [
+            "sha256:00403a880bdea45410768ebe6558bdd29560b78a884d1364cbb67836d866859f"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:b54ae79c734bd09c82d35e9f5230f10dd6d9573530c7fd1fdba6d2fdf54fba69"
+        ],
+        "translation_revision_ids": [
+          "sha256:f0a9d27109b7ac54fc2d543fa366de72a2e3175ea8b0eb979fd7ddff8fc94e8a"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:16"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 16, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-16",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-16",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:8b5ff6136236f6039b70daa32e6900bf9063e4031a80598293dfee50f8d851f4",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:c891aec5d6b24c2d6b7a40dd2087cf1688bacead2881701373babf65e987dc28",
+            "source_revision_id": "sha256:b54ae79c734bd09c82d35e9f5230f10dd6d9573530c7fd1fdba6d2fdf54fba69",
+            "translation_revision_id": "sha256:f0a9d27109b7ac54fc2d543fa366de72a2e3175ea8b0eb979fd7ddff8fc94e8a"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:16"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:856d140f9b41f5d44bc260cbe583823f12b5df4dd765ee9418cf9c29f991b64f",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:c891aec5d6b24c2d6b7a40dd2087cf1688bacead2881701373babf65e987dc28",
+            "source_revision_id": "sha256:b54ae79c734bd09c82d35e9f5230f10dd6d9573530c7fd1fdba6d2fdf54fba69",
+            "translation_revision_id": "sha256:f0a9d27109b7ac54fc2d543fa366de72a2e3175ea8b0eb979fd7ddff8fc94e8a"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:16"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:8b5ff6136236f6039b70daa32e6900bf9063e4031a80598293dfee50f8d851f4",
+          "sha256:856d140f9b41f5d44bc260cbe583823f12b5df4dd765ee9418cf9c29f991b64f"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-16",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "31cb6b10046daef7103ea0358ff8da22405daf5c817d134f2401923111b7c6e0",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n34.jpg",
+                "printed_page": 19
+              },
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:00403a880bdea45410768ebe6558bdd29560b78a884d1364cbb67836d866859f",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Uerum ad Philemonem unam et ad Titum unam, et ad Timotheum duas pro affectu et dilectione; in honore tamen ecclesiae catholicae in ordinatione ecclesiasticae disciplinae sanctificatae sunt.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:b54ae79c734bd09c82d35e9f5230f10dd6d9573530c7fd1fdba6d2fdf54fba69",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Uerum ad Philemonem unam et ad Titum unam, et ad Timotheum duas pro affectu et dilectione; in honore tamen ecclesiae catholicae in ordinatione ecclesiasticae disciplinae sanctificatae sunt.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:16"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "catholica는 전체에 걸쳐 있는 보편성을 나타내는 말로 ‘보편 교회’라고 옮겼다. 개인에게 보낸 편지들이 교회의 규율을 세우는 데 받아들여졌다고 설명한다. sanctificatae는 거룩한 것으로 구별되거나 인정되었다는 뜻으로 읽었다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:00403a880bdea45410768ebe6558bdd29560b78a884d1364cbb67836d866859f"
+            ],
+            "text": "필레몬에게는 한 통, 티토에게 한 통, 티모테오에게 두 통을 애정과 사랑으로 썼다. 이 편지들도 보편 교회의 영예를 위하여, 교회 규율을 정립하는 데 거룩한 것으로 받아들여졌다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:b54ae79c734bd09c82d35e9f5230f10dd6d9573530c7fd1fdba6d2fdf54fba69"
+        ],
+        "text": "필레몬에게는 한 통, 티토에게 한 통, 티모테오에게 두 통을 애정과 사랑으로 썼다. 이 편지들도 보편 교회의 영예를 위하여, 교회 규율을 정립하는 데 거룩한 것으로 받아들여졌다.",
+        "translation_revision_id": "sha256:f0a9d27109b7ac54fc2d543fa366de72a2e3175ea8b0eb979fd7ddff8fc94e8a",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:16"
+      },
+      "work_location": "16",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:16"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:937c75e6702441ecc06cad247ce42820531c9e135c94a742cbe7c96b6ba96093",
+        "part_links": [
+          [
+            "sha256:6b1aefba82e1ba7f4236810818a9f861de0a9be2f437b435bb99856de971a362"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:a84a7f5a321560828d4f57949bef5112c1b84826cbc9b8b23f8fe3245cd24daf"
+        ],
+        "translation_revision_ids": [
+          "sha256:2636ebddd7feb9ccc6aae41c65fe75ca7fde24b4bc42c4cf521fe3082f01737d"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:17"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 17, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-17",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-17",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:e287f2db0b4a40b50545a4d4d98c1bda78e197a25505603d7c3272027af068e4",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:937c75e6702441ecc06cad247ce42820531c9e135c94a742cbe7c96b6ba96093",
+            "source_revision_id": "sha256:a84a7f5a321560828d4f57949bef5112c1b84826cbc9b8b23f8fe3245cd24daf",
+            "translation_revision_id": "sha256:2636ebddd7feb9ccc6aae41c65fe75ca7fde24b4bc42c4cf521fe3082f01737d"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:17"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:40f230cff821287afedfc69f29001c25526523953fb110ef16e6050d45128773",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:937c75e6702441ecc06cad247ce42820531c9e135c94a742cbe7c96b6ba96093",
+            "source_revision_id": "sha256:a84a7f5a321560828d4f57949bef5112c1b84826cbc9b8b23f8fe3245cd24daf",
+            "translation_revision_id": "sha256:2636ebddd7feb9ccc6aae41c65fe75ca7fde24b4bc42c4cf521fe3082f01737d"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:17"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:e287f2db0b4a40b50545a4d4d98c1bda78e197a25505603d7c3272027af068e4",
+          "sha256:40f230cff821287afedfc69f29001c25526523953fb110ef16e6050d45128773"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-17",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:6b1aefba82e1ba7f4236810818a9f861de0a9be2f437b435bb99856de971a362",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Fertur etiam ad Laodicenses, alia ad Alexandrinos, Pauli nomine finctae ad haeresim Marcionis, et alia plura quae in catholicam ecclesiam recipi non potest: fel enim cum melle misceri non congruit.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:a84a7f5a321560828d4f57949bef5112c1b84826cbc9b8b23f8fe3245cd24daf",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Fertur etiam ad Laodicenses, alia ad Alexandrinos, Pauli nomine finctae ad haeresim Marcionis, et alia plura quae in catholicam ecclesiam recipi non potest: fel enim cum melle misceri non congruit.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:17"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "라오디케아와 알렉산드리아에 보낸 것으로 전해지는 편지들을 바울의 이름을 빌린 글로 분류한다. ad haeresim Marcionis는 마르키온의 이단과 관련된다는 범위로 옮겼다. 쓸개즙과 꿀의 비유는 이런 글들을 함께 받아들이는 문제에 붙는다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:6b1aefba82e1ba7f4236810818a9f861de0a9be2f437b435bb99856de971a362"
+            ],
+            "text": "라오디케아인들에게 보낸 편지와 알렉산드리아인들에게 보낸 또 다른 편지도 전해진다. 마르키온의 이단과 관련하여 바울의 이름으로 꾸며 낸 것들이다. 그 밖에도 많은 글이 있으나, 보편 교회 안에서 받아들일 수 없다. 쓸개즙을 꿀과 섞는 것은 어울리지 않기 때문이다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:a84a7f5a321560828d4f57949bef5112c1b84826cbc9b8b23f8fe3245cd24daf"
+        ],
+        "text": "라오디케아인들에게 보낸 편지와 알렉산드리아인들에게 보낸 또 다른 편지도 전해진다. 마르키온의 이단과 관련하여 바울의 이름으로 꾸며 낸 것들이다. 그 밖에도 많은 글이 있으나, 보편 교회 안에서 받아들일 수 없다. 쓸개즙을 꿀과 섞는 것은 어울리지 않기 때문이다.",
+        "translation_revision_id": "sha256:2636ebddd7feb9ccc6aae41c65fe75ca7fde24b4bc42c4cf521fe3082f01737d",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:17"
+      },
+      "work_location": "17",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:17"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:c0cd760ae6e6b2656652509d4a3b6445f38f7e92b6cef63df98e4f83982dd48f",
+        "part_links": [
+          [
+            "sha256:10b9e774d5964b440ae99882d7c581ab428b8799374529acf2060c72f6e5c083"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:0a1cb15f86fd30179e38727b906c786fd4104065cd957576f8c9ab9d591ac0ef"
+        ],
+        "translation_revision_ids": [
+          "sha256:7efab5f2861b4ff45df9853baaf8b7f9d43506f674dd48fd0657247b571f06a5"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:18"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 18, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-18",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-18",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:d56733d4b46f417682fdb0baefde0f69c84e56e4caed9118a35b5e71ddfbc859",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:c0cd760ae6e6b2656652509d4a3b6445f38f7e92b6cef63df98e4f83982dd48f",
+            "source_revision_id": "sha256:0a1cb15f86fd30179e38727b906c786fd4104065cd957576f8c9ab9d591ac0ef",
+            "translation_revision_id": "sha256:7efab5f2861b4ff45df9853baaf8b7f9d43506f674dd48fd0657247b571f06a5"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:18"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:914cfbfbc2ad03baaef1b6740b86074fa4c6f0bfaee22d52ac4bf72fe80ca4a2",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:c0cd760ae6e6b2656652509d4a3b6445f38f7e92b6cef63df98e4f83982dd48f",
+            "source_revision_id": "sha256:0a1cb15f86fd30179e38727b906c786fd4104065cd957576f8c9ab9d591ac0ef",
+            "translation_revision_id": "sha256:7efab5f2861b4ff45df9853baaf8b7f9d43506f674dd48fd0657247b571f06a5"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:18"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:d56733d4b46f417682fdb0baefde0f69c84e56e4caed9118a35b5e71ddfbc859",
+          "sha256:914cfbfbc2ad03baaef1b6740b86074fa4c6f0bfaee22d52ac4bf72fe80ca4a2"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-18",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:10b9e774d5964b440ae99882d7c581ab428b8799374529acf2060c72f6e5c083",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Epistula sane Iudae et superscriptae Iohannis duas in Catholica habentur; et Sapientia ab amicis Salomonis in honorem ipsius scripta.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:0a1cb15f86fd30179e38727b906c786fd4104065cd957576f8c9ab9d591ac0ef",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Epistula sane Iudae et superscriptae Iohannis duas in Catholica habentur; et Sapientia ab amicis Salomonis in honorem ipsius scripta.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:18"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "Westcott는 손상된 superscriptio를 superscriptae로 교정해 요한의 이름이 붙은 두 편지로 읽는다. 『지혜서』의 저술을 솔로몬의 벗들에게 귀속하는 것은 이 단편의 진술이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:10b9e774d5964b440ae99882d7c581ab428b8799374529acf2060c72f6e5c083"
+            ],
+            "text": "유다의 편지와 요한의 이름이 붙은 두 통의 편지는 보편 교회 안에서 받아들여진다. 또 『지혜서』는 솔로몬의 벗들이 그를 기리기 위해 쓴 것이다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:0a1cb15f86fd30179e38727b906c786fd4104065cd957576f8c9ab9d591ac0ef"
+        ],
+        "text": "유다의 편지와 요한의 이름이 붙은 두 통의 편지는 보편 교회 안에서 받아들여진다. 또 『지혜서』는 솔로몬의 벗들이 그를 기리기 위해 쓴 것이다.",
+        "translation_revision_id": "sha256:7efab5f2861b4ff45df9853baaf8b7f9d43506f674dd48fd0657247b571f06a5",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:18"
+      },
+      "work_location": "18",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:18"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:58dd06ca65bf5604193beb4a0f1b9fef3082b48dafe5b2db57eb8a0cf652b929",
+        "part_links": [
+          [
+            "sha256:446bfd007ca00fcc4b6c09a11789de695003b7be9edae2841d1b56699ee8b62f"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:74690ec7e85a1bf78abc8a45d8f0df5bf86b145589795863485915203d9a253b"
+        ],
+        "translation_revision_ids": [
+          "sha256:03525a6299baedfb22e86953121451bbfdaa865e6a098413293a6dcd39207064"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:19"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 19, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-19",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-19",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:5a31db6343fd1e6ebe53255fc8606674b15dbfecf643ec4769d0372e3a9c8c71",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:58dd06ca65bf5604193beb4a0f1b9fef3082b48dafe5b2db57eb8a0cf652b929",
+            "source_revision_id": "sha256:74690ec7e85a1bf78abc8a45d8f0df5bf86b145589795863485915203d9a253b",
+            "translation_revision_id": "sha256:03525a6299baedfb22e86953121451bbfdaa865e6a098413293a6dcd39207064"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:19"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:745761a156a45e6fc2553fa1b028c6df48e21e01a867fe34dee9a03c4071aba7",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:58dd06ca65bf5604193beb4a0f1b9fef3082b48dafe5b2db57eb8a0cf652b929",
+            "source_revision_id": "sha256:74690ec7e85a1bf78abc8a45d8f0df5bf86b145589795863485915203d9a253b",
+            "translation_revision_id": "sha256:03525a6299baedfb22e86953121451bbfdaa865e6a098413293a6dcd39207064"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:19"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:5a31db6343fd1e6ebe53255fc8606674b15dbfecf643ec4769d0372e3a9c8c71",
+          "sha256:745761a156a45e6fc2553fa1b028c6df48e21e01a867fe34dee9a03c4071aba7"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-19",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:446bfd007ca00fcc4b6c09a11789de695003b7be9edae2841d1b56699ee8b62f",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Apocalypses etiam Iohannis et Petri tantum recipimus, quam quidam ex nostris legi in ecclesia nolunt.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:74690ec7e85a1bf78abc8a45d8f0df5bf86b145589795863485915203d9a253b",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Apocalypses etiam Iohannis et Petri tantum recipimus, quam quidam ex nostris legi in ecclesia nolunt.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:19"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "quam은 여성 단수형 관계대명사이다. 여기서는 가까이 놓인 베드로의 묵시록을 받아 ‘후자’로 옮겼다. 책을 받아들이는 태도와 교회에서 공적으로 읽기를 원하는 태도가 구분되어 나타난다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:446bfd007ca00fcc4b6c09a11789de695003b7be9edae2841d1b56699ee8b62f"
+            ],
+            "text": "묵시록으로는 요한과 베드로의 묵시록만 우리가 받아들인다. 우리 가운데 어떤 이들은 후자를 교회에서 읽는 것을 원하지 않는다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:74690ec7e85a1bf78abc8a45d8f0df5bf86b145589795863485915203d9a253b"
+        ],
+        "text": "묵시록으로는 요한과 베드로의 묵시록만 우리가 받아들인다. 우리 가운데 어떤 이들은 후자를 교회에서 읽는 것을 원하지 않는다.",
+        "translation_revision_id": "sha256:03525a6299baedfb22e86953121451bbfdaa865e6a098413293a6dcd39207064",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:19"
+      },
+      "work_location": "19",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:19"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:879e479ce4d79c500fc21e91bde1130807c28beb8d737cbb31a8c5bffc80c999",
+        "part_links": [
+          [
+            "sha256:d60754b60f141b1b6ef5389918f470551359ed85e9e99e0a8611c36ad84134f8",
+            "sha256:3d929a2cc430d28332d31577d7959907ac6a16f6f74051c4d044c5f79fbfd767"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:3a8328d5912d74fee3aafd9569ca50073f48ce6613d762428255013dbe94e824"
+        ],
+        "translation_revision_ids": [
+          "sha256:138dbc5e7008f171bba3fd81ee91b4326fd5cdd954d50d4f3ccbbfaa055c6c4c"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:20"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 20, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-20",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-20",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:4ea4269e9bf449a6d53f88fca9ff69bb2fc17b2e630a525376aa7016ecf60ede",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:879e479ce4d79c500fc21e91bde1130807c28beb8d737cbb31a8c5bffc80c999",
+            "source_revision_id": "sha256:3a8328d5912d74fee3aafd9569ca50073f48ce6613d762428255013dbe94e824",
+            "translation_revision_id": "sha256:138dbc5e7008f171bba3fd81ee91b4326fd5cdd954d50d4f3ccbbfaa055c6c4c"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:20"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:939238fdaf71c986f450b6adcce9c1b507e104229de5d4c3b52edf40ae66d7a6",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:879e479ce4d79c500fc21e91bde1130807c28beb8d737cbb31a8c5bffc80c999",
+            "source_revision_id": "sha256:3a8328d5912d74fee3aafd9569ca50073f48ce6613d762428255013dbe94e824",
+            "translation_revision_id": "sha256:138dbc5e7008f171bba3fd81ee91b4326fd5cdd954d50d4f3ccbbfaa055c6c4c"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:20"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:4ea4269e9bf449a6d53f88fca9ff69bb2fc17b2e630a525376aa7016ecf60ede",
+          "sha256:939238fdaf71c986f450b6adcce9c1b507e104229de5d4c3b52edf40ae66d7a6"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-20",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott가 손상을 표시한 구절.",
+            "expression": "†completum numero",
+            "type": "textual_uncertainty"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 615,
+            "image_sha256": "ab9f7850bfbca9ad6a7ddc92de99cce1bb70ca48eb980efc47753503cfcdd650",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n615.jpg",
+            "printed_page": 546,
+            "segment_id": "sha256:d60754b60f141b1b6ef5389918f470551359ed85e9e99e0a8611c36ad84134f8",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Pastorem",
+            "transmission": "latin_witness_in_print_edition"
+          },
+          {
+            "image_index": 616,
+            "image_sha256": "86979eaa1b0417ac9c85ceab3b2f379fbd0f9243af311a66180a1b5b4cce3d61",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n616.jpg",
+            "printed_page": 547,
+            "segment_id": "sha256:3d929a2cc430d28332d31577d7959907ac6a16f6f74051c4d044c5f79fbfd767",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "uero nuperrime temporibus nostris in urbe Roma Hermas conscripsit, sedente cathedra urbis Romae ecclesiae Pio episcopo fratre eius; et ideo legi eum quidem oportet, se publicare uero in ecclesia populo, neque inter prophetas, †completum numero, neque inter apostolos, in finem temporum potest.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:3a8328d5912d74fee3aafd9569ca50073f48ce6613d762428255013dbe94e824",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Pastorem uero nuperrime temporibus nostris in urbe Roma Hermas conscripsit, sedente cathedra urbis Romae ecclesiae Pio episcopo fratre eius; et ideo legi eum quidem oportet, se publicare uero in ecclesia populo, neque inter prophetas, †completum numero, neque inter apostolos, in finem temporum potest.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:20"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "‘우리 시대’와 헤르마스의 형제 피우스에 관한 말은 이 문헌이 제시하는 시간 정보이다. 이를 역사적 작성 연대로 환산하는 과정에는 연구상 논쟁이 있다.",
+          "†completum numero는 Westcott가 손상된 구절로 표시한다. 여기서는 예언자들의 수가 완성되었다는 뜻으로 읽었다. in finem temporum은 사도들의 시대가 끝난 뒤라는 뜻으로 읽어 문장을 풀었다. 공적 낭독의 두 제한을 설명하는 이 구문의 해석은 잠정적이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:d60754b60f141b1b6ef5389918f470551359ed85e9e99e0a8611c36ad84134f8",
+              "sha256:3d929a2cc430d28332d31577d7959907ac6a16f6f74051c4d044c5f79fbfd767"
+            ],
+            "text": "헤르마스는 『목자』를 아주 최근, 우리 시대에, 로마에서 썼다. 그의 형제인 피우스 감독이 로마 교회의 좌에 앉아 있던 때였다. 그러므로 이 책은 읽어야 한다. 그러나 예언자들의 수는 이미 완성되었으므로 예언서들 가운데서, 또 사도들의 시대가 끝난 뒤에 쓰였으므로 사도들의 글 가운데서 교회의 백성 앞에 공적으로 읽힐 수는 없다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:3a8328d5912d74fee3aafd9569ca50073f48ce6613d762428255013dbe94e824"
+        ],
+        "text": "헤르마스는 『목자』를 아주 최근, 우리 시대에, 로마에서 썼다. 그의 형제인 피우스 감독이 로마 교회의 좌에 앉아 있던 때였다. 그러므로 이 책은 읽어야 한다. 그러나 예언자들의 수는 이미 완성되었으므로 예언서들 가운데서, 또 사도들의 시대가 끝난 뒤에 쓰였으므로 사도들의 글 가운데서 교회의 백성 앞에 공적으로 읽힐 수는 없다.",
+        "translation_revision_id": "sha256:138dbc5e7008f171bba3fd81ee91b4326fd5cdd954d50d4f3ccbbfaa055c6c4c",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:20"
+      },
+      "work_location": "20",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:20"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:3764fbd86787fdcf570bceb2b2d105e8349c0d687fb4e935d4b7c88787c2a0ed",
+        "part_links": [
+          [
+            "sha256:f9e5e7fdffceb5f1ea1a3c911c3feb41ca11225c74dc16fcd47a5d3bbfffe9c5"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:d3cf93d8e7c2d533d36014ffbb7058f10e46e51bd30ee1ef680989d0e3ceeda3"
+        ],
+        "translation_revision_ids": [
+          "sha256:61bf95f92a09d9747ed67e68db9dc7e26ae511284d229083ebe1d3215a3fd6a6"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:21"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 21, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-21",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-21",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:894e300da2a9b6b60600d20538359ebe24119294cd885bcf452107737655b898",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:3764fbd86787fdcf570bceb2b2d105e8349c0d687fb4e935d4b7c88787c2a0ed",
+            "source_revision_id": "sha256:d3cf93d8e7c2d533d36014ffbb7058f10e46e51bd30ee1ef680989d0e3ceeda3",
+            "translation_revision_id": "sha256:61bf95f92a09d9747ed67e68db9dc7e26ae511284d229083ebe1d3215a3fd6a6"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:21"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:40c252aaad7b7fa11e4abe29aecc6b4b906c7619f40e90399002571c6b875636",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:3764fbd86787fdcf570bceb2b2d105e8349c0d687fb4e935d4b7c88787c2a0ed",
+            "source_revision_id": "sha256:d3cf93d8e7c2d533d36014ffbb7058f10e46e51bd30ee1ef680989d0e3ceeda3",
+            "translation_revision_id": "sha256:61bf95f92a09d9747ed67e68db9dc7e26ae511284d229083ebe1d3215a3fd6a6"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:21"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:894e300da2a9b6b60600d20538359ebe24119294cd885bcf452107737655b898",
+          "sha256:40c252aaad7b7fa11e4abe29aecc6b4b906c7619f40e90399002571c6b875636"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-21",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott가 불확실한 인명 뒤에 별표 두 개를 표시했다. 이를 보존했다.",
+            "expression": "†Metiad **",
+            "type": "textual_uncertainty"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 616,
+            "image_sha256": "86979eaa1b0417ac9c85ceab3b2f379fbd0f9243af311a66180a1b5b4cce3d61",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n616.jpg",
+            "printed_page": 547,
+            "segment_id": "sha256:f9e5e7fdffceb5f1ea1a3c911c3feb41ca11225c74dc16fcd47a5d3bbfffe9c5",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Arsinoi autem seu Ualentini, uel †Metiad ** nihil in totum recipimus.",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:d3cf93d8e7c2d533d36014ffbb7058f10e46e51bd30ee1ef680989d0e3ceeda3",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Arsinoi autem seu Ualentini, uel †Metiad ** nihil in totum recipimus.",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:21"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "†Metiad 뒤의 별표 두 개는 불확실한 인명의 나머지 부분을 표시한다. ‘메티아드’는 현재 남은 형태를 음역한 것이다. 다른 편집자의 인명 교정안은 별도의 독법이다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:f9e5e7fdffceb5f1ea1a3c911c3feb41ca11225c74dc16fcd47a5d3bbfffe9c5"
+            ],
+            "text": "아르시노오스나 발렌티노스, 또는 메티아드의 글은 전혀, 아무것도 받아들이지 않는다."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:d3cf93d8e7c2d533d36014ffbb7058f10e46e51bd30ee1ef680989d0e3ceeda3"
+        ],
+        "text": "아르시노오스나 발렌티노스, 또는 메티아드의 글은 전혀, 아무것도 받아들이지 않는다.",
+        "translation_revision_id": "sha256:61bf95f92a09d9747ed67e68db9dc7e26ae511284d229083ebe1d3215a3fd6a6",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:21"
+      },
+      "work_location": "21",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:21"
+    },
+    {
+      "alignment": {
+        "alignment_revision_id": "sha256:e4f641bca8b4672b3c7837127bab0c996239c613d5da1eb8bd187c2f456f3e7e",
+        "part_links": [
+          [
+            "sha256:4b18a686bd92a4aba21596421a72a21fb72800667cd5a7ba95e88f6c2a8bab23"
+          ]
+        ],
+        "scope": "whole_passage_with_segment_links",
+        "source_revision_ids": [
+          "sha256:7259fc03ccb9902500d7fad22e899130d3ad671a2a209ba6a9d1abd27bece9f3"
+        ],
+        "translation_revision_ids": [
+          "sha256:87cdacba93c5baa6905ca227b9c61eeea1969894cb6dc20e1d1d5eb0ef86890a"
+        ],
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:22"
+      },
+      "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+      "annotations": [],
+      "citation": "익명, 『무라토리 단편』 자체 단락 22, 라틴어 전승의 편집 본문, Westcott 1896, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.15, https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-22",
+      "public_url": "https://imtseoul.github.io/patristics-ko-reference/releases/alpha-0.15/muratorian-fragment/index.html#p-22",
+      "review_records": [
+        {
+          "observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:42951a901e75316534d3df4a2e15dc4e6330318749c71f897e5347d2cae51d5e",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "source_extraction",
+          "targets": {
+            "alignment_revision_id": "sha256:e4f641bca8b4672b3c7837127bab0c996239c613d5da1eb8bd187c2f456f3e7e",
+            "source_revision_id": "sha256:7259fc03ccb9902500d7fad22e899130d3ad671a2a209ba6a9d1abd27bece9f3",
+            "translation_revision_id": "sha256:87cdacba93c5baa6905ca227b9c61eeea1969894cb6dc20e1d1d5eb0ef86890a"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:22"
+        },
+        {
+          "observation": "원어와 한국어의 부정·조건·수량·행위 주체·인용을 자체 대조했다. 해석의 불확실성은 번역 메모에 남겼다. 독립된 사람 검수는 아니다.",
+          "outcome": "completed_with_open_questions",
+          "performed_on": "2026-09-18",
+          "review_id": "sha256:9eae23ed8529ac1677884193f4c95f24cd3558e7ce6b4efaac51074fbd91c87d",
+          "reviewer": {
+            "independent": false,
+            "kind": "ai",
+            "name": "Codex GPT-6"
+          },
+          "scope": "translation_semantics",
+          "targets": {
+            "alignment_revision_id": "sha256:e4f641bca8b4672b3c7837127bab0c996239c613d5da1eb8bd187c2f456f3e7e",
+            "source_revision_id": "sha256:7259fc03ccb9902500d7fad22e899130d3ad671a2a209ba6a9d1abd27bece9f3",
+            "translation_revision_id": "sha256:87cdacba93c5baa6905ca227b9c61eeea1969894cb6dc20e1d1d5eb0ef86890a"
+          },
+          "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:22"
+        }
+      ],
+      "review_state": {
+        "human_review_status": "not_reviewed",
+        "stale_review_ids": [],
+        "translation_review_status": "ai_self_checked_with_open_questions",
+        "valid_review_ids": [
+          "sha256:42951a901e75316534d3df4a2e15dc4e6330318749c71f897e5347d2cae51d5e",
+          "sha256:9eae23ed8529ac1677884193f4c95f24cd3558e7ce6b4efaac51074fbd91c87d"
+        ]
+      },
+      "snapshot_path": "releases/alpha-0.15/muratorian-fragment/index.html#p-22",
+      "source": {
+        "citation_note": "단락 번호는 이 저장소의 편집 구분이다. 각 단락에 Westcott 인쇄면과 대조 전사본 위치를 연결한다.",
+        "citation_scheme": "local_sections",
+        "comparison_witnesses": [
+          {
+            "edition_label": "S. P. Tregelles, Canon Muratorianus, Oxford: Clarendon Press, 1867",
+            "pages": [
+              {
+                "image_sha256": "c926a3a4633324000b5295936903d6fdf08ba92bc4925588600408d740fc001c",
+                "image_url": "https://archive.org/download/canonmuratorianu00treg/page/n35.jpg",
+                "printed_page": 20
+              }
+            ],
+            "role": "comparison_transcription_not_translation_base"
+          }
+        ],
+        "edition_id": "westcott-1896-muratorian",
+        "edition_label": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+        "edition_short_label": "Westcott 1896",
+        "editorial_features": [
+          {
+            "explanation": "Westcott의 불확실성 표시.",
+            "expression": "†Marcioni",
+            "type": "textual_uncertainty"
+          },
+          {
+            "explanation": "Westcott의 불확실성 표시.",
+            "expression": "†Assianom",
+            "type": "textual_uncertainty"
+          },
+          {
+            "explanation": "편집 본문의 마지막 별표 세 개를 세 점으로 표시했다. 문장 구조와 인명 해석의 불확실성을 함께 기록한다.",
+            "representation": "...",
+            "type": "fragment_ending"
+          }
+        ],
+        "human_review_status": "not_reviewed",
+        "original_work_language": "und",
+        "rights_id": "westcott-1896-public-domain",
+        "segments": [
+          {
+            "image_index": 616,
+            "image_sha256": "86979eaa1b0417ac9c85ceab3b2f379fbd0f9243af311a66180a1b5b4cce3d61",
+            "image_url": "https://archive.org/download/generalsurveyofh00westuoft/page/n616.jpg",
+            "printed_page": 547,
+            "segment_id": "sha256:4b18a686bd92a4aba21596421a72a21fb72800667cd5a7ba95e88f6c2a8bab23",
+            "source_kind": "edited_latin_transmission",
+            "source_language": "lat",
+            "text": "Qui etiam nouum psalmorum librum †Marcioni conscripserunt, una cum Basilide, †Assianom Cataphrygum constitutorem ...",
+            "transmission": "latin_witness_in_print_edition"
+          }
+        ],
+        "source_kind": "edited_latin_transmission",
+        "source_language": "lat",
+        "source_language_label": "라틴어 전승의 편집 본문",
+        "source_reference_label": "대본 인쇄본",
+        "source_review_observation": "Westcott의 라틴어 편집 본문을 인쇄면에서 전사하고, 보충·손상·문맥 단절 표시와 각주를 구분했다. Tregelles의 행별 전사본도 대조했다.",
+        "source_revision_id": "sha256:7259fc03ccb9902500d7fad22e899130d3ad671a2a209ba6a9d1abd27bece9f3",
+        "source_url": "https://archive.org/details/generalsurveyofh00westuoft",
+        "text": "Qui etiam nouum psalmorum librum †Marcioni conscripserunt, una cum Basilide, †Assianom Cataphrygum constitutorem ...",
+        "transcription_input_path": "data/muratorian-fragment/source-transcription.json",
+        "transcription_input_sha256": "c91644175daeaed8d4f4a6b9a79a9a1cf5bb45a904d2ce35c27a30055ca08805",
+        "transcription_method": "인쇄면 직접 전사 및 AI 대조. OCR은 탐색에만 사용. 인쇄본 이미지 재배포 없이 출처로 연결.",
+        "typographic_policy": "줄 끝 분철과 공백 결합, ae 합자 정규화, 별표 세 개 이상의 구분 표시는 세 점으로 표준화. 단검표, 대괄호 보충, 단일 별표와 인명 뒤 별표 두 개는 보존. 각주 호출 숫자는 본문에서 분리.",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:22"
+      },
+      "translation": {
+        "generation": {
+          "agent": "Codex",
+          "api_model_id": null,
+          "cost": null,
+          "external_translation_api_calls": 0,
+          "generated_on": "2026-09-18",
+          "method": "인쇄면으로 교정한 원어 대본에서 직접 AI 번역. 현대 영어 번역을 중역하지 않음.",
+          "system_model_label": "GPT-6",
+          "tokens": null
+        },
+        "language": "ko",
+        "notes": [
+          "Westcott는 Marcioni와 Assianom에 불확실성 표시를 붙인다. ‘마르키온에게’와 ‘아시아놈’은 그 채택 형태를 옮긴 잠정 번역이다. 마지막 목적격 구문의 앞 문장과의 연결이 손상되어, 한국어도 끝맺지 않은 구문으로 표시한다. Cataphrygum은 카타프리기아파를 가리키는 말로 읽었다."
+        ],
+        "parts": [
+          {
+            "source_segment_ids": [
+              "sha256:4b18a686bd92a4aba21596421a72a21fb72800667cd5a7ba95e88f6c2a8bab23"
+            ],
+            "text": "그들은 또한 바실리데스와 함께 마르키온에게 새로운 시편집을 써 주었다. 아시아놈, 카타프리기아파의 창시자를 ..."
+          }
+        ],
+        "policy": "three-work-ai-beta-1",
+        "previous_revision_id": null,
+        "rights_id": "corpus-ko-cc-by-sa-4.0",
+        "source_revision_ids": [
+          "sha256:7259fc03ccb9902500d7fad22e899130d3ad671a2a209ba6a9d1abd27bece9f3"
+        ],
+        "text": "그들은 또한 바실리데스와 함께 마르키온에게 새로운 시편집을 써 주었다. 아시아놈, 카타프리기아파의 창시자를 ...",
+        "translation_revision_id": "sha256:87cdacba93c5baa6905ca227b9c61eeea1969894cb6dc20e1d1d5eb0ef86890a",
+        "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:22"
+      },
+      "work_location": "22",
+      "work_passage_id": "muratorian-fragment:westcott-1896-muratorian:22"
+    }
+  ],
+  "public_url": "https://imtseoul.github.io/patristics-ko-reference/works/muratorian-fragment/index.html",
+  "publication_status": "ai_translation_beta",
+  "release_id": "alpha-0.15",
+  "rights": {
+    "corpus-ko-cc-by-sa-4.0": {
+      "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+      "license": "CC-BY-SA-4.0",
+      "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "corpus-notes-cc-by-sa-4.0": {
+      "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "first1k-cc-by-sa-4.0": {
+      "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+      "license": "CC-BY-SA-4.0",
+      "scope": "First1KGreek에서 가공한 그리스어 자료",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "muratorian-notes-cc-by-sa-4.0": {
+      "attribution": "Westcott 1896과 Tregelles 1867을 대조한 Codex AI 메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "이 저장소의 번역 메모와 편집자 참조 요약에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "pilot-ko-cc-by-sa-4.0": {
+      "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+      "license": "CC-BY-SA-4.0",
+      "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "pilot-notes-cc-by-sa-4.0": {
+      "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+      "license": "CC-BY-SA-4.0",
+      "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "westcott-1896-public-domain": {
+      "attribution": "B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547",
+      "evidence_url": "https://commons.wikimedia.org/w/index.php?title=File:A_General_Survey_of_the_History_of_the_Canon_of_the_New_Testament_(7th_edition,_1896).djvu&oldid=995764520",
+      "license": "Public domain",
+      "scope": "Westcott 1896의 라틴어 편집 본문. 고대 본문과 보호기간이 지난 판본에 새 독점권을 주장하지 않음",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  },
+  "schema_version": "patristics-library-0.1",
+  "scope": "Westcott 1896의 현존 라틴어 단편 전체. §1-§22는 이 저장소의 단락 구분",
+  "work": {
+    "aliases": [
+      "무라토리 정경",
+      "무라토리 정경 목록",
+      "Muratorian Fragment",
+      "Muratorian Canon",
+      "Canon Muratorianus"
+    ],
+    "ambiguous_aliases": [],
+    "annotation_rights_id": "muratorian-notes-cc-by-sa-4.0",
+    "author": "익명",
+    "author_aliases": [
+      "익명",
+      "Anonymous"
+    ],
+    "chapters": null,
+    "citation_scheme": "local_sections",
+    "edition_short_label": "Westcott 1896",
+    "id": "muratorian-fragment",
+    "passages": 22,
+    "scope": "Westcott 1896의 현존 라틴어 단편 전체. §1-§22는 이 저장소의 단락 구분",
+    "source_profile": "manual_print",
+    "title": "무라토리 단편"
+  }
+}

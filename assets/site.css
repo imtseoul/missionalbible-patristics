@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Library Sans'; font-style: normal; font-weight: 400; font-display: swap;
+  src: url('fonts/noto-sans-kr-ui-400.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Library Sans'; font-style: normal; font-weight: 600; font-display: swap;
+  src: url('fonts/noto-sans-kr-ui-600.ttf') format('truetype');
+}
+:root {
+  color-scheme: light;
+  --ink: #262e35; --muted: #66717b; --blue: #235a77; --line: #dce2e5;
+  --wash: #f3f6f8; --selected: #eaf1f5;
+  --font: 'Library Sans', system-ui, -apple-system, sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 24px; scrollbar-color: #acb7be #fff; }
+body { margin: 0; color: var(--ink); background: #fff; font: 15px/1.7 var(--font); -webkit-font-smoothing: antialiased; }
+a { color: var(--blue); text-decoration: none; text-underline-offset: .22em; }
+a:hover { text-decoration: underline; text-decoration-thickness: 1px; }
+h1, h2, h3, p { margin: 0; }
+h1, h2, h3 { font-weight: 600; word-break: keep-all; }
+::selection { background: #d9e9f1; color: #153f55; }
+:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
+[hidden] { display: none !important; }
+.skip, .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.skip:focus { width: auto; height: auto; clip-path: none; left: 16px; top: 12px; padding: 8px 16px; background: #fff; z-index: 5; }
+.site-header { border-bottom: 1px solid var(--line); }
+.header-inner { max-width: 1240px; padding: 0 40px; margin: auto; display: flex; align-items: center; gap: 54px; min-height: 76px; }
+.brand { color: var(--ink); font-size: 21px; font-weight: 600; letter-spacing: -.035em; white-space: nowrap; }
+.brand:hover { text-decoration: none; color: var(--blue); }
+.header-inner nav { display: flex; gap: 32px; align-self: stretch; font-size: 14px; }
+.header-inner nav a { display: flex; align-items: center; color: var(--muted); border-bottom: 2px solid transparent; padding-top: 2px; }
+.header-inner nav a[aria-current] { color: var(--blue); border-color: var(--blue); }
+@media (max-width: 1000px) {
+  .header-inner { padding-inline: 28px; gap: 34px; }
+}
+@media (max-width: 720px) {
+  .header-inner { padding: 0 20px; min-height: 70px; gap: 18px; justify-content: space-between; }
+  .brand { font-size: 18px; }
+  .header-inner nav { font-size: 12px; gap: 16px; }
+  .header-inner nav a:last-child { display: none; }
+}
