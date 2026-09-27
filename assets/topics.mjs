@@ -1,3 +1,5 @@
+import {markedText} from './text-matches.mjs';
+
 // Every topic and passage link is present in HTML; JavaScript narrows the index.
 const input = document.querySelector('#topic-query');
 const form = document.querySelector('.topic-search');
@@ -10,6 +12,9 @@ const normalize = text => text.normalize('NFKC').toLocaleLowerCase('ko').replace
 const entries = [...document.querySelectorAll('.topic-entry')].map(element => ({
   element, group: element.dataset.group, words: normalize(element.textContent),
   disclosure: element.querySelector('details'),
+  visibleWords: normalize(element.querySelector('summary').textContent),
+  targets: [...element.querySelectorAll('h3, .topic-description, .topic-size, .topic-attribution, .source-work p, .source-author, .source-relation, .source-locations a')].map(node => ({node, text: node.textContent})),
+  markedQuery: '', autoOpened: false,
 }));
 const names = new Map([['all', '전체 주제'], ...sections.map(s => [s.dataset.section, s.querySelector('h2').textContent])]);
 let group = 'all';
@@ -21,6 +26,17 @@ function render() {
     const matches = (group === 'all' || entry.group === group) && terms.every(term => entry.words.includes(term));
     entry.element.hidden = !matches;
     if (matches) count++;
+    const query = matches ? input.value : '';
+    if (entry.markedQuery !== query) {
+      for (const {node, text} of entry.targets) node.replaceChildren(markedText(document, text, query, {normalization: 'NFKC', caseSensitive: false}));
+      entry.markedQuery = query;
+    }
+    const revealMatch = matches && terms.length > 0 && !terms.every(term => entry.visibleWords.includes(term));
+    if (revealMatch && !entry.disclosure.open) {
+      entry.autoOpened = true; entry.disclosure.open = true;
+    } else if (!revealMatch && entry.autoOpened) {
+      entry.autoOpened = false; entry.disclosure.open = false;
+    }
   }
   for (const section of sections) section.hidden = !section.querySelector('.topic-entry:not([hidden])');
   for (const link of links) {
@@ -70,7 +86,7 @@ for (const link of links) link.addEventListener('click', event => {
   document.querySelector('.topics-main').scrollIntoView({block: 'start'});
 });
 for (const entry of entries) entry.disclosure.addEventListener('toggle', () => {
-  if (entry.disclosure.open && !entry.element.hidden) history.replaceState(null, '', '#'+entry.element.id);
+  if (entry.disclosure.open && !entry.element.hidden && !input.value.trim()) history.replaceState(null, '', '#'+entry.element.id);
 });
 window.addEventListener('hashchange', () => followHash(true));
 window.addEventListener('popstate', () => followHash(true));
