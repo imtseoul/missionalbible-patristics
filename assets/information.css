@@ -14,11 +14,6 @@
 .prose p { margin: 12px 0; }
 .prose ul { padding-left: 1.25em; margin: 12px 0; }
 .prose li { padding-left: .25em; margin: 11px 0; }
-.topic-entry { margin: 28px 0; scroll-margin-top: 24px; }
-.topic-entry h3 { font-size: 17px; line-height: 1.6; }
-.topic-entry .topic-attribution { color: var(--muted); font-size: 13px; margin-block: 6px; }
-.topic-entry .topic-sources { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 0; list-style: none; }
-.topic-sources li { padding: 0; margin: 0; font-size: 13px; }
 .prose code { font-size: .9em; color: #3c5666; background: var(--wash); padding: 1px 4px; }
 .information-footer { display: flex; flex-wrap: wrap; gap: 12px 25px; font-size: 12px; border-top: 1px solid var(--line); padding-top: 22px; margin-top: 40px; }
 .information-footer a { color: var(--muted); }

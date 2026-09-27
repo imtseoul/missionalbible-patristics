@@ -21,6 +21,10 @@
       "title": "성경 낭독과 공동 예배"
     },
     {
+      "id": "trinity",
+      "title": "삼위일체와 신앙 고백"
+    },
+    {
       "id": "interpretation",
       "title": "성경의 인용과 해석"
     },
@@ -20922,7 +20926,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-creeds",
       "passages": [
         {
@@ -21522,7 +21526,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-homoousios",
       "passages": [
         {
@@ -21868,7 +21872,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-arius",
       "passages": [
         {
@@ -22299,7 +22303,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-hypostasis",
       "passages": [
         {
@@ -22808,7 +22812,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-spirit",
       "passages": [
         {
@@ -23239,7 +23243,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-one-operation",
       "passages": [
         {
@@ -23585,7 +23589,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-distinction",
       "passages": [
         {
@@ -24018,7 +24022,7 @@
     },
     {
       "attribution": "각 신조와 서신·논설의 고백 및 논증",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "trinity-incarnation",
       "passages": [
         {
