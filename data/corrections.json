@@ -12394,5 +12394,460 @@
     ],
     "location": "12",
     "work_id": "gregory-nyssa-ablabius"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἐπεὶ",
+        "before": "‘Επεὶ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n29.jpg",
+        "image_sha256": "bc96f03573ad3b91a2e3a8c483d9953b9b145c34e1e563dbd4dfc9a897510fa6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 2,
+        "reviewer_kind": "ai",
+        "work_location": "2"
+      },
+      {
+        "after": "- καὶ δεῖ",
+        "before": "- καὶ καὶ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n30.jpg",
+        "image_sha256": "2b027dba27bd3b5cf531a60de4d0d846d33fe5e9a8451837072fba574aa518f7",
+        "kind": "digital_transcription_correction",
+        "printed_page": 3,
+        "reviewer_kind": "ai",
+        "work_location": "2"
+      },
+      {
+        "after": "τεχνύδριον",
+        "before": "τεχνύδροιν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n30.jpg",
+        "image_sha256": "2b027dba27bd3b5cf531a60de4d0d846d33fe5e9a8451837072fba574aa518f7",
+        "kind": "digital_transcription_correction",
+        "printed_page": 3,
+        "reviewer_kind": "ai",
+        "work_location": "2"
+      },
+      {
+        "after": "Ἱερεμίας",
+        "before": "‘Ιερεμίας",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n30.jpg",
+        "image_sha256": "2b027dba27bd3b5cf531a60de4d0d846d33fe5e9a8451837072fba574aa518f7",
+        "kind": "digital_transcription_correction",
+        "printed_page": 3,
+        "reviewer_kind": "ai",
+        "work_location": "2"
+      },
+      {
+        "after": "ἂν ἄρα",
+        "before": "ἃν ἄρα",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n31.jpg",
+        "image_sha256": "d794aded1ab17e944e9750563c6543ef8333ba3d45139fda6e8ec8f8300309b8",
+        "kind": "digital_transcription_correction",
+        "printed_page": 4,
+        "reviewer_kind": "ai",
+        "work_location": "2"
+      }
+    ],
+    "location": "2",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Καὶ οὐ λέγω",
+        "before": "καὶ οὐ λέγω",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n33.jpg",
+        "image_sha256": "f19e20750bb778914d3e0ec5671991e9fbda4227a32d0b113ef3bd7d5122f047",
+        "kind": "digital_transcription_correction",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4"
+      },
+      {
+        "after": "μεσημβρίας",
+        "before": "μεσημβρίς",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n33.jpg",
+        "image_sha256": "f19e20750bb778914d3e0ec5671991e9fbda4227a32d0b113ef3bd7d5122f047",
+        "kind": "digital_transcription_correction",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4"
+      },
+      {
+        "after": "διανιστάμενον",
+        "before": "διανστάμενον",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n33.jpg",
+        "image_sha256": "f19e20750bb778914d3e0ec5671991e9fbda4227a32d0b113ef3bd7d5122f047",
+        "kind": "digital_transcription_correction",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4"
+      },
+      {
+        "after": "τῇ μνήμῃ",
+        "before": "τῆ μνήμη",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n33.jpg",
+        "image_sha256": "f19e20750bb778914d3e0ec5671991e9fbda4227a32d0b113ef3bd7d5122f047",
+        "kind": "digital_transcription_correction",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4"
+      },
+      {
+        "after": "διηνεκῶς",
+        "before": "δίη. νεκῶς",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n34.jpg",
+        "image_sha256": "d22ed5fa69d995d38c029b1281e47c77c1bdf1e1000fb28dc1ac35955a4a1a83",
+        "kind": "digital_transcription_correction",
+        "printed_page": 7,
+        "reviewer_kind": "ai",
+        "work_location": "4"
+      }
+    ],
+    "location": "4",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κατασυρώμεθα",
+        "before": "κατασυ- ρώμεθα",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n35.jpg",
+        "image_sha256": "23bc1f6b6450ae498bfa9f47bf6b510e763d36865db7b7074ac41d3e690c0313",
+        "kind": "digital_transcription_correction",
+        "printed_page": 8,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      },
+      {
+        "after": "ἣ λίαν",
+        "before": "ἢ λίαν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n35.jpg",
+        "image_sha256": "23bc1f6b6450ae498bfa9f47bf6b510e763d36865db7b7074ac41d3e690c0313",
+        "kind": "digital_transcription_correction",
+        "printed_page": 8,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      },
+      {
+        "after": "θηρεύουσι",
+        "before": "θη- ρεύουσι",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n35.jpg",
+        "image_sha256": "23bc1f6b6450ae498bfa9f47bf6b510e763d36865db7b7074ac41d3e690c0313",
+        "kind": "digital_transcription_correction",
+        "printed_page": 8,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      },
+      {
+        "after": "αἱ μυῖαι",
+        "before": "αἰ μυῖαι",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n35.jpg",
+        "image_sha256": "23bc1f6b6450ae498bfa9f47bf6b510e763d36865db7b7074ac41d3e690c0313",
+        "kind": "digital_transcription_correction",
+        "printed_page": 8,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      },
+      {
+        "after": "ἀτυχήμασι χρὴ λέγειν",
+        "before": "ἀτυχήμασι λέγειν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n36.jpg",
+        "image_sha256": "b64b865c1eb8f963e91244a2a133c37efcfbefd27deab3f3cb852707c7b4479a",
+        "kind": "digital_transcription_correction",
+        "printed_page": 9,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      },
+      {
+        "after": "ἀλλ’",
+        "before": "ἁλλ’",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n36.jpg",
+        "image_sha256": "b64b865c1eb8f963e91244a2a133c37efcfbefd27deab3f3cb852707c7b4479a",
+        "kind": "digital_transcription_correction",
+        "printed_page": 9,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      },
+      {
+        "after": "οἳ θᾶττον",
+        "before": "οἲ θᾶττον",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n36.jpg",
+        "image_sha256": "b64b865c1eb8f963e91244a2a133c37efcfbefd27deab3f3cb852707c7b4479a",
+        "kind": "digital_transcription_correction",
+        "printed_page": 9,
+        "reviewer_kind": "ai",
+        "work_location": "5"
+      }
+    ],
+    "location": "5",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "θεὸν ἐξ οὐκ",
+        "before": "θεὸν οὐκ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n37.jpg",
+        "image_sha256": "1988172289b1aff10dd64708d84e550885a1d5b505f5194443d48cf7fc4d68bb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      },
+      {
+        "after": "ἐγχειρίζομεν",
+        "before": "ἐγχειρίξομεν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n37.jpg",
+        "image_sha256": "1988172289b1aff10dd64708d84e550885a1d5b505f5194443d48cf7fc4d68bb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      },
+      {
+        "after": "παιδοφθορίας",
+        "before": "παιδοΦθορίας",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n37.jpg",
+        "image_sha256": "1988172289b1aff10dd64708d84e550885a1d5b505f5194443d48cf7fc4d68bb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      },
+      {
+        "after": "γνωριζομένους",
+        "before": "γνῶ γνωριξομένους",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n37.jpg",
+        "image_sha256": "1988172289b1aff10dd64708d84e550885a1d5b505f5194443d48cf7fc4d68bb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      },
+      {
+        "after": "γ’ ἂν",
+        "before": "γ ἂν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n37.jpg",
+        "image_sha256": "1988172289b1aff10dd64708d84e550885a1d5b505f5194443d48cf7fc4d68bb",
+        "kind": "digital_transcription_correction",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      },
+      {
+        "after": "ὑπὲρ τοῦ Λόγου",
+        "before": "ὑπὲρ τοῦ λόγου",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n38.jpg",
+        "image_sha256": "0ac1a052bb2710b51c47ab9a4c13f64136441e155e20f07b81c935e0d9a4c97b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 11,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      },
+      {
+        "after": "οἳ τοὺς",
+        "before": "οἲ τοὺς",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n38.jpg",
+        "image_sha256": "0ac1a052bb2710b51c47ab9a4c13f64136441e155e20f07b81c935e0d9a4c97b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 11,
+        "reviewer_kind": "ai",
+        "work_location": "6"
+      }
+    ],
+    "location": "6",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἐπεὶ",
+        "before": "'Eπεὶ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n38.jpg",
+        "image_sha256": "0ac1a052bb2710b51c47ab9a4c13f64136441e155e20f07b81c935e0d9a4c97b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 11,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      },
+      {
+        "after": "βυθῶν",
+        "before": "βυθῶν ὦν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n38.jpg",
+        "image_sha256": "0ac1a052bb2710b51c47ab9a4c13f64136441e155e20f07b81c935e0d9a4c97b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 11,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      },
+      {
+        "after": "ἀνδριάντα",
+        "before": "ἀνδρι- ἄντα",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n38.jpg",
+        "image_sha256": "0ac1a052bb2710b51c47ab9a4c13f64136441e155e20f07b81c935e0d9a4c97b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 11,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      },
+      {
+        "after": "ἡ καινὴ",
+        "before": "ἢ καινὴ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n39.jpg",
+        "image_sha256": "59f07ba06f44e4e4fe25a44bb7285ab80a367d20ae4ce25873da5a12bfc65f4e",
+        "kind": "digital_transcription_correction",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      },
+      {
+        "after": "πτωχοτροφίαν",
+        "before": "πτωχοτροΦίαν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n39.jpg",
+        "image_sha256": "59f07ba06f44e4e4fe25a44bb7285ab80a367d20ae4ce25873da5a12bfc65f4e",
+        "kind": "digital_transcription_correction",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      },
+      {
+        "after": "ἐκδημοῦμεν;",
+        "before": "ἐκδημοῦμεν \"",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n39.jpg",
+        "image_sha256": "59f07ba06f44e4e4fe25a44bb7285ab80a367d20ae4ce25873da5a12bfc65f4e",
+        "kind": "digital_transcription_correction",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      },
+      {
+        "after": "καταβάλλουσαν",
+        "before": "κάτα βάλλουσαν",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n39.jpg",
+        "image_sha256": "59f07ba06f44e4e4fe25a44bb7285ab80a367d20ae4ce25873da5a12bfc65f4e",
+        "kind": "digital_transcription_correction",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "7"
+      }
+    ],
+    "location": "7",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Μὴ πάντες",
+        "before": "Μῆ πάντες",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n42.jpg",
+        "image_sha256": "778e6b85af16197767fb85cf770ad7e434f415935520dd9a0f123faf2c17a026",
+        "kind": "digital_transcription_correction",
+        "printed_page": 15,
+        "reviewer_kind": "ai",
+        "work_location": "8"
+      }
+    ],
+    "location": "8",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "αὐθήμερον πλάττεις",
+        "before": "αὐθήμερον, πλάττεις",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n43.jpg",
+        "image_sha256": "2a98f09caf25c6657368ca9d064d0e67b28e3b6df35590fe917044aeaacd3a97",
+        "kind": "digital_transcription_correction",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "9"
+      },
+      {
+        "after": "",
+        "before": "doubtful whether ὑψ. is neut. or masc., ‘beyond the heights,’ or ‘beyond the high ones.’",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n43.jpg",
+        "image_sha256": "2a98f09caf25c6657368ca9d064d0e67b28e3b6df35590fe917044aeaacd3a97",
+        "kind": "digital_transcription_correction",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "9"
+      }
+    ],
+    "location": "9",
+    "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "after": "φιλότιμον· ἐγώ",
+        "before": "φιλότιμον ἐγώ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n47.jpg",
+        "image_sha256": "fceffc249bd6f13c17a8d11489b25c3034bf4fa98392705e186057ae82ae9be6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "10"
+      },
+      {
+        "after": "Χριστοῦ",
+        "before": "χριστοῦ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n47.jpg",
+        "image_sha256": "fceffc249bd6f13c17a8d11489b25c3034bf4fa98392705e186057ae82ae9be6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "10"
+      },
+      {
+        "after": "Χριστῷ",
+        "before": "χριστῷ",
+        "checked_on": "2026-09-28",
+        "evidence_url": "https://archive.org/download/thefivetheologic00greguoft/page/n47.jpg",
+        "image_sha256": "fceffc249bd6f13c17a8d11489b25c3034bf4fa98392705e186057ae82ae9be6",
+        "kind": "digital_transcription_correction",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "10"
+      }
+    ],
+    "location": "10",
+    "work_id": "gregory-nazianzus-oration-27"
   }
 ]
