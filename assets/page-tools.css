@@ -6,3 +6,8 @@ mark.search-match { color: #183f54; background: #d9e9f1; font-weight: 600; paddi
   .back-to-top { right: max(16px, env(safe-area-inset-right)); bottom: calc(16px + env(safe-area-inset-bottom)); }
 }
 @media print { .back-to-top { display: none; } }
+
+.passage:has(> .edition-anchor) { position: relative; }
+.edition-anchor { position: absolute; width: 1px; height: 1px; overflow: hidden; pointer-events: none; }
+.passage > .edition-anchor { top: 0; left: 0; scroll-margin-top: 90px; }
+.book-directory > .edition-information { margin-left: 0; }
