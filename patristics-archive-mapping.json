@@ -411,6 +411,52 @@
     "releases/alpha-0.22/tatian-greeks/passages.jsonl",
     "releases/alpha-0.22/theophilus-autolycus/passages.json",
     "releases/alpha-0.22/theophilus-autolycus/passages.jsonl",
+    "releases/alpha-0.23/arius-eusebius-letter/passages.jsonl",
+    "releases/alpha-0.23/athanasius-antiochenes/passages.jsonl",
+    "releases/alpha-0.23/athenagoras-plea/passages.json",
+    "releases/alpha-0.23/athenagoras-plea/passages.jsonl",
+    "releases/alpha-0.23/barnabas/passages.json",
+    "releases/alpha-0.23/barnabas/passages.jsonl",
+    "releases/alpha-0.23/basil-holy-spirit/passages.json",
+    "releases/alpha-0.23/basil-holy-spirit/passages.jsonl",
+    "releases/alpha-0.23/clement-1-corinthians/passages.json",
+    "releases/alpha-0.23/clement-1-corinthians/passages.jsonl",
+    "releases/alpha-0.23/clement-2-corinthians/passages.json",
+    "releases/alpha-0.23/clement-2-corinthians/passages.jsonl",
+    "releases/alpha-0.23/didache/passages.jsonl",
+    "releases/alpha-0.23/diognetus/passages.json",
+    "releases/alpha-0.23/diognetus/passages.jsonl",
+    "releases/alpha-0.23/eusebius-ecclesiastical-history/passages.json",
+    "releases/alpha-0.23/eusebius-ecclesiastical-history/passages.jsonl",
+    "releases/alpha-0.23/eusebius-nicene-letter/passages.jsonl",
+    "releases/alpha-0.23/gregory-nazianzus-oration-27/passages.jsonl",
+    "releases/alpha-0.23/gregory-nazianzus-oration-28/passages.jsonl",
+    "releases/alpha-0.23/gregory-nazianzus-oration-29/passages.jsonl",
+    "releases/alpha-0.23/gregory-nazianzus-oration-30/passages.jsonl",
+    "releases/alpha-0.23/gregory-nazianzus-oration-31/passages.jsonl",
+    "releases/alpha-0.23/gregory-nyssa-ablabius/passages.jsonl",
+    "releases/alpha-0.23/ignatius-ephesians/passages.jsonl",
+    "releases/alpha-0.23/ignatius-magnesians/passages.jsonl",
+    "releases/alpha-0.23/ignatius-philadelphians/passages.jsonl",
+    "releases/alpha-0.23/ignatius-polycarp/passages.jsonl",
+    "releases/alpha-0.23/ignatius-romans/passages.jsonl",
+    "releases/alpha-0.23/ignatius-smyrnaeans/passages.jsonl",
+    "releases/alpha-0.23/ignatius-trallians/passages.jsonl",
+    "releases/alpha-0.23/irenaeus-against-heresies/passages.json",
+    "releases/alpha-0.23/irenaeus-against-heresies/passages.jsonl",
+    "releases/alpha-0.23/justin-first-apology/passages.json",
+    "releases/alpha-0.23/justin-first-apology/passages.jsonl",
+    "releases/alpha-0.23/justin-second-apology/passages.jsonl",
+    "releases/alpha-0.23/muratorian-fragment/passages.jsonl",
+    "releases/alpha-0.23/nicene-creed-325/passages.jsonl",
+    "releases/alpha-0.23/niceno-constantinopolitan-creed/passages.jsonl",
+    "releases/alpha-0.23/papias-fragments/passages.jsonl",
+    "releases/alpha-0.23/polycarp-martyrdom/passages.jsonl",
+    "releases/alpha-0.23/polycarp-philippians/passages.jsonl",
+    "releases/alpha-0.23/tatian-greeks/passages.json",
+    "releases/alpha-0.23/tatian-greeks/passages.jsonl",
+    "releases/alpha-0.23/theophilus-autolycus/passages.json",
+    "releases/alpha-0.23/theophilus-autolycus/passages.jsonl",
     "releases/alpha-0.3/didache/passages.jsonl",
     "releases/alpha-0.3/ignatius-philadelphians/passages.jsonl",
     "releases/alpha-0.3/ignatius-polycarp/passages.jsonl",
@@ -2545,6 +2591,236 @@
       "sha256": "c120c1ef4b5cd3615c73b0e016927cc999b78d3fdf7db97f78d1f48ab4c10a23",
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/04535125fe02ebe3ea62717729b9d5f30f8106ca/releases/alpha-0.22/theophilus-autolycus/passages.jsonl"
     },
+    "releases/alpha-0.23/arius-eusebius-letter/passages.jsonl": {
+      "git_blob": "7a7f73b46efbcf7302ba8529042daaf75c485b8b",
+      "sha256": "d9f72b7a2b0c50073c65f1911bb419dca887ea55b8ec7f074f97daebe20d24b5",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/arius-eusebius-letter/passages.jsonl"
+    },
+    "releases/alpha-0.23/athanasius-antiochenes/passages.jsonl": {
+      "git_blob": "6049217f85f7d226e33e17b13261a6426bd306a3",
+      "sha256": "dd51cc194e0119cde23f3e4a1bb3604350eb9bf30a2e5000c4c49642988c6661",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/athanasius-antiochenes/passages.jsonl"
+    },
+    "releases/alpha-0.23/athenagoras-plea/passages.json": {
+      "git_blob": "d3693a0be480349760963f0ff7ee0a46cb4f2a62",
+      "sha256": "9caf12baab94f4449d282879bcf69b81012e613dd70d3f71240f606f1b870ea9",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/athenagoras-plea/passages.json"
+    },
+    "releases/alpha-0.23/athenagoras-plea/passages.jsonl": {
+      "git_blob": "32782a542c05abb664cdf536fc9899125258ba6c",
+      "sha256": "9cab781a7758690e26b9c0b2238cb157102b01198548d67afe4e91ef878a1087",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/athenagoras-plea/passages.jsonl"
+    },
+    "releases/alpha-0.23/barnabas/passages.json": {
+      "git_blob": "bfcf73c8a1b28a659b084088bf51f38e5e979df2",
+      "sha256": "68c070855b6080bee0d2e6bef38e4602de71cc8c62aa80733a8d00e57404afee",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/barnabas/passages.json"
+    },
+    "releases/alpha-0.23/barnabas/passages.jsonl": {
+      "git_blob": "4cbff3249f2f07f6fdc2a7cda531fe0268122629",
+      "sha256": "306667cdb28204860b67f6523b572b314d71b4c0a23ad500ef2f34351d8f5fef",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/barnabas/passages.jsonl"
+    },
+    "releases/alpha-0.23/basil-holy-spirit/passages.json": {
+      "git_blob": "9b6d61402e334f1060f41686a8c06e6f713c91f3",
+      "sha256": "f8ef138a1fbd3cfa5e2114c765a815cec0e9ea05c5432e6f9792c8269a30d784",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/basil-holy-spirit/passages.json"
+    },
+    "releases/alpha-0.23/basil-holy-spirit/passages.jsonl": {
+      "git_blob": "be9beb97742da47a94cd3bef12d8791124c15fd4",
+      "sha256": "8dde00ca3c4b3a973176208130266d08e962a9f8bdcf51451a7eda61ce82980b",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/basil-holy-spirit/passages.jsonl"
+    },
+    "releases/alpha-0.23/clement-1-corinthians/passages.json": {
+      "git_blob": "c98caac3d371febb733694d10c5351d0a4a29974",
+      "sha256": "4f3e34aaf2e1a0535a4cbed420b827da81c0d4b18412ff2690605bf9a4df6303",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/clement-1-corinthians/passages.json"
+    },
+    "releases/alpha-0.23/clement-1-corinthians/passages.jsonl": {
+      "git_blob": "5938eb4e042fab812577da160fb075ad43930b2d",
+      "sha256": "bf8b3d978ca1c65368c503ae13b0dca38aa778cd678d585935182d4d76a673ca",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/clement-1-corinthians/passages.jsonl"
+    },
+    "releases/alpha-0.23/clement-2-corinthians/passages.json": {
+      "git_blob": "cb8fa6cf6d3adf1a94d9eaf5813b98eba6062b86",
+      "sha256": "bc0a2cb44c34b85ebafc82dc5000021a8dfee92648e70e3429a119f27910c034",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/clement-2-corinthians/passages.json"
+    },
+    "releases/alpha-0.23/clement-2-corinthians/passages.jsonl": {
+      "git_blob": "b877a4c9e51b909ae17349a5b2ca32697870f200",
+      "sha256": "3c86c3ebf6e73da3f216763803c537d142dd111649b1c303f1e28867483831f9",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/clement-2-corinthians/passages.jsonl"
+    },
+    "releases/alpha-0.23/didache/passages.jsonl": {
+      "git_blob": "774d6075e1287fb988d4a1eb04d5a52b74dabf3e",
+      "sha256": "fce117738e0c667a77aba26714136f9f1105bd7911f96aaba9de6e78303ad834",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/didache/passages.jsonl"
+    },
+    "releases/alpha-0.23/diognetus/passages.json": {
+      "git_blob": "3dd9d899bd67d6254bbc9e9cddf4e653c87455b7",
+      "sha256": "de9c6c8e95ec6df60329fc3eb8d6a2ff32e80fa6c84574ff0b3f28baecabce48",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/diognetus/passages.json"
+    },
+    "releases/alpha-0.23/diognetus/passages.jsonl": {
+      "git_blob": "9a80eda50a56a8036e0b29582236eae1c8e53652",
+      "sha256": "f102c6bbda5cf3c0bd201f18276cc3c360a0e4ac9c53b3ec1b81044485d08557",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/diognetus/passages.jsonl"
+    },
+    "releases/alpha-0.23/eusebius-ecclesiastical-history/passages.json": {
+      "git_blob": "6e3703592cc282691fb8a935ef9fec368d52d997",
+      "sha256": "8af2e16760bbb6a73d7e776312eb811a5a4847e5b82097ab078096ed3d430aff",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/eusebius-ecclesiastical-history/passages.json"
+    },
+    "releases/alpha-0.23/eusebius-ecclesiastical-history/passages.jsonl": {
+      "git_blob": "f34717707c816f146a919e855ff4e3d944ca55a5",
+      "sha256": "26303d70966126774d8d4059f9d18c35e8642c59d0f9a5a76aae15cd5c577796",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/eusebius-ecclesiastical-history/passages.jsonl"
+    },
+    "releases/alpha-0.23/eusebius-nicene-letter/passages.jsonl": {
+      "git_blob": "66d33e3ac7b5c9fb575040a88579980501ace685",
+      "sha256": "607b9356ef83886bf3dd434603d345d1518dc96cbfea3b30f5c7430ed4ff2081",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/eusebius-nicene-letter/passages.jsonl"
+    },
+    "releases/alpha-0.23/gregory-nazianzus-oration-27/passages.jsonl": {
+      "git_blob": "4857438816746734ed09b8bc3f7281fe6ddba3f0",
+      "sha256": "785118c6b8546661e97e29d86588b56ef8421cebdc15819cf5659b2c528eabea",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/gregory-nazianzus-oration-27/passages.jsonl"
+    },
+    "releases/alpha-0.23/gregory-nazianzus-oration-28/passages.jsonl": {
+      "git_blob": "e8fa7e78c611b36712720aa3fe562919f2fcfe4b",
+      "sha256": "77ad44de44d6299ec408e4c09715e7a7d94c74b972499c3e348b851b48ff1051",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/gregory-nazianzus-oration-28/passages.jsonl"
+    },
+    "releases/alpha-0.23/gregory-nazianzus-oration-29/passages.jsonl": {
+      "git_blob": "821278fb1ea06a5bd790dfc6203c867a1073aff2",
+      "sha256": "0eadbb077fa9a55ffd774e82e2cd44560127878314b472b5653dc237a99d694c",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/gregory-nazianzus-oration-29/passages.jsonl"
+    },
+    "releases/alpha-0.23/gregory-nazianzus-oration-30/passages.jsonl": {
+      "git_blob": "666810601baf98e969fe0a624796eb3eacfd961b",
+      "sha256": "028aea995ca1e2ce9ac19612edfef8dbc1f42e93beb72b8c0cf1d71eef988507",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/gregory-nazianzus-oration-30/passages.jsonl"
+    },
+    "releases/alpha-0.23/gregory-nazianzus-oration-31/passages.jsonl": {
+      "git_blob": "3dda5558ea3236183fab28063aab1ac097ed6616",
+      "sha256": "bc0e1f47b99eede95a1caaf488e3c16546d3f662c5ac637f216bc093e92bca72",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/gregory-nazianzus-oration-31/passages.jsonl"
+    },
+    "releases/alpha-0.23/gregory-nyssa-ablabius/passages.jsonl": {
+      "git_blob": "24bcb48f6a67537c825e63f0fd87e5f91b1dff7c",
+      "sha256": "d53d4824b46f0e688e71d5924c1473a2e1f20d8ba5b35ef0bcf89f34d6cb701d",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/gregory-nyssa-ablabius/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-ephesians/passages.jsonl": {
+      "git_blob": "1d5bbdaf9bb41e71feafd436ff96a1ebe3d092a5",
+      "sha256": "510f0819981217e7c554f5daa556161e3ec69352e56bbea731e39a7812083e73",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-ephesians/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-magnesians/passages.jsonl": {
+      "git_blob": "c0b7325b78fcacc4a4f47621a3932b7b0239a16b",
+      "sha256": "98cb7ffeff59cd1dcb530fdc718ef8fb3f8f0e0e827822b8778948a47ac72a1d",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-magnesians/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-philadelphians/passages.jsonl": {
+      "git_blob": "1f4c1ecd0686363cd162e356868a882c700b381e",
+      "sha256": "f1829a2f24fc20e5a12025bdc59ca1c462a956cf98e54185808f9705fefcdcb2",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-philadelphians/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-polycarp/passages.jsonl": {
+      "git_blob": "a4ced0ffa7bb362e98b16096ead8c6f32c1f2d90",
+      "sha256": "3022f91974d086b1fc9684dd38a5212b5bd0b2901ee1c97d213a9b0391c95ed0",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-polycarp/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-romans/passages.jsonl": {
+      "git_blob": "c871c52686cb13fe939e570b8fc13a6219e2021e",
+      "sha256": "5d18c5c35bdbe2ac96fdbdb2f8ef2ad268f54bea1554835520683e75fc1454e0",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-romans/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-smyrnaeans/passages.jsonl": {
+      "git_blob": "5e7729c198dd9d2ee3ea8596604d484698d66ee4",
+      "sha256": "c5b73ceb63da559edf24dc82017aea72a39bf2a9635a4d70ec29ade158bcada5",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-smyrnaeans/passages.jsonl"
+    },
+    "releases/alpha-0.23/ignatius-trallians/passages.jsonl": {
+      "git_blob": "b2e0db1c4ca9520a6371f02526a473766034fed7",
+      "sha256": "c004fc80b9f9c91d686dcbe4bb31b973a0cf9ef11cf69237c0a8080d897e27d5",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/ignatius-trallians/passages.jsonl"
+    },
+    "releases/alpha-0.23/irenaeus-against-heresies/passages.json": {
+      "git_blob": "c25fabe685edf0b4c4b254b73baf2b9c64fcd0ab",
+      "sha256": "23d749fbd50dcc655124649d500fbcee3971606d995a485eaa4ff0ad5695164e",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/irenaeus-against-heresies/passages.json"
+    },
+    "releases/alpha-0.23/irenaeus-against-heresies/passages.jsonl": {
+      "git_blob": "d60121021136c3276a3369b4cc8bba20e042d2e0",
+      "sha256": "f05db5b8286cd3035b3853c63c41a26e9a9596810920c5a7355a83297a55bdce",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/irenaeus-against-heresies/passages.jsonl"
+    },
+    "releases/alpha-0.23/justin-first-apology/passages.json": {
+      "git_blob": "49ac2ee9e4182fdffb05ddd9366690d9d7997f0a",
+      "sha256": "b7a2d065cf17df8fe9981ce06d1d4027560cc0f969ef95c1226d5fa8628b4fc8",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/justin-first-apology/passages.json"
+    },
+    "releases/alpha-0.23/justin-first-apology/passages.jsonl": {
+      "git_blob": "04fe126171caf9c3b361417b6083cf474cd86bc1",
+      "sha256": "f22717e829199c0983fda4cdd6a1472f8f265badb7abddc469dbcfa276a7721e",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/justin-first-apology/passages.jsonl"
+    },
+    "releases/alpha-0.23/justin-second-apology/passages.jsonl": {
+      "git_blob": "47d999fcf85e3bb23fe2927d82887cb6f3ee2fe1",
+      "sha256": "34dd52e06992b4124d45c9b219dc7db46a36f29d510165a53a8ca9e04ccec862",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/justin-second-apology/passages.jsonl"
+    },
+    "releases/alpha-0.23/muratorian-fragment/passages.jsonl": {
+      "git_blob": "98cb6331eeec0fa59a7be17bd27250973035d2c5",
+      "sha256": "9e071674cc0d12266abd0afd9186e02f687dfdd9d00d98c2345f024546b244c0",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/muratorian-fragment/passages.jsonl"
+    },
+    "releases/alpha-0.23/nicene-creed-325/passages.jsonl": {
+      "git_blob": "1e9b714c502bdf93ddd5f298afe946e869e4ad11",
+      "sha256": "fa35083353f08a8f125be1c53ed04c921940abc4a2c8ec0fd86eaa0299de81ec",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/nicene-creed-325/passages.jsonl"
+    },
+    "releases/alpha-0.23/niceno-constantinopolitan-creed/passages.jsonl": {
+      "git_blob": "6043030db9a9eefd1bf9e743ca626917a74abdf9",
+      "sha256": "6fbcba2ef2d641116251cdc2c327cb153c2c7bb820fc346b099327356381a3b8",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/niceno-constantinopolitan-creed/passages.jsonl"
+    },
+    "releases/alpha-0.23/papias-fragments/passages.jsonl": {
+      "git_blob": "037ea0c40382cb5e875c8a2e8774f78f7f9cfce6",
+      "sha256": "52310f7c9ae995620ac3cc7d46fdc85159dffb0e14d3bd776b17371e4a596559",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/papias-fragments/passages.jsonl"
+    },
+    "releases/alpha-0.23/polycarp-martyrdom/passages.jsonl": {
+      "git_blob": "b29c65ecf9960b80aa6cfd4dec57054160bbfda8",
+      "sha256": "18c82c54623188902186e1d8211ca958396016e306d64e8fbb74651ff917b3f2",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/polycarp-martyrdom/passages.jsonl"
+    },
+    "releases/alpha-0.23/polycarp-philippians/passages.jsonl": {
+      "git_blob": "d58f5daa722780567c407f0abd3b70a5a75b5db8",
+      "sha256": "41b426576290cb64c34a86b12131e306d5db59e1bc2aa23b81c7ed84ca7eb42b",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/polycarp-philippians/passages.jsonl"
+    },
+    "releases/alpha-0.23/tatian-greeks/passages.json": {
+      "git_blob": "479fa0bf3c97ded467c403636c1c632d667ccc44",
+      "sha256": "b4619551eac6b987125938e2b59dad9e94b5de26a39db552f5f18e0d78f3c92d",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/tatian-greeks/passages.json"
+    },
+    "releases/alpha-0.23/tatian-greeks/passages.jsonl": {
+      "git_blob": "ee501c9d00bd567a6d0b2168782c8b1029fa1665",
+      "sha256": "818e03ad0726a0514f06b34787e56059a0d550a1424924a06f018d1ae78fa450",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/tatian-greeks/passages.jsonl"
+    },
+    "releases/alpha-0.23/theophilus-autolycus/passages.json": {
+      "git_blob": "524b63e216ebca3b0da5e1864ca93e8454b81645",
+      "sha256": "f14d713e0699f77bcd6e075a408c110c50247a6a0be4b40e14987ac2a19414fd",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/theophilus-autolycus/passages.json"
+    },
+    "releases/alpha-0.23/theophilus-autolycus/passages.jsonl": {
+      "git_blob": "77b4ab577d41fd53fc5db5b7f0731d70c1463dc1",
+      "sha256": "6fdf7899ee33d1f8dddb1ff0c4c0deb15d5dbdccc37d4f0d1376b3425d26201a",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/releases/alpha-0.23/theophilus-autolycus/passages.jsonl"
+    },
     "releases/alpha-0.3/didache/passages.jsonl": {
       "git_blob": "a6cc4805e0a2a855677fcb0fb6364f85e85d4b1c",
       "sha256": "0dd2968eb4744d88c4e072e5a17ba7eb96b91f8e9aecb538f68a4de311531c9c",
@@ -2956,7 +3232,7 @@
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/releases/alpha-0.9/polycarp-philippians/passages.jsonl"
     }
   },
-  "latest_release": "alpha-0.23",
+  "latest_release": "alpha-0.24",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/04535125fe02ebe3ea62717729b9d5f30f8106ca/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/bbde09c494ca78473b5afb4f82ca38c9090ff4e5/"
 }
