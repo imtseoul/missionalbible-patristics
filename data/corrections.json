@@ -12849,5 +12849,1044 @@
     ],
     "location": "10",
     "work_id": "gregory-nazianzus-oration-27"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "1.1",
+        "observation": "인쇄본의 ἔχειν δικαίαν 어순을 채택했다.",
+        "printed_page": 14,
+        "topic": "word_order"
+      }
+    ],
+    "location": "1.1",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "1.2",
+        "observation": "인쇄본의 σοφίαν σοφία 두 단어를 모두 보존했다. 비교용 디지털본에는 앞의 σοφίαν이 빠져 있다.",
+        "printed_page": 14,
+        "topic": "missing_word_in_digital_candidate"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "1.2",
+        "observation": "인쇄본의 Ναὶ καὶ τὸ Οὒ, συνεσπαρμένης와 문장부호를 채택했다. 의미에 영향을 주는 이문은 별도 확인 대상이다.",
+        "printed_page": 15,
+        "topic": "spelling_and_variant"
+      }
+    ],
+    "location": "1.2",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "2.4",
+        "observation": "인쇄본 본문과 주석에서 ὁ Δημιουργὸς τῶν ὅλων의 지시 대상을 아들로 확인했다.",
+        "printed_page": 20,
+        "topic": "referent"
+      }
+    ],
+    "location": "2.4",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "3.5",
+        "observation": "비교용 디지털본의 ἁγίου 대신 Johnston의 채택 독법 Θείου를 기록했다.",
+        "printed_page": 23,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "3.5",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "4.6",
+        "observation": "디지털 비교본의 σμικροπρεπείᾳ 대신 인쇄본의 μικροπρεπείᾳ를 채택했다. 재료를 뜻하는 예문과 인용의 경계를 인쇄면에서 확인했다.",
+        "printed_page": 23,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "4.6",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "5.11",
+        "observation": "비교용 디지털본의 ἢ τοῦ ἁγίου Πνεύματος에 없는 두 번째 περὶ를 인쇄본에 따라 보존했다.",
+        "printed_page": 29,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "5.11",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "5.12",
+        "observation": "인쇄본의 σαφῶς ἑτέρωθι 어순을 따랐다. 비교용 텍스트에는 ἑτέρωθι σαφῶς로 되어 있다.",
+        "printed_page": 30,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "5.12",
+        "observation": "창세기 4:1을 아담의 말로 소개하는 인쇄본 본문을 보존하고, 편집 주석에서 확인되는 성경 본문과의 차이를 번역 메모에 설명했다.",
+        "printed_page": 29,
+        "topic": "quotation_speaker"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "5.12",
+        "observation": "절 마지막 질문에서 인쇄본의 τίνα ἔχει λόγον 어순을 채택했다. 비교본은 τίνα λόγον ἔχει이다.",
+        "printed_page": 30,
+        "topic": "word_order"
+      }
+    ],
+    "location": "5.12",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "6.14",
+        "observation": "비교용 디지털본의 τῆς οὐ δυνήσῃ 사이에 빠진 ἀρχῆς를 인쇄본에 따라 보존했다.",
+        "printed_page": 33,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "6.14",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "6.15",
+        "observation": "인쇄본의 τῷ Υἱῷ προστιθέασι 어순을 채택했다. 디지털 비교본은 προστιθέασι τῷ Υἱῷ로 되어 있다.",
+        "printed_page": 35,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "6.15",
+        "observation": "채택 본문의 Μονογενὴς Θεός를 옮겼다. υἱός는 편집 각주의 이문으로 분리했다.",
+        "printed_page": 34,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "6.15",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "7.16",
+        "observation": "디지털 비교본의 ὑμῖν과 μηθ’ οὗ를 인쇄본의 ἡμῖν과 μεθ’ οὗ로 바로잡았다. 인쇄본의 ἃ ἔλεγον을 채택하고 비교본의 ὅπερ ἔλεγον과 구별했다.",
+        "printed_page": 37,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "7.16",
+        "observation": "36-37쪽의 ἀκούσαντα와 37-38쪽의 λαβόντες는 인쇄면에서 단어가 갈라진다. 온전한 단어를 앞쪽 구간에 귀속하여 원문 토큰의 분리를 피했다.",
+        "printed_page": 37,
+        "topic": "page_boundary"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "7.16",
+        "observation": "인쇄본의 εἶναι αὐτῷ τὴν δόξαν μαρτυροῦμεν 어순을 보존했다. 비교본은 μαρτυροῦμεν τὴν δόξαν이다.",
+        "printed_page": 37,
+        "topic": "word_order"
+      }
+    ],
+    "location": "7.16",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "8.17",
+        "observation": "인쇄본의 ἐρύματος παντὸς 어순을 채택했다. 디지털 비교본은 παντὸς ἐρύματος이다.",
+        "printed_page": 40,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.17",
+        "observation": "인쇄본의 τὴν χρῆσιν ἁρμοδιωτάτην 어순을 보존했다.",
+        "printed_page": 41,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.17",
+        "observation": "40-41쪽의 ἐρύματος는 인쇄면에서 분철된다. 온전한 단어를 앞쪽 구간에 귀속했다.",
+        "printed_page": 40,
+        "topic": "page_boundary"
+      }
+    ],
+    "location": "8.17",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "8.18",
+        "observation": "42-43쪽의 βουλήματος는 온전한 단어로 앞쪽 구간에 귀속했다.",
+        "printed_page": 42,
+        "topic": "page_boundary"
+      }
+    ],
+    "location": "8.18",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "8.19",
+        "observation": "인쇄본 τῷ βουλήματι τῆς ἀγαθότητος의 관사 τῆς를 보존했다. 디지털 비교본에서는 빠져 있다.",
+        "printed_page": 44,
+        "topic": "missing_word_in_digital_candidate"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.19",
+        "observation": "인쇄본의 τὸ ἀναγκαῖον τῆς χρείας를 채택했다. 비교용 텍스트는 τὸ τῆς χρείας ἀναγκαῖον이다.",
+        "printed_page": 43,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.19",
+        "observation": "δι’ οὗ τὰ πάντα καὶ δι’ ὃν τὰ πάντα의 채택 문구와 편집 주석의 성부 지시 설명을 확인했다.",
+        "printed_page": 45,
+        "topic": "quotation_referent"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.19",
+        "observation": "45-46쪽의 Γεννήσαντος는 온전한 단어로 앞쪽 구간에 귀속했다.",
+        "printed_page": 45,
+        "topic": "page_boundary"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.19",
+        "observation": "인쇄본의 πρὸς τὴν τοῦ Πατρὸς σύνεσιν ἡμᾶς 어순을 보존했다.",
+        "printed_page": 44,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "8.19",
+        "observation": "인쇄본의 ἀλλὰ πλήρης γὰρ ὁ Λόγος 어순을 채택했다.",
+        "printed_page": 45,
+        "topic": "word_order"
+      }
+    ],
+    "location": "8.19",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "8.20",
+        "observation": "인쇄본은 πρὸς τὸ τέλειον φθάσαι로 읽힌다. 비교용 텍스트는 φθάσαι πρὸς τὸ τέλειον이다.",
+        "printed_page": 47,
+        "topic": "word_order"
+      }
+    ],
+    "location": "8.20",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "8.21",
+        "observation": "47-48쪽의 χαρακτῆρα는 온전한 단어로 앞쪽 구간에 귀속했다.",
+        "printed_page": 47,
+        "topic": "page_boundary"
+      }
+    ],
+    "location": "8.21",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "9.22",
+        "observation": "Johnston의 καθαρῶς ἀΰλου καὶ ἀμεροῦς를 채택했다. 비교용 디지털본은 ἀΰλου 뒤에 τε를 더한다.",
+        "printed_page": 51,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "9.22",
+        "observation": "인쇄본의 τὴν χάριν καὶ ὁλόκληρον에서 καὶ를 보존했다. 디지털 비교본에는 이 접속사가 없다.",
+        "printed_page": 52,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "9.22",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "9.23",
+        "observation": "53-54쪽의 μυστηρίων은 단어 전체를 53쪽 구간에 귀속했다.",
+        "printed_page": 54,
+        "topic": "page_boundary"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "9.23",
+        "observation": "디지털 비교본이 제9장 말미에 두는 Ἤδη δὲ πρὸς ἀντιλογικοὺς χωρητέον 이하의 문장은 Johnston에서 제10장 24절에 속한다. 제9장은 τοιαῦται에서 끝내고, 다음 문장은 10.24에 수록했다.",
+        "printed_page": 55,
+        "topic": "chapter_boundary"
+      }
+    ],
+    "location": "9.23",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "10.24",
+        "observation": "디지털 비교본 제9장 말미의 문장을 Johnston 제10장 24절의 첫 문장으로 옮겼다. 인쇄본에는 τοὺς ἀντιλογικούς로 관사도 있다.",
+        "printed_page": 55,
+        "topic": "chapter_boundary"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "10.24",
+        "observation": "사도행전 5:29의 인용에서 인쇄본의 πειθαρχεῖν δεῖ Θεῷ 어순을 보존했다.",
+        "printed_page": 57,
+        "topic": "word_order"
+      }
+    ],
+    "location": "10.24",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "10.25",
+        "observation": "인쇄본의 παρασκευὴ τοῦ πολέμου καθ’ ἡμῶν 어순을 채택했다.",
+        "printed_page": 58,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "10.25",
+        "observation": "58-59쪽의 διασκευάζονται는 온전한 단어로 앞쪽 구간에 귀속했다.",
+        "printed_page": 58,
+        "topic": "page_boundary"
+      }
+    ],
+    "location": "10.25",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "11.27",
+        "observation": "Johnston은 요한복음 1:18의 인용을 Μονογενὴς Θεός로 채택한다. 디지털 비교본의 μονογενὴς Υἱός와 구별했다.",
+        "printed_page": 62,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "11.27",
+        "observation": "Johnston의 Υἱὸν δυνατὸν προσκυνῆσαι와 ἐπικαλέσασθαι τὸν Πατέρα δυνατὸν 어순을 보존했다.",
+        "printed_page": 63,
+        "topic": "word_order"
+      }
+    ],
+    "location": "11.27",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "12.28",
+        "observation": "ἐν ἑνὶ σώματι εἰς ἓν Πνεῦμα의 인용 형태를 인쇄본대로 보존했다. 편집 주석과 번역 메모에서 고린도전서의 어순과 구별했다.",
+        "printed_page": 63,
+        "topic": "quotation_form"
+      }
+    ],
+    "location": "12.28",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "13.29",
+        "observation": "데살로니가후서 인용에서 인쇄본의 Ἰησοῦ Χριστοῦ를 보존했다. 비교용 디지털본에는 Χριστοῦ가 빠져 있다.",
+        "printed_page": 66,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "13.29",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "14.32",
+        "observation": "인쇄본의 τί οὖν βαπτίσματα συγκρίνεις를 보존했다. 비교용 텍스트는 τί οὖν συγκρίνεις τὰ βαπτίσματα이다.",
+        "printed_page": 71,
+        "topic": "word_order"
+      }
+    ],
+    "location": "14.32",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "14.33",
+        "observation": "마지막 단락의 γενομένης를 인쇄본에 따라 채택했다. 비교용 텍스트는 γενησομένης이다.",
+        "printed_page": 72,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "14.33",
+        "observation": "72-73쪽의 προσδιατρίψαι는 단어 전체를 72쪽 구간에 귀속했다.",
+        "printed_page": 72,
+        "topic": "page_boundary"
+      }
+    ],
+    "location": "14.33",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "15.34",
+        "observation": "인쇄본의 πολλῶν γὰρ δὴ τῶν διαλύσεων과 미래형 μεταδώσομεν을 채택했다. 비교용 텍스트는 δὴ τῶν을 생략하고 μεταδώσαμεν으로 되어 있다.",
+        "printed_page": 73,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "15.34",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "15.35",
+        "observation": "73-74쪽의 μιμητὴς는 온전한 단어로 73쪽 구간에 귀속했다.",
+        "printed_page": 73,
+        "topic": "page_boundary"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "15.35",
+        "observation": "ἐν τρισὶν καταδύσεσι καὶ ἰσαρίθμοις ταῖς ἐπικλήσεσι를 편집 본문에서 확인했다. 편집 각주의 이문과 구별했다.",
+        "printed_page": 75,
+        "topic": "source_scope"
+      }
+    ],
+    "location": "15.35",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "16.37",
+        "observation": "78-79쪽에서 분철되는 ἀντεστράφθαι는 온전한 단어를 앞쪽 구간에 귀속했다.",
+        "printed_page": 78,
+        "topic": "page_boundary"
+      }
+    ],
+    "location": "16.37",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "16.38",
+        "observation": "편집 본문의 τὸν στερεοῦντα τὸ Πνεῦμα를 채택했다. 비교용 디지털본은 τὸ στερεοῦν τὸ Πνεῦμα이다.",
+        "printed_page": 80,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "16.38",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "16.39",
+        "observation": "마태복음 4:1의 인용에서 인쇄본의 ἀπὸ τοῦ Πνεύματος를 보존했다. 비교용 디지털본은 ὑπὸ τοῦ Πνεύματος이다.",
+        "printed_page": 83,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "16.39",
+        "observation": "ἄν τινων κρατῆτε 앞의 καί는 인쇄본에서 편집 각주의 이문이다. 본문에는 포함하지 않았다.",
+        "printed_page": 84,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "16.39",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "16.40",
+        "observation": "인쇄본의 πολλαὶ μοναὶ 어순을 보존했다. 비교용 디지털본은 μοναὶ πολλαί이다.",
+        "printed_page": 84,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "16.40",
+        "observation": "인쇄본 시편 인용의 ἐν τῷ ᾅδῃ οὐκ ἔστιν 어순을 따랐다.",
+        "printed_page": 85,
+        "topic": "word_order"
+      }
+    ],
+    "location": "16.40",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "17.41",
+        "observation": "인쇄본 첫 문장의 ὅ τι를 보존했다. 비교용 디지털본에는 ὃ만 있다.",
+        "printed_page": 86,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "17.41",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "17.43",
+        "observation": "인쇄본은 καὶ τὸ Πνεῦμα τῷ Πατρὶ δηλονότι로 읽힌다. 비교용 텍스트에서 앞에 놓인 δηλονότι를 인쇄본의 위치로 옮겼다.",
+        "printed_page": 89,
+        "topic": "word_order"
+      }
+    ],
+    "location": "17.43",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "18.45",
+        "observation": "Johnston의 ἑνιζομένην을 채택했다. 비교용 디지털본은 편집 각주에 기록된 ἐνεικονιζομένην이다.",
+        "printed_page": 92,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "18.45",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "18.46",
+        "observation": "인용의 ἐκ τοῦ ἐμοῦ λαμβάνει는 인쇄본의 현재형이다. 비교용 텍스트의 미래형 λήψεται와 구별하여 옮겼다.",
+        "printed_page": 94,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "18.46",
+        "observation": "확대 인쇄면에서 ἀποκαλύπτον의 강세를 확인했다. 디지털 비교본의 ἀποκάλυπτον을 바로잡았다.",
+        "printed_page": 93,
+        "topic": "accent_reading"
+      }
+    ],
+    "location": "18.46",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "18.47",
+        "observation": "인쇄본의 ἐκ τοῦ Πατρὸς에서 관사 τοῦ를 보존했다. 비교용 텍스트에서는 생략되어 있다.",
+        "printed_page": 95,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "18.47",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "19.48",
+        "observation": "인쇄본의 τῆς πάντα νοῦν ὑπερεχούσης 어순을 채택했다. 비교본은 τῆς ὑπερεχούσης πάντα νοῦν이다.",
+        "printed_page": 96,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "19.48",
+        "observation": "인쇄본의 ἐπὶ ποσόν γ’ οὖν과 εὐθὴς를 보존했다. 비교본은 ἐπὶ ποσὸν γοῦν과 εὐθύς이다.",
+        "printed_page": 97,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "19.48",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "19.49",
+        "observation": "보혜사 인용의 πρὸς πᾶσαν τὴν ἀλήθειαν에서 관사 τὴν을 인쇄본에 따라 보존했다.",
+        "printed_page": 100,
+        "topic": "missing_word_in_digital_candidate"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "19.49",
+        "observation": "인쇄본의 πρὸ τῆς νοητῆς κτίσεως αὐτοῦ αἱ ἐνέργειαι 어순을 따랐다.",
+        "printed_page": 98,
+        "topic": "word_order"
+      }
+    ],
+    "location": "19.49",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "20.51",
+        "observation": "인쇄본의 ταῦτο ἐννοῆσαι를 채택했다. 비교용 텍스트는 τοῦτο ἐννοῆσαι이다.",
+        "printed_page": 103,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "20.51",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "21.52",
+        "observation": "표제는 비교본의 ἐκ τῶν Γραφῶν 대신 인쇄본의 ἐκ τῆς γραφῆς를 따른다.",
+        "printed_page": 104,
+        "topic": "chapter_title"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "21.52",
+        "observation": "데살로니가후서 인용의 ὑπὲρ τῶν θλίψεων를 본문과 반복 설명에서 모두 보존했다.",
+        "printed_page": 104,
+        "topic": "scripture_quotation"
+      }
+    ],
+    "location": "21.52",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "22.53",
+        "observation": "τῶν μὲν οὖν ἄλλων ἑκάστη δυνάμεων부터 109쪽 μὴ δοξάσομεν;까지 인쇄본에 따라 22.53에 포함했다. 비교용 디지털본에서는 23장 첫 문단이다.",
+        "printed_page": 108,
+        "topic": "chapter_boundary"
+      }
+    ],
+    "location": "22.53",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "23.54",
+        "observation": "23.54의 시작을 Ἐγὼ δὲ οὐδὲ ἄλλο τι로 확정했다. 표제·장 번호·절 번호가 인쇄된 위치에 맞춘다.",
+        "printed_page": 109,
+        "topic": "section_start"
+      }
+    ],
+    "location": "23.54",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "24.55",
+        "observation": "태양·달·별의 영광에 관한 문장에서는 인쇄본의 κατὰ τὸν Ἀπόστολον을 따랐다. 비교본의 δὲ는 채택 본문에 없다.",
+        "printed_page": 110,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "24.55",
+        "observation": "비교본의 τὸν περὶ τούτων νῦν ὑπερθήσομαι λόγον 대신 인쇄본의 τὸ νῦν εἶναι τὸν περὶ τούτων ὑπερθήσομαι λόγον을 채택했다. 같은 문단의 ἀποκναίσομεν도 인쇄본의 미래형을 따른다.",
+        "printed_page": 111,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "24.55",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "24.57",
+        "observation": "112-113쪽에 걸친 δεδωκότι를 하나의 단어로 연결하여 112쪽 구간에 두었다.",
+        "printed_page": 112,
+        "topic": "page_hyphenation"
+      }
+    ],
+    "location": "24.57",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "25.59",
+        "observation": "114-115쪽에 걸친 ἐπιστομίζεσθαι를 하나의 단어로 연결하여 114쪽 구간에 두었다.",
+        "printed_page": 114,
+        "topic": "page_hyphenation"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "25.59",
+        "observation": "비교본의 οἱ πατέρες ἡμῶν οὐκ ἀργῶς 대신 인쇄본의 οὐκ ἀργῶς οἱ πατέρες ἡμῶν 어순을 채택했다.",
+        "printed_page": 116,
+        "topic": "word_order"
+      }
+    ],
+    "location": "25.59",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "26.61",
+        "observation": "인쇄본의 ἐσμὲν ἀλλήλων μέλη와 οὐ δύναται εἰπεῖν ὁ ὀφθαλμὸς 어순을 채택했다. 119-120쪽의 ὑπαρχούσης는 119쪽 구간에서 연결했다.",
+        "printed_page": 119,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "26.61",
+        "observation": "고린도전서 인용의 ἐν ἑνὶ σώματι εἰς ἓν Πνεῦμα를 인쇄본에 따라 보존했다. 같은 인용이 12.28에도 있다.",
+        "printed_page": 120,
+        "topic": "scripture_quotation"
+      }
+    ],
+    "location": "26.61",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "26.62",
+        "observation": "인쇄본의 ἐν Πνεύματι λαλεῖ μυστήρια에는 비교본의 관사 τὰ가 없다.",
+        "printed_page": 121,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "26.62",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "26.63",
+        "observation": "인쇄본의 μετὰ Πατρὸς αὐτὸ καὶ Υἱοῦ θεωροῦμεν 어순을 채택했다.",
+        "printed_page": 122,
+        "topic": "word_order"
+      }
+    ],
+    "location": "26.63",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "27.66",
+        "observation": "비교본의 θεσμῶν ἐκκλησιαστικῶν 대신 인쇄본의 θεσμῶν τῆς Ἐκκλησίας를 채택했다. 128-129쪽에 걸친 κατασημαίνεσθαι는 128쪽 구간에서 연결했다.",
+        "printed_page": 128,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "27.66",
+        "observation": "인쇄본의 ποῖον ἡμᾶς ἐδίδαξε γράμμα 어순과 동사형을 채택했다.",
+        "printed_page": 129,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "27.66",
+        "observation": "인쇄본의 τὰ περὶ τῆς Ἐκκλησίας를 채택했다. 비교용 텍스트는 τὰ περὶ τὰς Ἐκκλησίας이다.",
+        "printed_page": 131,
+        "topic": "edition_reading"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "27.66",
+        "observation": "ὅτι καὶ διὰ τῆς ἁμαρτίας의 καὶ를 인쇄본에 따라 보존했다.",
+        "printed_page": 132,
+        "topic": "missing_word_in_digital_candidate"
+      }
+    ],
+    "location": "27.66",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "27.68",
+        "observation": "비교본의 προσθέσει 대신 인쇄본의 προθέσει를 채택했다. 134-135쪽의 ἡγούμενος는 134쪽 구간에서 연결했다.",
+        "printed_page": 135,
+        "topic": "digital_typo"
+      }
+    ],
+    "location": "27.68",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "28.69",
+        "observation": "인쇄본의 Παῦλος μὲν Θεοῦ συνεργὸν을 채택했다. 비교본은 Παῦλος Θεοῦ μὲν συνεργὸν이다.",
+        "printed_page": 135,
+        "topic": "word_order"
+      }
+    ],
+    "location": "28.69",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "28.70",
+        "observation": "136-137쪽에 걸친 συμπάσχομεν을 연결하여 136쪽 구간에 두었다.",
+        "printed_page": 136,
+        "topic": "page_hyphenation"
+      }
+    ],
+    "location": "28.70",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "29.71",
+        "observation": "인쇄본의 καταδεξόμεθα를 채택했다. 비교용 디지털본은 παραδεξόμεθα이다.",
+        "printed_page": 138,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "29.71",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "29.72",
+        "observation": "141-142쪽에 걸친 Εὐσέβιος를 141쪽 구간에서 연결했다.",
+        "printed_page": 141,
+        "topic": "page_hyphenation"
+      }
+    ],
+    "location": "29.72",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "29.73",
+        "observation": "142-143쪽의 Πνεύματος와 143-144쪽의 εὐσεβεῖς를 앞쪽 구간에서 연결했다.",
+        "printed_page": 142,
+        "topic": "page_hyphenation"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "29.73",
+        "observation": "아프리카누스 인용은 인쇄본의 τῷ Πατρὶ τῷ παρασχομένῳ τοῖς ἰδίοις ἡμῖν 어순을 따른다.",
+        "printed_page": 144,
+        "topic": "word_order"
+      }
+    ],
+    "location": "29.73",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "29.74",
+        "observation": "그리스도의 이름에 관한 ἐν τῷ μεγάλῳ ὀνόματι τοῦ Χριστοῦ 어순을 인쇄본에서 확인했다.",
+        "printed_page": 145,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "29.74",
+        "observation": "인쇄본의 φυλοκρινοῦντες를 채택했다. 비교본은 φιλοκρινοῦντες이다.",
+        "printed_page": 146,
+        "topic": "digital_typo"
+      }
+    ],
+    "location": "29.74",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "29.75",
+        "observation": "보상에 관한 문장 끝에는 인쇄본에서 εἰσί가 없으므로 비교본의 해당 단어를 넣지 않았다.",
+        "printed_page": 148,
+        "topic": "edition_reading"
+      }
+    ],
+    "location": "29.75",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "30.76",
+        "observation": "인쇄본의 τῆς νεὼς εἰς βυθὸν ἤδη φερομένης 어순을 따랐다.",
+        "printed_page": 151,
+        "topic": "word_order"
+      }
+    ],
+    "location": "30.76",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "30.77",
+        "observation": "인쇄본의 εἰς προφανῆ ἀγῶνα ἡμῖν 어순을 따랐다. 151-152쪽의 ἐκκλησιῶν은 151쪽 구간에서 연결했다.",
+        "printed_page": 151,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "30.77",
+        "observation": "채택 본문의 τοῦ σωτηρίου Πνεύματος를 보존했다. 비교본은 τοῦ σωτηρίου πάθους이다. 인쇄본 각주는 πάθους를 다른 편집본의 독법으로 소개한다.",
+        "printed_page": 152,
+        "topic": "substantive_edition_variant"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "30.77",
+        "observation": "εἰσποιεῖν ἑαυτὸν ἑκάστου와 δεινὴ τοῖς λαοῖς ἀπὸ τῆς φιλαρχίας ταύτης의 어순을 채택했다.",
+        "printed_page": 154,
+        "topic": "word_order"
+      }
+    ],
+    "location": "30.77",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "30.78",
+        "observation": "아모스 인용은 인쇄본의 ὁ συνιὼν σιωπήσεται를 따른다. 비교본의 ἐν τῷ καιρῷ ἐκείνῳ는 채택 본문에 없다. τοῖς τοῦ πλησίον의 관사도 보존했다. 155-156쪽의 κάθηνται는 155쪽 구간에서 연결했다.",
+        "printed_page": 155,
+        "topic": "scripture_quotation"
+      }
+    ],
+    "location": "30.78",
+    "work_id": "basil-holy-spirit"
+  },
+  {
+    "corrections": [
+      {
+        "kind": "print_collation_observation",
+        "location": "30.79",
+        "observation": "인쇄본의 ἔδει σιωπᾶν 어순을 따랐다.",
+        "printed_page": 156,
+        "topic": "word_order"
+      },
+      {
+        "kind": "print_collation_observation",
+        "location": "30.79",
+        "observation": "비교본에 빠진 마지막 ἁγίου와 ἀμήν을 인쇄본에서 확인하여 보존했다. ἔλλιπῶς의 강세도 인쇄본을 따른다.",
+        "printed_page": 157,
+        "topic": "missing_words_in_digital_candidate"
+      }
+    ],
+    "location": "30.79",
+    "work_id": "basil-holy-spirit"
   }
 ]
