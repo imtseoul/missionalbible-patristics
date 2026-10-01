@@ -1,0 +1,249 @@
+export default {
+  "group": "gospels",
+  "id": "second-clement-peter-dialogue",
+  "passages": [
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-14107854a7bc77eeabcc",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-5-2",
+      "label": "클레멘스 2서 5.2",
+      "location": "5.2",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:51b4fc734ea68bd489f4c6fbd2e9e8e2dd6c68968ffb33a42ec1a0a84b5b7c58",
+        "text": "λέγει γὰρ ὁ κύριος Ἔσεσθε ὡς ἀρνία ἐν μέσῳ λύκων."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [
+          "5.2-4는 어린양과 늑대에 관한 말씀을 베드로와 예수의 문답으로 전한다."
+        ],
+        "revision_id": "sha256:1a1eef7d53d93185445b2bc6b94aed436733c5ccf8ff803e0b93247705ba8168",
+        "text": "주님께서는 “너희는 늑대들 가운데 있는 어린양들처럼 될 것이다”라고 말씀하십니다."
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:5.2"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-46c3558e4d59df201313",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "a-751c1c4871164b6c3c94",
+          "ko_token_indexes": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "source_token_indexes": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-5-3",
+      "label": "클레멘스 2서 5.3",
+      "location": "5.3",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:1325f1d9800c9cceb79c2202dab9883fbbcd269fb98311991be5257a1d2a4a49",
+        "text": "ἀποκριθεὶς δὲ ὁ Πέτρος αὐτῷ λέγει: Ἐὰν οὖν διασπαράξωσιν οἱ λύκοι τὰ ἀρνία;"
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:837a4c2c47678aec4c60128c01e77436189902b806a061f92084c0ecdf24e0fe",
+        "text": "베드로가 그분께 대답하여 말합니다. “그러면 늑대들이 어린양들을 찢어 버리면 어떻게 됩니까?”"
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:5.3"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-273bb72fc3e5f183cad4",
+          "ko_token_indexes": [
+            0,
+            1,
+            2
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "a-4bce93d6496da17e4b0a",
+          "ko_token_indexes": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "source_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "id": "a-856b2a09475eaca7b1d1",
+          "ko_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "source_token_indexes": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "id": "a-294816e11aaf8ee3d7d8",
+          "ko_token_indexes": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ],
+          "source_token_indexes": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-5-4",
+      "label": "클레멘스 2서 5.4",
+      "location": "5.4",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:5d9814d3d6d3f4ef77b71c0c54e6c765e8e6c71d7bbc7d593ef7fda8cb5b3330",
+        "text": "εἶπεν ὁ Ἰησοῦς τῷ Πέτρῳ: Μὴ φοβείσθωσαν τὰ ἀρνία τοὺς λύκους μετὰ τὸ ἀποθανεῖν αὐτά: καὶ ὑμεῖς μὴ φοβεῖσθε τοὺς ἀποκτέννοντας ὑμᾶς καὶ μηδὲν ὑμῖν δυναμένους ποιεῖν, ἀλλὰ φοβεῖσθε τὸν μετὰ τὸ ἀποθανεῖν ὑμᾶς ἔχοντα ἐξουσίαν ψυχῆς καὶ σώματος τοῦ βαλεῖν εἰς γέενναν πυρός."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [
+          "죽음 이후 혼과 몸을 심판할 권세가 있는 분을 두려워하라는 말씀이다. 게헨나는 γέεννα를 음역한 말이며, 본문은 불의 게헨나라고 표현한다."
+        ],
+        "revision_id": "sha256:57fa926bf53e68994072903181db131a0ad9ba8c145718d7c2be6bbbd84cfa0c",
+        "text": "예수께서 베드로에게 말씀하셨습니다. “어린양들은 죽은 뒤에는 늑대들을 두려워하지 말아야 한다. 너희도 너희를 죽인 뒤에는 더 할 수 있는 일이 없는 자들을 두려워하지 마라. 너희가 죽은 뒤에 혼과 몸을 불의 게헨나에 던질 권세를 지닌 분을 두려워하여라.”"
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:5.4"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "어린양과 늑대, 베드로와 예수의 문답"
+};

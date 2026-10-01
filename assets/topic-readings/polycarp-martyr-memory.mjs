@@ -1,0 +1,426 @@
+export default {
+  "group": "worship",
+  "id": "polycarp-martyr-memory",
+  "passages": [
+    {
+      "author": "스미르나 교회",
+      "groups": [
+        {
+          "id": "a-34cabff167948f590123",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "a-05be65b007b8b0432262",
+          "ko_token_indexes": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "source_token_indexes": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-0e52c61175c67b805558",
+          "ko_token_indexes": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "id": "a-0d2be68e16bbcdcdebec",
+          "ko_token_indexes": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "source_token_indexes": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "html_path": "works/polycarp-martyrdom/index.html#p-17-3",
+      "label": "폴리카르포스의 순교 17.3",
+      "location": "17.3",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:4ae9014d88ebd5bbda33cbc3477d196ca1ed86e99b89d951f9050b09a6af0542",
+        "text": "τοῦτον μὲν γὰρ υἱὸν ὄντα τοῦ θεοῦ προσκυνοῦμεν, τοὺς δὲ μάρτυρας ὡς μαθητὰς καὶ μιμητὰς τοῦ κυρίου ἀγαπῶμεν ἀξίως ἕνεκα εὐνοίας ἀνυπερβλήτου τῆς εἰς τὸν ἴδιον βασιλέα καὶ διδάσκαλον: ὧν γένοιτο καὶ ἡμᾶς κοινωνούς τε καὶ συμμαθητὰς γενέσθαι."
+      },
+      "title": "폴리카르포스의 순교",
+      "translation": {
+        "notes": [
+          "그리스도에게는 προσκυνοῦμεν(경배한다), 순교자들에게는 ἀγαπῶμεν(사랑한다)을 사용한다. 문헌이 밝히는 두 대상에 대한 태도를 각각 옮겼다."
+        ],
+        "revision_id": "sha256:c19ebdf2d53915edda72b07d809d5a2eebe6ff658ac867bf8cf53f99ad98df43",
+        "text": "우리는 그리스도께서 하나님의 아들이시기에 그분을 경배합니다. 순교자들은 주님의 제자이며 그분을 본받는 이들이기에 마땅히 사랑합니다. 자신들의 왕이자 스승을 향한 그들의 더할 나위 없는 헌신 때문입니다. 우리도 그들과 함께 참여하며 같은 제자가 되기를 빕니다."
+      },
+      "work_id": "polycarp-martyrdom",
+      "work_passage_id": "polycarp-martyrdom:lake-1917:17.3"
+    },
+    {
+      "author": "스미르나 교회",
+      "groups": [
+        {
+          "id": "a-3410a7316ed584e26873",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ],
+      "html_path": "works/polycarp-martyrdom/index.html#p-18-2",
+      "label": "폴리카르포스의 순교 18.2",
+      "location": "18.2",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:33f268fd176f8b847dfb0c49b39b44b27d54380724be7beb10501e1762382722",
+        "text": "οὕτως τε ἡμεῖς ὕστερον ἀνελόμενοι τὰ τιμιώτερα λίθων πολυτελῶν καὶ δοκιμώτερα ὑπὲρ χρυσίον ὀστᾶ αὐτοῦ ἀπεθέμεθα, ὅπου καὶ ἀκόλουθον ἦν."
+      },
+      "title": "폴리카르포스의 순교",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:33afd3536dfb9beb07b427121f313e1c56ae532d4531d95ac730902b48ce75a4",
+        "text": "그 뒤 우리는 귀한 보석보다 값지고 금보다 더 귀한 그의 뼈를 거두어 마땅한 곳에 모셔 두었습니다."
+      },
+      "work_id": "polycarp-martyrdom",
+      "work_passage_id": "polycarp-martyrdom:lake-1917:18.2"
+    },
+    {
+      "author": "스미르나 교회",
+      "groups": [
+        {
+          "id": "a-c7ee043144922be6d10d",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "a-4b01cb27061cb9e3f958",
+          "ko_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "source_token_indexes": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-c3e5859c628e5fad5379",
+          "ko_token_indexes": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        }
+      ],
+      "html_path": "works/polycarp-martyrdom/index.html#p-18-3",
+      "label": "폴리카르포스의 순교 18.3",
+      "location": "18.3",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:d0f3b857942db10910bc388543e93d6444250aee4a5806cc942ef20c91cd4164",
+        "text": "ἔνθα ὡς δυνατὸν ἡμῖν συναγομένοις ἐν ἀγαλλιάσει καὶ χαρᾷ παρέξει ὁ κύριος ἐπιτελεῖν τὴν τοῦ μαρτυρίου αὐτοῦ ἡμέραν γενέθλιον, εἴς τε τὴν τῶν προηθληκότων μνήμην καὶ τῶν μελλόντων ἄσκησίν τε καὶ ἑτοιμασίαν."
+      },
+      "title": "폴리카르포스의 순교",
+      "translation": {
+        "notes": [
+          "γενέθλιος는 탄생일을 뜻하는 말이다. 여기서는 순교일의 기념과 연결되며, 먼저 순교한 이들을 기억하고 앞으로 닥칠 시련을 준비하는 모임을 설명한다."
+        ],
+        "revision_id": "sha256:6d30f31d5f23e9c8d7ec3177a84ef67ce7e98527d191cbec2c22296be9bf2cc3",
+        "text": "우리가 할 수 있는 대로 그곳에 기쁨과 즐거움으로 모일 때, 주님께서는 그의 순교일을 탄생일로 기념하게 해 주실 것입니다. 이는 먼저 싸움을 치른 이들을 기억하고, 앞으로 싸울 이들을 훈련하고 준비시키기 위함입니다."
+      },
+      "work_id": "polycarp-martyrdom",
+      "work_passage_id": "polycarp-martyrdom:lake-1917:18.3"
+    },
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-8f62e3aa8e9f54975476",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "a-2c2fb4c8d3417b6bfa54",
+          "ko_token_indexes": [
+            5,
+            6,
+            7
+          ],
+          "source_token_indexes": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "a-1d9fbe95c8ea5666786a",
+          "ko_token_indexes": [
+            8,
+            9,
+            10
+          ],
+          "source_token_indexes": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-e95d36891f5c99f1446b",
+          "ko_token_indexes": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "source_token_indexes": [
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "a-fee4fa7c23d70511f253",
+          "ko_token_indexes": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "a-513674c9f94fb4c9de06",
+          "ko_token_indexes": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "source_token_indexes": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-4.html#p-4-15-44",
+      "label": "교회사 4.15.44",
+      "location": "4.15.44",
+      "relation": "related_testimony",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:f271a1a2f490b654479c91d2995d78f4a9e6185390c585dac8399cce634db1a0",
+        "text": "ἔνθα, ὡς δυνατόν, ἡμῖν συναγομένοις ἐν ἀγαλλιάσει καὶ χαρᾷ παρέξει ὁ κύριος ἐπιτελεῖν τὴν τοῦ μαρτυρίου αὐτοῦ ἡμέραν γενέθλιον εἴς τε τὴν τῶν προηθληκότων μνήμην καὶ τῶν μελλόντων ἄσκησίν τε καὶ ἑτοιμασίαν."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [
+          "편지는 폴리카르포스의 순교일을 “탄생일”(γενέθλιος)로 부르며 그날 모여 기념할 뜻을 밝힌다."
+        ],
+        "revision_id": "sha256:1c47898619e26c2d5d3b1b36f690b0e6b6811c1d75bf60a69ee0e7034b4e4239",
+        "text": "“우리가 가능한 대로 그곳에 모여 환희와 기쁨 속에 그의 순교일을 탄생일로 기념하도록 주님께서 허락하실 것이다. 이는 앞서 싸운 이들을 기억하고 앞으로 싸울 이들을 훈련하며 준비시키기 위해서다.”"
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:4.15.44"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "순교자를 기억하는 공동체"
+};

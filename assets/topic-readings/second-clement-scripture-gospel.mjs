@@ -1,0 +1,176 @@
+export default {
+  "group": "reception",
+  "id": "second-clement-scripture-gospel",
+  "passages": [
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-11a53f0e8175de3d933e",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "a-716838374341b7ab375c",
+          "ko_token_indexes": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "source_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-2-4",
+      "label": "클레멘스 2서 2.4",
+      "location": "2.4",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:c8c691cd396cbc4d02fa4f8b15b77abc8d934fa2b2aacdb559cbd088cd98633e",
+        "text": "καὶ ἑτέρα δὲ γραφὴ λέγει, ὅτι οὐκ ἦλθον καλέσαι δικαίους, ἀλλὰ ἁμαρτωλούς:"
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [
+          "‘또 다른 성경’이라는 도입 뒤에 죄인을 부르러 왔다는 예수의 말씀이 인용된다. 인쇄면의 비교 위치는 마태복음 9:13, 마가복음 2:17, 누가복음 5:32이다."
+        ],
+        "revision_id": "sha256:f1ef48ccda7b75d66650f7dab203ba929cc17a0fbc60defbca1b9a33676d5be6",
+        "text": "또 다른 성경도 말합니다. “나는 의로운 이들을 부르러 온 것이 아니라 죄인들을 부르러 왔다.”"
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:2.4"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-a998f751ed32dbb483e5",
+          "ko_token_indexes": [
+            0,
+            1,
+            2
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "a-865e14ad8b56aa0025d4",
+          "ko_token_indexes": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "id": "a-40dcfd975470fe16e39c",
+          "ko_token_indexes": [
+            12,
+            13,
+            14
+          ],
+          "source_token_indexes": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "a-9481e0f5549dc307ef9d",
+          "ko_token_indexes": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "source_token_indexes": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-8-5",
+      "label": "클레멘스 2서 8.5",
+      "location": "8.5",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:ce76498abb24ebd6965af59995a638fe091b1611b82f7007c7cba06f4c4b222c",
+        "text": "λέγει γὰρ ὁ κύριος ἐν τῷ εὐαγγελίῳ: Εἰ τὸ μικρὸν οὐκ ἐτηρήσατε, τὸ μέγα τίς ὑμῖν δώσει; λέγω γὰρ ὑμῖν, ὅτι ὁ πιστὸς ἐν ἐλαχίστῳ καὶ ἐν πολλῷ πιστός ἐστιν."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [
+          "저자는 ‘복음서에서’라는 말로 인용을 시작하고, 작은 일과 큰일에서의 성실함을 연결한다. Lake판 140쪽은 누가복음 16:10-12를 비교 위치로 제시한다."
+        ],
+        "revision_id": "sha256:5ab563d111f833fe4b5e64998d16aebec4cc48719460fae58725899af745f621",
+        "text": "주님께서는 복음서에서 말씀하십니다. “작은 것을 지키지 않았다면 누가 너희에게 큰 것을 주겠느냐? 내가 너희에게 말한다. 아주 작은 일에 성실한 사람은 큰일에도 성실하다.”"
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:8.5"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "성경과 복음서로 소개되는 예수의 말씀"
+};

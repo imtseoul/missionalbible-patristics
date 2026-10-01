@@ -1,0 +1,444 @@
+export default {
+  "group": "interpretation",
+  "id": "second-clement-two-one",
+  "passages": [
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-2a341aa10491121d6a48",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "a-d18641c43f0484aa7c5c",
+          "ko_token_indexes": [
+            12,
+            13,
+            14
+          ],
+          "source_token_indexes": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "a-061be5202ca381f66215",
+          "ko_token_indexes": [
+            15,
+            16,
+            17
+          ],
+          "source_token_indexes": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "a-f03276e579f344bd9574",
+          "ko_token_indexes": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "source_token_indexes": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-12-2",
+      "label": "클레멘스 2서 12.2",
+      "location": "12.2",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:e2ba16427ee2a33abf9c36a1d44a1d5eb719d1240c4e20a15fef4bd79a24f184",
+        "text": "ἐπερωτηθεὶς γὰρ αὐτὸς ὁ κύριος ὑπό τινος, πότε ἥξει αὐτοῦ ἡ βασιλεία, εἶπεν: Ὅταν ἔσται τὰ δύο ἕν, καὶ τὸ ἔξω ὡς τὸ ἔσω, καὶ τὸ ἄρσεν μετὰ τῆς θηλείας οὔτε ἄρσεν οὔτε θῆλυ."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [
+          "둘과 하나, 밖과 안, 남자와 여자에 관한 말씀이 예수에게 귀속된다. Lake판 146쪽은 이집트인의 복음서를 가능성으로 제시한다. 12.3-5는 각 표현에 대한 설교자의 해설이다."
+        ],
+        "revision_id": "sha256:d9ea7458b036f3173576f6a04a802125766accf61830414249d28106bc64b37d",
+        "text": "어떤 사람이 주님께 그분의 나라가 언제 올지 여쭈었을 때, 주님께서 직접 말씀하셨습니다. “둘이 하나가 되고, 밖이 안과 같아지며, 남자와 여자가 함께 남자도 여자도 아니게 될 때이다.”"
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:12.2"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-11cac9f03d0dd486a2eb",
+          "ko_token_indexes": [
+            0,
+            1,
+            2
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "a-f1acb57e540d9e7320e9",
+          "ko_token_indexes": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "source_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-12-3",
+      "label": "클레멘스 2서 12.3",
+      "location": "12.3",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:1bfa59d773d3ec26fd94be860d276cd64455014ecb2e3022286e2f4d38e693fb",
+        "text": "τὰ δύο δὲ ἕν ἐστιν, ὅταν λαλῶμεν ἑαυτοῖς ἀλήθειαν καὶ ἐν δυσὶ σώμασιν ἀνυποκρίτως εἴη μία ψυχή."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:910d06de5a9049f06f253654d3f135c45810b04426a576a917d65be948ddf7d1",
+        "text": "둘이 하나라는 말은, 우리가 서로 진실을 말하고 두 몸 안에 위선 없이 하나의 혼이 있게 될 때를 뜻합니다."
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:12.3"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-42c35af692ae18f5d047",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "a-cf9383928796aeab743a",
+          "ko_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "source_token_indexes": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-4c03166473c0d5282849",
+          "ko_token_indexes": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "a-b4ddcfb152fc9057806c",
+          "ko_token_indexes": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "source_token_indexes": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-12-4",
+      "label": "클레멘스 2서 12.4",
+      "location": "12.4",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:3c724d91b6d79d839570dfc718a59b0760f9f1a7be95e4d82fc0581360dc8cef",
+        "text": "καὶ τὸ ἔξω ὡς τὸ ἔσω, τοῦτο λέγει: τὴν ψυχὴν λέγει τὸ ἔσω, τὸ δὲ ἔξω τὸ σῶμα λέγει. ὃν τρόπον οὖν σου τὸ σῶμα φαίνεται, οὕτως καὶ ἡ ψυχή σου δῆλος ἔστω ἐν τοῖς καλοῖς ἔργοις."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:b41e330165d07aca3dfbbf413a13ba8e7b81f9406c3717dd39cd348bc4883732",
+        "text": "‘밖이 안과 같다’는 말은 이렇습니다. 혼을 안이라고 하고, 몸을 밖이라고 합니다. 그대의 몸이 드러나는 것처럼, 그대의 혼도 선한 행위를 통해 분명히 드러나게 하십시오."
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:12.4"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-e23e925ffd9e4d67e4f0",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "a-dacb6f14b324d7dbb553",
+          "ko_token_indexes": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "source_token_indexes": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "a-44faed3507ee4c18edc0",
+          "ko_token_indexes": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "source_token_indexes": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-12-5",
+      "label": "클레멘스 2서 12.5",
+      "location": "12.5",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:df672a4a12174bf805139513dc47f0c3f605cb1795136fcdc3390f0204ed6721",
+        "text": "καὶ τὸ ἄρσεν μετὰ τῆς θηλείας, οὔτε ἄρσεν οὔτε θῆλυ, τοῦτο λέγει: ἵνα ἀδελφὸς ἰδὼν ἀδελφὴν οὐδὲν φρονῇ περὶ αὐτῆς θηλυκόν, μηδὲ φρονῇ τι περὶ αὐτοῦ ἀρσενικόν."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [
+          "형제와 자매를 성적으로 바라보는 문제에 적용한 해설이다. Lake판 146쪽 각주 1은 이 절의 ‘이 말’부터 A 사본의 결락을 표시한다."
+        ],
+        "revision_id": "sha256:6864da77761b743c153356f8849470e5fc2f5f5eafa6376351a12b3c50e6b123",
+        "text": "‘남자와 여자가 함께 남자도 여자도 아니다’라는 말은 이렇습니다. 형제가 자매를 보고 그를 여자로 생각하지 않고, 자매도 그를 남자로 생각하지 않게 하라는 뜻입니다."
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:12.5"
+    },
+    {
+      "author": "익명 (클레멘스에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-b478d7d6ec9f67b1b9f7",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "html_path": "works/clement-2-corinthians/index.html#p-12-6",
+      "label": "클레멘스 2서 12.6",
+      "location": "12.6",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:3f38597b6eee5956a7e6931fe8c3143f9f6ac5f0120be2d51a11ea1695dbc2a9",
+        "text": "ταῦτα ὑμῶν ποιούντων, φησίν, ἐλεύσεται ἡ βασιλεία τοῦ πατρός μου."
+      },
+      "title": "클레멘스 2서",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:106ffd3b93570dd314f76ed6543c51f9c6673ae245b3101f907841fbdb861752",
+        "text": "그분은 말씀하십니다. “너희가 이것들을 행하면 내 아버지의 나라가 올 것이다.”"
+      },
+      "work_id": "clement-2-corinthians",
+      "work_passage_id": "clement-2-corinthians:lake-1914:12.6"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "둘이 하나가 된다는 말씀의 해석"
+};

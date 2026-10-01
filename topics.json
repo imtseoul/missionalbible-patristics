@@ -1,34 +1,46 @@
 {
   "groups": [
     {
+      "anchor": "section-5cb61d65ee",
       "id": "gospels",
-      "title": "복음서의 저자와 집필"
+      "title": "복음서의 전승과 인용"
     },
     {
+      "anchor": "section-5e06ca821d",
       "id": "transmission",
       "title": "사도와 교회의 전승"
     },
     {
+      "anchor": "section-c9b9e6b9d7",
       "id": "reception",
       "title": "신약 문헌의 수용"
     },
     {
+      "anchor": "section-5ac6c5ceda",
       "id": "hebrews",
       "title": "히브리서의 집필자"
     },
     {
+      "anchor": "section-48aacfdc22",
       "id": "worship",
       "title": "성경 낭독과 공동 예배"
     },
     {
+      "id": "faith-life",
+      "title": "구원과 그리스도인의 삶"
+    },
+    {
+      "anchor": "section-e2deb3a453",
       "id": "trinity",
       "title": "삼위일체와 신앙 고백"
     },
     {
+      "anchor": "section-2a615e7771",
       "id": "interpretation",
       "title": "성경의 인용과 해석"
     },
     {
+      "anchor": "section-5954033887",
       "id": "context",
       "title": "초기 그리스도교와 로마 사회"
     }
@@ -11868,7 +11880,7 @@
     },
     {
       "attribution": "편지 6장의 몸과 영혼 비유",
-      "group": "interpretation",
+      "group": "faith-life",
       "id": "diognetus-soul-world",
       "passages": [
         {
@@ -12211,7 +12223,7 @@
     },
     {
       "attribution": "편지 9장의 구원에 관한 설명",
-      "group": "reception",
+      "group": "faith-life",
       "id": "diognetus-exchange",
       "passages": [
         {
@@ -12552,7 +12564,7 @@
     },
     {
       "attribution": "편지 10장의 실천에 관한 권면",
-      "group": "interpretation",
+      "group": "faith-life",
       "id": "diognetus-imitation",
       "passages": [
         {
@@ -13678,7 +13690,7 @@
     },
     {
       "attribution": "Rauschen판 제2변증서 8장(ANF 3장)과 유세비우스의 인용",
-      "group": "transmission",
+      "group": "context",
       "id": "justin-second-crescens",
       "passages": [
         {
@@ -14386,7 +14398,7 @@
     },
     {
       "attribution": "유스티노스의 설명과 익명 서신의 관련 비유",
-      "group": "interpretation",
+      "group": "faith-life",
       "id": "justin-second-world",
       "passages": [
         {
@@ -14744,7 +14756,7 @@
     },
     {
       "attribution": "아테나고라스의 설명과 본문 인용",
-      "group": "interpretation",
+      "group": "faith-life",
       "id": "athenagoras-enemies",
       "passages": [
         {
@@ -14988,7 +15000,7 @@
     },
     {
       "attribution": "아테나고라스의 설명과 본문 인용",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "athenagoras-father-son-spirit",
       "passages": [
         {
@@ -16010,7 +16022,7 @@
     },
     {
       "attribution": "아테나고라스의 설명과 본문 인용",
-      "group": "reception",
+      "group": "faith-life",
       "id": "athenagoras-resurrection",
       "passages": [
         {
@@ -16776,7 +16788,7 @@
     },
     {
       "attribution": "테오필로스의 설명과 인용",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "theophilus-word-wisdom",
       "passages": [
         {
@@ -19454,7 +19466,7 @@
     },
     {
       "attribution": "타티아노스의 설명과 관련 문헌의 증언",
-      "group": "interpretation",
+      "group": "trinity",
       "id": "tatian-word",
       "passages": [
         {
@@ -20152,7 +20164,7 @@
     },
     {
       "attribution": "타티아노스의 설명과 관련 문헌의 증언",
-      "group": "interpretation",
+      "group": "faith-life",
       "id": "tatian-resurrection",
       "passages": [
         {
@@ -42585,6 +42597,295 @@
       ],
       "summary": "거룩하게 하는 성령과 거룩하게 되는 피조물, 인장과 형상, 신적 본성의 참여와 아들 됨을 읽습니다.",
       "title": "성령의 참여와 아들 됨"
+    },
+    {
+      "attribution": "클레멘스 1서의 화자가 고린도인들에게 하는 권면",
+      "group": "reception",
+      "id": "clement-paul-corinthians",
+      "passages": [
+        {
+          "author": "로마의 클레멘스 (전승상 귀속)",
+          "citation": "로마의 클레멘스 (전승상 귀속), 『클레멘스 1서』 47.1, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.24, https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-1",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-1",
+          "html_path": "works/clement-1-corinthians/index.html#p-47-1",
+          "label": "클레멘스 1서 47.1",
+          "location": "47.1",
+          "public_url": "https://patristics.missionalbible.org/works/clement-1-corinthians/index.html#p-47-1",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:092e67429616a0fb6e4d282f8e97784c767f9883c0a97839c42fabad9a4e2b71",
+              "sha256:c34eec52999023c67d568d7a8ef105019c6359207dddfbaef4297c4c07622b9a"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "lake-1914-vol1-clement-1-corinthians",
+            "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+            "rights_id": "first1k-cc-by-sa-4.0",
+            "text": "Ἀναλάβετε τὴν ἐπιστολὴν τοῦ μακαρίου Παύλου τοῦ ἀποστόλου."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:ce8e3bcd54384525fc72e73f347b66339a6226aca70ce30f10a64456ba4e8091",
+          "title": "클레멘스 1서",
+          "translation": {
+            "notes": [
+              "바울의 편지를 다시 집어 들라는 명시적 요청이다. 뒤에서 바울, 게바, 아폴로를 언급하며 과거의 편 가르기와 현재의 분쟁을 비교한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "복된 사도 바울의 편지를 다시 집어 드십시오."
+          },
+          "translation_revision_id": "sha256:b271966934003de772e0dfb106fa8c69a8baff019bf82b61ffac12929134ab3a",
+          "work_id": "clement-1-corinthians",
+          "work_passage_id": "clement-1-corinthians:lake-1914:47.1"
+        },
+        {
+          "author": "로마의 클레멘스 (전승상 귀속)",
+          "citation": "로마의 클레멘스 (전승상 귀속), 『클레멘스 1서』 47.2, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.24, https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-2",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-2",
+          "html_path": "works/clement-1-corinthians/index.html#p-47-2",
+          "label": "클레멘스 1서 47.2",
+          "location": "47.2",
+          "public_url": "https://patristics.missionalbible.org/works/clement-1-corinthians/index.html#p-47-2",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:56e3f8a281a14911df6462c1a5a1fe603e6ffaf209c89890a1cf4d0560a7143b",
+              "sha256:6b03df35eee8fbd4760e5c509497377e251d092c0a81df3135319aead3c16010"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "lake-1914-vol1-clement-1-corinthians",
+            "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+            "rights_id": "first1k-cc-by-sa-4.0",
+            "text": "τί πρῶτον ὑμῖν ἐν ἀρχῇ τοῦ εὐαγγελίου ἔγραψεν ;"
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:fc4e53f2614138fd543145082a22e5fb7988b5676a55347051968e06ec03d48b",
+          "title": "클레멘스 1서",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "복음이 전해지기 시작할 때 그가 여러분에게 처음 쓴 내용은 무엇입니까?"
+          },
+          "translation_revision_id": "sha256:5b69e7f0da26299f42e649af72eba2cf380d8d5686dcb92d6de0e2aff6c91cbd",
+          "work_id": "clement-1-corinthians",
+          "work_passage_id": "clement-1-corinthians:lake-1914:47.2"
+        },
+        {
+          "author": "로마의 클레멘스 (전승상 귀속)",
+          "citation": "로마의 클레멘스 (전승상 귀속), 『클레멘스 1서』 47.3, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.24, https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-3",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-3",
+          "html_path": "works/clement-1-corinthians/index.html#p-47-3",
+          "label": "클레멘스 1서 47.3",
+          "location": "47.3",
+          "public_url": "https://patristics.missionalbible.org/works/clement-1-corinthians/index.html#p-47-3",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:f632836e38102a6b2669facd8b681f1ac25e634a604ab7ef166e25fd2f48fb32",
+              "sha256:788200027c7f56d537c468c818d2ca03277e4a783b7f19877b6622277d37c631"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "lake-1914-vol1-clement-1-corinthians",
+            "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+            "rights_id": "first1k-cc-by-sa-4.0",
+            "text": "ἐπ’ ἀληθείας πνευματικῶς ἐπέστειλεν ὑμῖν περὶ ἑαυτοῦ τε καὶ Κηφᾶ τε καὶ Ἀπολλώ, διὰ τὸ καὶ τότε προσκλίσεις ὑμᾶς πεποιῆσθαι."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:0fff1a614f51132f98ba90fb08d8faaf4eaba855489caaf659c64baf2dd7e279",
+          "title": "클레멘스 1서",
+          "translation": {
+            "notes": [
+              "πνευματικῶς는 성령의 인도를 받아 썼다는 뜻으로 읽었다. 이 서신이 바울의 편지를 어떻게 받아들이고 있는지 드러내는 표현이다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "참으로 그는 성령의 인도를 받아 자신과 게바와 아폴로에 관하여 여러분에게 편지를 썼습니다. 그때에도 여러분이 편을 갈랐기 때문입니다."
+          },
+          "translation_revision_id": "sha256:33a411a35d1bd35e76e06f98ded197d5608cf316f8cd58bb75871a71bf066006",
+          "work_id": "clement-1-corinthians",
+          "work_passage_id": "clement-1-corinthians:lake-1914:47.3"
+        },
+        {
+          "author": "로마의 클레멘스 (전승상 귀속)",
+          "citation": "로마의 클레멘스 (전승상 귀속), 『클레멘스 1서』 47.4, 그리스어 편집 본문, Lake 1914, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.24, https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-4",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.24/clement-1-corinthians/index.html#p-47-4",
+          "html_path": "works/clement-1-corinthians/index.html#p-47-4",
+          "label": "클레멘스 1서 47.4",
+          "location": "47.4",
+          "public_url": "https://patristics.missionalbible.org/works/clement-1-corinthians/index.html#p-47-4",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:b91aab66a13714157d3b53d77e4ce6a4eef33996e1c45185e35ff05be7d559fe",
+              "sha256:fbdfb46ef546f16936a79b5a557ce7efa7884e92db74e067ac30ce74c2eeabfb"
+            ]
+          },
+          "rights": {
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "lake-1914-vol1-clement-1-corinthians",
+            "edition_label": "Kirsopp Lake, The Apostolic Fathers I, 1914 재쇄본",
+            "rights_id": "first1k-cc-by-sa-4.0",
+            "text": "ἀλλ’ ἡ πρόσκλισις ἐκείνη ἥττονα ἁμαρτίαν ὑμῖν προσήνεγκεν: προσεκλίθητε γὰρ ἀποστόλοις μεμαρτυρημένοις καὶ ἀνδρὶ δεδοκιμασμένῳ παρ’ αὐτοῖς."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:ecf94425948bf6599674959e0d8d0575af03f0504a4b234f8eb0d5b5c26107b9",
+          "title": "클레멘스 1서",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그러나 그때 편을 가른 일로 여러분이 지은 죄는 더 작았습니다. 인정받은 사도들과 그들에게서 검증받은 사람의 편을 들었기 때문입니다."
+          },
+          "translation_revision_id": "sha256:1a9be2136f5e994a6704f3809b4c91e76f15bef62dc8cda23ac2caf939fc84d3",
+          "work_id": "clement-1-corinthians",
+          "work_passage_id": "clement-1-corinthians:lake-1914:47.4"
+        }
+      ],
+      "summary": "바울의 편지를 다시 읽으라는 권면과, 바울·게바·아폴로를 둘러싼 고린도 교회의 분열에 관한 설명을 읽습니다.",
+      "title": "클레멘스가 권하는 바울의 고린도 서신"
     }
   ]
 }

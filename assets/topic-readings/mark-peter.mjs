@@ -1,0 +1,864 @@
+export default {
+  "group": "gospels",
+  "id": "mark-peter",
+  "passages": [
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-a61b93b1551733517c4d",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "a-d3519aced9405c16d44d",
+          "ko_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "id": "a-c3180698f8fad7ac0878",
+          "ko_token_indexes": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "source_token_indexes": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "a-67135c30767ff91b9114",
+          "ko_token_indexes": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "source_token_indexes": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "a-ea23cce14db32b347b87",
+          "ko_token_indexes": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "source_token_indexes": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "a-0638487fda4eb0e45db8",
+          "ko_token_indexes": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "source_token_indexes": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-14",
+      "label": "교회사 3.39.14",
+      "location": "3.39.14",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:89308e23872a84b044371a73e0523121914101ed4e24356f559146b9ec46f824",
+        "text": "Καὶ ἄλλας δὲ τῇ ἰδίᾳ γραφῇ παραδίδωσιν Ἀριστίωνος τοῦ πρόσθεν δεδηλωμένου τῶν τοῦ κυρίου λόγων διηγήσεις καὶ τοῦ πρεσβυτέρου Ἰωάννου παραδόσεις· ἐφ’ ἃς τοὺς φιλομαθεῖς ἀναπέμψαντες, ἀναγκαίως νῦν προσθήσομεν ταῖς προεκτεθείσαις αὐτοῦ φωναῖς παράδοσιν ἣν περὶ Μάρκου τοῦ τὸ εὐαγγέλιον γεγραφότος ἐκτέθειται διὰ τούτων·"
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:6ad025f8ccb34b1942eb217589def39e80adb810c23679a2057f50568b7a803a",
+        "text": "그는 자기 저술에서 그 밖에도 앞서 말한 아리스티온이 전한 주님의 말씀 이야기들과 장로 요한의 전승들을 전한다. 배우기를 좋아하는 독자들은 그것들을 찾아보기 바라며, 이제는 앞서 인용한 그의 말에 필요한 전승 하나를 덧붙이겠다. 그는 복음서를 쓴 마가에 관해 다음과 같이 전한다."
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.39.14"
+    },
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-1991bc0aef51cf3d565c",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "a-5ab4ae1c6719216f34f6",
+          "ko_token_indexes": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "source_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "a-6a0ec72ca23003e03f08",
+          "ko_token_indexes": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "source_token_indexes": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "a-1ad3cc130a4b07779316",
+          "ko_token_indexes": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "source_token_indexes": [
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "id": "a-a3d7b45237f06def69ed",
+          "ko_token_indexes": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "source_token_indexes": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "id": "a-6783879f4ad5cc095a0c",
+          "ko_token_indexes": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "source_token_indexes": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "a-c581c0a7e6132083f0b1",
+          "ko_token_indexes": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "source_token_indexes": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "a-e574c9dfa3d0ee3fc029",
+          "ko_token_indexes": [
+            37,
+            38,
+            39,
+            40,
+            41
+          ],
+          "source_token_indexes": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "id": "a-d788d4a928cc165c03cf",
+          "ko_token_indexes": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ],
+          "source_token_indexes": [
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "id": "a-416c418c967ea7f04d1c",
+          "ko_token_indexes": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "source_token_indexes": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "id": "a-83c5513de1a7a7806225",
+          "ko_token_indexes": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ],
+          "source_token_indexes": [
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "id": "a-f890f4694b0aca3b146a",
+          "ko_token_indexes": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ],
+          "source_token_indexes": [
+            66,
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "id": "a-4752d8f339a05c0563d5",
+          "ko_token_indexes": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ],
+          "source_token_indexes": [
+            71,
+            72,
+            73,
+            74,
+            75
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-15",
+      "label": "교회사 3.39.15",
+      "location": "3.39.15",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:fcbee19036ff4156dad936d7106d8c92786efe19bb0d49125723536e52981f35",
+        "text": "καὶ τοῦθ’ ὁ πρεσβύτερος ἔλεγεν· Μάρκος μὲν ἑρμηνευτὴς Πέτρου γενόμενος, ὅσα ἐμνημόνευσεν, ἀκριβῶς ἔγραψεν, οὐ μέντοι τάξει, τὰ ὑπὸ τοῦ κυρίου ἢ λεχθέντα ἢ πραχθέντα. οὔτε γὰρ ἤκουσεν τοῦ κυρίου οὔτε παρηκολούθησεν αὐτῷ, ὕστερον δέ, ὡς ἔφην, Πέτρῳ· ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλ’ οὐχ ὥσπερ σύνταξιν τῶν κυριακῶν ποιούμενος λογίων, ὥστε οὐδὲν ἥμαρτεν Μάρκος οὕτως ἔνια γράψας ὡς ἀπεμνημόνευσεν. ἑνὸς γὰρ ἐποιήσατο πρόνοιαν, τοῦ μηδὲν ὧν ἤκουσεν παραλιπεῖν ἢ ψεύσασθαί τι ἐν αὐτοῖς."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [
+          "유세비우스는 파피아스의 글을 인용하며, 파피아스는 그 안에서 장로의 말을 전한다. “내가 말한 대로”라는 1인칭도 인용문 안에 있다.",
+          "ἑρμηνευτής는 말을 다른 이에게 옮겨 주는 사람을 가리키며 여기서는 통역자로 옮겼다. 마가가 주님을 직접 따르지 않았다는 말과 나중에 베드로를 따랐다는 말이 이어진다.",
+          "τάξει와 σύνταξις는 자료의 순서와 배열을 가리킨다. 주님의 말씀과 행적에 관한 기록의 정확성과 배열 방식이 함께 논의된다."
+        ],
+        "revision_id": "sha256:25bf79f33df78f51308c1fa2e405690a99d6a5be11aa9cb7495a1e181319505e",
+        "text": "“장로는 또 이렇게 말하곤 했습니다. ‘마가는 베드로의 통역자가 되어 주님께서 하신 말씀과 행하신 일들을 기억나는 대로 정확히 기록했다. 그러나 순서대로 기록한 것은 아니었다. 그는 주님의 말씀을 듣지도 주님을 따르지도 않았으며, 뒤에, 내가 말한 대로 베드로를 따랐기 때문이다. 베드로는 필요에 따라 가르침을 베풀었고, 주님의 말씀들을 순서 있게 엮는 방식으로 가르치지는 않았다. 그러므로 마가가 이처럼 기억한 대로 일부를 기록한 것은 아무런 잘못이 없었다. 그가 주의를 기울인 것은 한 가지, 곧 들은 것을 하나도 빠뜨리지 않고 그 가운데 어떤 거짓도 말하지 않는 일이었다.’”"
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.39.15"
+    },
+    {
+      "author": "파피아스와 전승자들",
+      "groups": [
+        {
+          "id": "a-d85600840d4d91849ba0",
+          "ko_token_indexes": [
+            0
+          ],
+          "source_token_indexes": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "a-09550b960dd6cec7f1f9",
+          "ko_token_indexes": [
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "id": "a-01f4bb484262ef65dcb4",
+          "ko_token_indexes": [
+            4
+          ],
+          "source_token_indexes": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": "a-93425f5db293992c99dd",
+          "ko_token_indexes": [
+            5
+          ],
+          "source_token_indexes": [
+            8
+          ]
+        },
+        {
+          "id": "a-9d8d08e841e9f70a32af",
+          "ko_token_indexes": [
+            6,
+            7
+          ],
+          "source_token_indexes": [
+            7,
+            9
+          ]
+        },
+        {
+          "id": "a-a3d3d15cfebb09ebbe36",
+          "ko_token_indexes": [
+            8
+          ],
+          "source_token_indexes": [
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "a-ec44d5596a1e641cf050",
+          "ko_token_indexes": [
+            9
+          ],
+          "source_token_indexes": [
+            21,
+            22
+          ]
+        },
+        {
+          "id": "a-59f6024d857516b3b338",
+          "ko_token_indexes": [
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            17,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "a-d6b142dfa2ac46d12fea",
+          "ko_token_indexes": [
+            12,
+            13
+          ],
+          "source_token_indexes": [
+            10,
+            11
+          ]
+        },
+        {
+          "id": "a-41176d15e44ffe57a91e",
+          "ko_token_indexes": [
+            14,
+            15
+          ],
+          "source_token_indexes": [
+            12,
+            13
+          ]
+        },
+        {
+          "id": "a-c5751a7b77c3b564da0a",
+          "ko_token_indexes": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "source_token_indexes": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "id": "a-626d1f7c549a1569707e",
+          "ko_token_indexes": [
+            21,
+            22
+          ],
+          "source_token_indexes": [
+            28,
+            29
+          ]
+        },
+        {
+          "id": "a-eeac49d7f662f470769b",
+          "ko_token_indexes": [
+            23,
+            24,
+            25
+          ],
+          "source_token_indexes": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "a-b348db4fa9827540d473",
+          "ko_token_indexes": [
+            26,
+            27,
+            28,
+            29
+          ],
+          "source_token_indexes": [
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "a-9ad1f3ca7f9929a13c65",
+          "ko_token_indexes": [
+            30,
+            31
+          ],
+          "source_token_indexes": [
+            35,
+            36
+          ]
+        },
+        {
+          "id": "a-c5d44db6ad7a475430da",
+          "ko_token_indexes": [
+            32,
+            33
+          ],
+          "source_token_indexes": [
+            33,
+            34
+          ]
+        },
+        {
+          "id": "a-95844ff2a9a10b36064a",
+          "ko_token_indexes": [
+            34,
+            35
+          ],
+          "source_token_indexes": [
+            37
+          ]
+        },
+        {
+          "id": "a-7ad8ab1c559f30336dd9",
+          "ko_token_indexes": [
+            36
+          ],
+          "source_token_indexes": [
+            38
+          ]
+        },
+        {
+          "id": "a-504a1a38c9b3cc5e3dff",
+          "ko_token_indexes": [
+            37,
+            38
+          ],
+          "source_token_indexes": [
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "id": "a-38df9f409b0809a19d46",
+          "ko_token_indexes": [
+            39
+          ],
+          "source_token_indexes": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "id": "a-d0985f5b8b9fef68e243",
+          "ko_token_indexes": [
+            40,
+            41
+          ],
+          "source_token_indexes": [
+            49,
+            50,
+            52
+          ]
+        },
+        {
+          "id": "a-d50c8b911016fe5cea24",
+          "ko_token_indexes": [
+            42,
+            43
+          ],
+          "source_token_indexes": [
+            48
+          ]
+        },
+        {
+          "id": "a-e67d1edf91b527986bff",
+          "ko_token_indexes": [
+            44,
+            45
+          ],
+          "source_token_indexes": [
+            45,
+            46,
+            47,
+            51
+          ]
+        },
+        {
+          "id": "a-b13c96811882530a5082",
+          "ko_token_indexes": [
+            46,
+            47
+          ],
+          "source_token_indexes": [
+            53,
+            56
+          ]
+        },
+        {
+          "id": "a-f44c957dcfc1ce5c3911",
+          "ko_token_indexes": [
+            48,
+            49,
+            50
+          ],
+          "source_token_indexes": [
+            60,
+            61
+          ]
+        },
+        {
+          "id": "a-fde106b2b34186428bea",
+          "ko_token_indexes": [
+            51,
+            52,
+            53,
+            54,
+            55
+          ],
+          "source_token_indexes": [
+            57,
+            58,
+            59
+          ]
+        },
+        {
+          "id": "a-e866f0bfb87ca7d8b283",
+          "ko_token_indexes": [
+            56,
+            57
+          ],
+          "source_token_indexes": [
+            54,
+            55
+          ]
+        },
+        {
+          "id": "a-8833f04d8d111cd22994",
+          "ko_token_indexes": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63
+          ],
+          "source_token_indexes": [
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "id": "a-7e2befb41b4d5c7f7760",
+          "ko_token_indexes": [
+            64,
+            65
+          ],
+          "source_token_indexes": [
+            68,
+            69
+          ]
+        },
+        {
+          "id": "a-3f70324e014a6f6bb6b8",
+          "ko_token_indexes": [
+            66,
+            67,
+            68
+          ],
+          "source_token_indexes": [
+            66,
+            67,
+            70
+          ]
+        },
+        {
+          "id": "a-4ebcf60e97534baaa656",
+          "ko_token_indexes": [
+            69,
+            70
+          ],
+          "source_token_indexes": [
+            74,
+            75
+          ]
+        },
+        {
+          "id": "a-081eacee62af197546b1",
+          "ko_token_indexes": [
+            71,
+            72,
+            73,
+            74
+          ],
+          "source_token_indexes": [
+            71,
+            72,
+            73
+          ]
+        },
+        {
+          "id": "a-7c294dc6bb2f5b552e09",
+          "ko_token_indexes": [
+            75,
+            76
+          ],
+          "source_token_indexes": [
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "id": "a-3c3a39f2df721456d0f9",
+          "ko_token_indexes": [
+            77
+          ],
+          "source_token_indexes": [
+            80,
+            81
+          ]
+        },
+        {
+          "id": "a-5745b5150626cd38a148",
+          "ko_token_indexes": [
+            78,
+            79,
+            80
+          ],
+          "source_token_indexes": [
+            76,
+            77,
+            78,
+            79
+          ]
+        }
+      ],
+      "html_path": "works/papias-fragments/index.html#p-II-15",
+      "label": "파피아스 단편과 증언 II.15",
+      "location": "II.15",
+      "relation": "parallel_preservation_of_same_testimony",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:12aaee5cc94680246e4806a09340c6009f30e21ed47e214603bfecb3d38dcbb7",
+        "text": "“Καὶ τοῦτο ὁ πρεσβύτερος ἔλεγε· Μάρκος μὲν ἑρμηνευτὴς Πέτρου γενόμενος, ὅσα ἐμνημόνευσεν, ἀκριβῶς ἔγραψεν, οὐ μέντοι τάξει, τὰ ὑπὸ τοῦ Χριστοῦ ἢ λεχθέντα ἢ πραχθέντα· οὔτε γὰρ ἤκουσε τοῦ κυρίου οὔτε παρηκολούθησεν αὐτῷ, ὕστερον δέ, ὡς ἔφην, Πέτρῳ, ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλ’ οὐχ ὥσπερ σύνταξιν τῶν κυριακῶν ποιούμενος λογίων, ὥστε οὐδὲν ἥμαρτε Μάρκος, οὕτως ἔνια γράψας ὡς ἀπεμνημόνευσεν· ἑνὸς γὰρ ἐποιήσατο πρόνοιαν, τοῦ μηδὲν ὧν ἤκουσε παραλιπεῖν ἢ ψεύσασθαί τι ἐν αὐτοῖς.” Ταῦτα μὲν οὖν ἱστόρηται τῷ Παπίᾳ περὶ τοῦ Μάρκου."
+      },
+      "title": "파피아스 단편과 증언",
+      "translation": {
+        "notes": [
+          "인용 관계는 유세비우스가 파피아스를 인용하고, 파피아스가 장로의 말을 전하는 구조이다. 마지막 ‘마가에 관하여 파피아스가 전한 내용’은 유세비우스의 정리이다.",
+          "ἑρμηνευτής는 말을 풀이하고 전달하는 사람을 가리켜 ‘통역자’로 옮겼다. τάξις와 σύνταξις는 순서와 정돈된 구성을 나타낸다. 이 문장은 기억에 따른 기록, 정확성, 배열의 문제를 각각 다룬다."
+        ],
+        "revision_id": "sha256:b2bdfa1fba0dab625175872ae4fc38e1532709f8820a14946224578b748b95ee",
+        "text": "“장로는 이런 말도 했다. ‘마가는 베드로의 통역자가 되어, 그리스도께서 말씀하시거나 행하신 일들을 기억하는 대로 정확히 기록했다. 다만 순서대로 쓴 것은 아니었다. 주님의 말씀을 직접 듣지도 않았고, 그분을 따르지도 않았기 때문이다. 내가 말했듯이, 그 뒤에 베드로를 따랐다. 베드로는 필요에 맞추어 가르쳤으며, 주님의 말씀들을 정돈된 구성으로 엮지는 않았다. 그러므로 마가가 기억해 낸 대로 몇 가지를 이렇게 기록한 데에는 잘못이 없었다. 그가 주의를 기울인 것은 한 가지였다. 들은 것을 하나도 빠뜨리지 않고, 그 안에 거짓을 섞지 않는 것이었다.’” 마가에 관하여 파피아스가 전한 내용은 이러하다."
+      },
+      "work_id": "papias-fragments",
+      "work_passage_id": "papias-fragments:funk-1901-papias:II.15"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "마가와 베드로"
+};

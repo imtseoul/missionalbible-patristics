@@ -1,0 +1,765 @@
+export default {
+  "group": "gospels",
+  "id": "luke-paul",
+  "passages": [
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-e04dd3d51d8f7e54957d",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "a-119309f513b7ade47ce3",
+          "ko_token_indexes": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "source_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "a-bd429f90b85d230568cb",
+          "ko_token_indexes": [
+            9,
+            10,
+            11,
+            12
+          ],
+          "source_token_indexes": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "a-9fdc030df9bd9753789f",
+          "ko_token_indexes": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "source_token_indexes": [
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "a-b5eaef3195918ea6929d",
+          "ko_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "source_token_indexes": [
+            18,
+            19,
+            20,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "a-66387e1f1972399bb864",
+          "ko_token_indexes": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ],
+          "source_token_indexes": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "id": "a-623174d6d2a1c35ed86f",
+          "ko_token_indexes": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "source_token_indexes": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "id": "a-2877529e29e8c34fab86",
+          "ko_token_indexes": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "source_token_indexes": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "id": "a-38563961d162612f4a34",
+          "ko_token_indexes": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ],
+          "source_token_indexes": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "id": "a-fff0299054bd0ae52bbc",
+          "ko_token_indexes": [
+            50,
+            51,
+            52
+          ],
+          "source_token_indexes": [
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "id": "a-aa1e2bd9aebb8bfa8ad0",
+          "ko_token_indexes": [
+            53,
+            54,
+            55,
+            56,
+            57
+          ],
+          "source_token_indexes": [
+            65,
+            66,
+            67,
+            68,
+            69
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-24-15",
+      "label": "교회사 3.24.15",
+      "location": "3.24.15",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:9e846c7c91cbd6099ecf3f3c9b4fb6db05a8702097829a113179eabff1a8c639",
+        "text": "ὁ δὲ Λουκᾶς ἀρχόμενος καὶ αὐτὸς τοῦ κατ’ αὐτὸν συγγράμματος τὴν αἰτίαν προύθηκεν δι’ ἣν πεποίηται τὴν σύνταξιν, δηλῶν ὡς ἄρα πολλῶν καὶ ἄλλων προπετέστερον ἐπιτετηδευκότων διήγησιν ποιήσασθαι ὧν αὐτὸς πεπληροφόρητο λόγων, ἀναγκαίως ἀπαλλάττων ἡμᾶς τῆς περὶ τοὺς ἄλλους ἀμφηρίστου ὑπολήψεως, τὸν ἀσφαλῆ λόγον ὧν αὐτὸς ἱκανῶς τὴν ἀλήθειαν κατειλήφει ἐκ τῆς ἅμα Παύλῳ συνουσίας τε καὶ διατριβῆς καὶ τῆς τῶν λοιπῶν ἀποστόλων ὁμιλίας ὠφελημένος, διὰ τοῦ ἰδίου παρέδωκεν εὐαγγελίου."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [
+          "이 절은 누가복음 1:1-4를 풀이하는 유세비우스의 설명이다. 다른 기록자들이 “성급하게” 썼다는 평가와 바울 및 사도들과의 교류는 그 설명에 포함된다."
+        ],
+        "revision_id": "sha256:9d7e9272f284bf946fcbbf39656563c03a7f659dea3276c56de07f0860fde16e",
+        "text": "누가도 자신의 저술 첫머리에서 이 책을 엮은 까닭을 제시했다. 다른 많은 사람이 성급하게 누가 자신이 충분히 확신하게 된 사실들을 이야기로 만들려 했다고 밝힌 것이다. 그래서 다른 이들을 둘러싼 불확실한 생각에서 우리를 벗어나게 하고자, 바울과 함께 지내고 생활한 일과 다른 사도들과 나눈 대화에서 도움을 얻어 그 진실을 충분히 파악한 일들에 대한 믿을 만한 기록을 자신의 복음서를 통해 전해 주었다."
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.24.15"
+    },
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-01798020e22d0660c4e4",
+          "ko_token_indexes": [
+            0,
+            1
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "a-d1489e9942a8edc2997c",
+          "ko_token_indexes": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "source_token_indexes": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "a-90e7a151363d230bb266",
+          "ko_token_indexes": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "source_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "id": "a-1a0eb8a69144dcfffb8c",
+          "ko_token_indexes": [
+            11,
+            12
+          ],
+          "source_token_indexes": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-6.html#p-6-25-6",
+      "label": "교회사 6.25.6",
+      "location": "6.25.6",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:2215cbda0744b6ddd63c3130c21bc8ebe51da11c10d4ea5ec16bf05ee51aaf06",
+        "text": "καὶ τρίτον τὸ κατὰ Λουκᾶν, τὸ ὑπὸ Παύλου ἐπαινούμενον εὐαγγέλιον τοῖς ἀπὸ τῶν ἐθνῶν πεποιηκότα· ἐπὶ πᾶσιν τὸ κατὰ Ἰωάννην."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:9c67629c7b2ea4e2a5df2e2899bbd7337d1ca4e8d846b94b0df16e48b0b45b37",
+        "text": "“셋째는 누가복음이다. 이것은 바울이 칭찬한 복음서로, 누가는 이방인 출신들을 위해 썼다. 마지막은 요한복음이다.”"
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:6.25.6"
+    },
+    {
+      "author": "이레네우스",
+      "groups": [
+        {
+          "id": "a-595658d324d30f3ab2f3",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "a-324fe4bc6b9880ffcb5c",
+          "ko_token_indexes": [
+            4,
+            5
+          ],
+          "source_token_indexes": [
+            4,
+            5
+          ]
+        },
+        {
+          "id": "a-8b7a5b96e053e28d005c",
+          "ko_token_indexes": [
+            6,
+            7,
+            8
+          ],
+          "source_token_indexes": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "a-92b91c5fd9358be80a10",
+          "ko_token_indexes": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "source_token_indexes": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "id": "a-a92ad27b54c647527e7b",
+          "ko_token_indexes": [
+            14,
+            15,
+            16
+          ],
+          "source_token_indexes": [
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "a-b099b2cfb7f67706a26c",
+          "ko_token_indexes": [
+            17,
+            18,
+            19
+          ],
+          "source_token_indexes": [
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "a-1765710f16bd57a1d30c",
+          "ko_token_indexes": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "source_token_indexes": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "id": "a-9895bc9e56a20447245a",
+          "ko_token_indexes": [
+            24,
+            25,
+            26
+          ],
+          "source_token_indexes": [
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "a-ebd04ac7ce62c94087e3",
+          "ko_token_indexes": [
+            27,
+            28,
+            29,
+            30
+          ],
+          "source_token_indexes": [
+            27,
+            28,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "a-109f7d441587579abad3",
+          "ko_token_indexes": [
+            31,
+            32,
+            33
+          ],
+          "source_token_indexes": [
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "id": "a-0d4a91d2ed9f97cfdea8",
+          "ko_token_indexes": [
+            34,
+            35,
+            36
+          ],
+          "source_token_indexes": [
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "id": "a-a01081a4967850c36efd",
+          "ko_token_indexes": [
+            37,
+            38
+          ],
+          "source_token_indexes": [
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "id": "a-75fd2a3300a5e7078bd6",
+          "ko_token_indexes": [
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "source_token_indexes": [
+            51,
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "id": "a-2fda863da6c7c19c00d8",
+          "ko_token_indexes": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ],
+          "source_token_indexes": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "id": "a-676dd27680c97a1d65cd",
+          "ko_token_indexes": [
+            50,
+            51,
+            52
+          ],
+          "source_token_indexes": [
+            66,
+            67,
+            68
+          ]
+        },
+        {
+          "id": "a-922a84acc8d5df20259f",
+          "ko_token_indexes": [
+            53,
+            54
+          ],
+          "source_token_indexes": [
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "id": "a-ae086ec911d0496bc01e",
+          "ko_token_indexes": [
+            55,
+            56
+          ],
+          "source_token_indexes": [
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "id": "a-e90f89106a59bc7a46a6",
+          "ko_token_indexes": [
+            57,
+            58,
+            59
+          ],
+          "source_token_indexes": [
+            78,
+            79,
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "id": "a-43d28f0f590ade20accf",
+          "ko_token_indexes": [
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "source_token_indexes": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ]
+        },
+        {
+          "id": "a-61e4a572516156deca68",
+          "ko_token_indexes": [
+            65,
+            66,
+            67,
+            68
+          ],
+          "source_token_indexes": [
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "id": "a-619eea18fc74fec83f95",
+          "ko_token_indexes": [
+            69,
+            70
+          ],
+          "source_token_indexes": [
+            88,
+            89
+          ]
+        },
+        {
+          "id": "a-af412497e5c1a36aaf14",
+          "ko_token_indexes": [
+            71,
+            72,
+            73,
+            74
+          ],
+          "source_token_indexes": [
+            90,
+            91,
+            92,
+            93,
+            94
+          ]
+        },
+        {
+          "id": "a-d19b975db1c1ece7bdbb",
+          "ko_token_indexes": [
+            75,
+            76,
+            77,
+            78
+          ],
+          "source_token_indexes": [
+            95,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "id": "a-f44bf96bad1393f726e4",
+          "ko_token_indexes": [
+            79,
+            80,
+            81,
+            82
+          ],
+          "source_token_indexes": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
+          ]
+        },
+        {
+          "id": "a-69c68e864bc230ad96e8",
+          "ko_token_indexes": [
+            83,
+            84,
+            85
+          ],
+          "source_token_indexes": [
+            105,
+            106,
+            107,
+            108
+          ]
+        },
+        {
+          "id": "a-c33bf5372436dc1f04e6",
+          "ko_token_indexes": [
+            86,
+            87,
+            88,
+            89
+          ],
+          "source_token_indexes": [
+            114,
+            115,
+            116,
+            117,
+            118
+          ]
+        },
+        {
+          "id": "a-16ac4d18c00a44f48aa5",
+          "ko_token_indexes": [
+            90,
+            91,
+            92
+          ],
+          "source_token_indexes": [
+            109,
+            110,
+            111,
+            112,
+            113
+          ]
+        },
+        {
+          "id": "a-c9fc54339a832f171564",
+          "ko_token_indexes": [
+            93,
+            94,
+            95,
+            96
+          ],
+          "source_token_indexes": [
+            119,
+            120,
+            121,
+            122
+          ]
+        }
+      ],
+      "html_path": "works/irenaeus-against-heresies/book-3.html#p-3-h1-s2",
+      "label": "이단 논박 3권 1장 2절 (Harvey판)",
+      "location": "3.h1.s2",
+      "relation": "related_testimony",
+      "source": {
+        "language": "lat",
+        "revision_id": "sha256:4beb33398972f9a309dd29b315d1311d691aa74117c43740c78463f3ba17d067",
+        "text": "Ita Matthaeus in Hebraeis ipsorum lingua scripturam edidit Evangelii, cum Petrus et Paulus Romae evangelizarent, et fundarent Ecclesiam. Post vero horum excessum, Marcus discipulus et interpres Petri, et ipse quae a Petro annuntiata erant, per scripta nobis tradidit. Et Lucas autem sectator Pauli, quod ab illo praedicabatur Evangelium, in libro condidit. Postea et Johannes discipulus Domini, qui et supra pectus ejus recumbebat, et ipse edidit Evangelium, Ephesi Asiae commorans. Et omnes isti unum Deum factorem coeli et terrae a lege et prophetis annuntiatum, et unum Christum filium Dei tradiderunt nobis: quibus si quis non assentit, spernit quidem participes Domini, spernit autem et ipsum Christum Dominum, spernit vero et Patrem, et est a semetipso damnatus, resistens et repugnans saluti suae: quod faciunt omnes haeretici."
+      },
+      "title": "이단 논박",
+      "translation": {
+        "notes": [
+          "이 단위는 통상 3권 1장 1절의 나머지와 2절 전체이다. 2절은 이들 모두가 한 하나님을 전했다는 Et omnes isti에서 시작한다.",
+          "마태가 히브리인들 가운데서 그들의 언어로 기록을 냈다는 서술을 옮겼다. 베드로와 바울이 로마에서 복음을 전하고 교회를 세우던 때라는 관계도 저자의 전승 보고로 보존했다.",
+          "Post vero horum excessum은 그들이 떠난 뒤로 옮겼다. 5-6쪽의 편집 각주는 출발과 죽음의 두 풀이를 검토하고 로마에서의 출발을 지지한다. 그 연대 해석은 본문과 구별했다.",
+          "마가는 베드로의 제자이자 통역자, 누가는 바울을 따르던 이로 옮겼다. 요한은 주님의 제자이며 주님의 가슴에 기대어 누웠던 이로 서술된다. 아시아의 에베소라는 거주지명도 유지했다.",
+          "그리스어 병렬문은 Harvey 인쇄 3-6쪽에서 보존하고 『교회사』 5.8.2-4의 인용 범위와 대조했다. 인용은 요한의 에베소 거주에서 끝나며, 뒤의 한 하나님과 한 그리스도에 관한 라틴어 서술과 구별했다.",
+          "파피아스 선집 II.15의 마가 전승과 II.16의 마태 전승을 병행 대목으로 연결했다. 출처 정보에는 공개판 alpha-0.7의 고정 주소와 해당 원문 수정본을 기록했다. 이레네우스의 보고와 파피아스 및 전승자의 발화를 각각 구별해 비교할 수 있다."
+        ],
+        "revision_id": "sha256:86d0f3f587906decafde668858cc07de404b148c7d6a02dc8c7f424ddbc20938",
+        "text": "그리하여 마태는 히브리인들 가운데서 그들의 언어로 복음을 글로 펴냈다. 베드로와 바울이 로마에서 복음을 전하고 교회를 세우던 때였다. 그들이 떠난 뒤, 베드로의 제자이자 통역자인 마가도 베드로가 선포한 것들을 글로 우리에게 전해 주었다. 바울을 따르던 누가도 바울이 선포하던 복음을 책에 담았다. 그 뒤에는 주님의 제자 요한, 주님의 가슴에 기대어 누웠던 그 요한도 아시아의 에베소에 머물면서 복음을 펴냈다. 이들 모두는 율법과 예언자들이 알린, 하늘과 땅을 만드신 한 하나님과, 하나님의 아들이신 한 그리스도를 우리에게 전했다. 이들에게 동의하지 않는 이는 주님과 함께한 이들을 업신여기고, 그리스도 주님 자신을 업신여기며, 아버지도 업신여기는 것이다. 자기 구원에 맞서 저항하므로, 스스로 정죄받은 자이다. 모든 이단자가 그렇게 한다."
+      },
+      "work_id": "irenaeus-against-heresies",
+      "work_passage_id": "irenaeus-against-heresies:book-3:harvey-chapter-1:section-2"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "누가와 바울"
+};

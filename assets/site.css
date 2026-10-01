@@ -11,9 +11,11 @@
   --ink: #262e35; --muted: #66717b; --blue: #235a77; --line: #dce2e5;
   --wash: #f3f6f8; --selected: #eaf1f5;
   --font: 'Library Sans', system-ui, -apple-system, sans-serif;
+  --site-header-height: 76px; --topic-context-height: 0px; --reader-tools-height: 0px;
+  --sticky-top: calc(var(--site-header-height) + var(--topic-context-height));
 }
 * { box-sizing: border-box; }
-html { scroll-padding-top: 24px; scrollbar-color: #acb7be #fff; }
+html { scroll-padding-top: calc(var(--sticky-top) + 24px); scrollbar-color: #acb7be #fff; }
 body { margin: 0; color: var(--ink); background: #fff; font: 15px/1.7 var(--font); -webkit-font-smoothing: antialiased; }
 a { color: var(--blue); text-decoration: none; text-underline-offset: .22em; }
 a:hover { text-decoration: underline; text-decoration-thickness: 1px; }
@@ -23,8 +25,8 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
 :focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
 [hidden] { display: none !important; }
 .skip, .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-.skip:focus { width: auto; height: auto; clip-path: none; left: 16px; top: 12px; padding: 8px 16px; background: #fff; z-index: 5; }
-.site-header { border-bottom: 1px solid var(--line); }
+.skip:focus { position: fixed; width: auto; height: auto; clip-path: none; left: 16px; top: 12px; padding: 8px 16px; background: #fff; z-index: 30; }
+.site-header { position: sticky; top: 0; z-index: 20; background: #fff; border-bottom: 1px solid var(--line); }
 .header-inner { max-width: 1240px; padding: 0 40px; margin: auto; display: flex; align-items: center; gap: 54px; min-height: 76px; }
 .brand { color: var(--ink); font-size: 21px; font-weight: 600; letter-spacing: -.035em; white-space: nowrap; }
 .brand:hover { text-decoration: none; color: var(--blue); }
@@ -35,6 +37,7 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
   .header-inner { padding-inline: 28px; gap: 34px; }
 }
 @media (max-width: 720px) {
+  :root { --site-header-height: 70px; }
   .header-inner { padding: 0 20px; min-height: 70px; gap: 18px; justify-content: space-between; }
   .brand { font-size: 18px; }
   .header-inner nav { font-size: 12px; gap: 16px; }
@@ -46,24 +49,13 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
 .browse-switch a { flex: 1; min-height: 44px; padding: 8px 12px; text-align: center; font-size: 14px; color: #45515a; border-bottom: 2px solid transparent; }
 .browse-switch a:hover { color: var(--blue); background: var(--wash); text-decoration: none; }
 .browse-switch a[aria-current] { color: var(--blue); border-bottom-color: var(--blue); font-weight: 600; }
-.sidebar-references { margin-bottom: 24px; }
-.sidebar-references > summary { display: flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 12px; font-size: 13px; color: #45515a; cursor: pointer; list-style: none; }
-.sidebar-references > summary::-webkit-details-marker { display: none; }
-.sidebar-references > summary:hover { color: var(--blue); background: var(--wash); }
 .browse-chevron { margin-left: auto; flex: none; width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5; }
-.sidebar-references[open] > summary .browse-chevron { transform: rotate(180deg); }
-.sidebar-references ul { list-style: none; padding: 0; margin: 4px 0 0; }
-.sidebar-references a { display: block; min-height: 44px; padding: 8px 12px; font-size: 13px; line-height: 1.7; word-break: keep-all; }
-.sidebar-references a:hover { background: var(--wash); text-decoration: none; }
-.sidebar-references a span { display: block; color: var(--muted); font-size: 12px; }
 .author-browse-toggle { display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 8px 0; background: transparent; color: #45515a; text-align: left; font: inherit; font-size: 13px; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; }
 .author-browse-toggle:hover { background: var(--wash); color: var(--blue); }
 .author-browse-toggle [data-current-author] { color: var(--blue); }
 .author-browse-toggle[aria-expanded="true"] .browse-chevron { transform: rotate(180deg); }
 @media (max-width: 720px) {
   .browse-switch { margin-bottom: 8px; }
-  .sidebar-references { margin-bottom: 16px; }
-  .sidebar-references > summary, .sidebar-references a { padding-inline: 0; }
 }
 @media (prefers-reduced-motion: no-preference) {
   .browse-chevron { transition: transform .15s ease-out; }

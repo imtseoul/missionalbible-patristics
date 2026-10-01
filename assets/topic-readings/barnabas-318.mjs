@@ -1,0 +1,325 @@
+export default {
+  "group": "interpretation",
+  "id": "barnabas-318",
+  "passages": [
+    {
+      "author": "익명 (바르나바에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-75ab97d0a01b81bfdd60",
+          "ko_token_indexes": [
+            0,
+            1,
+            2
+          ],
+          "source_token_indexes": [
+            2,
+            3
+          ]
+        },
+        {
+          "id": "a-d51a68c20890d582e0a5",
+          "ko_token_indexes": [
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "a-7443ce93195d1efcafcb",
+          "ko_token_indexes": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "source_token_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-505f7b7792195eaa3cee",
+          "ko_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      ],
+      "html_path": "works/barnabas/index.html#p-9-7",
+      "label": "바르나바 서신 9.7",
+      "location": "9.7",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:0bc5a587442e391143600212675e8270572c20bb451694530ddbb0c26aa755f0",
+        "text": "μάθετε οὖν, τέκνα ἀγάπης, περὶ πάντων πλουσίως, ὅτι Ἀβραάμ, πρῶτος περιτομὴν δούς, ἐν πνεύματι προβλέψας εἰς τὸν Ἰησοῦν περιέτεμεν, λαβὼν τριῶν γραμμάτων δόγματα."
+      },
+      "title": "바르나바 서신",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:facf1fbbc69a985a19f11073db7a68b7e99c5ec39f3ba181d04371de79389257",
+        "text": "사랑의 자녀 여러분, 모든 것에 관하여 풍성히 배우십시오. 처음 할례를 행한 아브라함은 영 안에서 예수를 미리 바라보며 할례를 행했습니다. 세 글자에 담긴 가르침을 받았던 것입니다."
+      },
+      "work_id": "barnabas",
+      "work_passage_id": "barnabas:lake-1914:9.7"
+    },
+    {
+      "author": "익명 (바르나바에게 전승상 귀속)",
+      "groups": [
+        {
+          "id": "a-7dce6d440a7c9b750535",
+          "ko_token_indexes": [
+            0,
+            1
+          ],
+          "source_token_indexes": [
+            0,
+            1
+          ]
+        },
+        {
+          "id": "a-81120502193b1ba4e8f4",
+          "ko_token_indexes": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "a-9d6039bf9ec6978b4b20",
+          "ko_token_indexes": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "source_token_indexes": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-2b905f66481c1cd4bcb8",
+          "ko_token_indexes": [
+            16,
+            17,
+            18
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "a-b9adcd4a3e16ddda85f8",
+          "ko_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "source_token_indexes": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "id": "a-a75d2a2e9be08f4c2146",
+          "ko_token_indexes": [
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "source_token_indexes": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "a-ab1bc53343f92e07bc70",
+          "ko_token_indexes": [
+            30,
+            31,
+            32
+          ],
+          "source_token_indexes": [
+            35,
+            36
+          ]
+        },
+        {
+          "id": "a-67d6110abe7cc2c063cf",
+          "ko_token_indexes": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "source_token_indexes": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "id": "a-0b04bb9e4530b91537b9",
+          "ko_token_indexes": [
+            40,
+            41
+          ],
+          "source_token_indexes": [
+            48,
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "id": "a-7df1c64fac40b17687e8",
+          "ko_token_indexes": [
+            42,
+            43,
+            44,
+            45
+          ],
+          "source_token_indexes": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "id": "a-319357db73ce2665b0b7",
+          "ko_token_indexes": [
+            46,
+            47,
+            48,
+            49
+          ],
+          "source_token_indexes": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        }
+      ],
+      "html_path": "works/barnabas/index.html#p-9-8",
+      "label": "바르나바 서신 9.8",
+      "location": "9.8",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:0351f715c473dfabfe6a42ff5703c5671cddb9f7b27038b6431bd23f6af0f946",
+        "text": "λέγει γάρ: Καὶ περιέτεμεν Ἀβραὰμ ἐκ τοῦ οἴκου αὐτοῦ ἄνδρας δεκαοκτὼ καὶ τριακοσίους. τίς οὖν ἡ δοθεῖσα αὐτῷ γνῶσις; μάθετε, ὅτι τοὺς δεκαοκτὼ πρώτους, καὶ διάστημα ποιήσας λέγει τριακοσίους. τὸ δεκαοκτὼ ι δέκα, η ὀκτώ: ἔχεις Ἰησοῦν. ὅτι δὲ ὁ σταυρὸς ἐν τῷ ταῦ ἤμελλεν ἔχειν τὴν χάριν, λέγει καὶ τοὺς τριακοσίους. δηλοῖ οὖν τὸν μὲν Ἰησοῦν ἐν τοῖς δυσὶν γράμμασιν, καὶ ἐν τῷ ἑνὶ τὸν σταυρόν."
+      },
+      "title": "바르나바 서신",
+      "translation": {
+        "notes": [
+          "그리스 문자의 수값은 Ι가 10, Η가 8, Τ가 300이다. 저자는 ΙΗ를 Ἰησοῦς(예수)의 첫 두 글자로, Τ를 십자가 모양으로 읽는다.",
+          "본문은 집안사람들의 수 318과 아브라함의 할례를 한 문장에 연결한다. Lake판 372쪽 여백에는 창세기 17:23, 27과 14:14가 함께 제시된다."
+        ],
+        "revision_id": "sha256:83d9015898796d079d4be99320b144ed42b577bae6d675dfd9095c9c41f89422",
+        "text": "이렇게 말합니다. “아브라함은 자기 집의 남자 열여덟 명과 삼백 명에게 할례를 행하였다.” 그에게 주어진 앎은 무엇입니까? 먼저 열여덟을 말하고, 사이를 띄워 삼백을 말한다는 것을 배우십시오. 열여덟은 이오타(Ι)가 십, 에타(Η)가 팔입니다. 여기에 예수가 있습니다. 십자가는 타우(Τ) 안에 은혜를 담고 있을 것이었기에, 삼백도 말합니다. 그러므로 두 글자로는 예수를, 한 글자로는 십자가를 나타냅니다."
+      },
+      "work_id": "barnabas",
+      "work_passage_id": "barnabas:lake-1914:9.8"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "숫자 318과 예수의 이름"
+};

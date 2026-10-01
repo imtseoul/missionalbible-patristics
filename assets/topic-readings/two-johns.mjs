@@ -1,0 +1,720 @@
+export default {
+  "group": "transmission",
+  "id": "two-johns",
+  "passages": [
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-cb2bfca5f3e475fb0023",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "a-e39a9c39936e9f0ec7e7",
+          "ko_token_indexes": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "source_token_indexes": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "id": "a-ee7d3b14531681f5cb3e",
+          "ko_token_indexes": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "source_token_indexes": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "a-db4b05a6e0d70999534b",
+          "ko_token_indexes": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "source_token_indexes": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "a-6b3d51e28c2c2b8f6ee3",
+          "ko_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "source_token_indexes": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "id": "a-7eb0cbe5b7c16f6bb304",
+          "ko_token_indexes": [
+            29,
+            30,
+            31,
+            32
+          ],
+          "source_token_indexes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "id": "a-eaaf93d53216b1e16fb5",
+          "ko_token_indexes": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "source_token_indexes": [
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "id": "a-879dc8f8259d895c5635",
+          "ko_token_indexes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ],
+          "source_token_indexes": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "id": "a-d69b8a6f5244b74ad9de",
+          "ko_token_indexes": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "source_token_indexes": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-4",
+      "label": "교회사 3.39.4",
+      "location": "3.39.4",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:13963ce3e05ea7b824853cbb66b8d24d9670c9253665a9de868a0b7de7b7a0cf",
+        "text": "εἰ δέ που καὶ παρηκολουθηκώς τις τοῖς πρεσβυτέροις ἔλθοι, τοὺς τῶν πρεσβυτέρων ἀνέκρινον λόγους, τί Ἀνδρέας ἢ τί Πέτρος εἶπεν ἢ τί Φίλιππος ἢ τί Θωμᾶς ἢ Ἰάκωβος ἢ τί Ἰωάννης ἢ Ματθαῖος ἤ τις ἕτερος τῶν τοῦ κυρίου μαθητῶν ἅ τε Ἀριστίων καὶ ὁ πρεσβύτερος Ἰωάννης, τοῦ κυρίου μαθηταί, λέγουσιν. οὐ γὰρ τὰ ἐκ τῶν βιβλίων τοσοῦτόν με ὠφελεῖν ὑπελάμβανον ὅσον τὰ παρὰ ζώσης φωνῆς καὶ μενούσης."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [
+          "파피아스는 첫 번째 이름 목록에는 과거형 εἶπεν을, 아리스티온과 장로 요한에게는 현재형 λέγουσιν을 쓴다. “무슨 말을 했는지”와 “무슨 말을 하는지”가 이에 해당한다.",
+          "“살아 있고 지속되는 목소리”는 ζώσης φωνῆς καὶ μενούσης를 옮긴 표현이다."
+        ],
+        "revision_id": "sha256:a213875ef7386e7eb43c0f45e5e7908042ccdda529fa92b421cd6767bdbb04ce",
+        "text": "“장로들을 따랐던 사람이 찾아오면 나는 장로들의 말씀들을 물어보았습니다. 안드레나 베드로가 무슨 말을 했는지, 빌립이나 도마나 야고보가 무슨 말을 했는지, 요한이나 마태 또는 주님의 다른 제자가 무슨 말을 했는지 물었습니다. 또 아리스티온과 장로 요한, 곧 주님의 제자들이 무슨 말을 하는지 물었습니다. 나는 책에서 얻은 것들이 내게 주는 유익이 살아 있고 지속되는 목소리에서 얻는 것들만큼 크지는 않으리라고 생각했기 때문입니다.”"
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.39.4"
+    },
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-fec2dea8b4dce0399e03",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "a-433bd81f7e8dcd836cda",
+          "ko_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "source_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-bb4a19ee4426b5e885f0",
+          "ko_token_indexes": [
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "a-5548daa744152c03db6c",
+          "ko_token_indexes": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "source_token_indexes": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "a-10e134521e0a8d99fae5",
+          "ko_token_indexes": [
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "source_token_indexes": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "a-f080a2193d83ce8a7834",
+          "ko_token_indexes": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ],
+          "source_token_indexes": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "id": "a-cf8a3b1e1c970d996d48",
+          "ko_token_indexes": [
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "source_token_indexes": [
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "id": "a-88f23134072921c59936",
+          "ko_token_indexes": [
+            44,
+            45,
+            46,
+            47
+          ],
+          "source_token_indexes": [
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-5",
+      "label": "교회사 3.39.5",
+      "location": "3.39.5",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:cb2b940c95515a57c797179d7196fe580c793ec9428b1040fd7c0576d3edb4d5",
+        "text": "Ἔνθα καὶ ἐπιστῆσαι ἄξιον δὶς καθαρθμιοῦντι αὐτῷ τὸ Ἰωάννου ὄνομα, ὧν τὸν μὲν πρότερον Πέτρῳ καὶ Ἰακώβῳ καὶ Ματθαίῳ καὶ τοῖς λοιποῖς ἀποστόλοις συγκαταλέγει, σαφῶς δηλῶν τὸν εὐαγγελιστήν, τὸν δ’ ἕτερον Ἰωάννην, διαστείλας τὸν λόγον, ἑτέροις παρὰ τὸν τῶν ἀποστόλων ἀριθμὸν κατατάσσει, προτάξας αὐτοῦ τὸν Ἀριστίωνα, σαφῶς τε αὐτὸν πρεσβύτερον ὀνομάζει·"
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [
+          "두 요한을 구분하여 첫째는 복음서 저자, 둘째는 장로라고 설명하는 사람은 유세비우스다. 인쇄본 292쪽의 동사 철자는 καθαρθμιοῦντι로 되어 있다."
+        ],
+        "revision_id": "sha256:5b42cfe43429fc9e7bdeb079e1b9d65f5bb5c642d14657ea074b9d4c0addee65",
+        "text": "여기서 그가 요한이라는 이름을 두 번 열거한 점을 살펴볼 만하다. 그는 첫 번째 요한을 베드로와 야고보와 마태, 그리고 나머지 사도들과 함께 열거하며, 분명히 복음서 저자를 가리킨다. 다른 요한에 관해서는 말을 구분하여 사도들의 수에 들지 않는 다른 사람들 가운데 넣고, 그 앞에 아리스티온을 먼저 놓으며, 분명히 그를 장로라고 부른다."
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.39.5"
+    },
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-91b4aa8117e47a9c1e21",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "source_token_indexes": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "id": "a-576aa752578872b9e18b",
+          "ko_token_indexes": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "a-688a64ee31d624cfffd0",
+          "ko_token_indexes": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "source_token_indexes": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "a-991e3d2505289d5b1b26",
+          "ko_token_indexes": [
+            18,
+            19,
+            20,
+            21
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "a-b77533a9d315ddb4aafa",
+          "ko_token_indexes": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "source_token_indexes": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "a-be6243a9a5c8d41e13fb",
+          "ko_token_indexes": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ],
+          "source_token_indexes": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "id": "a-4f095414481ee43c31c8",
+          "ko_token_indexes": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "source_token_indexes": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "id": "a-1ff7ae414cef814f4b24",
+          "ko_token_indexes": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "source_token_indexes": [
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-6",
+      "label": "교회사 3.39.6",
+      "location": "3.39.6",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:a3f0d16fa82a8027626ed6b5b98679f335cdfd9174ec18ccd189f5d1929fdcce",
+        "text": "ὡς καὶ διὰ τούτων ἀποδείκνυσθαι τὴν ἱστορίαν ἀληθῆ τῶν δύο κατὰ τὴν Ἀσίαν ὁμωνυμίᾳ κεχρῆσθαι εἰρηκότων δύο τε ἐν Ἐφέσῳ γενέσθαι μνήματα καὶ ἑκάτερον Ἰωάννου ἔτι νῦν λέγεσθαι· οἷς καὶ ἀναγκαῖον προσέχειν τὸν νοῦν, εἰκὸς γὰρ τὸν δεύτερον, εἰ μή τις ἐθέλοι τὸν πρῶτον, τὴν ἐπ’ ὀνόματος φερομένην Ἰωάννου ἀποκάλυψιν ἑορακέναι."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [
+          "두 번째 요한과 계시록을 연결하는 대목에는 εἰκός, 곧 가능성을 나타내는 말과 “첫 번째를 주장하지 않는다면”이라는 조건이 붙어 있다. ἑορακέναι는 묵시를 보았다는 뜻이다."
+        ],
+        "revision_id": "sha256:b7f358781f0e8c07c6984b748ebd9b9ddcaf14a67a21e8693a3d5bf16a40e76c",
+        "text": "아시아에 같은 이름을 가진 두 사람이 있었다는 전승, 에베소에 두 무덤이 있었고 각각 지금도 요한의 무덤이라 불린다는 전승이 이 말들로도 사실임이 입증된다. 이 점에 주의를 기울일 필요가 있다. 요한의 이름으로 전해지는 묵시를 본 사람은, 누군가 첫 번째 요한이라고 주장하지 않는다면, 두 번째 요한일 가능성이 있기 때문이다."
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.39.6"
+    },
+    {
+      "author": "유세비우스",
+      "groups": [
+        {
+          "id": "a-bb614e938b0f8e02dddc",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "a-3313d8ff912915cad872",
+          "ko_token_indexes": [
+            4,
+            5
+          ],
+          "source_token_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "a-7dad9946d5e430913700",
+          "ko_token_indexes": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "source_token_indexes": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "a-3e339013745c56e0639b",
+          "ko_token_indexes": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "source_token_indexes": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "a-2b9530f75bf3b54fd58e",
+          "ko_token_indexes": [
+            16,
+            17,
+            18,
+            19
+          ],
+          "source_token_indexes": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "a-1651336538cb6c696980",
+          "ko_token_indexes": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ],
+          "source_token_indexes": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "a-36b3d3720cd9d5652841",
+          "ko_token_indexes": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "source_token_indexes": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        }
+      ],
+      "html_path": "works/eusebius-ecclesiastical-history/book-3.html#p-3-39-7",
+      "label": "교회사 3.39.7",
+      "location": "3.39.7",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:33873cd28c199df8792a862e4b1b6f37655698c4c9db372580fdc8b7b7a94fab",
+        "text": "καὶ ὁ νῦν δὲ ἡμῖν δηλούμενος Παπίας τοὺς μὲν τῶν ἀποστόλων λόγους παρὰ τῶν αὐτοῖς παρηκολουθηκότων ὁμολογεῖ παρειληφέναι, Ἀριστίωνος δὲ καὶ τοῦ πρεσβυτέρου Ἰωάννου αὐτήκοον ἑαυτόν φησι γενέσθαι· ὀνομαστὶ γοῦν πολλάκις αὐτῶν μνημονεύσας ἐν τοῖς αὐτοῦ συγγράμμασιν τίθησιν αὐτῶν παραδόσεις."
+      },
+      "title": "교회사",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:719c82c6a045e93a65ee7ea411c9696f8cde1af944856c1f37f951fff7ce0f62",
+        "text": "지금 우리가 말하는 파피아스도 사도들의 말씀을 그들을 따랐던 사람들에게서 전해 받았다고 인정한다. 그러나 아리스티온과 장로 요한에게는 자신이 직접 들었다고 말한다. 실제로 그는 그들의 이름을 여러 차례 언급하며 자기 저술에 그들의 전승을 싣는다."
+      },
+      "work_id": "eusebius-ecclesiastical-history",
+      "work_passage_id": "eusebius-ecclesiastical-history:3.39.7"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "두 요한과 장로 요한"
+};

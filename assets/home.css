@@ -1,5 +1,5 @@
 .library-layout { max-width: 1240px; margin: auto; padding: 40px; display: grid; grid-template-columns: 192px minmax(0, 1fr); gap: 54px; align-items: start; }
-.library-sidebar { position: sticky; top: 28px; font-size: 14px; max-height: calc(100dvh - 56px); overflow-y: auto; scrollbar-gutter: stable; }
+.library-sidebar { position: sticky; top: calc(var(--site-header-height) + 24px); font-size: 14px; max-height: calc(100dvh - var(--site-header-height) - 48px); overflow-y: auto; scrollbar-gutter: stable; }
 .library-sidebar h2 { color: var(--muted); font-size: 12px; font-weight: 400; margin: 0 12px 14px; }
 .author-nav { display: flex; flex-direction: column; gap: 3px; }
 .author-nav a { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 9px 12px; border-radius: 3px; color: #45515a; min-height: 43px; }
@@ -59,7 +59,7 @@ button:hover { background: #16455f; }
   select { width: 125px; }
 }
 @media (max-width: 720px) {
-  html { scroll-padding-top: 18px; }
+  html { scroll-padding-top: calc(var(--site-header-height) + 18px); }
   .library-layout { display: flex; flex-direction: column; gap: 25px; padding: 24px 20px; }
   .library-sidebar { position: static; width: 100%; max-height: none; overflow: visible; }
   .author-nav { flex-direction: row; flex-wrap: wrap; gap: 4px 10px; }

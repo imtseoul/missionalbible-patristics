@@ -1,0 +1,350 @@
+export default {
+  "group": "interpretation",
+  "id": "diognetus-trees",
+  "passages": [
+    {
+      "author": "익명",
+      "groups": [
+        {
+          "id": "a-ed7ff89d81327b6a7313",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "a-e132dd3608160191d739",
+          "ko_token_indexes": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "source_token_indexes": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "id": "a-9375c4d9a0179445c2e5",
+          "ko_token_indexes": [
+            13
+          ],
+          "source_token_indexes": [
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ],
+      "html_path": "works/diognetus/index.html#p-12-2",
+      "label": "디오그네토스에게 보낸 편지 12.2",
+      "location": "12.2",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:32cf31ed970c94766abb2693b0becb314926507941d2fbb3fca348e7adf5c82c",
+        "text": "ἐν γὰρ τούτῳ τῷ χωρίῳ ξύλον γνώσεως καὶ ξύλον ζωῆς πεφύτευται: ἀλλ’ οὐ τὸ τῆς γνώσεως ἀναιρεῖ, ἀλλ’ ἡ παρακοὴ ἀναιρεῖ."
+      },
+      "title": "디오그네토스에게 보낸 편지",
+      "translation": {
+        "notes": [
+          "창세기의 지식의 나무와 생명의 나무를 함께 해석한다. 저자는 죽음의 원인을 불순종에서 찾는다."
+        ],
+        "revision_id": "sha256:30fcfc4082fb4541062b2333fae5f5ecc66f98d572d2de6e58cfa3c48b89d769",
+        "text": "이곳에는 지식의 나무와 생명의 나무가 심겨 있습니다. 사람을 죽이는 것은 지식의 나무가 아니라, 불순종입니다."
+      },
+      "work_id": "diognetus",
+      "work_passage_id": "diognetus:lake-1917:12.2"
+    },
+    {
+      "author": "익명",
+      "groups": [
+        {
+          "id": "a-88720c222728d854f2c1",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "a-77f6de59a22b8bdb66d1",
+          "ko_token_indexes": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ],
+          "source_token_indexes": [
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "a-43b4caf4cf83c1492704",
+          "ko_token_indexes": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "source_token_indexes": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        }
+      ],
+      "html_path": "works/diognetus/index.html#p-12-3",
+      "label": "디오그네토스에게 보낸 편지 12.3",
+      "location": "12.3",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:265d34574b066acce846c73cea298e6cc25b3d1c412dfd8afe9e8187193adf73",
+        "text": "οὐδὲ γὰρ ἄσημα τὰ γεγραμμένα, ὡς θεὸς ἀπ’ ἀρχῆς ξύλον γνώσεως καὶ ξύλον ζωῆς ἐν μέσῳ παραδείσου ἐφύτευσε, διὰ γνώσεως ζωὴν ἐπιδεικνύς: ᾗ μὴ καθαρῶς χρησάμενοι οἱ ἀπ’ ἀρχῆς πλάνῃ τοῦ ὄφεως γεγύμνωνται."
+      },
+      "title": "디오그네토스에게 보낸 편지",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:2201a0b41e5643e99c162e6b0d5e68670d41fe8258ed6e9a8b5238960027c3ea",
+        "text": "하나님께서 처음부터 지식의 나무와 생명의 나무를 낙원 한가운데 심으셨다는 기록에는 뜻이 담겨 있습니다. 지식을 통해 생명을 보여 주신 것입니다. 처음 사람들은 이 지식을 순전하게 사용하지 못하여 뱀의 속임수로 벌거벗게 되었습니다."
+      },
+      "work_id": "diognetus",
+      "work_passage_id": "diognetus:lake-1917:12.3"
+    },
+    {
+      "author": "익명",
+      "groups": [
+        {
+          "id": "a-ffa55c59428ad4b92df8",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "a-3da6d5c2a1be605ad382",
+          "ko_token_indexes": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "source_token_indexes": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "html_path": "works/diognetus/index.html#p-12-4",
+      "label": "디오그네토스에게 보낸 편지 12.4",
+      "location": "12.4",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:888e34602337fd9c5e0a1b5fe0a2ec9279dcba024f94d51e704ac03a5f3ea8e2",
+        "text": "οὐδὲ γὰρ ζωὴ ἄνευ γνώσεως οὐδὲ γνῶσις ἀσφαλὴς ἄνευ ζωῆς ἀληθοῦς: διὸ πλησίον ἑκάτερον πεφύτευται."
+      },
+      "title": "디오그네토스에게 보낸 편지",
+      "translation": {
+        "notes": [],
+        "revision_id": "sha256:51039047833f2fab7d56cc23f751b64a936473e75ff8757efccd11bc805e1f6c",
+        "text": "지식 없이는 생명도 없고, 참된 생명 없이는 확고한 지식도 없습니다. 그러므로 두 나무가 서로 가까이 심겨 있습니다."
+      },
+      "work_id": "diognetus",
+      "work_passage_id": "diognetus:lake-1917:12.4"
+    },
+    {
+      "author": "익명",
+      "groups": [
+        {
+          "id": "a-9f0f5acb4c2ff3377dae",
+          "ko_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "source_token_indexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "id": "a-5ee28b65624a9b3c700f",
+          "ko_token_indexes": [
+            14,
+            15,
+            16
+          ],
+          "source_token_indexes": [
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "a-47d8684a4b8417e054a2",
+          "ko_token_indexes": [
+            17,
+            18,
+            19
+          ],
+          "source_token_indexes": [
+            19,
+            20,
+            21,
+            22
+          ]
+        }
+      ],
+      "html_path": "works/diognetus/index.html#p-12-5",
+      "label": "디오그네토스에게 보낸 편지 12.5",
+      "location": "12.5",
+      "relation": "primary_passage",
+      "source": {
+        "language": "grc",
+        "revision_id": "sha256:c6dc07c85ccc22280e1bdc9a209413b74bf6f9205bfaa8181b55fa448455b160",
+        "text": "ἣν δύναμιν ἐνιδὼν ὁ ἀπόστολος τήν τε ἄνευ ἀληθείας προστάγματος εἰς ζωὴν ἀσκουμένην γνῶσιν μεμφόμενος λέγει: Ἡ γνῶσις φυσιοῖ, ἡ δὲ ἀγάπη οἰκοδομεῖ."
+      },
+      "title": "디오그네토스에게 보낸 편지",
+      "translation": {
+        "notes": [
+          "고린도전서 8:1을 인용하여 지식과 사랑을 연결한다. 인용 앞 문장은 생명으로 이끄는 진리의 계명과 지식의 관계를 논한다."
+        ],
+        "revision_id": "sha256:c9e5dfff64b3e03a1eec67ff1892e6d9ad774474ed5a876f251a2afb69fdb25a",
+        "text": "사도는 이 뜻을 깨닫고, 생명에 이르게 하는 진리의 계명 없이 익히는 지식을 나무라며 말합니다. “지식은 교만하게 하지만, 사랑은 세워 줍니다.”"
+      },
+      "work_id": "diognetus",
+      "work_passage_id": "diognetus:lake-1917:12.5"
+    }
+  ],
+  "schema_version": "patristics-topic-reading-1",
+  "title": "지식의 나무와 생명의 나무"
+};
