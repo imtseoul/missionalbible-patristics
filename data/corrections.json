@@ -24663,6 +24663,57 @@
           "scope_label": "절에 결합한 단어 연결",
           "text_attribution_status": "not_individually_audited"
         }
+      },
+      {
+        "after": "καθαριεῖ τὴν συνείδησιν ἡμῶν",
+        "apparatus_note": 51,
+        "apparatus_reading": "ὑμῶν",
+        "before": "καθαριεῖ τὴν συνείδησιν ὑμῶν",
+        "checked_on": "2026-10-01",
+        "evidence_url": "https://archive.org/download/patrologiae_cursus_completus_gr_vol_026/page/n290.jpg",
+        "finding_id": "serapion-pronoun-correction-20261001-01",
+        "human_review_status": "not_reviewed",
+        "image_sha256": "73fcea308efe65cbccb0e243fb80cda333e984cc6e69765a708833d1b9216797",
+        "independent": false,
+        "kind": "print_revalidation_correction",
+        "location": "6",
+        "pdf_page": 291,
+        "printed_column": 547,
+        "printed_columns_on_leaf": [
+          547,
+          548
+        ],
+        "reason": "채택 PG 본문의 ἡμῶν을 따른다. 편집주 51의 ὑμῶν과 본문 독법을 구별한다.",
+        "revalidation_id": "serapion-pronoun-correction-20261001",
+        "reviewer_kind": "ai",
+        "scope_annotation": {
+          "audit_id": "serapion-pronoun-correction-20261001",
+          "confirmed_body_passage_ids": [
+            "athanasius-serapion-1:6"
+          ],
+          "confirmed_related_passage_ids": [],
+          "declared_passage_ids": [
+            "athanasius-serapion-1:6"
+          ],
+          "event_id": "ce-1118346a0a9ec2bdd8db3c32",
+          "fragment_review_ids": [
+            "sha256:87d0c43512c45238b9609e62f3c5bb9b0b2188952ccdea5a9864c885665663d6"
+          ],
+          "guidance_url": "https://patristics.missionalbible.org/about.html#correction-scopes",
+          "human_review_status": "not_reviewed",
+          "independent": false,
+          "legacy_location_role": "recorded_passage_target",
+          "linked_passage_id": "athanasius-serapion-1:6",
+          "origin_locator": "serapion-pronoun-correction-20261001-01",
+          "original_record_sha256": "2f8ac251cb060371c994ac9877f2318d7fd3b86526822f19dfcd2c435dffad57",
+          "record_scope": "passage_revalidation",
+          "review_extent": "One printed pronoun and its corresponding Korean sentence and meaning group only.",
+          "sample_id": null,
+          "sample_status": null,
+          "schema_version": "patristics-correction-scope-1",
+          "scope_label": "절에 결합한 재대조 교정",
+          "text_attribution_status": "scope_resolved_in_fragment_review"
+        }
       }
     ],
     "location": "6",
