@@ -76,14 +76,37 @@ function initTopics() {
   const names = new Map([['all', '전체 주제'], ...sections.map(s => [s.dataset.section, s.querySelector('h2').textContent])]);
   const payloads = new Map();
   let savedPosition = null;
-  try {const saved=JSON.parse(sessionStorage.getItem('patristics.topic-browse') || 'null');if(saved?.url===location.href)savedPosition=saved;}catch{}
+  const snapshot = () => ({url:location.href,y:scrollY,open:entries.filter(e=>e.disclosure.open).map(e=>e.id)});
+  const savePosition = () => {
+    const saved=snapshot();
+    history.replaceState({...history.state,topicBrowse:saved},'',location.href);
+    try{sessionStorage.setItem('patristics.topic-browse',JSON.stringify(saved));}catch{}
+  };
+  const storedPosition = () => {
+    const saved=history.state?.topicBrowse;
+    if(saved?.url===location.href)return saved;
+    try{
+      const stored=JSON.parse(sessionStorage.getItem('patristics.topic-browse') || 'null');
+      if(stored?.url===location.href)return stored;
+      if(stored?.url){
+        const previous=new URL(stored.url),current=new URL(location.href);
+        if(previous.origin===current.origin&&previous.pathname===current.pathname&&['group','q'].every(key=>previous.searchParams.get(key)===current.searchParams.get(key)))return {...stored,y:null};
+      }
+    }catch{}
+    return null;
+  };
+  savedPosition=storedPosition();
   let group = 'all', generation = 0;
   const state = (entry = null, passage = null) => ({group, query:input.value, topic:entry?.id, passage});
   const persist = (entry = null, passage = null, push = false) => {
     const url = topicBrowseURL(location.href, state(entry, passage));
     if (!entry && location.hash.startsWith('#section-')) url.hash = location.hash;
-    history[push ? 'pushState' : 'replaceState'](null, '', url);
+    history[push ? 'pushState' : 'replaceState'](push ? null : history.state, '', url);
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=url;
+  };
+  const stopReading = entry => {
+    entry.viewer.hidden=true;entry.selected=null;entry.element.classList.remove('is-reading');
+    const list=entry.element.querySelector('.topic-reading-list');if(list)list.open=true;
   };
 
   function render() {
@@ -117,7 +140,8 @@ function initTopics() {
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=location.href;
   }
 
-  async function readPassage(entry, key, {scroll = true, push = true} = {}) {
+  async function readPassage(entry, key, {scroll = true, push = true, focus = true} = {}) {
+    if(push)savePosition();
     const request = ++generation;
     entry.selected = key; entry.disclosure.open = true; entry.viewer.hidden = false;
     const loading = document.createElement('p'); loading.setAttribute('role','status'); loading.textContent = '본문을 불러오는 중입니다.';
@@ -129,21 +153,33 @@ function initTopics() {
       const index = data.passages.findIndex(p => p.work_passage_id === key);
       if (index < 0) throw new Error('Missing related passage');
       const p = data.passages[index]; entry.selected = key;
-      for (const item of entries) if (item !== entry) {item.viewer.hidden = true; item.selected = null;}
+      for (const item of entries) if (item !== entry) stopReading(item);
+      entry.element.classList.add('is-reading');
+      let readingList=entry.element.querySelector('.topic-reading-list');
+      if(!readingList){
+        const layout=document.createElement('div');layout.className='topic-reading-layout';
+        readingList=document.createElement('details');readingList.className='topic-reading-list';
+        const summary=document.createElement('summary');summary.textContent=`관련 문헌 · 본문 ${data.passages.length}곳`;
+        readingList.append(summary,entry.element.querySelector('.topic-sources'));
+        entry.viewer.before(layout);layout.append(readingList,entry.viewer);
+        readingList.open=matchMedia('(min-width: 1001px)').matches;
+      }
       for (const a of entry.element.querySelectorAll('[data-topic-passage]')) {
         if (a.dataset.topicPassage === key) a.setAttribute('aria-current','location'); else a.removeAttribute('aria-current');
       }
       const toolbar = document.createElement('div'); toolbar.className = 'topic-reading-toolbar';
       const context = document.createElement('div');
       const title = document.createElement('a'); title.className = 'reading-topic-title'; title.textContent = data.title; title.href='#'+entry.element.id;
-      const heading = document.createElement('h4'); heading.textContent = p.label;
+      const heading = document.createElement('h4'); heading.textContent = p.label;heading.tabIndex=-1;
       const author = document.createElement('p'); author.className = 'reading-source-author'; author.textContent = p.author;
       context.append(title, heading, author);
       const controls = document.createElement('nav'); controls.className = 'topic-reading-controls'; controls.setAttribute('aria-label','이 주제의 관련 대목');
       const showList = () => {
-        entry.viewer.hidden = true; entry.selected = null; persist(entry);
-        entry.element.querySelector('[data-topic-passage="'+key+'"]').focus({preventScroll:true});
-        entry.element.scrollIntoView({block:'start'});
+        readingList.open=true;
+        const selected=readingList.querySelector('.source-locations [data-topic-passage="'+key+'"]');
+        selected?.focus({preventScroll:true});
+        readingList.scrollIntoView({block:'start'});
+        selected?.scrollIntoView({block:'nearest'});
       };
       const list = document.createElement('button'); list.type='button'; list.textContent='관련 문헌 목록';
       list.addEventListener('click',showList); controls.append(list);
@@ -168,10 +204,16 @@ function initTopics() {
       close.addEventListener('click',showList);
       actions.append(full,close);body.append(actions);
       entry.viewer.replaceChildren(toolbar,body);installPhraseHover(body);persist(entry,key,push);
-      if (savedPosition && !push) {
+      const active=readingList.querySelector('.source-locations [aria-current]');
+      if(active&&readingList.open){
+        const row=active.getBoundingClientRect(),list=readingList.getBoundingClientRect();
+        if(row.top<list.top||row.bottom>list.bottom)readingList.scrollTop+=row.top-list.top-44;
+      }
+      if (Number.isFinite(savedPosition?.y) && !push) {
         const saved=savedPosition;savedPosition=null;
         requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));
-      } else if (scroll) entry.viewer.scrollIntoView({block:'start'});
+      } else {savedPosition=null;if(scroll)entry.viewer.scrollIntoView({block:'start'});}
+      if(focus)heading.focus({preventScroll:true});
     } catch {
       payloads.delete(entry.id);const message=document.createElement('p');message.setAttribute('role','status');message.textContent='본문을 불러오지 못했습니다.';
       const fallback=[...entry.element.querySelectorAll('[data-topic-passage]')].find(a=>a.dataset.topicPassage===key) || entry.element.querySelector('[data-topic-passage]');
@@ -181,6 +223,8 @@ function initTopics() {
 
   function restore(scroll = false) {
     generation++;
+    savedPosition=storedPosition();
+    if(savedPosition)for(const entry of entries)entry.disclosure.open=savedPosition.open?.includes(entry.id) || false;
     const url=new URL(location.href);let id='';try{id=decodeURIComponent(url.hash.slice(1));}catch{}
     const entry=entries.find(e=>e.element.id===id);
     const section=sections.find(s=>s.querySelector('h2').id===id);
@@ -189,10 +233,11 @@ function initTopics() {
     render();
     if (entry) entry.disclosure.open=true;
     const key=url.searchParams.get('read');
-    if (entry && key && [...entry.element.querySelectorAll('[data-topic-passage]')].some(a=>a.dataset.topicPassage===key)) readPassage(entry,key,{scroll,push:false});
+    if (entry && key && [...entry.element.querySelectorAll('[data-topic-passage]')].some(a=>a.dataset.topicPassage===key)) readPassage(entry,key,{scroll,push:false,focus:false});
     else {
-      for(const item of entries){item.viewer.hidden=true;item.selected=null;}
-      if(scroll&&entry)entry.element.scrollIntoView({block:'start'});
+      for(const item of entries)stopReading(item);
+      if(Number.isFinite(savedPosition?.y)){const saved=savedPosition;savedPosition=null;requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));}
+      else if(scroll&&entry)entry.element.scrollIntoView({block:'start'});
     }
   }
   form.hidden=false;form.addEventListener('submit',event=>event.preventDefault());
@@ -200,12 +245,12 @@ function initTopics() {
   input.addEventListener('input',event=>{if(!event.isComposing)search();});input.addEventListener('compositionend',search);
   input.addEventListener('keydown',event=>{if(event.key==='Escape'){input.value='';search();}});
   clear.addEventListener('click',()=>{input.value='';search();input.focus();});
-  document.querySelector('#topic-reset').addEventListener('click',()=>{group='all';input.value='';for(const e of entries){e.viewer.hidden=true;e.selected=null;}persist(null,null,true);render();input.focus();});
+  document.querySelector('#topic-reset').addEventListener('click',()=>{savePosition();group='all';input.value='';for(const e of entries)stopReading(e);persist(null,null,true);render();input.focus();});
   for(const link of links)link.addEventListener('click',event=>{
     if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
     event.preventDefault();group=link.dataset.topicGroup;mobile.open=false;
     const active=entries.find(e=>e.selected&&(group==='all'||e.group===group));
-    if(!active)for(const e of entries){e.viewer.hidden=true;e.selected=null;}
+    if(!active)for(const e of entries)stopReading(e);
     const url=topicBrowseURL(location.href,state(active,active?.selected));if(!active)url.hash=link.getAttribute('href');history.pushState(null,'',url);render();
     document.querySelector('.topics-main').scrollIntoView({block:'start'});
   });
@@ -214,10 +259,18 @@ function initTopics() {
       if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
       event.preventDefault();readPassage(entry,link.dataset.topicPassage);
     });
-    entry.disclosure.addEventListener('toggle',()=>{if(entry.disclosure.open&&!entry.element.hidden&&!entry.selected)persist(entry);});
+    entry.disclosure.querySelector('summary').addEventListener('click',()=>requestAnimationFrame(()=>{
+      if(!entry.disclosure.open&&entry.selected){stopReading(entry);persist(entry);}
+      else if(entry.disclosure.open&&!entry.element.hidden&&!entry.selected){
+        const active=entries.find(e=>e.selected&&e.disclosure.open&&!e.element.hidden);
+        persist(active || entry,active?.selected);
+      }
+      savePosition();
+    }));
   }
   window.addEventListener('hashchange',()=>restore(true));window.addEventListener('popstate',()=>restore(true));
-  window.addEventListener('pagehide',()=>{try{sessionStorage.setItem('patristics.topic-browse',JSON.stringify({url:location.href,y:scrollY,open:entries.filter(e=>e.disclosure.open).map(e=>e.id)}));}catch{}});
+  document.addEventListener('click',event=>{if(event.target.closest('a[href]'))savePosition();},{capture:true});
+  window.addEventListener('pagehide',savePosition);
   if(savedPosition)for(const entry of entries)entry.disclosure.open=savedPosition.open?.includes(entry.id) || false;
   restore(true);
 }

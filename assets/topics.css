@@ -107,6 +107,18 @@
 .source-work-title:hover { text-decoration: underline; }
 .source-locations a[aria-current] { background: var(--selected); color: var(--blue); border-color: var(--blue); font-weight: 600; }
 .topic-reading { margin-top: 24px; border-top: 1px solid #b4c7d2; scroll-margin-top: 24px; }
+.topic-reading-layout { display: block; }
+.topic-reading-list > summary { display: none; }
+.topic-reading-list:not([open]) > .topic-sources { display: block; }
+.is-reading .topic-reading-layout { display: grid; grid-template-columns: 196px minmax(0, 1fr); gap: 24px; align-items: start; }
+.is-reading .topic-reading-list { position: sticky; top: calc(var(--site-header-height) + 24px); max-height: calc(100dvh - var(--site-header-height) - 48px); overflow-y: auto; scrollbar-gutter: stable; }
+.is-reading .topic-reading-list > summary { display: block; min-height: 44px; padding-block: 10px; color: var(--muted); font-size: 12px; cursor: pointer; }
+.is-reading .topic-source { grid-template-columns: 1fr; gap: 8px; }
+.is-reading .source-locations { gap: 4px; }
+.is-reading .topic-reading { margin-top: 0; }
+.is-reading .topic-reading-toolbar { display: block; }
+.is-reading .topic-reading-controls { margin-top: 12px; }
+.is-reading .topic-reading-list:not([open]) > .topic-sources { display: none; }
 .topic-reading-toolbar { position: sticky; top: var(--site-header-height); z-index: 3; background: #fff; padding: 16px 0; border-bottom: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px 24px; }
 .reading-topic-title { display: inline-block; color: var(--muted); font-size: 12px; margin-bottom: 6px; }
 .topic-reading-toolbar h4 { margin: 0; font-size: 17px; line-height: 1.7; word-break: keep-all; }
@@ -132,5 +144,10 @@
   .topic-reading-toolbar { gap: 12px; }
   .topic-reading-toolbar h4 { font-size: 16px; }
   .topic-reading-controls { width: 100%; }
+}
+@media (max-width: 1000px) {
+  .is-reading .topic-reading-layout { display: block; }
+  .is-reading .topic-reading-list { position: static; max-height: 38dvh; margin-bottom: 16px; }
+  .is-reading .topic-reading-list > summary { font-size: 14px; }
 }
 @media print { .topic-reading-toolbar { position: static; } .topic-reading-controls, .topic-reading-actions { display: none; } }

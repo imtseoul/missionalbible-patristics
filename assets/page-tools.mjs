@@ -1,6 +1,7 @@
 // Current reading and discovery pages share one unobtrusive return-to-top button.
 const header = document.querySelector('.site-header');
 if (header) {
+  new ResizeObserver(()=>document.documentElement.style.setProperty('--site-header-height',header.getBoundingClientRect().height+'px')).observe(header);
   header.id = 'page-top';
   header.tabIndex = -1;
   const top = document.createElement('button');

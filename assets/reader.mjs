@@ -114,8 +114,17 @@ async function installTopicContext() {
     new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',bar.getBoundingClientRect().height+'px')).observe(bar);
     window.addEventListener('hashchange',()=>update(topicReadingPosition(topic.passages,location.href,selected.work_passage_id)));
     const inDocument=topic.passages.map((p,i)=>({i,node:document.querySelector('[data-passage-id="'+CSS.escape(p.work_passage_id)+'"]')})).filter(p=>p.node);
+    let scrollIntentUntil=0;
+    const readingScroll=()=>{scrollIntentUntil=performance.now()+1500;};
+    window.addEventListener('wheel',readingScroll,{passive:true});
+    window.addEventListener('touchmove',readingScroll,{passive:true});
+    window.addEventListener('keydown',event=>{
+      if(['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)&&!event.target.closest('input,textarea,select,[contenteditable]'))readingScroll();
+    });
+    window.addEventListener('pointerdown',event=>{if(event.clientX>=innerWidth-24)readingScroll();},{passive:true});
     let pending=false;
     window.addEventListener('scroll',()=>{
+      if(performance.now()>scrollIntentUntil)return;
       if(pending)return;pending=true;
       requestAnimationFrame(()=>{
         pending=false;
@@ -133,4 +142,8 @@ async function installTopicContext() {
 }
 installTopicContext();
 const readerTools=document.querySelector('.reader-tools');
-if(readerTools)new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
+if(readerTools){
+  const heading=document.querySelector('.work-heading h1');
+  if(heading){const title=document.createElement('a');title.className='reader-current-title';title.href='#main';title.textContent=heading.textContent;readerTools.prepend(title);}
+  new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
+}
