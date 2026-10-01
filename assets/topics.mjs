@@ -17,7 +17,23 @@ export function topicReaderURL(path, base, state) {
   url.searchParams.delete('group'); url.searchParams.delete('q');
   if (state.group) url.searchParams.set('group', state.group);
   if (state.query) url.searchParams.set('q', state.query);
+  url.searchParams.delete('read');
+  if (state.passage) url.searchParams.set('read', state.passage);
   return url;
+}
+
+export function topicReadingPosition(passages, base, savedPassage) {
+  const current = new URL(base);
+  const anchor = current.hash.replace(/^#note-/, '#p-');
+  const exact = passages.findIndex(p => {
+    const url = new URL(p.html_path, new URL('/', base));
+    return url.pathname === current.pathname && url.hash === anchor;
+  });
+  if (exact >= 0) return exact;
+  const saved = passages.findIndex(p => p.work_passage_id === savedPassage);
+  if (saved >= 0) return saved;
+  const inDocument = passages.findIndex(p => new URL(p.html_path, new URL('/', base)).pathname === current.pathname);
+  return Math.max(0, inDocument);
 }
 
 function alignedText(text, groups, side, language) {
@@ -124,12 +140,21 @@ function initTopics() {
       const author = document.createElement('p'); author.className = 'reading-source-author'; author.textContent = p.author;
       context.append(title, heading, author);
       const controls = document.createElement('nav'); controls.className = 'topic-reading-controls'; controls.setAttribute('aria-label','이 주제의 관련 대목');
+      const showList = () => {
+        entry.viewer.hidden = true; entry.selected = null; persist(entry);
+        entry.element.querySelector('[data-topic-passage="'+key+'"]').focus({preventScroll:true});
+        entry.element.scrollIntoView({block:'start'});
+      };
+      const list = document.createElement('button'); list.type='button'; list.textContent='관련 문헌 목록';
+      list.addEventListener('click',showList); controls.append(list);
       const count = document.createElement('span'); count.textContent = `${index + 1} / ${data.passages.length}`;
       for (const [label,next] of [['앞 대목',index-1],['다음 대목',index+1]]) {
         const button = document.createElement('button'); button.type='button'; button.textContent=label; button.disabled=next<0 || next>=data.passages.length;
         button.addEventListener('click',()=>readPassage(entry,data.passages[next].work_passage_id)); controls.append(button);
       }
-      controls.append(count); toolbar.append(context,controls);
+      const continueReading = document.createElement('a'); continueReading.textContent='문헌 전체에서 이어 읽기';
+      continueReading.href=topicReaderURL(p.html_path,location.href,state(entry,key));
+      controls.append(count,continueReading); toolbar.append(context,controls);
       const body = document.createElement('div'); body.className='topic-reading-body';
       body.append(alignedText(p.translation.text,p.groups,'ko','ko'), alignedText(p.source.text,p.groups,'source',p.source.language));
       if (p.translation.notes.length) {
@@ -140,7 +165,7 @@ function initTopics() {
       const actions=document.createElement('div'); actions.className='topic-reading-actions';
       const full=document.createElement('a'); full.textContent='문헌 전체에서 이어 읽기'; full.href=topicReaderURL(p.html_path,location.href,state(entry,key));
       const close=document.createElement('button');close.type='button';close.textContent='관련 문헌 목록으로';
-      close.addEventListener('click',()=>{entry.viewer.hidden=true;entry.selected=null;persist(entry);entry.element.querySelector('[data-topic-passage="'+key+'"]').focus();entry.element.scrollIntoView({block:'start'});});
+      close.addEventListener('click',showList);
       actions.append(full,close);body.append(actions);
       entry.viewer.replaceChildren(toolbar,body);installPhraseHover(body);persist(entry,key,push);
       if (savedPosition && !push) {

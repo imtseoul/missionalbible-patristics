@@ -35,44 +35,96 @@ async function installTopicContext() {
   const id = params.get('topic');
   if (!id) return;
   try {
-    const [{default:navigation},{topicBrowseURL,topicReaderURL}] = await Promise.all([
+    const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
       import('./topic-navigation.mjs'), import('./topics.mjs'),
     ]);
     const topic = navigation.topics.find(t=>t.id===id);
-    if (!topic) return;
+    if (!topic?.passages.length) return;
     const group = params.get('group') || topic.group;
     const query = params.get('q') || '';
     const context = {topic:id, group, query};
-    const matches = p => {
-      const u = new URL(p.html_path,new URL('/',location.href));
-      return u.pathname===location.pathname && u.hash===location.hash.replace(/^#note-/,'#p-');
-    };
-    let selected = topic.passages.find(matches) || topic.passages[0];
+    let index = topicReadingPosition(topic.passages,location.href,params.get('read'));
+    let selected = topic.passages[index];
     const bar=document.createElement('nav');bar.className='reader-topic-context';bar.setAttribute('aria-label','주제 탐색');
     const inner=document.createElement('div');inner.className='reader-topic-inner';
     const back=document.createElement('a');back.className='topic-return';
     const label=document.createElement('span');label.textContent='주제 탐색으로';
     const title=document.createElement('strong');title.textContent=topic.title;back.append(label,title);
+    const steps=document.createElement('div');steps.className='topic-context-steps';
+    const previous=document.createElement('a');previous.textContent='앞 대목';previous.setAttribute('aria-label','이 주제의 앞 대목');
+    const next=document.createElement('a');next.textContent='다음 대목';next.setAttribute('aria-label','이 주제의 다음 대목');
+    const count=document.createElement('span');count.className='topic-context-count';
+    count.setAttribute('aria-label','주제 안에서 읽는 위치');
     const choose=document.createElement('select');choose.className='topic-context-choice';choose.setAttribute('aria-label','이 주제의 관련 문헌과 대목');
-    for(const p of topic.passages){const option=document.createElement('option');option.value=p.work_passage_id;option.textContent=p.author+', '+p.label;choose.append(option);}
-    const update=()=>{
-      selected=topic.passages.find(matches) || selected;
+    for(const p of topic.passages){const option=document.createElement('option');option.value=p.work_passage_id;option.textContent=p.location+' · '+p.title+' · '+p.author;choose.append(option);}
+    steps.append(previous,choose,next);
+    const sidebar=document.querySelector('.reader-sidebar');
+    const outline=document.createElement('nav');outline.className='reader-topic-outline';outline.setAttribute('aria-label','이 주제의 관련 문헌');
+    const outlineHeading=document.createElement('h2');outlineHeading.textContent='이 주제의 관련 문헌';
+    const outlineList=document.createElement('ol');
+    for(const p of topic.passages){
+      const item=document.createElement('li'),link=document.createElement('a');
+      link.href=topicReaderURL(p.html_path,location.href,{...context,passage:p.work_passage_id});
+      link.dataset.topicPassage=p.work_passage_id;
+      const work=document.createElement('span');work.textContent=p.label;
+      const author=document.createElement('small');author.textContent=p.author;
+      link.append(work,author);item.append(link);outlineList.append(item);
+    }
+    outline.append(outlineHeading,outlineList);
+    if(sidebar){
+      const contents=document.createElement('details');contents.className='reader-document-navigation';
+      const summary=document.createElement('summary');summary.textContent='문헌 목차';contents.append(summary,...sidebar.childNodes);
+      sidebar.append(outline,contents);
+    }
+    const documentLinks=[...document.querySelectorAll('.book-index a,.book-pagination a')];
+    const update=(newIndex=index)=>{
+      index=newIndex;selected=topic.passages[index];
       choose.value=selected.work_passage_id;
+      count.textContent=`${index+1} / ${topic.passages.length}`;
+      for(const [link,destination] of [[previous,index-1],[next,index+1]]){
+        const p=topic.passages[destination];
+        if(p){link.href=topicReaderURL(p.html_path,location.href,{...context,passage:p.work_passage_id});link.removeAttribute('aria-disabled');link.removeAttribute('tabindex');}
+        else{link.removeAttribute('href');link.setAttribute('aria-disabled','true');link.tabIndex=-1;}
+      }
+      for(const link of outlineList.querySelectorAll('a')){
+        if(link.dataset.topicPassage===selected.work_passage_id)link.setAttribute('aria-current','location');
+        else link.removeAttribute('aria-current');
+      }
       const returnURL=topicBrowseURL(location.href,{...context,passage:selected.work_passage_id});back.href=returnURL;
       for(const link of document.querySelectorAll('.site-header nav a')) {
         const u=new URL(link.href);
         if(u.pathname.endsWith('/topics.html')){link.href=returnURL;link.setAttribute('aria-current','true');}
         else if(u.pathname.endsWith('/index.html'))link.removeAttribute('aria-current');
       }
+      for(const link of documentLinks)link.href=topicReaderURL(link.href,location.href,{...context,passage:selected.work_passage_id});
+      const current=new URL(location.href);current.searchParams.set('read',selected.work_passage_id);
+      history.replaceState(history.state,'',current);
+      const active=outlineList.querySelector('[aria-current]');
+      if(active){
+        const row=active.getBoundingClientRect(),list=outlineList.getBoundingClientRect();
+        if(row.top<list.top||row.bottom>list.bottom)outlineList.scrollTop+=row.top-list.top-8;
+      }
     };
     choose.addEventListener('change',()=>{
       const p=topic.passages.find(p=>p.work_passage_id===choose.value);
-      if(p)location.assign(topicReaderURL(p.html_path,location.href,context));
+      if(p)location.assign(topicReaderURL(p.html_path,location.href,{...context,passage:p.work_passage_id}));
     });
-    inner.append(back,choose);bar.append(inner);document.querySelector('.site-header').after(bar);
+    inner.append(back,count,steps);bar.append(inner);document.querySelector('.site-header').after(bar);
+    document.body.classList.add('has-topic-context');
     new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',bar.getBoundingClientRect().height+'px')).observe(bar);
-    for(const link of document.querySelectorAll('.book-index a,.book-pagination a'))link.href=topicReaderURL(link.href,location.href,context);
-    window.addEventListener('hashchange',update);update();
+    window.addEventListener('hashchange',()=>update(topicReadingPosition(topic.passages,location.href,selected.work_passage_id)));
+    const inDocument=topic.passages.map((p,i)=>({i,node:document.querySelector('[data-passage-id="'+CSS.escape(p.work_passage_id)+'"]')})).filter(p=>p.node);
+    let pending=false;
+    window.addEventListener('scroll',()=>{
+      if(pending)return;pending=true;
+      requestAnimationFrame(()=>{
+        pending=false;
+        const probe=bar.getBoundingClientRect().bottom+(document.querySelector('.reader-tools')?.getBoundingClientRect().height||0)+72;
+        const visible=inDocument.find(p=>{const r=p.node.getBoundingClientRect();return r.top<=probe&&r.bottom>probe;});
+        if(visible&&visible.i!==index)update(visible.i);
+      });
+    },{passive:true});
+    update();
   } catch {
     const fallback=document.createElement('a');fallback.className='topic-context-fallback';fallback.textContent='주제별 탐색으로 돌아가기';
     const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;if(params.get('q'))url.searchParams.set('q',params.get('q'));if(params.get('group'))url.searchParams.set('group',params.get('group'));fallback.href=url;

@@ -115,6 +115,8 @@
 .topic-reading-controls button, .topic-reading-actions button { font: inherit; background: #fff; color: var(--blue); min-height: 44px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 3px; cursor: pointer; }
 .topic-reading-controls button:hover:not(:disabled), .topic-reading-actions button:hover { background: var(--wash); }
 .topic-reading-controls button:disabled { color: #87929a; cursor: default; }
+.topic-reading-controls { flex-wrap: wrap; }
+.topic-reading-controls > a { display: inline-flex; align-items: center; min-height: 44px; padding-block: 8px; }
 .topic-reading-controls span { color: var(--muted); font-variant-numeric: tabular-nums; }
 .topic-reading-body { padding-top: 24px; }
 .topic-reading-body .translation { margin: 0; font: 18px/1.8 'AppleMyungjo', 'Nanum Myeongjo', 'Batang', serif; word-break: keep-all; overflow-wrap: anywhere; }
