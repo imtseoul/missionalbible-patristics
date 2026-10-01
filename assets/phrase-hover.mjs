@@ -2,6 +2,10 @@ export function installPhraseHover(root) {
   const units = [...root.querySelectorAll('[data-align]')];
   const groups = new Map();
   for (const unit of units) {
+    unit.classList.add('align-unit');
+    if (!unit.hasAttribute('tabindex')) unit.tabIndex = -1;
+    if (!unit.dataset.alignSide) unit.dataset.alignSide = unit.closest('.translation') ? 'ko' : 'source';
+    if (!unit.hasAttribute('lang') && unit.closest('p')?.lang) unit.lang = unit.closest('p').lang;
     const key = unit.dataset.align;
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(unit);

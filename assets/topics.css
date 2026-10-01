@@ -126,8 +126,8 @@
 .topic-reading-notes p { margin-top: 12px; }
 .topic-reading-actions { margin-top: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; font-size: 13px; }
 .topic-reading-actions a { display: inline-flex; align-items: center; min-height: 44px; }
-.topic-reading .align-unit { border-radius: 2px; }
-.topic-reading .align-unit.is-aligned { background: #d9e9f1; color: #153f55; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.topic-reading [data-align] { border-radius: 2px; }
+.topic-reading [data-align].is-aligned { background: #d9e9f1; color: #153f55; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 @media (max-width: 720px) {
   .topic-reading-toolbar { gap: 12px; }
   .topic-reading-toolbar h4 { font-size: 16px; }
