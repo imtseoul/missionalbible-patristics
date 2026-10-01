@@ -40,3 +40,31 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
   .header-inner nav { font-size: 12px; gap: 16px; }
   .header-inner nav a:last-child { display: none; }
 }
+
+/* Author and topic discovery share the same entry points. */
+.browse-switch { display: flex; border-bottom: 1px solid var(--line); margin-bottom: 16px; }
+.browse-switch a { flex: 1; min-height: 44px; padding: 8px 12px; text-align: center; font-size: 14px; color: #45515a; border-bottom: 2px solid transparent; }
+.browse-switch a:hover { color: var(--blue); background: var(--wash); text-decoration: none; }
+.browse-switch a[aria-current] { color: var(--blue); border-bottom-color: var(--blue); font-weight: 600; }
+.sidebar-references { margin-bottom: 24px; }
+.sidebar-references > summary { display: flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 12px; font-size: 13px; color: #45515a; cursor: pointer; list-style: none; }
+.sidebar-references > summary::-webkit-details-marker { display: none; }
+.sidebar-references > summary:hover { color: var(--blue); background: var(--wash); }
+.browse-chevron { margin-left: auto; flex: none; width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.5; }
+.sidebar-references[open] > summary .browse-chevron { transform: rotate(180deg); }
+.sidebar-references ul { list-style: none; padding: 0; margin: 4px 0 0; }
+.sidebar-references a { display: block; min-height: 44px; padding: 8px 12px; font-size: 13px; line-height: 1.7; word-break: keep-all; }
+.sidebar-references a:hover { background: var(--wash); text-decoration: none; }
+.sidebar-references a span { display: block; color: var(--muted); font-size: 12px; }
+.author-browse-toggle { display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 8px 0; background: transparent; color: #45515a; text-align: left; font: inherit; font-size: 13px; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; }
+.author-browse-toggle:hover { background: var(--wash); color: var(--blue); }
+.author-browse-toggle [data-current-author] { color: var(--blue); }
+.author-browse-toggle[aria-expanded="true"] .browse-chevron { transform: rotate(180deg); }
+@media (max-width: 720px) {
+  .browse-switch { margin-bottom: 8px; }
+  .sidebar-references { margin-bottom: 16px; }
+  .sidebar-references > summary, .sidebar-references a { padding-inline: 0; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .browse-chevron { transition: transform .15s ease-out; }
+}
