@@ -2,7 +2,7 @@
   "commit": "9565e831ba9dfa544946315a47df4abc0a826114",
   "download_compatibility": {
     "policy": "published-raw-bytes-retained-1",
-    "restored_routes": 94,
+    "restored_routes": 104,
     "retained_routes": 522
   },
   "external_historical_data": [
@@ -566,6 +566,8 @@
     "releases/alpha-0.24.2/tatian-greeks/passages.jsonl",
     "releases/alpha-0.24.2/theophilus-autolycus/passages.json",
     "releases/alpha-0.24.2/theophilus-autolycus/passages.jsonl",
+    "releases/alpha-0.24.5/athanasius-serapion-1/passages.json",
+    "releases/alpha-0.24.5/athanasius-serapion-1/passages.jsonl",
     "releases/alpha-0.24/arius-eusebius-letter/passages.jsonl",
     "releases/alpha-0.24/athanasius-antiochenes/passages.jsonl",
     "releases/alpha-0.24/athanasius-serapion-1/passages.json",
@@ -3502,6 +3504,16 @@
       "sha256": "d52a6a0450f00607277827a75142eeebbc140c54c7c6b1e152a83653ede6c3d7",
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/f1cbf9666301f96dc6fb80a9326c801d444f9e14/releases/alpha-0.24.2/theophilus-autolycus/passages.jsonl"
     },
+    "releases/alpha-0.24.5/athanasius-serapion-1/passages.json": {
+      "git_blob": "c6d4a0b238cbfddacd3e55d856dcb60352bbfddb",
+      "sha256": "7b96044483caa3ee5d6c0db2bf097d5827a56f43ffe6eea9fd426b8c1ac42275",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/18396ff868fe0953dbdaf05835ffa1ef554ef594/releases/alpha-0.24.5/athanasius-serapion-1/passages.json"
+    },
+    "releases/alpha-0.24.5/athanasius-serapion-1/passages.jsonl": {
+      "git_blob": "5de51224c77efcdc1c83ff599d0117cfe7b4f147",
+      "sha256": "47ebeb3b72a55c6cf352dbddc6c0c071136489ca3c7fed0f5cd08399a9d82f46",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/18396ff868fe0953dbdaf05835ffa1ef554ef594/releases/alpha-0.24.5/athanasius-serapion-1/passages.jsonl"
+    },
     "releases/alpha-0.24/arius-eusebius-letter/passages.jsonl": {
       "git_blob": "159605f516bba70d1e3f97c2a1ed61df48e0307b",
       "sha256": "00ce3c8d9078f2d65681604ca4dda7de7015744d2423ad6929a85562aac8ead2",
@@ -4179,7 +4191,7 @@
     "latest_release_data": "local",
     "size_limit_bytes": 900000000
   },
-  "latest_release": "alpha-0.24.4",
+  "latest_release": "alpha-0.24.6",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/e07ce68a455da184c0281d89e3e1ddf0801067d5/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/18396ff868fe0953dbdaf05835ffa1ef554ef594/"
 }

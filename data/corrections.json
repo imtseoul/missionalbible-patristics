@@ -24687,18 +24687,18 @@
         "revalidation_id": "serapion-pronoun-correction-20261001",
         "reviewer_kind": "ai",
         "scope_annotation": {
-          "audit_id": "serapion-pronoun-correction-20261001",
+          "audit_id": "serapion-i6-full-review-20261002",
           "confirmed_body_passage_ids": [
             "athanasius-serapion-1:6"
           ],
           "confirmed_related_passage_ids": [],
+          "confirming_review_ids": [
+            "sha256:87900d5b077ce7cc1d37ebb69e2b442c439435b7c57cbcf6793e59641948c34f"
+          ],
           "declared_passage_ids": [
             "athanasius-serapion-1:6"
           ],
           "event_id": "ce-1118346a0a9ec2bdd8db3c32",
-          "fragment_review_ids": [
-            "sha256:87d0c43512c45238b9609e62f3c5bb9b0b2188952ccdea5a9864c885665663d6"
-          ],
           "guidance_url": "https://patristics.missionalbible.org/about.html#correction-scopes",
           "human_review_status": "not_reviewed",
           "independent": false,
@@ -24707,12 +24707,57 @@
           "origin_locator": "serapion-pronoun-correction-20261001-01",
           "original_record_sha256": "2f8ac251cb060371c994ac9877f2318d7fd3b86526822f19dfcd2c435dffad57",
           "record_scope": "passage_revalidation",
-          "review_extent": "One printed pronoun and its corresponding Korean sentence and meaning group only.",
+          "review_extent": "I.6 complete passage: 105 previous groups, 97 regrouped current groups, 8 risk issues and notes",
           "sample_id": null,
           "sample_status": null,
           "schema_version": "patristics-correction-scope-1",
           "scope_label": "절에 결합한 재대조 교정",
-          "text_attribution_status": "scope_resolved_in_fragment_review"
+          "text_attribution_status": "scope_confirmed_in_current_passage_review"
+        }
+      },
+      {
+        "after": "αἰσχυνθήσομαι· » καὶ πάλιν·",
+        "before": "αἰσχυνθήσομαι· καὶ πάλιν·",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://archive.org/download/patrologiae_cursus_completus_gr_vol_026/page/n290.jpg",
+        "finding_id": "serapion-i6-full-review-20261002-01",
+        "human_review_status": "not_reviewed",
+        "image_sha256": "73fcea308efe65cbccb0e243fb80cda333e984cc6e69765a708833d1b9216797",
+        "independent": false,
+        "kind": "print_revalidation_correction",
+        "location": "6",
+        "pdf_page": 291,
+        "printed_column": 548,
+        "reason": "PG548단 첫 줄의 빌립보서 인용 닫는 부호를 복원하고 다음 할례 인용과 구별한다.",
+        "revalidation_id": "serapion-i6-full-review-20261002",
+        "reviewer_kind": "ai",
+        "scope_annotation": {
+          "audit_id": "serapion-i6-full-review-20261002",
+          "confirmed_body_passage_ids": [
+            "athanasius-serapion-1:6"
+          ],
+          "confirmed_related_passage_ids": [],
+          "confirming_review_ids": [
+            "sha256:87900d5b077ce7cc1d37ebb69e2b442c439435b7c57cbcf6793e59641948c34f"
+          ],
+          "declared_passage_ids": [
+            "athanasius-serapion-1:6"
+          ],
+          "event_id": "ce-c3e1d2e36e6b3ae447f57cf8",
+          "guidance_url": "https://patristics.missionalbible.org/about.html#correction-scopes",
+          "human_review_status": "not_reviewed",
+          "independent": false,
+          "legacy_location_role": "recorded_passage_target",
+          "linked_passage_id": "athanasius-serapion-1:6",
+          "origin_locator": "serapion-i6-full-review-20261002-01",
+          "original_record_sha256": "3b57e3571946f71b6529c08aad28610f0a5e1bb39a882024d47e03584be7b483",
+          "record_scope": "passage_revalidation",
+          "review_extent": "I.6 complete passage: 105 previous groups, 97 regrouped current groups, 8 risk issues and notes",
+          "sample_id": null,
+          "sample_status": null,
+          "schema_version": "patristics-correction-scope-1",
+          "scope_label": "절에 결합한 재대조 교정",
+          "text_attribution_status": "scope_confirmed_in_current_passage_review"
         }
       }
     ],
