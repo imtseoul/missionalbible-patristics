@@ -1,5 +1,5 @@
 {
-  "archive_commit": "04f1b3a6f59f93c5efe676cbcb82bb253a09568a",
+  "archive_commit": "6441ae98edb82310ebb9474a8d2cbb5f6e4775ed",
   "edition_readers": [
     {
       "alignment": {
@@ -9520,11 +9520,11 @@
     "assets/text-matches.mjs": "921656645ade1da85bf01c517fca6f6ee4172e7322dae22429c56a4dc2e88c59",
     "assets/topics.css": "b4fe912dd708d7bd6b649a8c67cff3889d6d2a3f7b853b480b6eb22e84654b4b",
     "assets/topics.mjs": "68ef17ff55f93b3f10bee070a15d665c6b33bd1521a72b7d706d47f3bbb3e836",
-    "catalog.json": "f667a25d9c23726690a8e408a334a65c75014cba3618c462d6700063c6b22008",
+    "catalog.json": "1ceff9d25e3d1de83c7628dd47b528ff56444290520f0d9c2a90a09abdb2efa2",
     "data/corrections.json": "b150326636bccd3d0c3cffb0832f96ae5299c0a238049c8a3595554e27f2d344",
     "data/phrase-alignments.json": "2c98c0fe78a6c1d83ac6cbbb61d9f6d5af7b7b29df707433029035b39bae296b",
-    "index.html": "81735005fc2adedc10728af64675bd8c476388dc21cbc18da3f0132ed3e8da32",
-    "patristics-archive-mapping.json": "d4b43024d13296e83767369322ac72afa3ebffe6e5104c77700b6fde0f2a9e87",
+    "index.html": "807053ebad50a5352cfe5b06c33bd471120f700a4c79921954cbfa8e44f87e6c",
+    "patristics-archive-mapping.json": "659c48ddf518c4b55c5bb7e70181ec822a58843cc861f1a0aa5cdf68909a369f",
     "releases/alpha-0.1/didache/checksums.json": "8698fe92f3acefe2e56c417b657748c9b5d5bcc6bb74ae36cdd6782210df930c",
     "releases/alpha-0.1/didache/index.html": "80bb9ee2440b0661514569c898969247a8fa99d0428cf4800d404b6d210777b5",
     "releases/alpha-0.1/didache/passages.json": "e688c4d8a449b93988580f59bfc19e960bf2b4ebdc453bc10525007f6c084957",
@@ -11147,7 +11147,7 @@
   "release_id": "alpha-0.24",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 762728219,
+    "bytes": 762727567,
     "catalogue_hashes_verified": 39,
     "duplicate_anchors": 0,
     "edition_checksums_verified": 1640,
