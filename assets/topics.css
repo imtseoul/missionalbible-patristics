@@ -148,6 +148,7 @@ html { overflow-anchor: none; }
 .topic-reading [data-align] { border-radius: 2px; }
 .topic-reading [data-align].is-aligned { background: #d9e9f1; color: #153f55; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 @media (max-width: 720px) {
+  .topics-shell:has(.topic-entry.is-reading:not([hidden])) .topic-mobile-categories { position: static; }
   .topic-reading-toolbar { gap: 12px; }
   .topic-reading-toolbar h4 { font-size: 16px; }
   .topic-reading-controls { width: 100%; }

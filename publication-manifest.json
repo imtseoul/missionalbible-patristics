@@ -12681,7 +12681,7 @@
     "assets/topic-readings/trinity-spirit.mjs": "7bc4a03b764b2c2076dfa89a22690aae6318fe292ef48ba820d6db6c1fedc3f4",
     "assets/topic-readings/trinity-theological-discourse.mjs": "051bc0c3a189223dd5609b4b976f6287b051fc4cd4543b2e2831d3a3638367c6",
     "assets/topic-readings/two-johns.mjs": "30128f4dcf846f8754304f9b3293e1e716635be30d05f66c5e379066b7d02cb6",
-    "assets/topics.css": "ca4c0d5c1611eef9b4a7d21afcd126ff902b9b07c03bff0a430c1dc036b212a0",
+    "assets/topics.css": "24068b538925e7fa0e9fcf27d73a21fc4fa86ba623333f32aeef0c1427348c98",
     "assets/topics.mjs": "a673b6407b85213e3e1ca6bdba398271c3569d5e1fd91e74c390568fbc5dd1ac",
     "catalog.json": "908fcb4e5900d9a0fa6ed30c66b5c3a729f7469a9ddde5a199f9e7cc0beb7b77",
     "data/corrections.json": "b1c24c6768b7aa448f51432cb5ed043dfdf7ff179f6a192e018e0567215231c2",
@@ -14813,7 +14813,7 @@
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
     "search-index.json": "efaf75812349ea7da05f52abfdc11b2f9c1d5348a1813046b711f7034ea45d39",
     "sitemap.xml": "ec09fd0a176271a62c2f1324307bf0958f96ee79f14ba68d34d624d2db3abde8",
-    "topics.html": "9c5b4dc0364421a008e8cfcd7b08d12119ff603f5c117e81905013a63f903ee5",
+    "topics.html": "2be4632d3f533092da9662d5dbe00e8f2c5fb8b74833a1992854579744ab3a1f",
     "topics.json": "212de48f8ebfb385df9960f8deb216100835472cf531a692e4ddf0ab3704514a",
     "works/arius-eusebius-letter/index.html": "8750d7f2fbbde71e155cfc6b3270a86e100cc989b86b7399ec5a56234f294ed5",
     "works/athanasius-antiochenes/index.html": "112e9b52769897d8d741a94abc3485a42b2dfdb17f80cfdcb0c85b7e2dd2d001",
@@ -14879,7 +14879,7 @@
   "release_id": "alpha-0.27",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 899691891,
+    "bytes": 899691997,
     "catalogue_hashes_verified": 41,
     "download_compatibility": {
       "raw_bytes_verified": true,
