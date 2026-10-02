@@ -43,7 +43,15 @@ async function installTopicContext() {
     const group = params.get('group') || topic.group;
     const query = params.get('q') || '';
     const context = {topic:id, group, query};
-    let index = topicReadingPosition(topic.passages,location.href,params.get('read'));
+    let pair={read:params.get('read'),compare:params.get('compare')};
+    const pane=params.get('pane')==='compare'?'compare':'read';
+    const paired=pair.read!==pair.compare&&[pair.read,pair.compare].every(key=>topic.passages.some(p=>p.work_passage_id===key));
+    const pairFor=key=>{
+      if(!paired)return {passage:key};
+      if(pane==='compare')return {passage:key===pair.read?pair.compare:pair.read,compare:key,pane};
+      return {passage:key,compare:key===pair.compare?pair.read:pair.compare,pane};
+    };
+    let index = topicReadingPosition(topic.passages,location.href,paired?(pane==='compare'?pair.compare:pair.read):params.get('read'));
     let selected = topic.passages[index];
     const bar=document.createElement('nav');bar.className='reader-topic-context';bar.setAttribute('aria-label','주제 탐색');
     const inner=document.createElement('div');inner.className='reader-topic-inner';
@@ -64,7 +72,7 @@ async function installTopicContext() {
     const outlineList=document.createElement('ol');
     for(const p of topic.passages){
       const item=document.createElement('li'),link=document.createElement('a');
-      link.href=topicReaderURL(p.html_path,location.href,{...context,passage:p.work_passage_id});
+      link.href=topicReaderURL(p.html_path,location.href,{...context,...pairFor(p.work_passage_id)});
       link.dataset.topicPassage=p.work_passage_id;
       const work=document.createElement('span');work.textContent=p.label;
       const author=document.createElement('small');author.textContent=p.author;
@@ -79,25 +87,30 @@ async function installTopicContext() {
     const documentLinks=[...document.querySelectorAll('.book-index a,.book-pagination a')];
     const update=(newIndex=index)=>{
       index=newIndex;selected=topic.passages[index];
+      const selection=pairFor(selected.work_passage_id);
+      if(paired)pair={read:selection.passage,compare:selection.compare};
       choose.value=selected.work_passage_id;
       count.textContent=`${index+1} / ${topic.passages.length}`;
       for(const [link,destination] of [[previous,index-1],[next,index+1]]){
         const p=topic.passages[destination];
-        if(p){link.href=topicReaderURL(p.html_path,location.href,{...context,passage:p.work_passage_id});link.removeAttribute('aria-disabled');link.removeAttribute('tabindex');}
+        if(p){link.href=topicReaderURL(p.html_path,location.href,{...context,...pairFor(p.work_passage_id)});link.removeAttribute('aria-disabled');link.removeAttribute('tabindex');}
         else{link.removeAttribute('href');link.setAttribute('aria-disabled','true');link.tabIndex=-1;}
       }
       for(const link of outlineList.querySelectorAll('a')){
+        const destination=topic.passages.find(p=>p.work_passage_id===link.dataset.topicPassage);
+        if(destination)link.href=topicReaderURL(destination.html_path,location.href,{...context,...pairFor(destination.work_passage_id)});
         if(link.dataset.topicPassage===selected.work_passage_id)link.setAttribute('aria-current','location');
         else link.removeAttribute('aria-current');
       }
-      const returnURL=topicBrowseURL(location.href,{...context,passage:selected.work_passage_id});back.href=returnURL;
+      const returnURL=topicBrowseURL(location.href,{...context,...selection});back.href=returnURL;
       for(const link of document.querySelectorAll('.site-header nav a')) {
         const u=new URL(link.href);
         if(u.pathname.endsWith('/topics.html')){link.href=returnURL;link.setAttribute('aria-current','true');}
         else if(u.pathname.endsWith('/index.html'))link.removeAttribute('aria-current');
       }
-      for(const link of documentLinks)link.href=topicReaderURL(link.href,location.href,{...context,passage:selected.work_passage_id});
+      for(const link of documentLinks)link.href=topicReaderURL(link.href,location.href,{...context,...selection});
       const current=new URL(location.href);current.searchParams.set('read',selected.work_passage_id);
+      if(paired){current.searchParams.set('read',pair.read);current.searchParams.set('compare',pair.compare);if(pane==='compare')current.searchParams.set('pane','compare');}
       history.replaceState(history.state,'',current);
       const active=outlineList.querySelector('[aria-current]');
       if(active){
@@ -107,7 +120,7 @@ async function installTopicContext() {
     };
     choose.addEventListener('change',()=>{
       const p=topic.passages.find(p=>p.work_passage_id===choose.value);
-      if(p)location.assign(topicReaderURL(p.html_path,location.href,{...context,passage:p.work_passage_id}));
+      if(p)location.assign(topicReaderURL(p.html_path,location.href,{...context,...pairFor(p.work_passage_id)}));
     });
     inner.append(back,count,steps);bar.append(inner);document.querySelector('.site-header').after(bar);
     document.body.classList.add('has-topic-context');

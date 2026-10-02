@@ -159,3 +159,29 @@ html { overflow-anchor: none; }
   .is-reading .topic-reading-list > summary { font-size: 14px; }
 }
 @media print { .topic-reading-toolbar { position: static; } .topic-reading-controls, .topic-reading-actions { display: none; } }
+
+.is-comparing .topic-reading-layout { display: block; }
+.is-comparing .topic-reading-list { display: none; position: static; max-height: 38dvh; margin-bottom: 16px; }
+.is-comparing.is-comparing-list-open .topic-reading-list { display: block; }
+.topic-comparison-choices { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 16px; margin-top: 16px; }
+.topic-comparison-choices-wrapper > summary { display: none; min-height: 44px; padding: 10px 0; color: var(--blue); font-size: 13px; cursor: pointer; }
+.topic-comparison-choices label { min-width: 0; display: grid; gap: 6px; color: var(--muted); font-size: 12px; }
+.topic-comparison-choices select { width: 100%; min-width: 0; min-height: 44px; padding: 8px; border: 1px solid var(--line); border-radius: 3px; background: #fff; color: var(--ink); font: 13px/1.5 var(--font); }
+.topic-comparison-tabs { display: flex; gap: 0; margin-top: 16px; border-bottom: 1px solid var(--line); }
+.topic-comparison-tabs button { flex: 1; min-width: 0; min-height: 44px; padding: 10px 8px; border: 0; border-bottom: 2px solid transparent; background: transparent; color: var(--muted); font: 13px/1.6 var(--font); cursor: pointer; word-break: keep-all; }
+.topic-comparison-tabs button[aria-selected="true"] { color: var(--blue); border-bottom-color: var(--blue); font-weight: 600; }
+.topic-comparison-tabs button:hover { background: var(--wash); }
+.topic-comparison-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 28px; }
+.topic-comparison-pane { min-width: 0; padding-top: 20px; }
+.comparison-source-title { margin: 0; font-size: 17px; line-height: 1.7; word-break: keep-all; }
+.topic-comparison-pane .reading-source-author { margin-top: 4px; }
+.topic-comparison-pane .topic-reading-body { padding-top: 16px; }
+.topic-comparison-pane .reading-scripture-context { font-size: 12px; }
+@media (max-width: 720px) {
+  .topic-comparison-choices-wrapper { margin-top: 8px; }
+  .topic-comparison-choices-wrapper > summary { display: list-item; list-style-position: inside; }
+  .topic-comparison-choices { grid-template-columns: 1fr; gap: 10px; }
+  .topic-comparison-grid { display: block; }
+  .topic-comparison-grid[data-active-pane="read"] [data-comparison-pane="compare"],
+  .topic-comparison-grid[data-active-pane="compare"] [data-comparison-pane="read"] { display: none; }
+}

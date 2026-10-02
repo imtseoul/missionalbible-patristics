@@ -1,5 +1,6 @@
 import {markedText} from './text-matches.mjs';
 import {installPhraseHover} from './phrase-hover.mjs';
+import {installTopicComparison,comparisonPair} from './topic-comparison.mjs';
 import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=140fe6998252';
 
 export function topicBrowseURL(base, state) {
@@ -7,6 +8,7 @@ export function topicBrowseURL(base, state) {
   if (state.group) url.searchParams.set('group', state.group);
   if (state.query) url.searchParams.set('q', state.query);
   if (state.passage) url.searchParams.set('read', state.passage);
+  if (state.compare && state.compare!==state.passage) {url.searchParams.set('compare',state.compare);if(state.pane==='compare')url.searchParams.set('pane','compare');}
   url.hash = state.topic ? 'topic-' + state.topic : 'topics-all';
   return url;
 }
@@ -20,6 +22,8 @@ export function topicReaderURL(path, base, state) {
   if (state.query) url.searchParams.set('q', state.query);
   url.searchParams.delete('read');
   if (state.passage) url.searchParams.set('read', state.passage);
+  url.searchParams.delete('compare');url.searchParams.delete('pane');
+  if(state.compare && state.compare!==state.passage){url.searchParams.set('compare',state.compare);if(state.pane==='compare')url.searchParams.set('pane','compare');}
   return url;
 }
 
@@ -78,7 +82,7 @@ function initTopics() {
       firstPath:row.querySelector('.source-work-title').getAttribute('href'),
       locations:[...row.querySelectorAll('.source-locations a')].map(node=>({node,path:node.getAttribute('href'),aria:node.getAttribute('aria-label')})),
       caption:null})),
-    markedQuery: '', autoOpened: false, selected: null,
+    markedQuery: '', autoOpened: false, selected: null, comparison:null, activePane:'read',
   }));
   const names = new Map([['all', '전체 주제'], ...sections.map(s => [s.dataset.section, s.querySelector('h2').textContent])]);
   const payloads = new Map();
@@ -98,10 +102,11 @@ function initTopics() {
       + parseFloat(getComputedStyle(entry.viewer).scrollMarginTop);
     const list = entry.element.querySelector('.topic-reading-list');
     bookmarks[entry.id] = {
-      ...previous, passage:entry.selected, group, query:input.value,
+      ...previous, passage:entry.selected, compare:entry.comparison, pane:entry.activePane, group, query:input.value,
       offset:inReading ? Math.max(0, readingTop - bounds.top) : previous.offset || 0,
       listOpen:list?.open, listY:list?.scrollTop || 0,
-      notesOpen:entry.viewer.querySelector('.topic-reading-notes')?.open || false,
+      notesOpen:entry.viewer.querySelector('[data-reading-passage="'+CSS.escape(entry.selected)+'"] .topic-reading-notes')?.open || false,
+      compareNotesOpen:entry.comparison?entry.viewer.querySelector('[data-reading-passage="'+CSS.escape(entry.comparison)+'"] .topic-reading-notes')?.open||false:false,
     };
     if (write) writeBookmarks();
   };
@@ -128,7 +133,7 @@ function initTopics() {
   };
   savedPosition=storedPosition();
   let group = 'all', generation = 0;
-  const state = (entry = null, passage = null) => ({group, query:input.value, topic:entry?.id, passage});
+  const state = (entry = null, passage = null) => ({group, query:input.value, topic:entry?.id, passage, compare:passage?entry?.comparison:null, pane:entry?.activePane || 'read'});
   const persist = (entry = null, passage = null, push = false) => {
     const url = topicBrowseURL(location.href, state(entry, passage));
     if (!entry && location.hash.startsWith('#section-')) url.hash = location.hash;
@@ -145,28 +150,27 @@ function initTopics() {
       entry.element.querySelector('.topic-attribution').after(button); entry.resume=button;
     }
     const work = valid.closest('.topic-source').querySelector('.source-work-title').textContent;
-    entry.resume.textContent='읽던 대목 이어 읽기 · '+(bookmark.label || work+' '+valid.textContent);
+    entry.resume.textContent=bookmark.compare?'비교하던 두 대목 이어 읽기':'읽던 대목 이어 읽기 · '+(bookmark.label || work+' '+valid.textContent);
     entry.resume.hidden=!!entry.selected;
   };
   const stopReading = entry => {
     rememberReading(entry);
-    entry.viewer.hidden=true;entry.selected=null;entry.element.classList.remove('is-reading');
+    entry.viewer.hidden=true;entry.selected=null;entry.comparison=null;entry.activePane='read';entry.element.classList.remove('is-reading','is-comparing','is-comparing-list-open');
     const list=entry.element.querySelector('.topic-reading-list');if(list)list.open=true;
     for (const link of entry.element.querySelectorAll('[data-topic-passage]')) link.removeAttribute('aria-current');
     showResume(entry);
   };
   const updateReadingContext = (entry,scripture) => {
     for(const link of entry.viewer.querySelectorAll('[data-topic-full-path]')) {
-      link.href=topicReaderURL(link.dataset.topicFullPath,location.href,state(entry,entry.selected));
+      const pane=link.dataset.topicPane || entry.activePane || 'read';
+      link.href=topicReaderURL(link.dataset.topicFullPath,location.href,{...state(entry,entry.selected),pane});
     }
-    let line=entry.viewer.querySelector('.reading-scripture-context');
-    const author=entry.viewer.querySelector('.reading-source-author');
-    if(scripture && author && !line) {
-      line=document.createElement('p');line.className='reading-scripture-context';author.after(line);
-    }
-    if(line) {
-      line.hidden=!scripture;
-      line.textContent=scripture ? scriptureReferenceSummary(entry.selected,scripture) || scriptureReferenceLabel(scripture)+'에서 시작한 관련 대목' : '';
+    const scopes=entry.comparison?[...entry.viewer.querySelectorAll('.topic-comparison-pane')]:[entry.viewer];
+    for(const scope of scopes) {
+      const key=scope.querySelector('[data-reading-passage]')?.dataset.readingPassage || entry.selected;
+      let line=scope.querySelector('.reading-scripture-context');const author=scope.querySelector('.reading-source-author');
+      if(scripture&&author&&!line){line=document.createElement('p');line.className='reading-scripture-context';author.after(line);}
+      if(line){line.hidden=!scripture;line.textContent=scripture?scriptureReferenceSummary(key,scripture)||scriptureReferenceLabel(scripture)+'에서 시작한 관련 대목':'';}
     }
   };
 
@@ -231,6 +235,9 @@ function initTopics() {
     if (!entry.selected) entry.browsePosition = push ? snapshot() : {y:bookmarks[entry.id]?.browseY};
     const bookmark = resume ? {...bookmarks[entry.id]} : null;
     const request = ++generation;
+    if(bookmark){entry.comparison=bookmark.compare||null;entry.activePane=bookmark.pane||'read';}
+    if(entry.comparison===key)entry.comparison=entry.selected&&entry.selected!==key?entry.selected:null;
+    entry.element.classList.remove('is-comparing','is-comparing-list-open');
     entry.selected = key; entry.disclosure.open = true; entry.viewer.hidden = false;
     const loading = document.createElement('p'); loading.setAttribute('role','status'); loading.textContent = '본문을 불러오는 중입니다.';
     entry.viewer.replaceChildren(loading);
@@ -241,8 +248,9 @@ function initTopics() {
       const index = data.passages.findIndex(p => p.work_passage_id === key);
       if (index < 0) throw new Error('Missing related passage');
       const p = data.passages[index]; entry.selected = key;
+      if(!data.passages.some(p=>p.work_passage_id===entry.comparison))entry.comparison=null;
       for (const item of entries) if (item !== entry) stopReading(item);
-      bookmarks[entry.id]={...(bookmarks[entry.id] || {}),passage:key,label:p.label,group,query:input.value,
+      bookmarks[entry.id]={...(bookmarks[entry.id] || {}),passage:key,compare:entry.comparison,pane:entry.activePane,label:p.label,group,query:input.value,
         offset:bookmark?.offset || 0,browseY:entry.browsePosition?.y};
       writeBookmarks(); showResume(entry);
       entry.element.classList.add('is-reading');
@@ -275,8 +283,8 @@ function initTopics() {
       });
       controls.append(browse);
       const showList = () => {
-        readingList.open=true;
-        const selected=readingList.querySelector('.source-locations [data-topic-passage="'+key+'"]');
+        readingList.open=true;entry.element.classList.add('is-comparing-list-open');
+        const selected=readingList.querySelector('.source-locations [data-topic-passage="'+(entry.activePane==='compare'?entry.comparison:key)+'"]');
         selected?.focus({preventScroll:true});
         readingList.scrollIntoView({block:'start'});
         selected?.scrollIntoView({block:'nearest'});
@@ -292,7 +300,7 @@ function initTopics() {
       continueReading.dataset.topicFullPath=p.html_path;
       continueReading.href=topicReaderURL(p.html_path,location.href,state(entry,key));
       controls.append(count,continueReading); toolbar.append(context,controls);
-      const body = document.createElement('div'); body.className='topic-reading-body';
+      const body = document.createElement('div'); body.className='topic-reading-body';body.dataset.readingPassage=key;
       body.append(alignedText(p.translation.text,p.groups,'ko','ko'), alignedText(p.source.text,p.groups,'source',p.source.language));
       if (p.translation.notes.length) {
         const notes=document.createElement('details'); notes.className='topic-reading-notes';
@@ -305,7 +313,12 @@ function initTopics() {
       const close=document.createElement('button');close.type='button';close.textContent='관련 문헌 목록으로';
       close.addEventListener('click',showList);
       actions.append(full,close);body.append(actions);
-      entry.viewer.replaceChildren(toolbar,body);updateReadingContext(entry,parseScriptureQuery(input.value));installPhraseHover(body);persist(entry,key,push);
+      entry.viewer.replaceChildren(toolbar,body);installPhraseHover(body);
+      installTopicComparison({entry,data,primary:p,body,toolbar,controls,heading,author,bookmark,alignedText,
+        refresh:()=>updateReadingContext(entry,parseScriptureQuery(input.value)),
+        activate:()=>{persist(entry,entry.selected,false);rememberReading(entry);},
+        change:pair=>{savePosition();entry.comparison=pair.compare;entry.activePane=pair.pane||'read';readPassage(entry,pair.read,{push:true});}});
+      updateReadingContext(entry,parseScriptureQuery(input.value));persist(entry,key,push);
       if (bookmark) { readingList.open=bookmark.listOpen ?? readingList.open; readingList.scrollTop=bookmark.listY || 0; }
       const active=readingList.querySelector('.source-locations [aria-current]');
       if(active&&readingList.open){
@@ -342,7 +355,11 @@ function initTopics() {
     render();
     if (entry) entry.disclosure.open=true;
     const key=url.searchParams.get('read');
-    if (entry && key && [...entry.element.querySelectorAll('[data-topic-passage]')].some(a=>a.dataset.topicPassage===key)) readPassage(entry,key,{scroll,push:false,focus:false,resume:bookmarks[entry.id]?.passage===key});
+    if (entry && key && [...entry.element.querySelectorAll('[data-topic-passage]')].some(a=>a.dataset.topicPassage===key)) {
+      entry.comparison=url.searchParams.get('compare');entry.activePane=url.searchParams.get('pane')==='compare'?'compare':'read';
+      const saved=bookmarks[entry.id];if(saved&&saved.passage===key){saved.compare=entry.comparison;saved.pane=entry.activePane;}
+      readPassage(entry,key,{scroll,push:false,focus:false,resume:saved?.passage===key});
+    }
     else {
       for(const item of entries)stopReading(item);
       if(Number.isFinite(savedPosition?.y)){const saved=savedPosition;savedPosition=null;requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));}
@@ -373,7 +390,9 @@ function initTopics() {
     showResume(entry);
     for(const link of entry.element.querySelectorAll('[data-topic-passage]'))link.addEventListener('click',event=>{
       if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
-      event.preventDefault();readPassage(entry,link.dataset.topicPassage);
+      event.preventDefault();
+      const pair=comparisonPair(entry.selected,entry.comparison,link.dataset.topicPassage,entry.activePane);
+      entry.comparison=pair.compare;readPassage(entry,pair.read);
     });
     entry.disclosure.querySelector('summary').addEventListener('click',()=>requestAnimationFrame(()=>{
       if(!entry.disclosure.open&&entry.selected){stopReading(entry);persist(entry);}
