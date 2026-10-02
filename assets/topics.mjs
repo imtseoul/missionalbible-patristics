@@ -1,6 +1,6 @@
 import {markedText} from './text-matches.mjs';
 import {installPhraseHover} from './phrase-hover.mjs';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=cda2d1826538';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=140fe6998252';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
