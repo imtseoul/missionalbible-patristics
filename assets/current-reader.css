@@ -1,0 +1,6 @@
+.reader-loading .passage,
+.reader-loading .reader-notes,
+.reader-loading .reader-tools { display: none; }
+.current-reader-status { margin: 24px 0; color: var(--muted); font-size: 14px; line-height: 1.8; }
+.current-reader-status a { display: inline-block; padding: 8px 0; min-height: 44px; color: var(--blue); }
+.current-reader-status p { margin: 0; }
