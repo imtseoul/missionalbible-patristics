@@ -75,9 +75,33 @@ function initTopics() {
   }));
   const names = new Map([['all', '전체 주제'], ...sections.map(s => [s.dataset.section, s.querySelector('h2').textContent])]);
   const payloads = new Map();
+  let bookmarks = {};
+  try { bookmarks = JSON.parse(sessionStorage.getItem('patristics.topic-readings') || '{}'); } catch {}
+  if (!bookmarks || typeof bookmarks !== 'object' || Array.isArray(bookmarks)) bookmarks = {};
+  const writeBookmarks = () => {
+    try { sessionStorage.setItem('patristics.topic-readings', JSON.stringify(bookmarks)); } catch {}
+  };
+  const rememberReading = (entry, write = true) => {
+    if (!entry.selected || entry.viewer.hidden) return;
+    const previous = bookmarks[entry.id] || {};
+    const bounds = entry.viewer.getBoundingClientRect();
+    const headerHeight = document.querySelector('.site-header').getBoundingClientRect().height;
+    const inReading = bounds.top <= headerHeight + 48 && bounds.bottom > headerHeight;
+    const readingTop = parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop)
+      + parseFloat(getComputedStyle(entry.viewer).scrollMarginTop);
+    const list = entry.element.querySelector('.topic-reading-list');
+    bookmarks[entry.id] = {
+      ...previous, passage:entry.selected, group, query:input.value,
+      offset:inReading ? Math.max(0, readingTop - bounds.top) : previous.offset || 0,
+      listOpen:list?.open, listY:list?.scrollTop || 0,
+      notesOpen:entry.viewer.querySelector('.topic-reading-notes')?.open || false,
+    };
+    if (write) writeBookmarks();
+  };
   let savedPosition = null;
   const snapshot = () => ({url:location.href,y:scrollY,open:entries.filter(e=>e.disclosure.open).map(e=>e.id)});
   const savePosition = () => {
+    for (const entry of entries) rememberReading(entry);
     const saved=snapshot();
     history.replaceState({...history.state,topicBrowse:saved},'',location.href);
     try{sessionStorage.setItem('patristics.topic-browse',JSON.stringify(saved));}catch{}
@@ -104,9 +128,25 @@ function initTopics() {
     history[push ? 'pushState' : 'replaceState'](push ? null : history.state, '', url);
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=url;
   };
+  const showResume = entry => {
+    const bookmark = bookmarks[entry.id];
+    const valid = bookmark && entry.element.querySelector('[data-topic-passage="'+CSS.escape(bookmark.passage || '')+'"]');
+    if (!valid) return;
+    if (!entry.resume) {
+      const button = document.createElement('button'); button.type='button'; button.className='topic-resume';
+      button.addEventListener('click',()=>readPassage(entry,bookmarks[entry.id].passage,{resume:true}));
+      entry.element.querySelector('.topic-attribution').after(button); entry.resume=button;
+    }
+    const work = valid.closest('.topic-source').querySelector('.source-work-title').textContent;
+    entry.resume.textContent='읽던 대목 이어 읽기 · '+(bookmark.label || work+' '+valid.textContent);
+    entry.resume.hidden=!!entry.selected;
+  };
   const stopReading = entry => {
+    rememberReading(entry);
     entry.viewer.hidden=true;entry.selected=null;entry.element.classList.remove('is-reading');
     const list=entry.element.querySelector('.topic-reading-list');if(list)list.open=true;
+    for (const link of entry.element.querySelectorAll('[data-topic-passage]')) link.removeAttribute('aria-current');
+    showResume(entry);
   };
 
   function render() {
@@ -140,8 +180,10 @@ function initTopics() {
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=location.href;
   }
 
-  async function readPassage(entry, key, {scroll = true, push = true, focus = true} = {}) {
+  async function readPassage(entry, key, {scroll = true, push = true, focus = true, resume = false} = {}) {
     if(push)savePosition();
+    if (!entry.selected) entry.browsePosition = push ? snapshot() : {y:bookmarks[entry.id]?.browseY};
+    const bookmark = resume ? {...bookmarks[entry.id]} : null;
     const request = ++generation;
     entry.selected = key; entry.disclosure.open = true; entry.viewer.hidden = false;
     const loading = document.createElement('p'); loading.setAttribute('role','status'); loading.textContent = '본문을 불러오는 중입니다.';
@@ -154,6 +196,9 @@ function initTopics() {
       if (index < 0) throw new Error('Missing related passage');
       const p = data.passages[index]; entry.selected = key;
       for (const item of entries) if (item !== entry) stopReading(item);
+      bookmarks[entry.id]={...(bookmarks[entry.id] || {}),passage:key,label:p.label,group,query:input.value,
+        offset:bookmark?.offset || 0,browseY:entry.browsePosition?.y};
+      writeBookmarks(); showResume(entry);
       entry.element.classList.add('is-reading');
       let readingList=entry.element.querySelector('.topic-reading-list');
       if(!readingList){
@@ -174,6 +219,15 @@ function initTopics() {
       const author = document.createElement('p'); author.className = 'reading-source-author'; author.textContent = p.author;
       context.append(title, heading, author);
       const controls = document.createElement('nav'); controls.className = 'topic-reading-controls'; controls.setAttribute('aria-label','이 주제의 관련 대목');
+      const browse = document.createElement('button'); browse.type='button'; browse.textContent='주제 목록으로';
+      browse.addEventListener('click',()=>{
+        savePosition(); generation++; stopReading(entry); persist(entry,null,true);
+        const y = entry.browsePosition?.y;
+        if (Number.isFinite(y)) window.scrollTo({top:y,behavior:'auto'});
+        else entry.element.scrollIntoView({block:'start'});
+        entry.disclosure.querySelector('summary').focus({preventScroll:true}); savePosition();
+      });
+      controls.append(browse);
       const showList = () => {
         readingList.open=true;
         const selected=readingList.querySelector('.source-locations [data-topic-passage="'+key+'"]');
@@ -195,7 +249,7 @@ function initTopics() {
       body.append(alignedText(p.translation.text,p.groups,'ko','ko'), alignedText(p.source.text,p.groups,'source',p.source.language));
       if (p.translation.notes.length) {
         const notes=document.createElement('details'); notes.className='topic-reading-notes';
-        const summary=document.createElement('summary'); summary.textContent='번역 메모'; notes.append(summary);
+        const summary=document.createElement('summary'); summary.textContent='번역 메모'; notes.append(summary); notes.open=bookmark?.notesOpen || false;
         for (const note of p.translation.notes) {const line=document.createElement('p');line.textContent=note;notes.append(line);} body.append(notes);
       }
       const actions=document.createElement('div'); actions.className='topic-reading-actions';
@@ -204,6 +258,7 @@ function initTopics() {
       close.addEventListener('click',showList);
       actions.append(full,close);body.append(actions);
       entry.viewer.replaceChildren(toolbar,body);installPhraseHover(body);persist(entry,key,push);
+      if (bookmark) { readingList.open=bookmark.listOpen ?? readingList.open; readingList.scrollTop=bookmark.listY || 0; }
       const active=readingList.querySelector('.source-locations [aria-current]');
       if(active&&readingList.open){
         const row=active.getBoundingClientRect(),list=readingList.getBoundingClientRect();
@@ -212,7 +267,13 @@ function initTopics() {
       if (Number.isFinite(savedPosition?.y) && !push) {
         const saved=savedPosition;savedPosition=null;
         requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));
-      } else {savedPosition=null;if(scroll)entry.viewer.scrollIntoView({block:'start'});}
+      } else {
+        savedPosition=null;
+        if(scroll) {
+          entry.viewer.scrollIntoView({block:'start'});
+          if (bookmark?.offset) window.scrollBy({top:bookmark.offset,behavior:'auto'});
+        }
+      }
       if(focus)heading.focus({preventScroll:true});
     } catch {
       payloads.delete(entry.id);const message=document.createElement('p');message.setAttribute('role','status');message.textContent='본문을 불러오지 못했습니다.';
@@ -233,7 +294,7 @@ function initTopics() {
     render();
     if (entry) entry.disclosure.open=true;
     const key=url.searchParams.get('read');
-    if (entry && key && [...entry.element.querySelectorAll('[data-topic-passage]')].some(a=>a.dataset.topicPassage===key)) readPassage(entry,key,{scroll,push:false,focus:false});
+    if (entry && key && [...entry.element.querySelectorAll('[data-topic-passage]')].some(a=>a.dataset.topicPassage===key)) readPassage(entry,key,{scroll,push:false,focus:false,resume:bookmarks[entry.id]?.passage===key});
     else {
       for(const item of entries)stopReading(item);
       if(Number.isFinite(savedPosition?.y)){const saved=savedPosition;savedPosition=null;requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));}
@@ -241,7 +302,12 @@ function initTopics() {
     }
   }
   form.hidden=false;form.addEventListener('submit',event=>event.preventDefault());
-  const search=()=>{render();const active=entries.find(e=>e.selected&&!e.element.hidden);persist(active,active?.selected);};
+  const search=()=>{
+    for(const entry of entries)rememberReading(entry);
+    render();
+    for(const entry of entries)if(entry.selected&&entry.element.hidden){generation++;stopReading(entry);}
+    const active=entries.find(e=>e.selected&&!e.element.hidden);persist(active,active?.selected);
+  };
   input.addEventListener('input',event=>{if(!event.isComposing)search();});input.addEventListener('compositionend',search);
   input.addEventListener('keydown',event=>{if(event.key==='Escape'){input.value='';search();}});
   clear.addEventListener('click',()=>{input.value='';search();input.focus();});
@@ -255,6 +321,7 @@ function initTopics() {
     document.querySelector('.topics-main').scrollIntoView({block:'start'});
   });
   for(const entry of entries){
+    showResume(entry);
     for(const link of entry.element.querySelectorAll('[data-topic-passage]'))link.addEventListener('click',event=>{
       if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
       event.preventDefault();readPassage(entry,link.dataset.topicPassage);
@@ -270,6 +337,15 @@ function initTopics() {
   }
   window.addEventListener('hashchange',()=>restore(true));window.addEventListener('popstate',()=>restore(true));
   document.addEventListener('click',event=>{if(event.target.closest('a[href]'))savePosition();},{capture:true});
+  let remembering = false;
+  window.addEventListener('scroll',()=>{
+    if (remembering) return;
+    remembering=true;
+    requestAnimationFrame(()=>{
+      remembering=false;
+      for (const entry of entries) rememberReading(entry,false);
+    });
+  },{passive:true});
   window.addEventListener('pagehide',savePosition);
   if(savedPosition)for(const entry of entries)entry.disclosure.open=savedPosition.open?.includes(entry.id) || false;
   restore(true);

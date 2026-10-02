@@ -12585,8 +12585,8 @@
     "assets/topic-readings/trinity-spirit.mjs": "fd109cc642c5a78777c17a874c6b551c6741a00a958f559f64ecdb14dd7dd2be",
     "assets/topic-readings/trinity-theological-discourse.mjs": "8765ab65b5545ecd02fff0ee38dfa95dcfd1c0f3e1dae700bb98960758660f9b",
     "assets/topic-readings/two-johns.mjs": "61528871303261bf0609a929209a14f55340c6965fd4c12f1fe7271458143017",
-    "assets/topics.css": "21304be28060e9d2fe54f9280ad9f2dd9f1da08cd415c43ebe1b0ef5a53d90fd",
-    "assets/topics.mjs": "ecbb21f4a46e92056dae19e70e38e47539d37d585d1d5c22e4db5b921f182fad",
+    "assets/topics.css": "31dbc612d25234b74a4582701525e3b797e7fddd33cc3309b9f82db90a0c4f98",
+    "assets/topics.mjs": "45a0ff4dfd8ca332289bab6c705ea3f6392bfd2792391b81fe8f804abf477b06",
     "catalog.json": "3500bc281dadaf4d9c47b15ee11792b76ca9240b7e0bf7d456b2c9e900abdb4e",
     "data/corrections.json": "511642ec8ca018d0044432db566dd4b441ba8d8b2fcf4b4f271d63cb7a7f7a6f",
     "data/phrase-alignments.json": "e75b1c5ea2f9310a60c1d55e08cc69cb3d798001b46cb752c64d2c6303ed7582",
@@ -14696,7 +14696,7 @@
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
     "search-index.json": "b3d31afae9ffceb58cf1bd9f7410b589de807e1fa35b6bf4bd228048446d07ee",
     "sitemap.xml": "5ac299bf54d375124f60660704be4e949208958a13fbf8350a79f94ca2110649",
-    "topics.html": "bec0ed5018b92cc2f6bfda840fdcfa9d0df801dd53900c5d27095a36c4a19946",
+    "topics.html": "5af32b4598b64a8e3e9e240dc7f66a861ef30d5eb604d4d616625aab2874e311",
     "topics.json": "612c2340f8094519078a4f7e3b548a636f1d224d5ab1c9ec0410a1e045a6f17a",
     "works/arius-eusebius-letter/index.html": "8750d7f2fbbde71e155cfc6b3270a86e100cc989b86b7399ec5a56234f294ed5",
     "works/athanasius-antiochenes/index.html": "112e9b52769897d8d741a94abc3485a42b2dfdb17f80cfdcb0c85b7e2dd2d001",
@@ -14760,14 +14760,11 @@
   "release_id": "alpha-0.24.6",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 894349922,
+    "bytes": 895069740,
     "catalogue_hashes_verified": 39,
     "download_compatibility": {
-      "html_bytes_saved": 195057154,
-      "html_pages_compacted": 1027,
       "raw_bytes_verified": true,
-      "restored_routes": 104,
-      "retained_routes": 522
+      "retained_routes": 524
     },
     "duplicate_anchors": 0,
     "edition_checksums_verified": 2186,

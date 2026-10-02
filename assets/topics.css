@@ -1,4 +1,5 @@
 /* Topic discovery shares the catalogue's type, palette and column alignment. */
+html { overflow-anchor: none; }
 .topics-shell { max-width: 1240px; margin: auto; padding: 40px; }
 .topics-heading { margin: 0 0 32px; }
 .topics-heading h1 { font-size: 30px; line-height: 1.4; letter-spacing: -.03em; }
@@ -106,6 +107,8 @@
 .source-work-title { display: inline-block; min-height: 44px; padding-block: 8px; color: var(--blue); }
 .source-work-title:hover { text-decoration: underline; }
 .source-locations a[aria-current] { background: var(--selected); color: var(--blue); border-color: var(--blue); font-weight: 600; }
+.topic-resume { display: block; margin: 0 0 16px; padding: 10px 12px; min-height: 44px; max-width: 100%; background: #fff; border: 1px solid #aebcc5; border-radius: 3px; color: var(--blue); font: 13px/1.7 var(--font); text-align: left; overflow-wrap: anywhere; cursor: pointer; }
+.topic-resume:hover { background: var(--selected); }
 .topic-reading { margin-top: 24px; border-top: 1px solid #b4c7d2; scroll-margin-top: 24px; }
 .topic-reading-layout { display: block; }
 .topic-reading-list > summary { display: none; }
