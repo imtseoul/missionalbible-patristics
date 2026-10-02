@@ -1,4 +1,4 @@
-import scriptureIndex from './scripture-index.mjs?v=94b0eb80c213';
+import scriptureIndex from './scripture-index.mjs?v=986f2f5c3fc0';
 
 const compact = text => text.normalize('NFKC').toLocaleLowerCase('ko').replace(/\s+/g,'');
 const books = new Map(scriptureIndex.books.map(book => [book.id,book]));

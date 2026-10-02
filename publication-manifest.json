@@ -12582,8 +12582,8 @@
     "assets/reader-settings.js": "b99acfd8b9a527193a0f3dcaa6913b26e26d11c7f7b461de8f40638c9fa9a2bf",
     "assets/reader.css": "6ad1accc7e0399f1f04d10a8871bc5e8186280bd8c43dd6a904820d319b6bf7e",
     "assets/reader.mjs": "ae356aa2a2c18f9367922a5682608029623325e095febe3f40432ae0779bc2d0",
-    "assets/scripture-index.mjs": "94b0eb80c213ec76dd5395ee45ffcb2f917acbbd34eb55b7ece7b73d33321e2f",
-    "assets/scripture-search.mjs": "6b8917f74b198886b8ce2661588a855ee9e325ad00aea03fa452c248862d0c69",
+    "assets/scripture-index.mjs": "986f2f5c3fc0a20153af47da2419f1d5044b9da8c2c64ca1e8b0869b9e6516ff",
+    "assets/scripture-search.mjs": "cda2d1826538b53eefaaa9ac847a5242cbab8c0f3d2696630592e8cfdccda7a5",
     "assets/search.mjs": "ccb2101bd358f44383c2331433420d7541e280c0ae03454f5c36d1bff7a442e0",
     "assets/site.css": "11d55d3005a0f2c49c3708b455198b1439b0f201ddc91a5f2f3373153c3939bd",
     "assets/style.css": "b0bde6051296db7b188e6170659fb3a771f71000f13a47aa56a135de4f254b69",
@@ -14879,24 +14879,11 @@
   "release_id": "alpha-0.27",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 898974985,
+    "bytes": 899692193,
     "catalogue_hashes_verified": 41,
     "download_compatibility": {
-      "current_alignment_json_bytes_saved": 16804110,
-      "derived_json_bytes_saved": {
-        "catalog.json": 51388,
-        "data/corrections.json": 1099094,
-        "search-index.json": 741262,
-        "topics.json": 628120
-      },
-      "html_bytes_saved": 196044722,
-      "html_pages_compacted": 1036,
-      "published_release_files_preserved": 2113,
       "raw_bytes_verified": true,
-      "restored_routes": 111,
-      "retained_routes": 529,
-      "topic_module_bytes_saved": 3261247,
-      "topic_modules_compacted": 93
+      "retained_routes": 531
     },
     "duplicate_anchors": 0,
     "edition_checksums_verified": 2207,
