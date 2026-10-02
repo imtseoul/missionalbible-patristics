@@ -23,6 +23,10 @@ html { overflow-anchor: none; }
 .topic-search input::-webkit-search-cancel-button { display: none; }
 .topic-search button, .topic-empty button { cursor: pointer; font: inherit; color: var(--blue); background: transparent; border: 0; min-height: 44px; padding: 8px 12px; font-size: 13px; }
 .topic-search button:hover, .topic-empty button:hover { background: var(--wash); }
+.topic-search-help { margin-top: 10px; font-size: 12px; line-height: 1.8; color: #58656f; word-break: keep-all; }
+.scripture-source-match { grid-column: 1 / -1; margin-top: 8px; font-size: 12px; line-height: 1.8; color: #45515a; overflow-wrap: anywhere; }
+.source-locations a.is-scripture-match { border-color: var(--blue); font-weight: 600; text-decoration: underline; text-underline-offset: .2em; }
+.reading-scripture-context { margin-top: 6px; font-size: 12px; line-height: 1.8; color: #45515a; overflow-wrap: anywhere; }
 .topic-results { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-top: 24px; padding-bottom: 12px; color: var(--muted); font-size: 12px; }
 [data-result-count] { font-variant-numeric: tabular-nums; }
 .topic-section { margin-bottom: 40px; }

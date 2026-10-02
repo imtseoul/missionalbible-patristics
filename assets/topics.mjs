@@ -1,5 +1,6 @@
 import {markedText} from './text-matches.mjs';
 import {installPhraseHover} from './phrase-hover.mjs';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=6b8917f74b19';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
@@ -71,6 +72,12 @@ function initTopics() {
     disclosure: element.querySelector('.topic-disclosure'), viewer: element.querySelector('.topic-reading'),
     visibleWords: normalize(element.querySelector('summary').textContent),
     targets: [...element.querySelectorAll('h3, .topic-description, .topic-size, .topic-attribution, .source-work-title, .source-author, .source-relation, .source-locations a')].map(node => ({node, text: node.textContent})),
+    sources: [...element.querySelectorAll('.topic-source')].map(row => ({row,
+      title:row.querySelector('.source-work-title'),
+      firstKey:row.querySelector('.source-work-title').dataset.topicPassage,
+      firstPath:row.querySelector('.source-work-title').getAttribute('href'),
+      locations:[...row.querySelectorAll('.source-locations a')].map(node=>({node,path:node.getAttribute('href'),aria:node.getAttribute('aria-label')})),
+      caption:null})),
     markedQuery: '', autoOpened: false, selected: null,
   }));
   const names = new Map([['all', '전체 주제'], ...sections.map(s => [s.dataset.section, s.querySelector('h2').textContent])]);
@@ -148,25 +155,59 @@ function initTopics() {
     for (const link of entry.element.querySelectorAll('[data-topic-passage]')) link.removeAttribute('aria-current');
     showResume(entry);
   };
+  const updateReadingContext = (entry,scripture) => {
+    for(const link of entry.viewer.querySelectorAll('[data-topic-full-path]')) {
+      link.href=topicReaderURL(link.dataset.topicFullPath,location.href,state(entry,entry.selected));
+    }
+    let line=entry.viewer.querySelector('.reading-scripture-context');
+    const author=entry.viewer.querySelector('.reading-source-author');
+    if(scripture && author && !line) {
+      line=document.createElement('p');line.className='reading-scripture-context';author.after(line);
+    }
+    if(line) {
+      line.hidden=!scripture;
+      line.textContent=scripture ? scriptureReferenceSummary(entry.selected,scripture) || scriptureReferenceLabel(scripture)+'에서 시작한 관련 대목' : '';
+    }
+  };
 
   function render() {
+    const scripture=parseScriptureQuery(input.value);
     const terms = normalize(input.value).split(' ').filter(Boolean);
+    const scripturePassages=new Set();
     let count = 0;
     for (const entry of entries) {
-      const matches = (group === 'all' || entry.group === group) && terms.every(term => entry.words.includes(term));
+      const references=scripture ? topicScriptureMatches(entry.id,scripture) : [];
+      const matches = (group === 'all' || entry.group === group) && (scripture ? references.length>0 : terms.every(term => entry.words.includes(term)));
+      const matchedKeys=new Set(references.map(ref=>ref.passage));
       entry.element.hidden = !matches;
-      if (matches) count++;
-      const query = matches ? input.value : '';
+      if (matches) {count++;for(const key of matchedKeys)scripturePassages.add(key);}
+      const query = matches && !scripture ? input.value : '';
       if (entry.markedQuery !== query) {
         for (const {node,text} of entry.targets) node.replaceChildren(markedText(document, text, query, {normalization:'NFKC',caseSensitive:false}));
         entry.markedQuery = query;
       }
-      const reveal = matches && terms.length > 0 && !terms.every(term => entry.visibleWords.includes(term));
+      const reveal = matches && (scripture || terms.length > 0 && !terms.every(term => entry.visibleWords.includes(term)));
       if (reveal && !entry.disclosure.open) {entry.autoOpened = true; entry.disclosure.open = true;}
       else if (!reveal && entry.autoOpened && !entry.selected) {entry.autoOpened = false; entry.disclosure.open = false;}
-      for (const a of entry.element.querySelectorAll('[data-topic-passage]')) {
-        a.setAttribute('href', topicReaderURL(a.getAttribute('href'), location.href, state(entry)));
+      for (const source of entry.sources) {
+        const matched=matches && scripture ? source.locations.filter(({node})=>matchedKeys.has(node.dataset.topicPassage)) : [];
+        source.title.dataset.topicPassage=matched[0]?.node.dataset.topicPassage || source.firstKey;
+        source.title.href=topicReaderURL(matched[0]?.path || source.firstPath,location.href,state(entry,source.title.dataset.topicPassage));
+        for (const {node,path,aria} of source.locations) {
+          const hit=matched.some(item=>item.node===node);
+          node.classList.toggle('is-scripture-match',hit);
+          node.setAttribute('aria-label',aria+(hit?', '+scriptureReferenceSummary(node.dataset.topicPassage,scripture):''));
+          node.href=topicReaderURL(path,location.href,state(entry,node.dataset.topicPassage));
+        }
+        if (matched.length && !source.caption) {
+          source.caption=document.createElement('p');source.caption.className='scripture-source-match';source.row.append(source.caption);
+        }
+        if(source.caption) {
+          source.caption.hidden=!matched.length;
+          source.caption.textContent=matched.map(({node})=>node.textContent+': '+scriptureReferenceSummary(node.dataset.topicPassage,scripture)).join('; ');
+        }
       }
+      if(entry.selected)updateReadingContext(entry,scripture);
     }
     for (const section of sections) section.hidden = !section.querySelector('.topic-entry:not([hidden])');
     for (const link of links) {
@@ -175,7 +216,12 @@ function initTopics() {
     }
     document.querySelector('[data-current-category]').textContent = names.get(group);
     document.querySelector('[data-result-category]').textContent = names.get(group);
-    document.querySelector('[data-result-count]').textContent = `${count}개 주제${terms.length ? ' 검색됨' : ''}`;
+    document.querySelector('[data-result-count]').textContent = scripture
+      ? `${scriptureReferenceLabel(scripture)} · 본문 ${scripturePassages.size}곳 · 주제 ${count}개`
+      : `${count}개 주제${terms.length ? ' 검색됨' : ''}`;
+    empty.querySelector('h2').textContent=scripture?'이 구절과 연결된 주제가 없습니다':'찾는 주제가 없습니다';
+    empty.querySelector('p').textContent=scripture?'주제에 연결된 본문의 성경 참조를 찾습니다. 다른 구절을 입력하거나 분류를 바꿔 보세요.':'다른 검색어를 입력하거나 분류를 바꿔 보세요.';
+    document.querySelector('#topic-reset').textContent=scripture && group!=='all'?'전체 주제에서 같은 구절 찾기':'전체 주제 보기';
     empty.hidden = count > 0; clear.hidden = !input.value;
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=location.href;
   }
@@ -243,6 +289,7 @@ function initTopics() {
         button.addEventListener('click',()=>readPassage(entry,data.passages[next].work_passage_id)); controls.append(button);
       }
       const continueReading = document.createElement('a'); continueReading.textContent='문헌 전체에서 이어 읽기';
+      continueReading.dataset.topicFullPath=p.html_path;
       continueReading.href=topicReaderURL(p.html_path,location.href,state(entry,key));
       controls.append(count,continueReading); toolbar.append(context,controls);
       const body = document.createElement('div'); body.className='topic-reading-body';
@@ -254,10 +301,11 @@ function initTopics() {
       }
       const actions=document.createElement('div'); actions.className='topic-reading-actions';
       const full=document.createElement('a'); full.textContent='문헌 전체에서 이어 읽기'; full.href=topicReaderURL(p.html_path,location.href,state(entry,key));
+      full.dataset.topicFullPath=p.html_path;
       const close=document.createElement('button');close.type='button';close.textContent='관련 문헌 목록으로';
       close.addEventListener('click',showList);
       actions.append(full,close);body.append(actions);
-      entry.viewer.replaceChildren(toolbar,body);installPhraseHover(body);persist(entry,key,push);
+      entry.viewer.replaceChildren(toolbar,body);updateReadingContext(entry,parseScriptureQuery(input.value));installPhraseHover(body);persist(entry,key,push);
       if (bookmark) { readingList.open=bookmark.listOpen ?? readingList.open; readingList.scrollTop=bookmark.listY || 0; }
       const active=readingList.querySelector('.source-locations [aria-current]');
       if(active&&readingList.open){
@@ -301,7 +349,8 @@ function initTopics() {
       else if(scroll&&entry)entry.element.scrollIntoView({block:'start'});
     }
   }
-  form.hidden=false;form.addEventListener('submit',event=>event.preventDefault());
+  form.hidden=false;const help=document.querySelector('#topic-search-help');if(help)help.hidden=false;
+  form.addEventListener('submit',event=>event.preventDefault());
   const search=()=>{
     for(const entry of entries)rememberReading(entry);
     render();
@@ -311,7 +360,7 @@ function initTopics() {
   input.addEventListener('input',event=>{if(!event.isComposing)search();});input.addEventListener('compositionend',search);
   input.addEventListener('keydown',event=>{if(event.key==='Escape'){input.value='';search();}});
   clear.addEventListener('click',()=>{input.value='';search();input.focus();});
-  document.querySelector('#topic-reset').addEventListener('click',()=>{savePosition();group='all';input.value='';for(const e of entries)stopReading(e);persist(null,null,true);render();input.focus();});
+  document.querySelector('#topic-reset').addEventListener('click',()=>{savePosition();const keep=parseScriptureQuery(input.value)&&group!=='all';group='all';if(!keep)input.value='';for(const e of entries)stopReading(e);persist(null,null,true);render();input.focus();});
   for(const link of links)link.addEventListener('click',event=>{
     if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
     event.preventDefault();group=link.dataset.topicGroup;mobile.open=false;
