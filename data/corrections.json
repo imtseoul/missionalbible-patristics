@@ -101281,5 +101281,4280 @@
     ],
     "location": "10.40",
     "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κατὰ φιλανθρωπίαν",
+        "before": "πατὰ φιλανθρωπίαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA2",
+        "image_sha256": "e40c43101563516acfddc314d0b2708ea9dae5358b049eccaade085e4f938790",
+        "kind": "digital_transcription_correction",
+        "location": "1.3",
+        "page": 2,
+        "pdf_page": 22,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 2,
+        "reviewer_kind": "ai",
+        "work_location": "1.3"
+      }
+    ],
+    "location": "1.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "φθέγγονται.",
+        "before": "φθέγγονται. γονται.",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA4",
+        "image_sha256": "fd7838cd43d6bbb102e989c7e6925b5e5919314a7b2ee0ba4a7b6fa794d795b0",
+        "kind": "digital_transcription_correction",
+        "location": "2.5",
+        "page": 4,
+        "pdf_page": 24,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 4,
+        "reviewer_kind": "ai",
+        "work_location": "2.5"
+      }
+    ],
+    "location": "2.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὴν μὲν τούτων ματαιολογίαν",
+        "before": "τὴν μὲν τού ματαιολογίαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA4",
+        "image_sha256": "fd7838cd43d6bbb102e989c7e6925b5e5919314a7b2ee0ba4a7b6fa794d795b0",
+        "kind": "digital_transcription_correction",
+        "location": "3.1",
+        "page": 4,
+        "pdf_page": 24,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 4,
+        "reviewer_kind": "ai",
+        "work_location": "3.1"
+      },
+      {
+        "after": "πρῶτον πάντων πίστευσον",
+        "before": "πρῶτον πάντων των πίστευσον",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA4",
+        "image_sha256": "fd7838cd43d6bbb102e989c7e6925b5e5919314a7b2ee0ba4a7b6fa794d795b0",
+        "kind": "digital_transcription_correction",
+        "location": "3.1",
+        "page": 4,
+        "pdf_page": 24,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 4,
+        "reviewer_kind": "ai",
+        "work_location": "3.1"
+      }
+    ],
+    "location": "3.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διαμένειν;",
+        "before": "διαμένειν διαμένειν;",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "3.5",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "3.5"
+      }
+    ],
+    "location": "3.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐνανθρωπήσεως",
+        "before": "ἐνανθρωπήσεως πήσεως",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "4.1",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4.1"
+      }
+    ],
+    "location": "4.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπιφανείας",
+        "before": "ἐπιἐπιφανείας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "4.2",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4.2"
+      },
+      {
+        "after": "ἵνα γινώσκῃς",
+        "before": "νᾷ γινώσκῃς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "4.2",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4.2"
+      }
+    ],
+    "location": "4.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐπινοήσαντες",
+        "before": "ἐπινούσαντες",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "4.4",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4.4"
+      },
+      {
+        "after": "διεφθείροντο",
+        "before": "εφθείροντο",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "4.4",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4.4"
+      },
+      {
+        "after": "βασιλεύων",
+        "before": "βασλεύῳν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA6",
+        "image_sha256": "561ec064b4c68cdc82018a66105d941f7718cfe634965f1e4a5873534d394f48",
+        "kind": "digital_transcription_correction",
+        "location": "4.4",
+        "page": 6,
+        "pdf_page": 26,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 6,
+        "reviewer_kind": "ai",
+        "work_location": "4.4"
+      }
+    ],
+    "location": "4.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "χάριτι δὲ τῆς τοῦ Λόγου",
+        "before": "χάριτι δὲ της τοῦ Λόγου",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA7",
+        "image_sha256": "6eec7063644d9c9c0437d24a2de356f95d29e54afa2860a87799268f3232535b",
+        "kind": "digital_transcription_correction",
+        "location": "5.1",
+        "page": 7,
+        "pdf_page": 27,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 7,
+        "reviewer_kind": "ai",
+        "work_location": "5.1"
+      }
+    ],
+    "location": "5.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀϊδιότητος",
+        "before": "ἀἰδιότητος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA8",
+        "image_sha256": "6af19a8471ae561972e34f39dcf331b59d65bd3cf560f180047f2adb24234ff9",
+        "kind": "digital_transcription_correction",
+        "location": "5.2",
+        "page": 8,
+        "pdf_page": 28,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 8,
+        "reviewer_kind": "ai",
+        "work_location": "5.2"
+      }
+    ],
+    "location": "5.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μὴ ἐνὶ κακῷ",
+        "before": "μὴ ἐν’ κακῷ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA8",
+        "image_sha256": "6af19a8471ae561972e34f39dcf331b59d65bd3cf560f180047f2adb24234ff9",
+        "kind": "digital_transcription_correction",
+        "location": "5.3",
+        "page": 8,
+        "pdf_page": 28,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 8,
+        "reviewer_kind": "ai",
+        "work_location": "5.3"
+      }
+    ],
+    "location": "5.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γενέσθαι ἢ ποιῆσαι",
+        "before": "γενέσθαι ἡ ποιῆσαι",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA10",
+        "image_sha256": "7617ad6ab74ad915cb938e7d5c392db78ba639209fccb44621526f9f88474a3a",
+        "kind": "digital_transcription_correction",
+        "location": "7.2",
+        "page": 10,
+        "pdf_page": 30,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "7.2"
+      }
+    ],
+    "location": "7.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μὴ κρατουμένων ἐν τῷ",
+        "before": "μὴ κρατου ἐν τῷ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA10",
+        "image_sha256": "7617ad6ab74ad915cb938e7d5c392db78ba639209fccb44621526f9f88474a3a",
+        "kind": "digital_transcription_correction",
+        "location": "7.3",
+        "page": 10,
+        "pdf_page": 30,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 10,
+        "reviewer_kind": "ai",
+        "work_location": "7.3"
+      }
+    ],
+    "location": "7.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ φθορᾷ·",
+        "before": "τῇ φθορᾳ·",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA11",
+        "image_sha256": "d4377a4bd3dc685b80edd4940e1191ac205db47b55d42f1863bf7aabcdc0e57c",
+        "kind": "digital_transcription_correction",
+        "location": "8.2",
+        "page": 11,
+        "pdf_page": 31,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 11,
+        "reviewer_kind": "ai",
+        "work_location": "8.2"
+      }
+    ],
+    "location": "8.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δυνατὸς ὢν",
+        "before": "δυνατὸς ὧν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA12",
+        "image_sha256": "2fd6f8ad88ca4f25f264b2a26cfbea5d27a7e8a90f8f866dc1a13f87af80f300",
+        "kind": "digital_transcription_correction",
+        "location": "8.3",
+        "page": 12,
+        "pdf_page": 32,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "8.3"
+      }
+    ],
+    "location": "8.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπὸ πυρὸς",
+        "before": "ἀπὸ πηρὸς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA12",
+        "image_sha256": "2fd6f8ad88ca4f25f264b2a26cfbea5d27a7e8a90f8f866dc1a13f87af80f300",
+        "kind": "digital_transcription_correction",
+        "location": "8.4",
+        "page": 12,
+        "pdf_page": 32,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "8.4"
+      }
+    ],
+    "location": "8.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διὰ τοῦ",
+        "before": "διιὶ τοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA12",
+        "image_sha256": "2fd6f8ad88ca4f25f264b2a26cfbea5d27a7e8a90f8f866dc1a13f87af80f300",
+        "kind": "digital_transcription_correction",
+        "location": "9.1",
+        "page": 12,
+        "pdf_page": 32,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 12,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      },
+      {
+        "after": "ἀποθανεῖν",
+        "before": "ἀποθανεῖν θανεῖν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA13",
+        "image_sha256": "c1d91e0bc510ab76fe5055ca03655683d2993c6c16998c130eddacf64f304bc3",
+        "kind": "digital_transcription_correction",
+        "location": "9.1",
+        "page": 13,
+        "pdf_page": 33,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 13,
+        "reviewer_kind": "ai",
+        "work_location": "9.1"
+      }
+    ],
+    "location": "9.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Θεοῦ Λόγος Πατρός",
+        "before": "Θεὸς Λόγος Πατρός",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA14",
+        "image_sha256": "393532f4440041054e5469919bbd264b8b8080d5d4ec4056ee939196d0670df5",
+        "kind": "digital_transcription_correction",
+        "location": "10.1",
+        "page": 14,
+        "pdf_page": 34,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 14,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      },
+      {
+        "after": "τὸ δι’ αὐτοῦ",
+        "before": "τὸ δέ’ αὐτοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA14",
+        "image_sha256": "393532f4440041054e5469919bbd264b8b8080d5d4ec4056ee939196d0670df5",
+        "kind": "digital_transcription_correction",
+        "location": "10.1",
+        "page": 14,
+        "pdf_page": 34,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 14,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      },
+      {
+        "after": "συμβεβηκότα θάνατον ἀπήλειψε",
+        "before": "συμβεβηκότα θάνα ἀπήλειψε",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA14",
+        "image_sha256": "393532f4440041054e5469919bbd264b8b8080d5d4ec4056ee939196d0670df5",
+        "kind": "digital_transcription_correction",
+        "location": "10.1",
+        "page": 14,
+        "pdf_page": 34,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 14,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      },
+      {
+        "after": "τοῦ ἰδίου σώματος",
+        "before": "τοῦ δίου σώματος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA14",
+        "image_sha256": "393532f4440041054e5469919bbd264b8b8080d5d4ec4056ee939196d0670df5",
+        "kind": "digital_transcription_correction",
+        "location": "10.1",
+        "page": 14,
+        "pdf_page": 34,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 14,
+        "reviewer_kind": "ai",
+        "work_location": "10.1"
+      }
+    ],
+    "location": "10.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπέθανεν, ἵνα ἡμεῖς",
+        "before": "ἀπέθανεν, νᾷ ἡμεῖς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA14",
+        "image_sha256": "393532f4440041054e5469919bbd264b8b8080d5d4ec4056ee939196d0670df5",
+        "kind": "digital_transcription_correction",
+        "location": "10.2",
+        "page": 14,
+        "pdf_page": 34,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 14,
+        "reviewer_kind": "ai",
+        "work_location": "10.2"
+      }
+    ],
+    "location": "10.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἣν καιροῖς ἰδίοις",
+        "before": "ἦν καιροῖς ἰδίοις",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "10.5",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "10.5"
+      }
+    ],
+    "location": "10.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γενητῶν ἔλλειψιν",
+        "before": "γενητῶν· ἔλλειψιν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "11.1",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "11.1"
+      },
+      {
+        "after": "κατάληψιν",
+        "before": "κατάληψιιν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "11.1",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "11.1"
+      },
+      {
+        "after": "ἀγαθὸς ὢν",
+        "before": "ἀγαθὸς ὥν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "11.1",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "11.1"
+      }
+    ],
+    "location": "11.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μὴ γινώσκοντες",
+        "before": "μὴ σκοντες",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "11.2",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "11.2"
+      }
+    ],
+    "location": "11.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀγαθὸς ὢν",
+        "before": "ἀγαθὸς ὧν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "11.3",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "11.3"
+      },
+      {
+        "after": "ἔννοιαν δι’ αὐτοῦ",
+        "before": "ἔννοιαν δέ’ αὐτοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA16",
+        "image_sha256": "816f0af37012e5cb80b4bbf62f2702b624cc152c49080b251c9dff68bdc32f39",
+        "kind": "digital_transcription_correction",
+        "location": "11.3",
+        "page": 16,
+        "pdf_page": 36,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 16,
+        "reviewer_kind": "ai",
+        "work_location": "11.3"
+      }
+    ],
+    "location": "11.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καὶ δι’ αὐτοῦ τὸν Πατέρα",
+        "before": "καὶ δ’ αὐτοῦ τὸν Πατέρα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA18",
+        "image_sha256": "8ba2cf662577630c8fb34dfcf0d58415ca7a98338f1d93d5cb94cea34d1c8ce8",
+        "kind": "digital_transcription_correction",
+        "location": "12.1",
+        "page": 18,
+        "pdf_page": 38,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "12.1"
+      },
+      {
+        "after": "ἀμελήσαιεν",
+        "before": "ἀμελήσαιενν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA18",
+        "image_sha256": "8ba2cf662577630c8fb34dfcf0d58415ca7a98338f1d93d5cb94cea34d1c8ce8",
+        "kind": "digital_transcription_correction",
+        "location": "12.1",
+        "page": 18,
+        "pdf_page": 38,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "12.1"
+      }
+    ],
+    "location": "12.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵνα ἐὰν",
+        "before": "νᾷ ἐὰν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA18",
+        "image_sha256": "8ba2cf662577630c8fb34dfcf0d58415ca7a98338f1d93d5cb94cea34d1c8ce8",
+        "kind": "digital_transcription_correction",
+        "location": "12.2",
+        "page": 18,
+        "pdf_page": 38,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "12.2"
+      }
+    ],
+    "location": "12.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵνα δι’ αὐτοῦ πάντες",
+        "before": "ἵνα δ’ αὐτοῦ πάντες",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA18",
+        "image_sha256": "8ba2cf662577630c8fb34dfcf0d58415ca7a98338f1d93d5cb94cea34d1c8ce8",
+        "kind": "digital_transcription_correction",
+        "location": "12.3",
+        "page": 18,
+        "pdf_page": 38,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "12.3"
+      }
+    ],
+    "location": "12.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὐδὲ δι’ αὐτοὺς",
+        "before": "οὐδὲ δέ’ αὐτοὺς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA18",
+        "image_sha256": "8ba2cf662577630c8fb34dfcf0d58415ca7a98338f1d93d5cb94cea34d1c8ce8",
+        "kind": "digital_transcription_correction",
+        "location": "12.5",
+        "page": 18,
+        "pdf_page": 38,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "12.5"
+      },
+      {
+        "after": "τῆς οἰκουμένης",
+        "before": "τῆς οἰκουμένης μένης",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA18",
+        "image_sha256": "8ba2cf662577630c8fb34dfcf0d58415ca7a98338f1d93d5cb94cea34d1c8ce8",
+        "kind": "digital_transcription_correction",
+        "location": "12.5",
+        "page": 18,
+        "pdf_page": 38,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 18,
+        "reviewer_kind": "ai",
+        "work_location": "12.5"
+      }
+    ],
+    "location": "12.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἄνθρωπος ὢν",
+        "before": "ἄνθρωπος ὦν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA19",
+        "image_sha256": "d279294c609d9154c86ba4c51f949dfbfea7dca0edf03a5d5dee4a60c721ce92",
+        "kind": "digital_transcription_correction",
+        "location": "13.5",
+        "page": 19,
+        "pdf_page": 39,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 19,
+        "reviewer_kind": "ai",
+        "work_location": "13.5"
+      }
+    ],
+    "location": "13.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵνα δι’ αὐτοῦ",
+        "before": "[νᾷ δ’ αὐτοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "13.7",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "13.7"
+      },
+      {
+        "after": "τοῦ Θεοῦ εἰκόνος",
+        "before": "τοῦ Θεοῦ Θεἰκόνος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "13.7",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "13.7"
+      },
+      {
+        "after": "εἰκὼν ὢν",
+        "before": "εἰκὼν ὧν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "13.7",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "13.7"
+      },
+      {
+        "after": "ἄνθρωπον ἀνακτίσαι",
+        "before": "ἄνθρωπον τίσαι",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "13.7",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "13.7"
+      }
+    ],
+    "location": "13.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵνα καὶ",
+        "before": "νᾷ καὶ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "13.9",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "13.9"
+      }
+    ],
+    "location": "13.9",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ὡς γὰρ",
+        "before": "Ὣς γὰρ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "14.1",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      },
+      {
+        "after": "διὰ γὰρ",
+        "before": "δία γὰρ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "14.1",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      },
+      {
+        "after": "ἐν ᾗ καὶ γέγραπται",
+        "before": "ἐν ἦ καὶ γέγραπται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "14.1",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      },
+      {
+        "after": "ἀλλ’ ἐν αὐτῇ ἀνατυποῦται·",
+        "before": "ἀλλ’ ἐν αὐτῇ ἀνατυ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA20",
+        "image_sha256": "d4ffa7a6a88706284053eb17485023410288e3145eb85729d22d10a4ce432902",
+        "kind": "digital_transcription_correction",
+        "location": "14.1",
+        "page": 20,
+        "pdf_page": 40,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 20,
+        "reviewer_kind": "ai",
+        "work_location": "14.1"
+      }
+    ],
+    "location": "14.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἰκὼν ὢν",
+        "before": "εἰκὼν ὦν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA21",
+        "image_sha256": "6a94d3cb4efb114c9708e89af3b65e11a2496db6f35c0ab970d33f0b8aa92397",
+        "kind": "digital_transcription_correction",
+        "location": "14.2",
+        "page": 21,
+        "pdf_page": 41,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 21,
+        "reviewer_kind": "ai",
+        "work_location": "14.2"
+      },
+      {
+        "after": "ἀναγεννωμένην",
+        "before": "ἀναγενωμένην",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA21",
+        "image_sha256": "6a94d3cb4efb114c9708e89af3b65e11a2496db6f35c0ab970d33f0b8aa92397",
+        "kind": "digital_transcription_correction",
+        "location": "14.2",
+        "page": 21,
+        "pdf_page": 41,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 21,
+        "reviewer_kind": "ai",
+        "work_location": "14.2"
+      }
+    ],
+    "location": "14.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διακοσμήσεως τῶν ὅλων διδάσκοντος",
+        "before": "διακοσμήσεως τῶν ὅλων διδάσ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "14.6",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "14.6"
+      }
+    ],
+    "location": "14.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καὶ δι’ αὐτοῦ τὸν Πατέρα",
+        "before": "καὶ δέ’ αὐτοῦ τὸν Πατέρα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "14.8",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "14.8"
+      }
+    ],
+    "location": "14.8",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ὡς γὰρ",
+        "before": "Ὣς γὰρ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "15.1",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "15.1"
+      },
+      {
+        "after": "τῶν μειζόνων ὠφεληθῆναι",
+        "before": "τῶν μειζό ὠφεληθῆναι",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "15.1",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "15.1"
+      },
+      {
+        "after": "τῶν εὐτελεστέρων συγκαταβαίνων",
+        "before": "τῶν εὐτελεστέρων καταβαίνων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "15.1",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "15.1"
+      }
+    ],
+    "location": "15.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "κάτω† τοὺς",
+        "before": "κάτω? τοὺς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "15.2",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "15.2"
+      },
+      {
+        "after": "ἀνθρώπους θνητοὺς",
+        "before": "ἀνθρώποις θνητοὺς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA22",
+        "image_sha256": "973f4c53fe79523abe8a55d14cf8cd5ffb4c52ba9782948a529ac9d69d602405",
+        "kind": "digital_transcription_correction",
+        "location": "15.2",
+        "page": 22,
+        "pdf_page": 42,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 22,
+        "reviewer_kind": "ai",
+        "work_location": "15.2"
+      }
+    ],
+    "location": "15.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πεσούσης τῆς διανοίας",
+        "before": "πεσούσς τῆς δια",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA24",
+        "image_sha256": "c4083503e60d7eb8fe3d8179e280e743327b080594de59fd983a5fe6dd86a2d4",
+        "kind": "digital_transcription_correction",
+        "location": "16.1",
+        "page": 24,
+        "pdf_page": 44,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 24,
+        "reviewer_kind": "ai",
+        "work_location": "16.1"
+      },
+      {
+        "after": "δι’ ὧν ἐργάζεται",
+        "before": "δ’ ὦν ἐργάζεται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA24",
+        "image_sha256": "c4083503e60d7eb8fe3d8179e280e743327b080594de59fd983a5fe6dd86a2d4",
+        "kind": "digital_transcription_correction",
+        "location": "16.1",
+        "page": 24,
+        "pdf_page": 44,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 24,
+        "reviewer_kind": "ai",
+        "work_location": "16.1"
+      }
+    ],
+    "location": "16.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵνα ἐξισχύσητε",
+        "before": "νᾷ ἐξισχύσητε",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA24",
+        "image_sha256": "c4083503e60d7eb8fe3d8179e280e743327b080594de59fd983a5fe6dd86a2d4",
+        "kind": "digital_transcription_correction",
+        "location": "16.2",
+        "page": 24,
+        "pdf_page": 44,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 24,
+        "reviewer_kind": "ai",
+        "work_location": "16.2"
+      },
+      {
+        "after": "ἵνα πληρωθῆτε",
+        "before": "ἵνᾷ πληρωθῆτε",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA24",
+        "image_sha256": "c4083503e60d7eb8fe3d8179e280e743327b080594de59fd983a5fe6dd86a2d4",
+        "kind": "digital_transcription_correction",
+        "location": "16.2",
+        "page": 24,
+        "pdf_page": 44,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 24,
+        "reviewer_kind": "ai",
+        "work_location": "16.2"
+      }
+    ],
+    "location": "16.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Διὰ δὲ τοῦτο",
+        "before": "Δία δὲ τοῦτο",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA24",
+        "image_sha256": "c4083503e60d7eb8fe3d8179e280e743327b080594de59fd983a5fe6dd86a2d4",
+        "kind": "digital_transcription_correction",
+        "location": "16.4",
+        "page": 24,
+        "pdf_page": 44,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 24,
+        "reviewer_kind": "ai",
+        "work_location": "16.4"
+      }
+    ],
+    "location": "16.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὡς Υἱὸς",
+        "before": "ὡς ἱὸς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "17.5",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "17.5"
+      },
+      {
+        "after": "ἐν σώματι ὢν",
+        "before": "ἐν σώματι ὧν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "17.5",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "17.5"
+      }
+    ],
+    "location": "17.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν τοῖς πᾶσιν ὢν",
+        "before": "ἐν τοῖς πᾶσιν ὥν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "17.6",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "17.6"
+      }
+    ],
+    "location": "17.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γνωριζόμενος",
+        "before": "γνωριζόμνος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "17.7",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "17.7"
+      },
+      {
+        "after": "ἄφθαρτος ὢν",
+        "before": "ἄφθαρτος ὥν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "17.7",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "17.7"
+      },
+      {
+        "after": "τυγχάνον",
+        "before": "τυγχάνρν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "17.7",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "17.7"
+      }
+    ],
+    "location": "17.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καταλλήλοις",
+        "before": "καταλήλοις",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA26",
+        "image_sha256": "400aabbc0f1b80ada8120bada74de6b5ca3bf7c19fcfc97d76543f29e5d6a142",
+        "kind": "digital_transcription_correction",
+        "location": "18.1",
+        "page": 26,
+        "pdf_page": 46,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 26,
+        "reviewer_kind": "ai",
+        "work_location": "18.1"
+      }
+    ],
+    "location": "18.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν ἀρχῇ",
+        "before": "ἐν ἀρχὴ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "18.5",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "18.5"
+      },
+      {
+        "after": "παρθένου μόνης προερχόμενον",
+        "before": "παρθένου μόνης χόμενον",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "18.5",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "18.5"
+      },
+      {
+        "after": "ἄλλων",
+        "before": "ἄλλῶν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "18.5",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "18.5"
+      }
+    ],
+    "location": "18.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Τίς δὲ ἰδὼν",
+        "before": "Τίς δὲ δὸν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "18.6",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "18.6"
+      },
+      {
+        "after": "ἐγνώριζε",
+        "before": "ἐγνώρζε",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "18.6",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "18.6"
+      }
+    ],
+    "location": "18.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ τίς ἰδὼν",
+        "before": "ἢ τίς δῶν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "19.2",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "19.2"
+      },
+      {
+        "after": "τοῦ Θεοῦ Υἱὸς",
+        "before": "τοῦ Θεοῦ ἱὸς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA28",
+        "image_sha256": "9e5a0fac6aa9ee53b90b2c6e4966f28b4d06206a0513b737c943d4edb50193ff",
+        "kind": "digital_transcription_correction",
+        "location": "19.2",
+        "page": 28,
+        "pdf_page": 48,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 28,
+        "reviewer_kind": "ai",
+        "work_location": "19.2"
+      }
+    ],
+    "location": "19.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Υἱός",
+        "before": "Υίός",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA29",
+        "image_sha256": "7a3de1ee6f2416a1596f11d5e50a7db9679064803332249f4577a3a8276ebdf0",
+        "kind": "digital_transcription_correction",
+        "location": "19.4",
+        "page": 29,
+        "pdf_page": 49,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 29,
+        "reviewer_kind": "ai",
+        "work_location": "19.4"
+      }
+    ],
+    "location": "19.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δι’ ὃ μάλιστα",
+        "before": "δ’ ὃ μάλιστα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.2",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.2"
+      },
+      {
+        "after": "δείξῃ δὲ",
+        "before": "δείξη δὲ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.2",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.2"
+      }
+    ],
+    "location": "20.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διὰ τοῦτο τὸν αὐτὸν νοῦν διὰ πλειόνων",
+        "before": "μὰ τοῦτο τὸν αὐτὸν εἰς δᾶ πλειόνων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.3",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.3"
+      },
+      {
+        "after": "μὴ ἄρα",
+        "before": "μὴ ἅρα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.3",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.3"
+      },
+      {
+        "after": "ἢ παραλεῖψαί",
+        "before": "ἡ παραλεῖψαί",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.3",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.3"
+      }
+    ],
+    "location": "20.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "θνητὸν ὂν",
+        "before": "θνητὸν ὃν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.4",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.4"
+      },
+      {
+        "after": "ἰδίαν φύσιν",
+        "before": "δᾴαν φύσιν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.4",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.4"
+      }
+    ],
+    "location": "20.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διὰ τὸν συνόντα",
+        "before": "δία τὸν συνόντα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.5",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.5"
+      },
+      {
+        "after": "ἵνα τὸ",
+        "before": "[νᾷ τὸ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA30",
+        "image_sha256": "1fa78a9ccead6c63ae6ee84ad9fa23d44acb82b1dac5a5f8f6ebb185ba4fbe49",
+        "kind": "digital_transcription_correction",
+        "location": "20.5",
+        "page": 30,
+        "pdf_page": 50,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 30,
+        "reviewer_kind": "ai",
+        "work_location": "20.5"
+      }
+    ],
+    "location": "20.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Σωτῆρος ἀποθανόντος",
+        "before": "Σωτῆρος θανόντος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA31",
+        "image_sha256": "de32c731a47de9488ec39618ef915adf2eb48c8fdebabd09cf4917cd929e9cb8",
+        "kind": "digital_transcription_correction",
+        "location": "21.1",
+        "page": 31,
+        "pdf_page": 51,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 31,
+        "reviewer_kind": "ai",
+        "work_location": "21.1"
+      },
+      {
+        "after": "ἵνα κρείττονος",
+        "before": "ἵνᾷ κρείττονος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA31",
+        "image_sha256": "de32c731a47de9488ec39618ef915adf2eb48c8fdebabd09cf4917cd929e9cb8",
+        "kind": "digital_transcription_correction",
+        "location": "21.1",
+        "page": 31,
+        "pdf_page": 51,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 31,
+        "reviewer_kind": "ai",
+        "work_location": "21.1"
+      }
+    ],
+    "location": "21.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Κύριος",
+        "before": "Κύρος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA32",
+        "image_sha256": "cc56bcf491c6a80e9ed388d65a496ea9880dcd4f9f7cadb8a5c73cd41bcd7ddf",
+        "kind": "digital_transcription_correction",
+        "location": "21.4",
+        "page": 32,
+        "pdf_page": 52,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 32,
+        "reviewer_kind": "ai",
+        "work_location": "21.4"
+      },
+      {
+        "after": "Λόγος ἐστὶ",
+        "before": "Λόγος ἐστῆ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA32",
+        "image_sha256": "cc56bcf491c6a80e9ed388d65a496ea9880dcd4f9f7cadb8a5c73cd41bcd7ddf",
+        "kind": "digital_transcription_correction",
+        "location": "21.4",
+        "page": 32,
+        "pdf_page": 52,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 32,
+        "reviewer_kind": "ai",
+        "work_location": "21.4"
+      }
+    ],
+    "location": "21.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Θεοῦ Λόγος",
+        "before": "Φεοῦ Λόγος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA32",
+        "image_sha256": "cc56bcf491c6a80e9ed388d65a496ea9880dcd4f9f7cadb8a5c73cd41bcd7ddf",
+        "kind": "digital_transcription_correction",
+        "location": "21.5",
+        "page": 32,
+        "pdf_page": 52,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 32,
+        "reviewer_kind": "ai",
+        "work_location": "21.5"
+      },
+      {
+        "after": "ζωὴ καὶ δύναμις ὢν",
+        "before": "[ωὴ καὶ δύναμις ὡν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA32",
+        "image_sha256": "cc56bcf491c6a80e9ed388d65a496ea9880dcd4f9f7cadb8a5c73cd41bcd7ddf",
+        "kind": "digital_transcription_correction",
+        "location": "21.5",
+        "page": 32,
+        "pdf_page": 52,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 32,
+        "reviewer_kind": "ai",
+        "work_location": "21.5"
+      }
+    ],
+    "location": "21.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐξασθενῆσαι ἔδει πάλιν τὸ σῶμα, ἐν ᾧ καὶ",
+        "before": "ἐξασθενθσαι δεῖ πόλν τὸ τέμα, ἐν καὶ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA32",
+        "image_sha256": "cc56bcf491c6a80e9ed388d65a496ea9880dcd4f9f7cadb8a5c73cd41bcd7ddf",
+        "kind": "digital_transcription_correction",
+        "location": "21.6",
+        "page": 32,
+        "pdf_page": 52,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 32,
+        "reviewer_kind": "ai",
+        "work_location": "21.6"
+      }
+    ],
+    "location": "21.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ναὶ ἐπείνασε",
+        "before": "ναὶ ἐπεῖνασε",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA32",
+        "image_sha256": "cc56bcf491c6a80e9ed388d65a496ea9880dcd4f9f7cadb8a5c73cd41bcd7ddf",
+        "kind": "digital_transcription_correction",
+        "location": "21.7",
+        "page": 32,
+        "pdf_page": 52,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 32,
+        "reviewer_kind": "ai",
+        "work_location": "21.7"
+      }
+    ],
+    "location": "21.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῆς φθορᾶς ἀπάλειψιν",
+        "before": "τῆς φθορᾶς ἀπόλειψιν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA34",
+        "image_sha256": "cb5b6e96607bb97cbfa5c2f9b86d7a4b0b3c847d92fc88db355b57c38e35cca8",
+        "kind": "digital_transcription_correction",
+        "location": "22.4",
+        "page": 34,
+        "pdf_page": 54,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 34,
+        "reviewer_kind": "ai",
+        "work_location": "22.4"
+      }
+    ],
+    "location": "22.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἂν εἴη",
+        "before": "ἂν εἵη",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA34",
+        "image_sha256": "cb5b6e96607bb97cbfa5c2f9b86d7a4b0b3c847d92fc88db355b57c38e35cca8",
+        "kind": "digital_transcription_correction",
+        "location": "23.1",
+        "page": 34,
+        "pdf_page": 54,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 34,
+        "reviewer_kind": "ai",
+        "work_location": "23.1"
+      }
+    ],
+    "location": "23.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπήλαυνε",
+        "before": "ἀπήλαυνες",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA34",
+        "image_sha256": "cb5b6e96607bb97cbfa5c2f9b86d7a4b0b3c847d92fc88db355b57c38e35cca8",
+        "kind": "digital_transcription_correction",
+        "location": "23.2",
+        "page": 34,
+        "pdf_page": 54,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 34,
+        "reviewer_kind": "ai",
+        "work_location": "23.2"
+      }
+    ],
+    "location": "23.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ ἀνδρίᾳ",
+        "before": "τῇ ἀνδρία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA36",
+        "image_sha256": "7b6d5afc49005a43ec043ad7abb097279a7f3db08a25cb80cbe5c2b6253428e6",
+        "kind": "digital_transcription_correction",
+        "location": "24.3",
+        "page": 36,
+        "pdf_page": 56,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 36,
+        "reviewer_kind": "ai",
+        "work_location": "24.3"
+      },
+      {
+        "after": "δίδωσιν ἐξουσίᾳ",
+        "before": "δίδωσιν ἐξουσία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA36",
+        "image_sha256": "7b6d5afc49005a43ec043ad7abb097279a7f3db08a25cb80cbe5c2b6253428e6",
+        "kind": "digital_transcription_correction",
+        "location": "24.3",
+        "page": 36,
+        "pdf_page": 56,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 36,
+        "reviewer_kind": "ai",
+        "work_location": "24.3"
+      },
+      {
+        "after": "μὲν ὢν ἡ ζωὴ",
+        "before": "μὲν ὧν ἡ ζωὴ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA36",
+        "image_sha256": "7b6d5afc49005a43ec043ad7abb097279a7f3db08a25cb80cbe5c2b6253428e6",
+        "kind": "digital_transcription_correction",
+        "location": "24.3",
+        "page": 36,
+        "pdf_page": 56,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 36,
+        "reviewer_kind": "ai",
+        "work_location": "24.3"
+      }
+    ],
+    "location": "24.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "δαιμόνων",
+        "before": "διαμόνων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA37",
+        "image_sha256": "5102711f77e464b1c01f18ef75a093fc991b02f33eeda856a2cedd81b2baee4d",
+        "kind": "digital_transcription_correction",
+        "location": "25.5",
+        "page": 37,
+        "pdf_page": 57,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 37,
+        "reviewer_kind": "ai",
+        "work_location": "25.5"
+      },
+      {
+        "after": "φαντασίας μὲν δι’ αὐτῶν",
+        "before": "φαντασίας μὲν δ’ αὐτῶν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA37",
+        "image_sha256": "5102711f77e464b1c01f18ef75a093fc991b02f33eeda856a2cedd81b2baee4d",
+        "kind": "digital_transcription_correction",
+        "location": "25.5",
+        "page": 37,
+        "pdf_page": 57,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 37,
+        "reviewer_kind": "ai",
+        "work_location": "25.5"
+      }
+    ],
+    "location": "25.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πάντων Κύριος ὢν",
+        "before": "πάντων Κύριος ὥν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "25.6",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "25.6"
+      },
+      {
+        "after": "διὰ τοῦ ἰδίου",
+        "before": "δᾶ τοῦ ἰδίου",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "25.6",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "25.6"
+      },
+      {
+        "after": "δι’ αὐτοῦ",
+        "before": "δέ’ αὐτοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "25.6",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "25.6"
+      }
+    ],
+    "location": "25.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν τῷ σταυρῷ",
+        "before": "ἐν τῶ σταυρῷ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "26.1",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "26.1"
+      },
+      {
+        "after": "ἐποίει μαρτυρεῖν",
+        "before": "ἐποίει? μαρτυρεῖν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "26.1",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "26.1"
+      }
+    ],
+    "location": "26.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἠδύνατο",
+        "before": "Ἡδύνατο",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "26.2",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "26.2"
+      },
+      {
+        "after": "παρ’ αὐτὰ",
+        "before": "παρ’ αὐτὰ?",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "26.2",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "26.2"
+      },
+      {
+        "after": "διεγεῖραι καὶ",
+        "before": "διεγεῖραι ι καὶ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA38",
+        "image_sha256": "587bcc71b27f1460e27acbe75c811dad021c082ebdae610004f669e7a565080c",
+        "kind": "digital_transcription_correction",
+        "location": "26.2",
+        "page": 38,
+        "pdf_page": 58,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 38,
+        "reviewer_kind": "ai",
+        "work_location": "26.2"
+      }
+    ],
+    "location": "26.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τέθνηκεν",
+        "before": "τέυνηκεν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA39",
+        "image_sha256": "f221205f57e2b1e085a2678d2a12f334396b79db55ab7c4241b58c6c5b4ed3bc",
+        "kind": "digital_transcription_correction",
+        "location": "26.6",
+        "page": 39,
+        "pdf_page": 59,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 39,
+        "reviewer_kind": "ai",
+        "work_location": "26.6"
+      },
+      {
+        "after": "ἀλλ’ ἐπὶ",
+        "before": "αλλ' ἐπὶ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA39",
+        "image_sha256": "f221205f57e2b1e085a2678d2a12f334396b79db55ab7c4241b58c6c5b4ed3bc",
+        "kind": "digital_transcription_correction",
+        "location": "26.6",
+        "page": 39,
+        "pdf_page": 59,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 39,
+        "reviewer_kind": "ai",
+        "work_location": "26.6"
+      }
+    ],
+    "location": "26.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὴν κατὰ τοῦ πρὸς ἀσθένειαν",
+        "before": "τὴν κατὰ τοῦ πυρὸς ἀσθένειαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA41",
+        "image_sha256": "7bcc5534f9bbf677c26605986ee181cac08d91f67fabe0829f602e3431563cf3",
+        "kind": "digital_transcription_correction",
+        "location": "28.3",
+        "page": 41,
+        "pdf_page": 61,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 41,
+        "reviewer_kind": "ai",
+        "work_location": "28.3"
+      }
+    ],
+    "location": "28.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἀλλ’",
+        "before": "Ἄλλ’",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA42",
+        "image_sha256": "440904cd88bc82cf697ec590ed072cb91b2838c8e2edbc9df2dd7de65cc46f66",
+        "kind": "digital_transcription_correction",
+        "location": "28.5",
+        "page": 42,
+        "pdf_page": 62,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 42,
+        "reviewer_kind": "ai",
+        "work_location": "28.5"
+      },
+      {
+        "after": "παρέρχεται·",
+        "before": "παρέρχεται·?",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA42",
+        "image_sha256": "440904cd88bc82cf697ec590ed072cb91b2838c8e2edbc9df2dd7de65cc46f66",
+        "kind": "digital_transcription_correction",
+        "location": "28.5",
+        "page": 42,
+        "pdf_page": 62,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 42,
+        "reviewer_kind": "ai",
+        "work_location": "28.5"
+      },
+      {
+        "after": "διδασκαλίαν",
+        "before": "διδασκαλίαν λίαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA42",
+        "image_sha256": "440904cd88bc82cf697ec590ed072cb91b2838c8e2edbc9df2dd7de65cc46f66",
+        "kind": "digital_transcription_correction",
+        "location": "28.5",
+        "page": 42,
+        "pdf_page": 62,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 42,
+        "reviewer_kind": "ai",
+        "work_location": "28.5"
+      },
+      {
+        "after": "πρότερον",
+        "before": "πρότερρον",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA42",
+        "image_sha256": "440904cd88bc82cf697ec590ed072cb91b2838c8e2edbc9df2dd7de65cc46f66",
+        "kind": "digital_transcription_correction",
+        "location": "28.5",
+        "page": 42,
+        "pdf_page": 62,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 42,
+        "reviewer_kind": "ai",
+        "work_location": "28.5"
+      }
+    ],
+    "location": "28.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὸ τέλος",
+        "before": "τὸ τελος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA43",
+        "image_sha256": "a972449b3327acdaf9b0231ea3208b56e6a392400ed70b371f400addae7fb3f8",
+        "kind": "digital_transcription_correction",
+        "location": "29.3",
+        "page": 43,
+        "pdf_page": 63,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 43,
+        "reviewer_kind": "ai",
+        "work_location": "29.3"
+      }
+    ],
+    "location": "29.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἴδῃ τις",
+        "before": "ἴδή τις",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA43",
+        "image_sha256": "a972449b3327acdaf9b0231ea3208b56e6a392400ed70b371f400addae7fb3f8",
+        "kind": "digital_transcription_correction",
+        "location": "29.4",
+        "page": 43,
+        "pdf_page": 63,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 43,
+        "reviewer_kind": "ai",
+        "work_location": "29.4"
+      },
+      {
+        "after": "τίς οὕτως ἐστιν",
+        "before": "τίς οὕτος ἐστιν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA43",
+        "image_sha256": "a972449b3327acdaf9b0231ea3208b56e6a392400ed70b371f400addae7fb3f8",
+        "kind": "digital_transcription_correction",
+        "location": "29.4",
+        "page": 43,
+        "pdf_page": 63,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 43,
+        "reviewer_kind": "ai",
+        "work_location": "29.4"
+      }
+    ],
+    "location": "29.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γενόμενον ἢ πᾶσαν",
+        "before": "γενόμενον ἡ πᾶσαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA44",
+        "image_sha256": "ff7c3f32a9ff481a7c389d9012054a9e374a573db8c0abf73e61f8c7bf65d856",
+        "kind": "digital_transcription_correction",
+        "location": "29.5",
+        "page": 44,
+        "pdf_page": 64,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 44,
+        "reviewer_kind": "ai",
+        "work_location": "29.5"
+      }
+    ],
+    "location": "29.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ταῦτα ἀληθῆ",
+        "before": "ταῦτα ἀληθῇ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA44",
+        "image_sha256": "ff7c3f32a9ff481a7c389d9012054a9e374a573db8c0abf73e61f8c7bf65d856",
+        "kind": "digital_transcription_correction",
+        "location": "29.6",
+        "page": 44,
+        "pdf_page": 64,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 44,
+        "reviewer_kind": "ai",
+        "work_location": "29.6"
+      },
+      {
+        "after": "τις ἄπιστος",
+        "before": "τις ἅπιστος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA44",
+        "image_sha256": "ff7c3f32a9ff481a7c389d9012054a9e374a573db8c0abf73e61f8c7bf65d856",
+        "kind": "digital_transcription_correction",
+        "location": "29.6",
+        "page": 44,
+        "pdf_page": 64,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 44,
+        "reviewer_kind": "ai",
+        "work_location": "29.6"
+      }
+    ],
+    "location": "29.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἢ πῶς",
+        "before": "Ἡ πῶς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA44",
+        "image_sha256": "ff7c3f32a9ff481a7c389d9012054a9e374a573db8c0abf73e61f8c7bf65d856",
+        "kind": "digital_transcription_correction",
+        "location": "30.2",
+        "page": 44,
+        "pdf_page": 64,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 44,
+        "reviewer_kind": "ai",
+        "work_location": "30.2"
+      }
+    ],
+    "location": "30.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "πέπαυται λοιπόν· μόνων",
+        "before": "πέπαυται λοιπόν μόνων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA45",
+        "image_sha256": "25315ca7c7271884b2ba737d91cbbdb508345ba4c7025d5ef9d0c0f70c58eac3",
+        "kind": "digital_transcription_correction",
+        "location": "30.3",
+        "page": 45,
+        "pdf_page": 65,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 45,
+        "reviewer_kind": "ai",
+        "work_location": "30.3"
+      }
+    ],
+    "location": "30.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἡ Ζωή",
+        "before": "ἡ Ζοή",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA45",
+        "image_sha256": "25315ca7c7271884b2ba737d91cbbdb508345ba4c7025d5ef9d0c0f70c58eac3",
+        "kind": "digital_transcription_correction",
+        "location": "30.4",
+        "page": 45,
+        "pdf_page": 65,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 45,
+        "reviewer_kind": "ai",
+        "work_location": "30.4"
+      }
+    ],
+    "location": "30.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Υἱόν",
+        "before": "Υίόν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA46",
+        "image_sha256": "9c4b9f5c4f5ae3ad1bf37c8ee6090174c3f10342a73267ffae79d0ba3ddd0090",
+        "kind": "digital_transcription_correction",
+        "location": "30.7",
+        "page": 46,
+        "pdf_page": 66,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 46,
+        "reviewer_kind": "ai",
+        "work_location": "30.7"
+      }
+    ],
+    "location": "30.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἑαυτόν",
+        "before": "ἑαυἑαυτόν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA46",
+        "image_sha256": "9c4b9f5c4f5ae3ad1bf37c8ee6090174c3f10342a73267ffae79d0ba3ddd0090",
+        "kind": "digital_transcription_correction",
+        "location": "31.2",
+        "page": 46,
+        "pdf_page": 66,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 46,
+        "reviewer_kind": "ai",
+        "work_location": "31.2"
+      },
+      {
+        "after": "τοσαῦτα",
+        "before": "τοστοσαῦτα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA46",
+        "image_sha256": "9c4b9f5c4f5ae3ad1bf37c8ee6090174c3f10342a73267ffae79d0ba3ddd0090",
+        "kind": "digital_transcription_correction",
+        "location": "31.2",
+        "page": 46,
+        "pdf_page": 66,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 46,
+        "reviewer_kind": "ai",
+        "work_location": "31.2"
+      }
+    ],
+    "location": "31.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τοῦ Θεοῦ Υἱὸς",
+        "before": "τοῦ Θεοῦ ἰὸς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA46",
+        "image_sha256": "9c4b9f5c4f5ae3ad1bf37c8ee6090174c3f10342a73267ffae79d0ba3ddd0090",
+        "kind": "digital_transcription_correction",
+        "location": "31.3",
+        "page": 46,
+        "pdf_page": 66,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 46,
+        "reviewer_kind": "ai",
+        "work_location": "31.3"
+      },
+      {
+        "after": "ἐργάζεται",
+        "before": "ἐργάἐργάζεται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA46",
+        "image_sha256": "9c4b9f5c4f5ae3ad1bf37c8ee6090174c3f10342a73267ffae79d0ba3ddd0090",
+        "kind": "digital_transcription_correction",
+        "location": "31.3",
+        "page": 46,
+        "pdf_page": 66,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 46,
+        "reviewer_kind": "ai",
+        "work_location": "31.3"
+      },
+      {
+        "after": "σωτηρίαν",
+        "before": "σωρτηρίαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA46",
+        "image_sha256": "9c4b9f5c4f5ae3ad1bf37c8ee6090174c3f10342a73267ffae79d0ba3ddd0090",
+        "kind": "digital_transcription_correction",
+        "location": "31.3",
+        "page": 46,
+        "pdf_page": 66,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 46,
+        "reviewer_kind": "ai",
+        "work_location": "31.3"
+      }
+    ],
+    "location": "31.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "φανερῶς ζωήν; εἰ",
+        "before": "φανερῶς ζωήν εἰ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA47",
+        "image_sha256": "cc9f2968c93f9470dc733dc78af5876edc0e7e13a6e14660ffef7b036ff108f2",
+        "kind": "digital_transcription_correction",
+        "location": "32.2",
+        "page": 47,
+        "pdf_page": 67,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 47,
+        "reviewer_kind": "ai",
+        "work_location": "32.2"
+      }
+    ],
+    "location": "32.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὑπήκουσαν",
+        "before": "ὑπήκουὑπήκουσαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA48",
+        "image_sha256": "639ca58fb4375a07a5196226ee4f556eb677a3abe7cae64ea2cf8165434a754a",
+        "kind": "digital_transcription_correction",
+        "location": "32.4",
+        "page": 48,
+        "pdf_page": 68,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "32.4"
+      },
+      {
+        "after": "ὀνομασίᾳ",
+        "before": "ὀνομασία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA48",
+        "image_sha256": "639ca58fb4375a07a5196226ee4f556eb677a3abe7cae64ea2cf8165434a754a",
+        "kind": "digital_transcription_correction",
+        "location": "32.4",
+        "page": 48,
+        "pdf_page": 68,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "32.4"
+      },
+      {
+        "after": "μάλιστα",
+        "before": "μάμάλιστα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA48",
+        "image_sha256": "639ca58fb4375a07a5196226ee4f556eb677a3abe7cae64ea2cf8165434a754a",
+        "kind": "digital_transcription_correction",
+        "location": "32.4",
+        "page": 48,
+        "pdf_page": 68,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "32.4"
+      },
+      {
+        "after": "ὑπακούειν αὐτῷ",
+        "before": "ὑπακούειν αὐτῶ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA48",
+        "image_sha256": "639ca58fb4375a07a5196226ee4f556eb677a3abe7cae64ea2cf8165434a754a",
+        "kind": "digital_transcription_correction",
+        "location": "32.4",
+        "page": 48,
+        "pdf_page": 68,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "32.4"
+      }
+    ],
+    "location": "32.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀναιδείσθω",
+        "before": "ἀναιδευέσθω",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA48",
+        "image_sha256": "639ca58fb4375a07a5196226ee4f556eb677a3abe7cae64ea2cf8165434a754a",
+        "kind": "digital_transcription_correction",
+        "location": "32.6",
+        "page": 48,
+        "pdf_page": 68,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "32.6"
+      },
+      {
+        "after": "ἐχαρίσατο",
+        "before": "ἐχαρίἐχαρίσατο",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA48",
+        "image_sha256": "639ca58fb4375a07a5196226ee4f556eb677a3abe7cae64ea2cf8165434a754a",
+        "kind": "digital_transcription_correction",
+        "location": "32.6",
+        "page": 48,
+        "pdf_page": 68,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 48,
+        "reviewer_kind": "ai",
+        "work_location": "32.6"
+      }
+    ],
+    "location": "32.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἠσαΐας",
+        "before": "Ἡσαΐας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA49",
+        "image_sha256": "4e14f06e6b85979ef3f6997d30b3a9ea495d66892aa97acb694eceb4a7fcb874",
+        "kind": "digital_transcription_correction",
+        "location": "33.4",
+        "page": 49,
+        "pdf_page": 69,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 49,
+        "reviewer_kind": "ai",
+        "work_location": "33.4"
+      }
+    ],
+    "location": "33.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "σεισθήσεται",
+        "before": "σεισεισθήσεται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "33.5",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "33.5"
+      },
+      {
+        "after": "καὶ γὰρ κἀκεῖθεν",
+        "before": "καὶ γὰρ κἀ κἀκεῖθεν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "33.5",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "33.5"
+      },
+      {
+        "after": "Αἰγύπτου",
+        "before": "Ἀἰγύπτου",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "33.5",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "33.5"
+      }
+    ],
+    "location": "33.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "θάνατος",
+        "before": "θάναθάνατος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "34.1",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "34.1"
+      },
+      {
+        "after": "σημαίνεται",
+        "before": "σημαίνεσημαίνεται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "34.1",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "34.1"
+      },
+      {
+        "after": "γινομένων",
+        "before": "γινογινομένων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "34.1",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "34.1"
+      }
+    ],
+    "location": "34.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν πληγῇ ὢν",
+        "before": "ἐν πληγῇ ὥν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "34.2",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "34.2"
+      },
+      {
+        "after": "ἁμαρτίας",
+        "before": "ἁρμαρτίας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA50",
+        "image_sha256": "e2d22aacd71e6c96791d3702272ceb0279059a5f7deedf9effed0fb80343f5c7",
+        "kind": "digital_transcription_correction",
+        "location": "34.2",
+        "page": 50,
+        "pdf_page": 70,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 50,
+        "reviewer_kind": "ai",
+        "work_location": "34.2"
+      },
+      {
+        "after": "τῇ ὁδῷ",
+        "before": "τῇ ὁδῶ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA51",
+        "image_sha256": "86ef0ffb5e297d3e9ab22e6ee2e923f4ddf4519b67820a1ba9913e5d818fa30b",
+        "kind": "digital_transcription_correction",
+        "location": "34.2",
+        "page": 51,
+        "pdf_page": 71,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 51,
+        "reviewer_kind": "ai",
+        "work_location": "34.2"
+      }
+    ],
+    "location": "34.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἵνα μή",
+        "before": "ἵνᾷ μή",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA51",
+        "image_sha256": "86ef0ffb5e297d3e9ab22e6ee2e923f4ddf4519b67820a1ba9913e5d818fa30b",
+        "kind": "digital_transcription_correction",
+        "location": "34.3",
+        "page": 51,
+        "pdf_page": 71,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 51,
+        "reviewer_kind": "ai",
+        "work_location": "34.3"
+      },
+      {
+        "after": "Τὴν δὲ",
+        "before": "Τῆν δὲ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA51",
+        "image_sha256": "86ef0ffb5e297d3e9ab22e6ee2e923f4ddf4519b67820a1ba9913e5d818fa30b",
+        "kind": "digital_transcription_correction",
+        "location": "34.3",
+        "page": 51,
+        "pdf_page": 71,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 51,
+        "reviewer_kind": "ai",
+        "work_location": "34.3"
+      }
+    ],
+    "location": "34.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν τοῖς ἁγίοις",
+        "before": "ἐν τοῖς ἀγίοις",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.6",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.6"
+      }
+    ],
+    "location": "35.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἱστορηθέντων",
+        "before": "ἱστορηἱστορηθέντων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.7",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.7"
+      },
+      {
+        "after": "ἢ τίς γυνὴ",
+        "before": "ἥ τίς γυνὴ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.7",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.7"
+      },
+      {
+        "after": "Ἀδὰμ γέγονεν",
+        "before": "Ἀδὰμ γονεν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.7",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.7"
+      },
+      {
+        "after": "Ἀβραὰμ",
+        "before": "Ἀβραὶμ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.7",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.7"
+      },
+      {
+        "after": "Θάῤῥα",
+        "before": "Θάφφα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.7",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.7"
+      },
+      {
+        "after": "Ἠσαΐας",
+        "before": "Ἡσαΐας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA52",
+        "image_sha256": "7999a5ecff33ccdcf0c90ac385eb9877c022c8b83e0cd04a872b44aa72cac915",
+        "kind": "digital_transcription_correction",
+        "location": "35.7",
+        "page": 52,
+        "pdf_page": 72,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 52,
+        "reviewer_kind": "ai",
+        "work_location": "35.7"
+      }
+    ],
+    "location": "35.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γεννηθέντα",
+        "before": "γενηθεντα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA53",
+        "image_sha256": "fb4945bf0206c3d10e9ae0d5688b11391fc8a859979be7cdd4fef6d6577c3e9c",
+        "kind": "digital_transcription_correction",
+        "location": "35.8",
+        "page": 53,
+        "pdf_page": 73,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 53,
+        "reviewer_kind": "ai",
+        "work_location": "35.8"
+      },
+      {
+        "after": "Ἀβραὰμ",
+        "before": "Ἁβραὰμ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA53",
+        "image_sha256": "fb4945bf0206c3d10e9ae0d5688b11391fc8a859979be7cdd4fef6d6577c3e9c",
+        "kind": "digital_transcription_correction",
+        "location": "35.8",
+        "page": 53,
+        "pdf_page": 73,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 53,
+        "reviewer_kind": "ai",
+        "work_location": "35.8"
+      }
+    ],
+    "location": "35.8",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τὸν Ἰσραὴλ",
+        "before": "τὸν Ἱσραὴλ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA54",
+        "image_sha256": "64242cd946f7331947d3a93a1a1eb27cd56cda80883a694b5e599c4a834dd93e",
+        "kind": "digital_transcription_correction",
+        "location": "36.3",
+        "page": 54,
+        "pdf_page": 74,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 54,
+        "reviewer_kind": "ai",
+        "work_location": "36.3"
+      }
+    ],
+    "location": "36.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Μωϋσῆς",
+        "before": "Μωθσῆς",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA54",
+        "image_sha256": "64242cd946f7331947d3a93a1a1eb27cd56cda80883a694b5e599c4a834dd93e",
+        "kind": "digital_transcription_correction",
+        "location": "36.4",
+        "page": 54,
+        "pdf_page": 74,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 54,
+        "reviewer_kind": "ai",
+        "work_location": "36.4"
+      }
+    ],
+    "location": "36.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἠσαΐας",
+        "before": "Ἡσαΐας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA55",
+        "image_sha256": "65a5f4cce360f67f2a00f79ff95e4021166ef8ed5b38920adcc6239e5a8dbd29",
+        "kind": "digital_transcription_correction",
+        "location": "37.1",
+        "page": 55,
+        "pdf_page": 75,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 55,
+        "reviewer_kind": "ai",
+        "work_location": "37.1"
+      },
+      {
+        "after": "ἐπρίσθη",
+        "before": "ἐπρίπθη",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA55",
+        "image_sha256": "65a5f4cce360f67f2a00f79ff95e4021166ef8ed5b38920adcc6239e5a8dbd29",
+        "kind": "digital_transcription_correction",
+        "location": "37.1",
+        "page": 55,
+        "pdf_page": 75,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 55,
+        "reviewer_kind": "ai",
+        "work_location": "37.1"
+      }
+    ],
+    "location": "37.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὀφθαλμῶν",
+        "before": "ὠφθαλμῶν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA55",
+        "image_sha256": "65a5f4cce360f67f2a00f79ff95e4021166ef8ed5b38920adcc6239e5a8dbd29",
+        "kind": "digital_transcription_correction",
+        "location": "37.2",
+        "page": 55,
+        "pdf_page": 75,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 55,
+        "reviewer_kind": "ai",
+        "work_location": "37.2"
+      },
+      {
+        "after": "Τὴν γενεὰν",
+        "before": "Τῆν γενεὰν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA55",
+        "image_sha256": "65a5f4cce360f67f2a00f79ff95e4021166ef8ed5b38920adcc6239e5a8dbd29",
+        "kind": "digital_transcription_correction",
+        "location": "37.2",
+        "page": 55,
+        "pdf_page": 75,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 55,
+        "reviewer_kind": "ai",
+        "work_location": "37.2"
+      }
+    ],
+    "location": "37.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀντικειμένων",
+        "before": "ἀντιἀντικειμένων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA56",
+        "image_sha256": "8be79bc46f40c860da1615357c30779d3642f0c3c0c39b484c0469e4e342b3ab",
+        "kind": "digital_transcription_correction",
+        "location": "37.5",
+        "page": 56,
+        "pdf_page": 76,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 56,
+        "reviewer_kind": "ai",
+        "work_location": "37.5"
+      }
+    ],
+    "location": "37.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "προφῆται",
+        "before": "προφῆπροφῆται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA56",
+        "image_sha256": "8be79bc46f40c860da1615357c30779d3642f0c3c0c39b484c0469e4e342b3ab",
+        "kind": "digital_transcription_correction",
+        "location": "38.1",
+        "page": 56,
+        "pdf_page": 76,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 56,
+        "reviewer_kind": "ai",
+        "work_location": "38.1"
+      }
+    ],
+    "location": "38.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "γενομένῃ θείᾳ",
+        "before": "γενομένη θείᾳ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA57",
+        "image_sha256": "646fa236933b13ee7a22b3034bc67594a21f74253865f03fc6544c7be2460701",
+        "kind": "digital_transcription_correction",
+        "location": "38.4",
+        "page": 57,
+        "pdf_page": 77,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 57,
+        "reviewer_kind": "ai",
+        "work_location": "38.4"
+      }
+    ],
+    "location": "38.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἠλίας",
+        "before": "Ἡλίας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA58",
+        "image_sha256": "e897fa206872112e10211367f91e37b3662290e807d9f635d95ab9651a1e73ad",
+        "kind": "digital_transcription_correction",
+        "location": "38.5",
+        "page": 58,
+        "pdf_page": 78,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "38.5"
+      }
+    ],
+    "location": "38.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἐκ τοῦ",
+        "before": "Ἔκ τοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA58",
+        "image_sha256": "e897fa206872112e10211367f91e37b3662290e807d9f635d95ab9651a1e73ad",
+        "kind": "digital_transcription_correction",
+        "location": "38.6",
+        "page": 58,
+        "pdf_page": 78,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "38.6"
+      },
+      {
+        "after": "γεγεννημένου",
+        "before": "γεγενγεγεννημένου",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA58",
+        "image_sha256": "e897fa206872112e10211367f91e37b3662290e807d9f635d95ab9651a1e73ad",
+        "kind": "digital_transcription_correction",
+        "location": "38.6",
+        "page": 58,
+        "pdf_page": 78,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "38.6"
+      }
+    ],
+    "location": "38.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "μηδέπω παραγεγενῆσθαι",
+        "before": "μηδέπω γεγενῆσθαι",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA58",
+        "image_sha256": "e897fa206872112e10211367f91e37b3662290e807d9f635d95ab9651a1e73ad",
+        "kind": "digital_transcription_correction",
+        "location": "39.1",
+        "page": 58,
+        "pdf_page": 78,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "39.1"
+      }
+    ],
+    "location": "39.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἠσαΐας",
+        "before": "Ἡσαΐας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA59",
+        "image_sha256": "3d55b07cf9def3fe7af9b6e3f3147a7e2737945bef12a06cbe8a194ad5dce22a",
+        "kind": "digital_transcription_correction",
+        "location": "39.4",
+        "page": 59,
+        "pdf_page": 79,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 59,
+        "reviewer_kind": "ai",
+        "work_location": "39.4"
+      },
+      {
+        "after": "ἁγίων.",
+        "before": "ἁγίων..",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA59",
+        "image_sha256": "3d55b07cf9def3fe7af9b6e3f3147a7e2737945bef12a06cbe8a194ad5dce22a",
+        "kind": "digital_transcription_correction",
+        "location": "39.4",
+        "page": 59,
+        "pdf_page": 79,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 59,
+        "reviewer_kind": "ai",
+        "work_location": "39.4"
+      }
+    ],
+    "location": "39.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τοῦ ἁγίου τῶν ἁγίων",
+        "before": "τοῦ ἁγίου τῶν ἀγίων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA60",
+        "image_sha256": "fbd83549012fb0970a6c5c99d77a572e55520ac3123c6fb52a5badfb4a9cdcf8",
+        "kind": "digital_transcription_correction",
+        "location": "40.3",
+        "page": 60,
+        "pdf_page": 80,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 60,
+        "reviewer_kind": "ai",
+        "work_location": "40.3"
+      },
+      {
+        "after": "ὁ ἅγιος τῶν ἁγίων",
+        "before": "ὁ ἄγιος τῶν ἀγίων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA60",
+        "image_sha256": "fbd83549012fb0970a6c5c99d77a572e55520ac3123c6fb52a5badfb4a9cdcf8",
+        "kind": "digital_transcription_correction",
+        "location": "40.3",
+        "page": 60,
+        "pdf_page": 80,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 60,
+        "reviewer_kind": "ai",
+        "work_location": "40.3"
+      }
+    ],
+    "location": "40.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἀβραὰμ",
+        "before": "Ἁβραὰμ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA61",
+        "image_sha256": "599d2cc73adcddbb5c46e316ab376d29c22d111a7dc05716fade8e7b0baf3d8e",
+        "kind": "digital_transcription_correction",
+        "location": "40.4",
+        "page": 61,
+        "pdf_page": 81,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 61,
+        "reviewer_kind": "ai",
+        "work_location": "40.4"
+      }
+    ],
+    "location": "40.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἀβραὰμ",
+        "before": "Ἁβραὰμ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA61",
+        "image_sha256": "599d2cc73adcddbb5c46e316ab376d29c22d111a7dc05716fade8e7b0baf3d8e",
+        "kind": "digital_transcription_correction",
+        "location": "40.5",
+        "page": 61,
+        "pdf_page": 81,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 61,
+        "reviewer_kind": "ai",
+        "work_location": "40.5"
+      }
+    ],
+    "location": "40.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καταλιμπάνοντες",
+        "before": "καταλιμπάνοντες τες",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA62",
+        "image_sha256": "325bd7d602dadb5116fd7f578e16f51288c76efa6f8de9b9b179b3a8e7285abb",
+        "kind": "digital_transcription_correction",
+        "location": "40.7",
+        "page": 62,
+        "pdf_page": 82,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 62,
+        "reviewer_kind": "ai",
+        "work_location": "40.7"
+      }
+    ],
+    "location": "40.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἰουδαίους",
+        "before": "Ιουδαίους",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA62",
+        "image_sha256": "325bd7d602dadb5116fd7f578e16f51288c76efa6f8de9b9b179b3a8e7285abb",
+        "kind": "digital_transcription_correction",
+        "location": "40.8",
+        "page": 62,
+        "pdf_page": 82,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 62,
+        "reviewer_kind": "ai",
+        "work_location": "40.8"
+      }
+    ],
+    "location": "40.8",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ τούτου προνοίᾳ",
+        "before": "τῇ τούτου προνοία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA62",
+        "image_sha256": "325bd7d602dadb5116fd7f578e16f51288c76efa6f8de9b9b179b3a8e7285abb",
+        "kind": "digital_transcription_correction",
+        "location": "41.4",
+        "page": 62,
+        "pdf_page": 82,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 62,
+        "reviewer_kind": "ai",
+        "work_location": "41.4"
+      }
+    ],
+    "location": "41.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἑλλήνων",
+        "before": "Ἐλλήνων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA62",
+        "image_sha256": "325bd7d602dadb5116fd7f578e16f51288c76efa6f8de9b9b179b3a8e7285abb",
+        "kind": "digital_transcription_correction",
+        "location": "41.5",
+        "page": 62,
+        "pdf_page": 82,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 62,
+        "reviewer_kind": "ai",
+        "work_location": "41.5"
+      }
+    ],
+    "location": "41.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διὰ τοῦτο",
+        "before": "διᾶ τοῦτο",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA63",
+        "image_sha256": "6d3195c992fd6743fc58f56fbb85f5fb88cabd3faac02b8bba852df3388bd3c8",
+        "kind": "digital_transcription_correction",
+        "location": "42.2",
+        "page": 63,
+        "pdf_page": 83,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 63,
+        "reviewer_kind": "ai",
+        "work_location": "42.2"
+      }
+    ],
+    "location": "42.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καὶ ζῆν,",
+        "before": "καὶ ἦν,",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA64",
+        "image_sha256": "a3936a1250a55138ff57ff521bf830f3202c8ba611a59d64ca20632db7c6d2d3",
+        "kind": "digital_transcription_correction",
+        "location": "42.4",
+        "page": 64,
+        "pdf_page": 84,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 64,
+        "reviewer_kind": "ai",
+        "work_location": "42.4"
+      },
+      {
+        "after": "ἐν αὐτῷ ζῶμεν",
+        "before": "ἐν αὐτῇ ζῶμεν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA64",
+        "image_sha256": "a3936a1250a55138ff57ff521bf830f3202c8ba611a59d64ca20632db7c6d2d3",
+        "kind": "digital_transcription_correction",
+        "location": "42.4",
+        "page": 64,
+        "pdf_page": 84,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 64,
+        "reviewer_kind": "ai",
+        "work_location": "42.4"
+      }
+    ],
+    "location": "42.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀτόπως αὐτὸν",
+        "before": "ἀτόπως αὐτὸν?",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA64",
+        "image_sha256": "a3936a1250a55138ff57ff521bf830f3202c8ba611a59d64ca20632db7c6d2d3",
+        "kind": "digital_transcription_correction",
+        "location": "42.6",
+        "page": 64,
+        "pdf_page": 84,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 64,
+        "reviewer_kind": "ai",
+        "work_location": "42.6"
+      },
+      {
+        "after": "[πεποιηκέναι]· ἅπαξ",
+        "before": "[πεποιηκέναι] ἅπαξ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA64",
+        "image_sha256": "a3936a1250a55138ff57ff521bf830f3202c8ba611a59d64ca20632db7c6d2d3",
+        "kind": "digital_transcription_correction",
+        "location": "42.6",
+        "page": 64,
+        "pdf_page": 84,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 64,
+        "reviewer_kind": "ai",
+        "work_location": "42.6"
+      }
+    ],
+    "location": "42.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "καλλιόνων",
+        "before": "καλλίονων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA65",
+        "image_sha256": "1e11b60ce257c4e5521250f24696a3441a8fb43b016935e90dcde8e9e31a18e0",
+        "kind": "digital_transcription_correction",
+        "location": "43.1",
+        "page": 65,
+        "pdf_page": 85,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 65,
+        "reviewer_kind": "ai",
+        "work_location": "43.1"
+      }
+    ],
+    "location": "43.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἐν τῇ κτίσει ὢν",
+        "before": "ἐν τῇ κτίσει ὥν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA66",
+        "image_sha256": "fe4ccb79597e5d01d356ab195834dc2f701d91dea73f91a8530cb40036078fec",
+        "kind": "digital_transcription_correction",
+        "location": "43.6",
+        "page": 66,
+        "pdf_page": 86,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 66,
+        "reviewer_kind": "ai",
+        "work_location": "43.6"
+      }
+    ],
+    "location": "43.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἔξω τοῦ σώματος",
+        "before": "ἕξω τοῦ σώματος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA68",
+        "image_sha256": "8ee2ef6c358cdc1bf608c6a14168f6cd22fe4ceada7b033f8414710ae86f53f2",
+        "kind": "digital_transcription_correction",
+        "location": "44.5",
+        "page": 68,
+        "pdf_page": 88,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 68,
+        "reviewer_kind": "ai",
+        "work_location": "44.5"
+      },
+      {
+        "after": "ἅτε δὴ",
+        "before": "ἄτε δὴ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA68",
+        "image_sha256": "8ee2ef6c358cdc1bf608c6a14168f6cd22fe4ceada7b033f8414710ae86f53f2",
+        "kind": "digital_transcription_correction",
+        "location": "44.5",
+        "page": 68,
+        "pdf_page": 88,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 68,
+        "reviewer_kind": "ai",
+        "work_location": "44.5"
+      }
+    ],
+    "location": "44.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπαλείψῃ",
+        "before": "ἀπαἀπαλείψῃ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA68",
+        "image_sha256": "8ee2ef6c358cdc1bf608c6a14168f6cd22fe4ceada7b033f8414710ae86f53f2",
+        "kind": "digital_transcription_correction",
+        "location": "44.6",
+        "page": 68,
+        "pdf_page": 88,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 68,
+        "reviewer_kind": "ai",
+        "work_location": "44.6"
+      }
+    ],
+    "location": "44.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀμιάντῳ πολλῷ, ὃ δὴ",
+        "before": "ἀμιάντῳ πολλῷ, δὴ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA68",
+        "image_sha256": "8ee2ef6c358cdc1bf608c6a14168f6cd22fe4ceada7b033f8414710ae86f53f2",
+        "kind": "digital_transcription_correction",
+        "location": "44.7",
+        "page": 68,
+        "pdf_page": 88,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 68,
+        "reviewer_kind": "ai",
+        "work_location": "44.7"
+      }
+    ],
+    "location": "44.7",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "διὰ τῶν ἔργων",
+        "before": "διὰ τῶν ἔργον",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA69",
+        "image_sha256": "762ec4ef9b16e68ae6d74755f990821f4b6c7403de5d24ded5479df713b26265",
+        "kind": "digital_transcription_correction",
+        "location": "45.1",
+        "page": 69,
+        "pdf_page": 89,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 69,
+        "reviewer_kind": "ai",
+        "work_location": "45.1"
+      }
+    ],
+    "location": "45.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Εἴτε γάρ",
+        "before": "Είτε γάρ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA69",
+        "image_sha256": "762ec4ef9b16e68ae6d74755f990821f4b6c7403de5d24ded5479df713b26265",
+        "kind": "digital_transcription_correction",
+        "location": "45.3",
+        "page": 69,
+        "pdf_page": 89,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 69,
+        "reviewer_kind": "ai",
+        "work_location": "45.3"
+      }
+    ],
+    "location": "45.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀπατηθῆναι",
+        "before": "ἀπατηἀπαταθῆναι",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA70",
+        "image_sha256": "6f6104c3e962ff887f41ccf843cf2ed36eead2c2a171cd4074274867dd9d7bd7",
+        "kind": "digital_transcription_correction",
+        "location": "45.5",
+        "page": 70,
+        "pdf_page": 90,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 70,
+        "reviewer_kind": "ai",
+        "work_location": "45.5"
+      }
+    ],
+    "location": "45.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "συγκλειόμενος",
+        "before": "συγσυγκλειόμενος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA70",
+        "image_sha256": "6f6104c3e962ff887f41ccf843cf2ed36eead2c2a171cd4074274867dd9d7bd7",
+        "kind": "digital_transcription_correction",
+        "location": "45.6",
+        "page": 70,
+        "pdf_page": 90,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 70,
+        "reviewer_kind": "ai",
+        "work_location": "45.6"
+      }
+    ],
+    "location": "45.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀφ’ οὗ",
+        "before": "ἀφ’ οὖ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA70",
+        "image_sha256": "6f6104c3e962ff887f41ccf843cf2ed36eead2c2a171cd4074274867dd9d7bd7",
+        "kind": "digital_transcription_correction",
+        "location": "46.2",
+        "page": 70,
+        "pdf_page": 90,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 70,
+        "reviewer_kind": "ai",
+        "work_location": "46.2"
+      }
+    ],
+    "location": "46.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Δύναμις",
+        "before": "Δίναμις",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA70",
+        "image_sha256": "6f6104c3e962ff887f41ccf843cf2ed36eead2c2a171cd4074274867dd9d7bd7",
+        "kind": "digital_transcription_correction",
+        "location": "46.3",
+        "page": 70,
+        "pdf_page": 90,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 70,
+        "reviewer_kind": "ai",
+        "work_location": "46.3"
+      }
+    ],
+    "location": "46.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὐδὲν ἄλλο ἢ",
+        "before": "οὐδὲν ἄλλο ἡ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA71",
+        "image_sha256": "df4667ad9d26b01c178b81cecb089f86ea876a9301cb233e3ceb71a361568553",
+        "kind": "digital_transcription_correction",
+        "location": "46.4",
+        "page": 71,
+        "pdf_page": 91,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 71,
+        "reviewer_kind": "ai",
+        "work_location": "46.4"
+      }
+    ],
+    "location": "46.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Βοιωτίᾳ",
+        "before": "Βοιωτία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA72",
+        "image_sha256": "eb7d299d6f28b8ff6b89f3344d90a940ef5524c5e540275764ad4babd56f4b4b",
+        "kind": "digital_transcription_correction",
+        "location": "47.1",
+        "page": 72,
+        "pdf_page": 92,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 72,
+        "reviewer_kind": "ai",
+        "work_location": "47.1"
+      },
+      {
+        "after": "τῇ φαντασίᾳ",
+        "before": "τῇ φαντασία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA72",
+        "image_sha256": "eb7d299d6f28b8ff6b89f3344d90a940ef5524c5e540275764ad4babd56f4b4b",
+        "kind": "digital_transcription_correction",
+        "location": "47.1",
+        "page": 72,
+        "pdf_page": 92,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 72,
+        "reviewer_kind": "ai",
+        "work_location": "47.1"
+      }
+    ],
+    "location": "47.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ δὲ παρουσίᾳ",
+        "before": "τῇ δὲ παρουσία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA72",
+        "image_sha256": "eb7d299d6f28b8ff6b89f3344d90a940ef5524c5e540275764ad4babd56f4b4b",
+        "kind": "digital_transcription_correction",
+        "location": "47.4",
+        "page": 72,
+        "pdf_page": 92,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 72,
+        "reviewer_kind": "ai",
+        "work_location": "47.4"
+      },
+      {
+        "after": "τῇ ἐπιφανείᾳ",
+        "before": "τῇ ἐπιφανεία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA72",
+        "image_sha256": "eb7d299d6f28b8ff6b89f3344d90a940ef5524c5e540275764ad4babd56f4b4b",
+        "kind": "digital_transcription_correction",
+        "location": "47.4",
+        "page": 72,
+        "pdf_page": 92,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 72,
+        "reviewer_kind": "ai",
+        "work_location": "47.4"
+      }
+    ],
+    "location": "47.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὄψει",
+        "before": "ὄλψει",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA72",
+        "image_sha256": "eb7d299d6f28b8ff6b89f3344d90a940ef5524c5e540275764ad4babd56f4b4b",
+        "kind": "digital_transcription_correction",
+        "location": "47.5",
+        "page": 72,
+        "pdf_page": 92,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 72,
+        "reviewer_kind": "ai",
+        "work_location": "47.5"
+      },
+      {
+        "after": "δι’ ἀνθρώπων",
+        "before": "δ’ ἀνθρώπων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA73",
+        "image_sha256": "2e3aeb1d000d9ed1a9e9044a429f35241df9583a99634bfd6629ffb3f43b6d75",
+        "kind": "digital_transcription_correction",
+        "location": "47.5",
+        "page": 73,
+        "pdf_page": 93,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 73,
+        "reviewer_kind": "ai",
+        "work_location": "47.5"
+      }
+    ],
+    "location": "47.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ τούτου ὀνομασίᾳ",
+        "before": "τῇ τούτου ὀνομασία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA74",
+        "image_sha256": "53be8ce26a1852e0d33067a3c25dfbfa770ce3927aa579f6febca100713603c7",
+        "kind": "digital_transcription_correction",
+        "location": "48.8",
+        "page": 74,
+        "pdf_page": 94,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 74,
+        "reviewer_kind": "ai",
+        "work_location": "48.8"
+      },
+      {
+        "after": "δαιμονικήν",
+        "before": "δαιμονκήν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA74",
+        "image_sha256": "53be8ce26a1852e0d33067a3c25dfbfa770ce3927aa579f6febca100713603c7",
+        "kind": "digital_transcription_correction",
+        "location": "48.8",
+        "page": 74,
+        "pdf_page": 94,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 74,
+        "reviewer_kind": "ai",
+        "work_location": "48.8"
+      }
+    ],
+    "location": "48.8",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "προσκυνεῖται",
+        "before": "προςκυνεῖται",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA75",
+        "image_sha256": "101847b04e06bde24ecb0c991d3bcdfdd48d2b6347505b564f51987a4976b41c",
+        "kind": "digital_transcription_correction",
+        "location": "49.3",
+        "page": 75,
+        "pdf_page": 95,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 75,
+        "reviewer_kind": "ai",
+        "work_location": "49.3"
+      }
+    ],
+    "location": "49.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ διδασκαλίᾳ",
+        "before": "τῇ διδασκαλία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA76",
+        "image_sha256": "5ef4c88eec45a0e712fed9816dc35a67012581c51c3e3a6c11e4c56be9b11f1b",
+        "kind": "digital_transcription_correction",
+        "location": "49.6",
+        "page": 76,
+        "pdf_page": 96,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 76,
+        "reviewer_kind": "ai",
+        "work_location": "49.6"
+      }
+    ],
+    "location": "49.6",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τύραννοι",
+        "before": "τύρρανοι",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA76",
+        "image_sha256": "5ef4c88eec45a0e712fed9816dc35a67012581c51c3e3a6c11e4c56be9b11f1b",
+        "kind": "digital_transcription_correction",
+        "location": "50.1",
+        "page": 76,
+        "pdf_page": 96,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 76,
+        "reviewer_kind": "ai",
+        "work_location": "50.1"
+      }
+    ],
+    "location": "50.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Ἑλλήνων",
+        "before": "Ἐλλήνων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA76",
+        "image_sha256": "5ef4c88eec45a0e712fed9816dc35a67012581c51c3e3a6c11e4c56be9b11f1b",
+        "kind": "digital_transcription_correction",
+        "location": "50.2",
+        "page": 76,
+        "pdf_page": 96,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 76,
+        "reviewer_kind": "ai",
+        "work_location": "50.2"
+      }
+    ],
+    "location": "50.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἢ Πέρσας, ἢ Ἀρμενίους",
+        "before": "ἢ Πέρσας, Ἀρμενίους",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA78",
+        "image_sha256": "67f47fe2a06ab829c935fd362bc3398f6b0caddaf4c8455b950f1eecfbf92c64",
+        "kind": "digital_transcription_correction",
+        "location": "51.2",
+        "page": 78,
+        "pdf_page": 98,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 78,
+        "reviewer_kind": "ai",
+        "work_location": "51.2"
+      }
+    ],
+    "location": "51.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἑαυτοῦ",
+        "before": "ἑαυυτοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA78",
+        "image_sha256": "67f47fe2a06ab829c935fd362bc3398f6b0caddaf4c8455b950f1eecfbf92c64",
+        "kind": "digital_transcription_correction",
+        "location": "51.3",
+        "page": 78,
+        "pdf_page": 98,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 78,
+        "reviewer_kind": "ai",
+        "work_location": "51.3"
+      }
+    ],
+    "location": "51.3",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "οὔτε τὴν θάλασσαν",
+        "before": "οὕτε τὴν θάλασσαν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA78",
+        "image_sha256": "67f47fe2a06ab829c935fd362bc3398f6b0caddaf4c8455b950f1eecfbf92c64",
+        "kind": "digital_transcription_correction",
+        "location": "51.4",
+        "page": 78,
+        "pdf_page": 98,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 78,
+        "reviewer_kind": "ai",
+        "work_location": "51.4"
+      },
+      {
+        "after": "ἀκαταλλάκτου",
+        "before": "ἀκαταλάκτου",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA78",
+        "image_sha256": "67f47fe2a06ab829c935fd362bc3398f6b0caddaf4c8455b950f1eecfbf92c64",
+        "kind": "digital_transcription_correction",
+        "location": "51.4",
+        "page": 78,
+        "pdf_page": 98,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 78,
+        "reviewer_kind": "ai",
+        "work_location": "51.4"
+      }
+    ],
+    "location": "51.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἄτοπόν γε",
+        "before": "ἄπιστόν γε",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA79",
+        "image_sha256": "5826d1525d52d06df1b3c8cdcab042e4321d2f4d1cb27b1df09257ea0bde0793",
+        "kind": "digital_transcription_correction",
+        "location": "52.2",
+        "page": 79,
+        "pdf_page": 99,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 79,
+        "reviewer_kind": "ai",
+        "work_location": "52.2"
+      }
+    ],
+    "location": "52.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῆς δόξης",
+        "before": "τῆς δοξης",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA81",
+        "image_sha256": "b17174cff9fa3d6961d4966860f7dac9ac39368fcc64e15f87952826d0d5b006",
+        "kind": "digital_transcription_correction",
+        "location": "53.4",
+        "page": 81,
+        "pdf_page": 101,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 81,
+        "reviewer_kind": "ai",
+        "work_location": "53.4"
+      }
+    ],
+    "location": "53.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "εἰ ἀνθρώπινά ἐστιν ἢ Θεοῦ",
+        "before": "εἰ ἀωθρώπινά Θεοῦ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA81",
+        "image_sha256": "b17174cff9fa3d6961d4966860f7dac9ac39368fcc64e15f87952826d0d5b006",
+        "kind": "digital_transcription_correction",
+        "location": "54.1",
+        "page": 81,
+        "pdf_page": 101,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 81,
+        "reviewer_kind": "ai",
+        "work_location": "54.1"
+      }
+    ],
+    "location": "54.1",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ἀνθρώπινα ᾖ",
+        "before": "ἀνθρώπια ᾖ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA81",
+        "image_sha256": "b17174cff9fa3d6961d4966860f7dac9ac39368fcc64e15f87952826d0d5b006",
+        "kind": "digital_transcription_correction",
+        "location": "54.2",
+        "page": 81,
+        "pdf_page": 101,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 81,
+        "reviewer_kind": "ai",
+        "work_location": "54.2"
+      }
+    ],
+    "location": "54.2",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Καὶ ὅλως",
+        "before": "Καὶ ὅλος",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA82",
+        "image_sha256": "f78737244a3a33f0bede762a4abf3f11b77493dc59742261806219b98b7adf83",
+        "kind": "digital_transcription_correction",
+        "location": "54.4",
+        "page": 82,
+        "pdf_page": 102,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 82,
+        "reviewer_kind": "ai",
+        "work_location": "54.4"
+      }
+    ],
+    "location": "54.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ τούτου παρουσίᾳ",
+        "before": "τῇ τούτου παρουσία",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA84",
+        "image_sha256": "09252c5853dfe91290bacabc0204b5af6c8f8bbe3b79387280786d68800bd750",
+        "kind": "digital_transcription_correction",
+        "location": "55.4",
+        "page": 84,
+        "pdf_page": 104,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 84,
+        "reviewer_kind": "ai",
+        "work_location": "55.4"
+      }
+    ],
+    "location": "55.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τοῦ Πατρὸς Θεὸν",
+        "before": "τοῦ Πατρὸς θεὸν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA84",
+        "image_sha256": "09252c5853dfe91290bacabc0204b5af6c8f8bbe3b79387280786d68800bd750",
+        "kind": "digital_transcription_correction",
+        "location": "55.5",
+        "page": 84,
+        "pdf_page": 104,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 84,
+        "reviewer_kind": "ai",
+        "work_location": "55.5"
+      }
+    ],
+    "location": "55.5",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "Υἱὸν",
+        "before": "Υίὸν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA85",
+        "image_sha256": "d7f73e172c8cd4c57282794c07513295c48337301537e54663fb1bf6ec32bdff",
+        "kind": "digital_transcription_correction",
+        "location": "56.4",
+        "page": 85,
+        "pdf_page": 105,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 85,
+        "reviewer_kind": "ai",
+        "work_location": "56.4"
+      }
+    ],
+    "location": "56.4",
+    "work_id": "athanasius-incarnation"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τῇ ἡμέρᾳ",
+        "before": "τῇ ἡμέρα",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA86",
+        "image_sha256": "3508d59ba3dfe389cec49d6b1db3e02b5bdbc5fb3ee79c9c3a7ff3c166ad23e6",
+        "kind": "digital_transcription_correction",
+        "location": "57.3",
+        "page": 86,
+        "pdf_page": 106,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 86,
+        "reviewer_kind": "ai",
+        "work_location": "57.3"
+      },
+      {
+        "after": "μεθ’ οὗ",
+        "before": "μεθ’ οὖ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA86",
+        "image_sha256": "3508d59ba3dfe389cec49d6b1db3e02b5bdbc5fb3ee79c9c3a7ff3c166ad23e6",
+        "kind": "digital_transcription_correction",
+        "location": "57.3",
+        "page": 86,
+        "pdf_page": 106,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 86,
+        "reviewer_kind": "ai",
+        "work_location": "57.3"
+      },
+      {
+        "after": "εἰς τοὺς αἰῶνας",
+        "before": "ἐς τοὺς αἰῶνας",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=5sIUAAAAQAAJ&pg=PA86",
+        "image_sha256": "3508d59ba3dfe389cec49d6b1db3e02b5bdbc5fb3ee79c9c3a7ff3c166ad23e6",
+        "kind": "digital_transcription_correction",
+        "location": "57.3",
+        "page": 86,
+        "pdf_page": 106,
+        "pdf_sha256": "2d6f917773feb103a2a1df422bab0ec707b336819ab6a6f49829c31af939f326",
+        "printed_page": 86,
+        "reviewer_kind": "ai",
+        "work_location": "57.3"
+      }
+    ],
+    "location": "57.3",
+    "work_id": "athanasius-incarnation"
   }
 ]

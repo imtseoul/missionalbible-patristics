@@ -1261,6 +1261,16 @@ export default {
           "title": "클레멘스 2서",
           "work_id": "clement-2-corinthians",
           "work_passage_id": "clement-2-corinthians:lake-1914:14.5"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-24-4",
+          "label": "말씀의 성육신에 관하여 24.4",
+          "location": "24.4",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:24.4"
         }
       ],
       "title": "교회와 그리스도의 몸"
@@ -1748,6 +1758,26 @@ export default {
           "title": "디오그네토스에게 보낸 편지",
           "work_id": "diognetus",
           "work_passage_id": "diognetus:lake-1917:9.5"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-8-4",
+          "label": "말씀의 성육신에 관하여 8.4",
+          "location": "8.4",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:8.4"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-9-2",
+          "label": "말씀의 성육신에 관하여 9.2",
+          "location": "9.2",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:9.2"
         }
       ],
       "title": "한 사람의 의로움과 많은 사람의 구원"
@@ -2316,6 +2346,16 @@ export default {
           "title": "부활에 관하여",
           "work_id": "athenagoras-resurrection",
           "work_passage_id": "athenagoras-resurrection:25.125"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-56-3",
+          "label": "말씀의 성육신에 관하여 56.3",
+          "location": "56.3",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:56.3"
         }
       ],
       "title": "몸의 부활과 심판"
@@ -2928,6 +2968,36 @@ export default {
           "title": "부활에 관하여",
           "work_id": "athenagoras-resurrection",
           "work_passage_id": "athenagoras-resurrection:25.122"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-20-6",
+          "label": "말씀의 성육신에 관하여 20.6",
+          "location": "20.6",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:20.6"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-21-2",
+          "label": "말씀의 성육신에 관하여 21.2",
+          "location": "21.2",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:21.2"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-27-2",
+          "label": "말씀의 성육신에 관하여 27.2",
+          "location": "27.2",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:27.2"
         }
       ],
       "title": "영혼과 몸, 부활과 불멸"
@@ -4301,6 +4371,46 @@ export default {
           "title": "세라피온에게 보낸 제4서신",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:20"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-8-3",
+          "label": "말씀의 성육신에 관하여 8.3",
+          "location": "8.3",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:8.3"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-17-5",
+          "label": "말씀의 성육신에 관하여 17.5",
+          "location": "17.5",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:17.5"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-18-1",
+          "label": "말씀의 성육신에 관하여 18.1",
+          "location": "18.1",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:18.1"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-18-2",
+          "label": "말씀의 성육신에 관하여 18.2",
+          "location": "18.2",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:18.2"
         }
       ],
       "title": "말씀의 성육신과 온전한 인간성"
@@ -4575,6 +4685,16 @@ export default {
           "title": "세라피온에게 보낸 제4서신",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:23"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-57-3",
+          "label": "말씀의 성육신에 관하여 57.3",
+          "location": "57.3",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:57.3"
         }
       ],
       "title": "성령과 함께, 성령 안에서 드리는 영광송"
@@ -4959,6 +5079,36 @@ export default {
           "title": "세라피온에게 보낸 제4서신",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:4"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-11-1",
+          "label": "말씀의 성육신에 관하여 11.1",
+          "location": "11.1",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:11.1"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-14-6",
+          "label": "말씀의 성육신에 관하여 14.6",
+          "location": "14.6",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:14.6"
+        },
+        {
+          "author": "아타나시우스",
+          "html_path": "works/athanasius-incarnation/index.html#p-57-1",
+          "label": "말씀의 성육신에 관하여 57.1",
+          "location": "57.1",
+          "relation": "related_testimony",
+          "title": "말씀의 성육신에 관하여",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:57.1"
         }
       ],
       "title": "하나님을 아는 길과 인간의 한계"

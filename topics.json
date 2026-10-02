@@ -45,7 +45,7 @@
       "title": "초기 그리스도교와 로마 사회"
     }
   ],
-  "release_id": "alpha-0.25",
+  "release_id": "alpha-0.26.1",
   "schema_version": "patristics-topics-1",
   "topics": [
     {
@@ -9050,6 +9050,90 @@
           "translation_revision_id": "sha256:2b5928a8ede4e251501dbd77f8089343a535c870650ff86e6b10cb036800659a",
           "work_id": "clement-2-corinthians",
           "work_passage_id": "clement-2-corinthians:lake-1914:14.5"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 24.4, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-24-4",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-24-4",
+          "html_path": "works/athanasius-incarnation/index.html#p-24-4",
+          "label": "말씀의 성육신에 관하여 24.4",
+          "location": "24.4",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-24-4",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:5a474e40d1b86cc7a61155b2b63fc493c976bbc70c4b908d3d55f9ea779867c6",
+              "sha256:c668139b506a03ead4b84a862a6b1319fa07f3ceee66ba0f9deacc2570bf0069"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Γέγονε γοῦν τι θαυμαστὸν καὶ παράδοξον ὃν γὰρ ἐνόμιζον ἄτιμον ἐπιφέρειν θάνατον, οὗτος ἦν τρόπαιον κατ’ αὐτοῦ τοῦ θανάτου· διὸ οὐδὲ τὸν Ἰωάννου θάνατον ὑπέμεινε, διαιρουμένης τῆς κεφαλῆς, οὐδὲ ὡς Ἠσαίας ἐπρίσθη, ἵνα καὶ τῷ θανάτῳ ἀδιαίρετον καὶ ὁλόκληρον τὸ σῶμα φυλάξῃ, καὶ μὴ πρόφασις τοῖς βουλομένοις διαιρεῖν τὴν Ἐκκλησίαν γένηται."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:ad044b9e3a0a426de78fb0bff596d82d05a37b21a082a7b853d4577c44827320",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [
+              "요한의 참수와 이사야가 톱으로 잘렸다는 전승을 들어, 그리스도의 나뉘지 않은 몸을 교회의 분열과 연결한다. 이사야의 죽음은 이사야서에 기록된 사건이 아니다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "참으로 놀랍고 뜻밖의 일이 일어났습니다. 사람들이 수치스러운 죽음을 가한다고 여긴 그것이, 죽음 자체에 맞선 승리의 표지가 되었습니다. 그러므로 그분은 요한처럼 머리가 잘리는 죽음을 겪지 않으셨고, 이사야처럼 톱으로 잘리지도 않으셨습니다. 죽으실 때에도 몸을 나뉘지 않은 온전한 상태로 지켜, 교회를 갈라놓으려는 이들에게 구실을 주지 않으시려는 것이었습니다."
+          },
+          "translation_revision_id": "sha256:c856ce8490eb351e7b9081f0bd5076cd71ce6ad9c1888cd7c469d1783f770e1b",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:24.4"
         }
       ],
       "summary": "창세기의 남자와 여자를 교회와 그리스도에 연결하고 육신과 영에 참여하는 일을 설명합니다.",
@@ -12557,6 +12641,172 @@
           "translation_revision_id": "sha256:bdf6e6d6d1e9dbf65c0f40b3c8966575c6a8a2b9596b1152a90a8fbe2a2e84a0",
           "work_id": "diognetus",
           "work_passage_id": "diognetus:lake-1917:9.5"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 8.4, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-8-4",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-8-4",
+          "html_path": "works/athanasius-incarnation/index.html#p-8-4",
+          "label": "말씀의 성육신에 관하여 8.4",
+          "location": "8.4",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-8-4",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:633f8d4b0a1ef1b69e78821c1dc1948263e0df668dc15c7aa2c3071a127b5d3f",
+              "sha256:e303c8a5c1d489ecf04b4884b524dea4028a97cb45f1cf111dadc66783305cd0"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Καὶ οὕτως ἀπὸ τῶν ἡμετέρων τὸ ὅμοιον λαβών, διὰ τὸ πάντας ὑπευθύνους εἶναι τῇ τοῦ θανάτου φθορᾷ, ἀντὶ πάντων αὐτὸ θανάτῳ παραδιδοὺς, προσῆγε τῷ Πατρί, καὶ τοῦτο φιλανθρώπως ποιῶν, ἵνα ὡς μὲν πάντων ἀποθανόντων ἐν αὐτῷ λυθῇ ὁ κατὰ τῆς φθορᾶς τῶν ἀνθρώπων νόμος (ἄτε δὴ πληρωθείσης τῆς ἐξουσίας ἐν τῷ κυριακῷ σώματι, καὶ μηκέτι χώραν ἔχοντος κατὰ τῶν ὁμοίων ἀνθρώπων)· ὡς δὲ εἰς φθορὰν ἀναστρέψαντας τοὺς ἀνθρώπους πάλιν εἰς τὴν ἀφθαρσίαν ἐπιστρέψῃ, καὶ ζωοποιήσῃ τούτους ἀπὸ τοῦ θανάτου, τῇ τοῦ σώματος ἰδιοποιήσει, καὶ τῇ τῆς ἀναστάσεως χάριτι, τὸν θάνατον ἀπ’ αὐτῶν ὡς καλάμην ἀπὸ πυρὸς ἐξαφανίζων."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:46a290b669eb825778fd4029a6cb634c8909feae636e59935050c1cecdd85758",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "이처럼 우리에게서 우리와 같은 몸을 취하시고, 모든 사람이 죽음의 썩음에 책임이 있으므로, 모든 사람을 대신하여 그 몸을 죽음에 내어 주고 아버지께 바치셨습니다. 그분은 사람을 사랑하시는 마음으로 이렇게 하셨습니다. 모든 사람이 그 몸 안에서 죽은 것으로 되어, 사람들의 썩음에 관한 법이 해소되게 하셨습니다. 그 법의 권한이 주의 몸에서 성취되었으므로, 그와 같은 본성을 지닌 사람들에게 더는 그 법이 적용될 자리가 없기 때문입니다. 또 썩음으로 돌아섰던 사람들을 다시 썩지 않는 상태로 되돌리고 죽음에서 살아나게 하셨습니다. 그 몸을 자신의 것으로 삼으시고 부활의 은혜를 주셔서, 불에 짚이 사라지듯 그들에게서 죽음을 없애십니다."
+          },
+          "translation_revision_id": "sha256:dea217a66d25f8f69c3f591b0e1f4aa0e913c98df9034fe6e8637a27b372d15b",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:8.4"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 9.2, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-9-2",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-9-2",
+          "html_path": "works/athanasius-incarnation/index.html#p-9-2",
+          "label": "말씀의 성육신에 관하여 9.2",
+          "location": "9.2",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-9-2",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:732010a0710afbea1b72764df3d74047e18478446ca247fa20b3b8de4ccacffa",
+              "sha256:862cd2b6053a4127a38c14dca4b617be78acf5abd2aa962e3120cad24c7de98f"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ὑπὲρ πάντας γὰρ ὢν ὁ Λόγος τοῦ Θεοῦ εἰκότως τὸν ἑαυτοῦ ναὸν καὶ τὸ σωματικὸν ὄργανον προσάγων ἀντίψυχον ὑπὲρ πάντων, ἐπλήρου τὸ ὀφειλόμενον ἐν τῷ θανάτῳ· καὶ 〈οὕτως συνὼν〉 διὰ τοῦ ὁμοίου τοῖς πᾶσιν ὁ ἄφθαρτος τοῦ Θεοῦ Υἱὸς, εἰκότως τοὺς πάντας ἐνέδυσεν ἀφθαρσίαν ἐν τῇ περὶ τῆς ἀναστάσεως ἐπαγγελίᾳ. καὶ αὐτὴ γὰρ ἡ ἐν τῷ θανάτῳ φθορὰ κατὰ τῶν ἀνθρώπων οὐκέτι χώραν ἔχει διὰ τὸν ἐνοικήσαντα Λόγον ἐν τούτοις διὰ τοῦ ἑνός σώματος."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:d70ee7f280ea32cf4b3be61dc54020518368153c2e91416274fe128d7ae9bdd2",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [
+              "〈οὕτως συνὼν〉은 채택 본문에서 꺾쇠로 표시된 문구다. 인쇄 각주는 다른 전승의 표현도 제시한다. 본문에는 채택된 문구와 표지를 유지한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "하나님의 말씀은 모든 존재보다 높으시므로, 자신의 성전이며 육체의 도구인 몸을 모든 사람의 생명을 대신하여 바치셨습니다. 이로써 죽음에서 갚아야 할 빚을 채우셨습니다. 썩지 않는 하나님의 아들은 우리와 같은 몸을 통해 모든 사람과 이처럼 결합하셨기에, 부활에 관한 약속으로 모든 사람에게 썩지 않음을 입히셨습니다. 그분이 하나의 몸을 통해 사람들 안에 거하시므로, 죽음의 썩음 자체도 사람들에게 더는 적용될 자리가 없습니다."
+          },
+          "translation_revision_id": "sha256:82a11533a79fbf8857e0f7507bf0e8af010ce746e9d4f876ad0ab7e53b736604",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:9.2"
         }
       ],
       "summary": "아들의 보냄과 속량, 죄를 덮는 의로움을 교환이라는 말로 표현합니다.",
@@ -16606,6 +16856,88 @@
           "translation_revision_id": "sha256:a44c855c2860eda7aeda8011d864c7d9ce4cca1462d7b2ff0e6604c8d543bb9c",
           "work_id": "athenagoras-resurrection",
           "work_passage_id": "athenagoras-resurrection:25.125"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 56.3, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-56-3",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-56-3",
+          "html_path": "works/athanasius-incarnation/index.html#p-56-3",
+          "label": "말씀의 성육신에 관하여 56.3",
+          "location": "56.3",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-56-3",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:f79bf053cb9a310f1c8bfe01bbd0f129cf1775b3aa6a6900f88bc08b07670df1",
+              "sha256:b28cdc9ce5d5850cbb501bafa440c18456d8e7a7bff6b8bc805da54358f11e7b"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Γνώσῃ δὲ καὶ τὴν δευτέραν αὐτοῦ πάλιν πρὸς ἡμᾶς ἔνδοξον καὶ θείαν ἀληθῶς ἐπιφάνειαν, ὅτε οὐκ ἔτι μετὰ ταπεινότητος, ἀλλ’ ἐν τῇ ἰδίᾳ δόξῃ· ὅτε οὐκ ἔτι μετ’ εὐτελείας, ἀλλ’ ἐν τῇ ἰδίᾳ μεγαλειότητι· ὅτε οὐκ ἔτι παθεῖν, ἀλλὰ λοιπὸν τοῦ ἰδίου σταυροῦ τὸν καρπὸν ἀποδοῦναι πᾶσιν ἔρχεται· φημὶ δὴ τὴν ἀνάστασιν καὶ τὴν ἀφθαρσίαν· καὶ οὐκ ἔτι μὲν κρίνεται, κρινεῖ δὲ τοὺς πάντας, πρὸς ἃ ἕκαστος ἔπραξε διὰ τοῦ σώματος, εἴτε ἀγαθὰ, εἴτε φαῦλα· ἔνθα τοῖς μὲν ἀγαθοῖς ἀπόκειται βασιλεία οὐρανῶν, τοῖς δὲ τὰ φαῦλα πράξασι, πῦρ αἰώνιον καὶ σκότος ἐξώτερον."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:ca33dea37786554d40901246f452f1280813df6e645c0b468896d43add6039f1",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "당신은 그분이 우리에게 다시 나타나실 두 번째 나타남, 영광스럽고 참으로 신적인 나타남도 알게 될 것입니다. 그때에는 더 이상 낮아짐이 아니라 자신의 영광으로, 더 이상 낮은 모습이 아니라 자신의 위엄으로 오십니다. 더 이상 고난받으려고 오시지 않고, 이제 자신의 십자가의 열매를 모든 이에게 주려고 오십니다. 부활과 썩지 않음을 말합니다. 더 이상 심판받지 않으시고, 각 사람이 몸으로 행한 선하거나 악한 일들에 따라 모든 이를 심판하실 것입니다. 그곳에서 선한 이들에게는 하늘나라가 마련되어 있고, 악한 일들을 행한 이들에게는 영원한 불과 바깥 어둠이 마련되어 있습니다."
+          },
+          "translation_revision_id": "sha256:d6ffa94844130320bd7a517e22d14729280ae4bdd613711a4bcf14d7ec0e34da",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:56.3"
         }
       ],
       "summary": "식인 혐의에 대한 답변과 창조·몸의 부활·심판을 다루는 여러 문헌의 논증을 읽습니다.",
@@ -20918,6 +21250,254 @@
           "translation_revision_id": "sha256:59f8f3d863db69765b8a97d4342662d7e9819a29c81e2dd22f5c51c92cf12d21",
           "work_id": "athenagoras-resurrection",
           "work_passage_id": "athenagoras-resurrection:25.122"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 20.6, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-20-6",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-20-6",
+          "html_path": "works/athanasius-incarnation/index.html#p-20-6",
+          "label": "말씀의 성육신에 관하여 20.6",
+          "location": "20.6",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-20-6",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:3e475d7c783e068261d4685415d1e05771b8d1a9c9683fbcecfa71339fae82d8",
+              "sha256:eab500f6d3564041c32e34cf5e8182d418da888e58eb5ac701d08d2f1bdee03a"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ὅθεν, ὡς προεῖπον, ὁ Λόγος, ἐπεὶ οὐχ οἷόν τε ἦν αὐτὸν ἀποθανεῖν· ἀθάνατος γὰρ ἦν· ἔλαβεν ἑαυτῷ σῶμα τὸ δυνάμενον ἀποθανεῖν, ἵνα ὡς ἴδιον ἀντὶ πάντων αὐτὸ προσενέγκῃ, καὶ ὡς αὐτὸς ὑπὲρ πάντων πάσχων, διὰ τὴν πρὸς αὐτὸ ἐπίβασιν, καταργήσῃ τὸν τὸ κράτος ἔχοντα τοῦ θανάτου, τουτέστι τὸν διάβολον· καὶ ἀπαλλάξῃ τούτους, ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:6e6a3a61cc6f1fad2c5170169c1d68cd7a0e815799c914bc9b297c039bb7c22b",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그러므로 앞서 말했듯이, 말씀께서는 자신이 죽으실 수 없었기에 죽을 수 있는 몸을 취하셨습니다. 그분 자신은 죽지 않는 분이셨기 때문입니다. 그 몸을 자신의 것으로서 모든 사람을 대신하여 바치시고, 그 몸에 오심으로 자신이 모든 사람을 위해 고난받으시려는 것이었습니다. 그리하여 “죽음의 권세를 지닌 자, 곧 마귀를 무력하게 하고, 평생 죽음을 두려워하여 종살이에 매여 있던 이들을 풀어 주시려는 것”이었습니다."
+          },
+          "translation_revision_id": "sha256:f549c06cea138cca33a9ec969967da399318d353aa7352869577730d9c97e941",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:20.6"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 21.2, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-21-2",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-21-2",
+          "html_path": "works/athanasius-incarnation/index.html#p-21-2",
+          "label": "말씀의 성육신에 관하여 21.2",
+          "location": "21.2",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-21-2",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:ade1e91792e06e9ba748c343c8c60b5f32f0c356f19372f66b71770e3d142342",
+              "sha256:e58edaf15813520c06ce1907b26bfaa1f48f081a23fb8d8441ad9ed7a3802dc9"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Δίκην γὰρ τῶν ἐν τῇ γῇ καταβαλλομένων σπερμάτων, οὐκ ἀπολλύμεθα διαλυόμενοι, ἀλλ’ ὡς σπειρόμενοι ἀναστησόμεθα, καταργηθέντος τοῦ θανάτου κατὰ τὴν τοῦ Σωτῆρος χάριν. διὰ τοῦτο γοῦν καὶ ὁ μακάριος Παῦλος ἐγγυητὴς τῆς ἀναστάσεως πᾶσι γενόμενός φησι· δεῖ τὸ φθαρτὸν τοῦτο ἐνδύσασθαι ἀφθαρσίαν, καὶ τὸ θνητὸν τοῦτο ἐνδύσασθαι ἀθανασίαν· ὅταν δὲ τὸ θνητὸν τοῦτο ἐνδύσηται ἀθανασίαν, τότε γενήσεται ὁ λόγος ὁ γεγραμμένος· κατεπόθη ὁ θάνατος εἰς νῖκος. ποῦ σοῦ, θάνατε, τὸ κέντρον;"
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:979b4f09c87f8913c592b18ad813d30c42b808d3cac8867d50a7057388787657",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [
+              "바울의 인용은 고린도전서 15:53-55의 문구를 이어 쓴 것이다. 채택 본문의 인용 범위와 어순을 따른다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "땅에 뿌리는 씨앗처럼, 우리는 해체되어도 멸망하지 않습니다. 씨앗으로 뿌려진 것처럼 다시 일어날 것입니다. 구주의 은혜로 죽음이 무력해졌기 때문입니다. 그러므로 복된 바울도 모든 이에게 부활을 보증하며 말합니다. “이 썩을 것은 썩지 않음을 입어야 하고, 이 죽을 것은 죽지 않음을 입어야 합니다. 이 죽을 것이 죽지 않음을 입으면, 기록된 말씀이 이루어질 것입니다. 죽음이 승리 안에 삼켜졌다. 죽음아, 네 독침이 어디 있느냐?”"
+          },
+          "translation_revision_id": "sha256:6a2cc6ae9ae8c879256f9d1b3a026924a94a86897774285c1f21ee294ffe9698",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:21.2"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 27.2, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-27-2",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-27-2",
+          "html_path": "works/athanasius-incarnation/index.html#p-27-2",
+          "label": "말씀의 성육신에 관하여 27.2",
+          "location": "27.2",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-27-2",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:e14fd37f33b3d87f5e784f7179610e13c786ff91bb7a8b356b575f15f208eb8d",
+              "sha256:747028d7fea74ff766e44209aa4d754067426b17028dc35dbb6e05c1bf5e4763"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Πάλαι μὲν γὰρ πρὶν τὴν θείαν ἐπιδημίαν γενέσθαι τοῦ Σωτῆρος, φοβερὸς ἦν καὶ αὐτοῖς τοῖς ἀγίοις ὁ θάνατος, καὶ πάντες τοὺς ἀποθνήσκοντας ὡς φθειρομένους ἐθρήνουν. ἄρτι δὲ τοῦ Σωτῆρος ἀναστήσαντος τὸ σῶμα, οὐκέτι μὲν ὁ θάνατός ἐστι φοβερός, πάντες δὲ οἱ τῷ Χριστῷ πιστεύοντες ὡς οὐδὲν αὐτὸν ὄντα πατοῦσι, καὶ μᾶλλον ἀποθνήσκειν αἱροῦνται ἢ ἀρνήσασθαι τὴν εἰς Χριστὸν πίστιν. ἴσασι γὰρ ὄντως, ὅτι ἀποθνήσκοντες οὐκ ἀπόλλυνται, ἀλλὰ καὶ ζῶσι, καὶ ἄφθαρτοι διὰ τῆς ἀναστάσεως γίνονται."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:7fe29545f6955b0204ff49d093996a9cf4702419fa6b7e974af60fba68b3e60f",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "옛날 구주께서 신적으로 오시기 전에는 성도들조차 죽음을 두려워했습니다. 모든 이가 죽는 사람들을 썩어 사라지는 이들로 여기며 애도했습니다. 그러나 이제 구주께서 몸을 다시 일으키셨기에, 죽음은 더 이상 두렵지 않습니다. 그리스도를 믿는 모든 이는 죽음을 아무것도 아닌 것으로 여기며 밟고, 그리스도를 향한 믿음을 부인하기보다 죽음을 택합니다. 그들은 죽어도 멸망하지 않고 살아 있으며, 부활을 통해 썩지 않는 존재가 됨을 참으로 압니다."
+          },
+          "translation_revision_id": "sha256:82e0ca5bd16d35042115dcdf1ad868232a6f061c256ca928d516682977771359",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:27.2"
         }
       ],
       "summary": "영혼과 몸의 관계, 지속과 부활을 각 문헌이 어떻게 설명하는지 비교합니다.",
@@ -32160,9 +32740,337 @@
           "translation_revision_id": "sha256:80db1b66200f26670272bf8a3baed98c83a0a3903caa7a94c277a6e0eb9897d7",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:20"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 8.3, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-8-3",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-8-3",
+          "html_path": "works/athanasius-incarnation/index.html#p-8-3",
+          "label": "말씀의 성육신에 관하여 8.3",
+          "location": "8.3",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-8-3",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:e42b629d1c3b8006469461f8dbe193b68c52598225342c1b659f3d63ac606587",
+              "sha256:1daf2a6cda4d1de32b7bca1f3298bf1e955a3484ef14fc71e64ed4194475ac91"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Οὐ γὰρ ἀπλῶς ἠθέλησεν ἐν σώματι γενέσθαι, οὐδὲ μόνον ἤθελε φανῆναι· ἐδύνατο γὰρ, εἰ μόνον ἤθελε φανῆναι, καὶ δ’ ἑτέρου κρείττονος τὴν θεοφάνειαν αὐτοῦ ποιήσασθαι· ἀλλὰ λαμβάνει τὸ ἡμέτερον, καὶ τοῦτο οὐχ ἀπλῶς, ἀλλ’ ἐξ ἀχράντου καὶ ἀμιάντου ἀνδρὸς ἀπείρου παρθένου, καθαρὸν καὶ ὄντως ἀμιγὲς τῆς ἀνδρῶν συνουσίας. αὐτὸς γὰρ δυνατὸς ὢν καὶ δημιουργὸς τῶν ὅλων, ἐν τῇ Παρθένῳ κατασκευάζει ἑαυτῷ ναὸν τὸ σῶμα, καὶ ἰδιοποιεῖται τοῦτο ὥσπερ ὄργανον, ἐν αὐτῷ γνωριζόμενος καὶ ἐνοικῶν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:3f441220b5a97d55a56a89496de858f2e180df0bd8fb7768b9fe876961aa6c79",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그분은 그저 몸 안에 계시기만 하려 하신 것도, 겉으로 나타나기만 하려 하신 것도 아닙니다. 나타나기만 원하셨다면, 더 뛰어난 다른 것을 통해 자신의 신적인 현현을 이루실 수도 있었습니다. 그분은 우리의 몸을 취하십니다. 아무 몸이나 취하신 것이 아닙니다. 흠 없고 더럽혀지지 않았으며 남자를 경험하지 않은 처녀에게서, 깨끗하고 참으로 남자와의 결합이 섞이지 않은 몸을 취하십니다. 그분 자신이 능력 있는 만물의 창조주이시므로, 처녀 안에서 자신의 성전인 몸을 마련하십니다. 그리고 도구와 같이 그 몸을 자신의 것으로 삼아, 그 안에 거하시며 자신을 알리십니다."
+          },
+          "translation_revision_id": "sha256:a67c672acac92bd9eb809a8dda1ba0ccb6382a33a53e5d76e6731d1554a7fc58",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:8.3"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 17.5, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-17-5",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-17-5",
+          "html_path": "works/athanasius-incarnation/index.html#p-17-5",
+          "label": "말씀의 성육신에 관하여 17.5",
+          "location": "17.5",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-17-5",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:3d07246fdaeef6d411e715256cd9a510c5621a3ffad810cc4bbc36278f9091af",
+              "sha256:cddbc95c70ad78b496ad0a8afc832a93292df151c75d9551279778d28306116e"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Καὶ τὸ θαυμαστὸν τοῦτο ἦν, ὅτι καὶ ὡς ἄνθρωπος ἐπολιτεύετο, καὶ ὡς Λόγος τὰ πάντα ἐζωογόνει, καὶ ὡς Υἱὸς τῷ Πατρὶ συνῆν. ὅθεν οὐδὲ τῆς Παρθένου τικτούσης ἔπασχεν αὐτός, οὐδὲ ἐν σώματι ὢν ἐμολύνετο· ἀλλὰ μᾶλλον καὶ τὸ σῶμα ἡγίαζεν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:d68b58640074966917007cf9a464a00452098881a0dfc04807a81798f65f0512",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "놀라운 일은 이것입니다. 그분은 인간으로서 살아가시고, 말씀으로서 만물에 생명을 주시며, 아들로서 아버지와 함께 계셨습니다. 그러므로 처녀가 출산할 때 그분 자신이 해를 입으신 것도 아니고, 몸 안에 계시면서 더럽혀지신 것도 아닙니다. 오히려 그 몸까지 거룩하게 하셨습니다."
+          },
+          "translation_revision_id": "sha256:158b69741a342a9dae1f2f789efb20211ac4b26c03fc5408a41108592bfb1326",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:17.5"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 18.1, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-18-1",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-18-1",
+          "html_path": "works/athanasius-incarnation/index.html#p-18-1",
+          "label": "말씀의 성육신에 관하여 18.1",
+          "location": "18.1",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-18-1",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:5e9452cf4c9f12eb69ce126f7e9727e148766254b0cb4369fe9f97b80b5f4978",
+              "sha256:9c339ad7c93dd7ebd0ca41ae5749582a8616f904d91a3528e6222a6a7464d095"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ὅταν τοίνυν ἐσθίοντα καὶ πίνοντα καὶ τικτόμενον αὐτὸν λέγωσιν οἱ περὶ τούτου θεολόγοι, γίνωσκε ὅτι τὸ μὲν σῶμα, ὡς σῶμα, ἐτίκτετο καὶ καταλλήλοις ἐτρέφετο τροφαῖς, αὐτὸς δὲ ὁ συνὼν τῷ σώματι Θεὸς Λόγος τὰ πάντα διακοσμῶν, καὶ δι’ ὦν εἰργάζετο ἐν τῷ σώματι οὐκ ἄνθρωπον ἑαυτόν, ἀλλὰ Θεὸν Λόγον ἐγνώριζεν. λέγεται δὲ περὶ αὐτοῦ ταῦτα, ἐπειδὴ καὶ τὸ σῶμα ἐσθίον καὶ τικτόμενον καὶ πάσχον, οὐχ ἑτέρου τινός, ἀλλὰ τοῦ Κυρίου ἦν· καὶ ὅτι ἀνθρώπου γενομένου, ἔπρεπε καὶ ταῦτα ὡς περὶ ἀνθρώπου λέγεσθαι, ἵνα ἀληθείᾳ καὶ μὴ φαντασίᾳ σῶμα ἔχων φαίνηται."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:b74d8ec47fe01aa94b5a6bee06e993cd9ffe01874a116aff1b8d1f9584cd48fb",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그러므로 그분에 관해 신성한 말씀을 전하는 이들이 그분이 먹고 마시고 태어나셨다고 할 때, 이것을 알아 두십시오. 그 몸은 몸으로서 태어났고 몸에 맞는 음식을 먹었습니다. 그 몸과 함께 계신 하나님의 말씀 자신은 만물을 질서 있게 다스리셨고, 몸 안에서 행하시는 일들로 자신이 인간이 아니라 하나님의 말씀이심을 알게 하셨습니다. 그분에 관해 이런 말을 하는 까닭은, 먹고 태어나고 고난받는 그 몸이 다른 누구의 몸이 아니라 주님의 몸이었기 때문입니다. 그분은 사람이 되셨으므로, 인간에 관해 말하듯 그분에 관해서도 이러한 일들을 말하는 것이 마땅합니다. 그리하여 그분이 겉모습만이 아니라 실제로 몸을 지니셨음이 드러납니다."
+          },
+          "translation_revision_id": "sha256:706aca4d8db2764c550ba58a97832d321aee6b4b0ae5af2710265a9bcd5ac05f",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:18.1"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 18.2, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-18-2",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-18-2",
+          "html_path": "works/athanasius-incarnation/index.html#p-18-2",
+          "label": "말씀의 성육신에 관하여 18.2",
+          "location": "18.2",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-18-2",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:b5ee4ed72b70872c01d3bb4989dce8ac56c3663dca8d21a7be1486da8753472c",
+              "sha256:a8861de820dddc585c39685574e190a61efe284a3bdd336e1ff370317c6c98c8"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ἀλλ’ ὥσπερ ἐκ τούτων ἐγινώσκετο σωματικῶς παρών, οὕτως ἐκ τῶν ἔργων ὧν ἐποίει διὰ τοῦ σώματος, Υἱὸν Θεοῦ ἑαυτὸν ἐγνώριζεν. ὅθεν καὶ πρὸς τοὺς ἀπίστους Ἰουδαίους ἐβόα λέγων· εἰ οὐ ποιῶ τὰ ἔργα τοῦ Πατρός μου, μὴ πιστεύητέ μοι· εἰ δὲ ποιῶ, κἂν ἐμοὶ μὴ πιστεύητε, τοῖς ἔργοις μου πιστεύσατε· ἵνα γνῶτε καὶ γινώσκητε, ὅτι ἐν ἐμοὶ ὁ Πατὴρ κἀγὼ ἐν τῷ Πατρί."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:e9378b02432fffd4764806c9ce9903ec7843dc8e4c4b8dccad9bc5ea348ea7f7",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "이런 일들을 통해 그분이 몸으로 와 계심을 알 수 있었듯이, 몸을 통해 하시는 일들로 그분은 자신이 하나님의 아들이심을 알게 하셨습니다. 그러므로 믿지 않는 유대인들에게 큰 소리로 말씀하셨습니다. “내가 내 아버지의 일들을 하지 않는다면 나를 믿지 마십시오. 그러나 내가 그 일들을 한다면, 나를 믿지 않더라도 내 일들을 믿으십시오. 아버지께서 내 안에 계시고 나도 아버지 안에 있다는 것을 여러분이 알고 깨닫게 하려는 것입니다.”"
+          },
+          "translation_revision_id": "sha256:99ef1164ede1a3f6983d6a9c765bc467e13d5a8aa66dbcb81cfdb4b0bb6d39bb",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:18.2"
         }
       ],
-      "summary": "신조와 안티오키아 서한, 나지안조스의 그레고리오스의 강론에서 몸과 영혼과 정신을 취하신 말씀과 구원을 읽습니다.",
+      "summary": "신조와 아타나시우스의 문헌, 나지안조스의 그레고리오스의 강론에서 말씀의 실제 몸과 몸·영혼·정신을 취하신 구원을 읽습니다.",
       "title": "말씀의 성육신과 온전한 인간성"
     },
     {
@@ -34399,6 +35307,90 @@
           "translation_revision_id": "sha256:8a670d2c01ee1e3ef7938d08c2eb504a3ddf2f1689838a5f5480c8e5d29efeeb",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:23"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 57.3, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-57-3",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-57-3",
+          "html_path": "works/athanasius-incarnation/index.html#p-57-3",
+          "label": "말씀의 성육신에 관하여 57.3",
+          "location": "57.3",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-57-3",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:7dd4261fae122a3a55775abfb710d5cb50b009c4f6bfa4208ce2ff3b16eba50b",
+              "sha256:3d4d3fb5ebbbcbf89b67ad7119a073bbb5d0642358f7dc681b537cd23de6a60f"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ὥσπερ γὰρ εἴ τις ἐθελήσειεν ἰδεῖν τὸ τοῦ ἡλίου φῶς, πάντως τὸν ὀφθαλμὸν ἀποσμήχει καὶ λαμπρύνει, σχεδὸν ὅμοιον τῷ ποθουμένῳ ἑαυτὸν διακαθαίρων, ἵνα οὕτως φῶς γενόμενος ὁ ὀφθαλμὸς τὸ τοῦ ἡλίου φῶς ἴδῃ, ἢ ὡς εἴ τις θελήσειεν ἰδεῖν πόλιν ἢ χώραν, πάντως ἐπὶ τὸν τόπον ἀφικνεῖται τῆς θέας ἕνεκεν· οὕτως ὁ θέλων τῶν θεολόγων τὴν διάνοιαν καταλαβεῖν, προαπονίψαι καὶ προαποπλῦναι τῷ βίῳ τὴν ψυχὴν ὀφείλει, καὶ πρὸς αὐτοὺς τοὺς ἁγίους ἀφικέσθαι τῇ ὁμοιότητι τῶν πράξεων αὐτῶν ἵνα σὺν αὐτοῖς τῇ ἀγωγῇ τῆς συζήσεως γενόμενος, τὰ καὶ αὐτοῖς ἀποκαλυφθέντα παρὰ Θεοῦ κατανοήσῃ, καὶ λοιπὸν ὡς ἐκείνοις συναφθεὶς ἐκφύγῃ μὲν τὸν τῶν ἁμαρτωλῶν κίνδυνον καὶ τὸ τούτων πῦρ ἐν τῇ ἡμέρᾳ τῆς κρίσεως, ἀπολάβῃ δὲ τὰ τοῖς ἀγίοις ἀποκείμενα ἐν τῇ τῶν οὐρανῶν βασιλείᾳ, ἃ ὀφθαλμὸς οὐκ εἶδεν, οὐδὲ οὖς ἤκουσεν, οὐδὲ ἐπὶ καρδίαν ἀνθρώπων ἀνέβη, ὅσα ἡτοίμασται τοῖς κατ’ ἀρετὴν βιοῦσι, καὶ ἀγαπῶσι τὸν Θεὸν καὶ Πατέρα, ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν, δι’ οὗ καὶ μεθ’ οὗ αὐτῷ τῷ Πατρὶ σὺν αὐτῷ τῷ Υἱῷ ἐν ἁγίῳ Πνεύματι, τιμὴ καὶ κράτος καὶ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:e1dc104b880dee61efd8b90db04125947d258bea02bf2aea33fb3c9aac5b3ccd",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [
+              "끝부분의 눈과 귀와 마음에 관한 말은 고린도전서 2:9의 표현을 이어 쓴 것이다. 채택 본문은 덕 있게 살며 하나님을 사랑하는 이들에게 준비된 것들이라고 설명한 뒤 삼위의 송영으로 끝난다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "누군가 해의 빛을 보고 싶다면, 반드시 눈을 닦고 밝게 합니다. 보고 싶은 것과 거의 같아질 만큼 자신을 깨끗하게 하여, 눈이 이처럼 빛이 되어 해의 빛을 보게 합니다. 또 누군가 도시나 지방을 보고 싶다면, 보기 위해 반드시 그곳으로 갑니다. 그와 같이 신성한 말씀을 전한 이들의 생각을 깨닫고 싶은 사람은, 삶으로 영혼을 미리 씻고 깨끗하게 해야 합니다. 그들의 행동을 닮음으로 성도들 자신에게 가까이 가야 합니다. 그들과 함께 사는 삶의 방식에 참여하여, 하나님께서 그들에게도 드러내신 것들을 이해하려는 것입니다. 그리하여 이제 그들과 결합한 이로서, 심판 날에 죄인들의 위험과 그들의 불을 피하고, 하늘나라에 성도들을 위해 마련된 것들을 받게 하려는 것입니다. 그것들은 “눈이 보지 못했고 귀가 듣지 못했으며 사람들의 마음에 떠오르지 않은 것들”입니다. 덕에 따라 살며 하나님 아버지를 사랑하는 이들을 위해, 우리 주 그리스도 예수 안에서 준비된 것들입니다. 그분을 통해 또 그분과 더불어, 성령 안에서 아들과 함께 아버지 자신에게 존귀와 권세와 영광이 영원무궁하도록 있기를 빕니다. 아멘."
+          },
+          "translation_revision_id": "sha256:2ea00267e73a9f31c3ea73b566cf60436a1f82accba6f836d7a7f47c701addca",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:57.3"
         }
       ],
       "summary": "바실리오스의 영광송과 교부 인용, 나지안조스의 그레고리오스의 전치사 논증과 공동 경배를 읽습니다.",
@@ -37575,6 +38567,252 @@
           "translation_revision_id": "sha256:62e597ce520c1e5c8a87547314754c156d1320127c87638dd6690677c33d9354",
           "work_id": "athanasius-serapion-4",
           "work_passage_id": "athanasius-serapion-4:4"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 11.1, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-11-1",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-11-1",
+          "html_path": "works/athanasius-incarnation/index.html#p-11-1",
+          "label": "말씀의 성육신에 관하여 11.1",
+          "location": "11.1",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-11-1",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:384bcc0cd2f21686cc9bbf80a8fdd418ebea979f38ca788cb20072a00850f1b5",
+              "sha256:249c2d09f3a297bbb5442aa4d51c76dbe59aefed47f838770a2d827548b7ec6e"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ὁ Θεὸς, ὁ πάντων ἔχων τὸ κράτος, ὅτε τὸ τῶν ἀνθρώπων γένος διὰ τοῦ ἰδίου Λόγου ἐποίει, κατιδὼν πάλιν τὴν ἀσθένειαν τῆς φύσεως αὐτῶν, ὡς οὐχ ἱκανὴ εἴη ἐξ ἑαυτῆς γνῶναι τὸν δημιουργὸν, οὐδ’ ὅλως ἔννοιαν λαβεῖν Θεοῦ, τῷ τὸν μὲν εἶναι ἀγένητον, τὰ δὲ ἐξ οὐκ ὄντων γεγενῆσθαι, καὶ τὸν μὲν ἀσώματον εἶναι, τοὺς δὲ ἀνθρώπους κάτω που σώματι πεπλάσθαι, καὶ ὅλως πολλὴν εἶναι τὴν τῶν γενητῶν ἔλλειψιν πρὸς τὴν τοῦ πεποιηκότος κατάληψιν καὶ γνῶσιν· ἐλεήσας πάλιν τὸ γένος τὸ ἀνθρώπινον, ἄτε δὴ ἀγαθὸς ὢν, οὐκ ἀφῆκεν αὐτοὺς ἐρήμους τῆς ἑαυτοῦ γνώσεως, ἵνα μὴ ἀνόνητον ἔχωσι καὶ τὸ εἶναι."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:09a2e8072e4d749c2ec7f9aff16d022d4efb06ab56fed43e106ef191fa5c4981",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "만물의 권능을 지니신 하나님께서는 자신의 말씀을 통해 인간 종족을 만드실 때, 그들의 본성이 약하여 스스로 창조주를 알거나 하나님에 대한 생각을 지니기에 충분하지 못함을 보셨습니다. 하나님은 창조되지 않으신 분이지만 그들은 존재하지 않던 데서 생겨났습니다. 하나님은 몸이 없으시지만 사람들은 이 아래에서 몸을 지닌 존재로 빚어졌습니다. 피조물들은 자신들을 만드신 분을 이해하고 아는 데 크게 부족했습니다. 그분은 선하시므로 인간 종족을 다시 긍휼히 여기시고, 자신을 알지 못한 채 내버려 두지 않으셨습니다. 그들의 존재 자체가 무익한 것이 되지 않도록 하셨습니다."
+          },
+          "translation_revision_id": "sha256:3f7a1afff67e144811aabc1be6cc274054d35bad2391d3840a9bec54b7db4b6b",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:11.1"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 14.6, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-14-6",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-14-6",
+          "html_path": "works/athanasius-incarnation/index.html#p-14-6",
+          "label": "말씀의 성육신에 관하여 14.6",
+          "location": "14.6",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-14-6",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:8545e0048e55e6a1d712bbbe8db2e62d5b653469e4d7f59ae5a391417a32cc2a",
+              "sha256:02d0f9a82145761d3da256335a2e34946ceec40e5dd2da43d9fe5f2a61073333"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Τίνος οὖν ἦν πάλιν χρεία τοῦ Θεοῦ Λόγου τοῦ καὶ ψυχὴν καὶ νοῦν ὁρῶντος, τοῦ καὶ τὰ ὅλα ἐν τῇ κτίσει κινοῦντος, καὶ δι’ αὐτῶν γνωρίζοντος τὸν Πατέρα; τοῦ γὰρ διὰ τῆς ἰδίας προνοίας καὶ διακοσμήσεως τῶν ὅλων διδάσκοντος περὶ τοῦ Πατρὸς, αὐτοῦ ἦν καὶ τὴν αὐτὴν διδασκαλίαν ἀνανεῶσαι."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:5edda1808ccaaa119541bf6b75e380292d3e17f795f81f2a25784f34e2eec444",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그렇다면 다시 누구를 필요로 했겠습니까? 영혼과 생각을 보시고, 창조 세계의 만물을 움직이며, 그것들을 통해 아버지를 알리시는 하나님의 말씀입니다. 자신의 섭리와 만물의 질서로 아버지를 가르치셨던 분이 그 동일한 가르침을 다시 새롭게 하셔야 했습니다."
+          },
+          "translation_revision_id": "sha256:d155adb85b3536c4df3087550b56b459923d68363f502b8ce2bee0c0c1a068c2",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:14.6"
+        },
+        {
+          "author": "아타나시우스",
+          "citation": "아타나시우스, 『말씀의 성육신에 관하여』 57.1, 그리스어 편집 본문, Robertson 1893, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.26.1, https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-57-1",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.26.1/athanasius-incarnation/index.html#p-57-1",
+          "html_path": "works/athanasius-incarnation/index.html#p-57-1",
+          "label": "말씀의 성육신에 관하여 57.1",
+          "location": "57.1",
+          "public_url": "https://patristics.missionalbible.org/works/athanasius-incarnation/index.html#p-57-1",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:17dfc0f654b40ba507a5e23583f2ce85d5007f50b871b4e3bff60dcd00afff28",
+              "sha256:b5febf051d42c68fd439fd47eb13c10bb79d83716fd7ab84f3bee4bac1454dd4"
+            ]
+          },
+          "rights": {
+            "athanasius-incarnation-first1k-cc-by-sa-4.0": {
+              "attribution": "Athanasius; Archibald Robertson; David Nutt; Open Greek and Latin / First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "개별 이용허락을 명시한 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athanasius-incarnation-notes-cc-by-sa-4.0": {
+              "attribution": "Codex 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "robertson-1893-incarnation",
+            "edition_label": "Archibald Robertson 편집, St. Athanasius On The Incarnation, 2nd edition, based on the Codex Seguerianus, London: David Nutt, 1893, 1-86쪽",
+            "rights_id": "athanasius-incarnation-first1k-cc-by-sa-4.0",
+            "text": "Ἀλλὰ πρὸς τὴν ἐκ τῶν γραφῶν ἔρευναν καὶ γνῶσιν ἀληθῆ, χρεία βίου καλοῦ καὶ ψυχῆς καθαρᾶς καὶ τῆς κατὰ Χριστὸν ἀρετῆς, ἵνα δι’ αὐτῆς ὁδεύσας ὁ νοῦς, τυχεῖν ὧν ὀρέγεται καὶ καταλαβεῖν δυνηθῇ, καθ’ ὅσον ἐφικτόν ἐστι τῇ ἀνθρώπων φύσει περὶ τοῦ Θεοῦ Λόγου μανθάνειν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:8c2d2de519088b220c73540aea28d5fa46c9d01ccabd6f5c36c7fd0daf3a1c4e",
+          "title": "말씀의 성육신에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그러나 성경을 탐구하여 참된 지식을 얻으려면 좋은 삶과 깨끗한 영혼, 그리스도를 따르는 덕이 필요합니다. 그 덕을 따라 걸어온 정신이, 인간의 본성으로 하나님의 말씀에 관해 배울 수 있는 만큼, 자신이 갈망하는 것을 얻고 깨달을 수 있게 하려는 것입니다."
+          },
+          "translation_revision_id": "sha256:49d9cc4017118fc554c3e79483f581508888069881fc39106e5edc1a4cc2e1ae",
+          "work_id": "athanasius-incarnation",
+          "work_passage_id": "athanasius-incarnation:57.1"
         }
       ],
       "summary": "창조의 질서와 하나님의 본성, 현재의 지식과 미래의 앎, 삼위일체 비유의 쓰임과 한계를 읽습니다.",
