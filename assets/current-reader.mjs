@@ -24,20 +24,38 @@ async function loadCurrentReader() {
   const fallback = document.querySelector('[data-reader-load-fallback]');
   const current = new URL(location.href);
   let recoveryHref = null;
-  try {
-    const config = JSON.parse(node.textContent);
-    if (config.schema_version !== 'patristics-current-reader-1') throw new Error('Invalid reader configuration');
-    const source = readerSourceURL(config.source_path, current);
-    const recovery = new URL(source); recovery.search = current.search; recovery.hash = current.hash;
-    recoveryHref = recovery.href;
-    fallback.href = recovery.href;
-    const params = current.searchParams;
+  let source;
+  let userMoved = false;
+  const markIntent = event => {
+    if (event.type === 'keydown' && !['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)) return;
+    userMoved = true;
+  };
+  const syncNavigation = () => {
+    userMoved = false;
+    if (source) {
+      const recovery = new URL(source); recovery.search = location.search; recovery.hash = location.hash;
+      recoveryHref = recovery.href;
+      if (fallback?.isConnected) fallback.href = recoveryHref;
+    }
+    const params = new URL(location.href).searchParams;
     if (params.get('topic')) {
       const back = new URL('/topics.html', current);
-      for (const key of ['group', 'q', 'read', 'compare']) if (params.has(key)) back.searchParams.set(key, params.get(key));
+      for (const key of ['group', 'q', 'read', 'compare', 'pane']) if (params.has(key)) back.searchParams.set(key, params.get(key));
       back.hash = 'topic-' + params.get('topic');
       for (const link of document.querySelectorAll('.site-header a')) if (new URL(link.href).pathname.endsWith('/topics.html')) link.href = back.href;
     }
+  };
+  for (const event of ['wheel','touchmove','keydown','pointerdown']) window.addEventListener(event, markIntent, {passive:true});
+  window.addEventListener('hashchange', syncNavigation);
+  const cleanIntent = () => {
+    for (const event of ['wheel','touchmove','keydown','pointerdown']) window.removeEventListener(event, markIntent);
+    window.removeEventListener('hashchange', syncNavigation);
+  };
+  try {
+    const config = JSON.parse(node.textContent);
+    if (config.schema_version !== 'patristics-current-reader-1') throw new Error('Invalid reader configuration');
+    source = readerSourceURL(config.source_path, current);
+    syncNavigation();
     try {
       const size = Number(localStorage.getItem('patristics-ko-reader-font-size-v1'));
       if ([80,90,100,110,120,130,140].includes(size)) document.documentElement.style.setProperty('--reader-text-scale', String(size / 100));
@@ -66,26 +84,30 @@ async function loadCurrentReader() {
       if (module.origin !== current.origin || !module.pathname.startsWith('/assets/')) throw new Error('Invalid reader controller');
       await import(module.href);
     }
-    let userMoved = false;
-    const markIntent = () => { userMoved = true; };
-    for (const event of ['wheel','touchmove','keydown','pointerdown']) window.addEventListener(event, markIntent, {once:true, passive:true});
     const settle = () => {
-      if (userMoved || !current.hash) return;
-      let id; try { id = decodeURIComponent(current.hash.slice(1)); } catch { return; }
-      requestAnimationFrame(() => document.getElementById(id)?.scrollIntoView({block:'start'}));
+      if (userMoved || !location.hash) return;
+      const hash = location.hash;
+      let id; try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
+      requestAnimationFrame(() => {
+        if (!userMoved && location.hash === hash) document.getElementById(id)?.scrollIntoView({block:'start'});
+      });
     };
     const observer = new MutationObserver(() => {
       if (document.querySelector('.reader-topic-context,.topic-context-fallback')) { observer.disconnect(); settle(); }
     });
     if (current.searchParams.has('topic') && !document.querySelector('.reader-topic-context,.topic-context-fallback')) {
       observer.observe(document.body, {childList:true, subtree:true});
-      setTimeout(() => observer.disconnect(), 10000);
+      setTimeout(() => { observer.disconnect(); cleanIntent(); }, 10000);
+    } else {
+      setTimeout(cleanIntent, 1000);
     }
     settle();
     document.body.dataset.readerReady = 'true';
   } catch {
+    syncNavigation();
     if (message?.isConnected) message.textContent = '본문을 불러오지 못했습니다. 아래에서 이어 읽을 수 있습니다.';
     if (!fallback?.isConnected && recoveryHref) location.replace(recoveryHref);
+    cleanIntent();
   }
 }
 

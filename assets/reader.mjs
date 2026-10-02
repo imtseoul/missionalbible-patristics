@@ -149,7 +149,7 @@ async function installTopicContext() {
     update();
   } catch {
     const fallback=document.createElement('a');fallback.className='topic-context-fallback';fallback.textContent='주제별 탐색으로 돌아가기';
-    const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;if(params.get('q'))url.searchParams.set('q',params.get('q'));if(params.get('group'))url.searchParams.set('group',params.get('group'));fallback.href=url;
+    const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;for(const key of ['group','q','read','compare','pane'])if(params.has(key))url.searchParams.set(key,params.get(key));fallback.href=url;
     document.querySelector('.work-context')?.prepend(fallback);
   }
 }
