@@ -1,7 +1,7 @@
 import {markedText} from './text-matches.mjs';
 import {installPhraseHover} from './phrase-hover.mjs';
 import {installTopicComparison,comparisonPair} from './topic-comparison.mjs';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=140fe6998252';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=bbf25fc01547';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));

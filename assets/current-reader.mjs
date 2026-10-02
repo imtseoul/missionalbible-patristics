@@ -89,7 +89,11 @@ async function loadCurrentReader() {
       const hash = location.hash;
       let id; try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
       requestAnimationFrame(() => {
-        if (!userMoved && location.hash === hash) document.getElementById(id)?.scrollIntoView({block:'start'});
+        // Resize observers measure the restored header and controls after the
+        // first frame. Scroll with their final padding on the following frame.
+        requestAnimationFrame(() => {
+          if (!userMoved && location.hash === hash) document.getElementById(id)?.scrollIntoView({block:'start'});
+        });
       });
     };
     const observer = new MutationObserver(() => {
