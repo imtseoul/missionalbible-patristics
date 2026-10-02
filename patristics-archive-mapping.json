@@ -1,13 +1,19 @@
 {
   "commit": "9565e831ba9dfa544946315a47df4abc0a826114",
+  "current_json_policy": "selected_new_JSON_pinned_to_immutable_archive_existing_public_routes_retained",
   "current_jsonl_policy": "new_JSONL_pinned_to_immutable_archive_existing_public_routes_retained",
   "download_compatibility": {
     "policy": "published-raw-bytes-retained-1",
-    "restored_routes": 110,
-    "retained_routes": 528
+    "restored_routes": 111,
+    "retained_routes": 529
   },
+  "external_current_json_data": [
+    "releases/alpha-0.27/athenagoras-plea/passages.json"
+  ],
   "external_current_jsonl_data": [
-    "releases/alpha-0.26.2/athanasius-incarnation/passages.jsonl"
+    "releases/alpha-0.27/athenagoras-plea/passages.jsonl",
+    "releases/alpha-0.27/athenagoras-resurrection/passages.jsonl",
+    "releases/alpha-0.27/tatian-greeks/passages.jsonl"
   ],
   "external_historical_data": [
     "releases/alpha-0.1/didache/passages.jsonl",
@@ -627,6 +633,10 @@
     "releases/alpha-0.26.2/athanasius-incarnation/passages.jsonl",
     "releases/alpha-0.26/athanasius-incarnation/passages.json",
     "releases/alpha-0.26/athanasius-incarnation/passages.jsonl",
+    "releases/alpha-0.27/athenagoras-plea/passages.json",
+    "releases/alpha-0.27/athenagoras-plea/passages.jsonl",
+    "releases/alpha-0.27/athenagoras-resurrection/passages.jsonl",
+    "releases/alpha-0.27/tatian-greeks/passages.jsonl",
     "releases/alpha-0.3/didache/passages.jsonl",
     "releases/alpha-0.3/ignatius-philadelphians/passages.jsonl",
     "releases/alpha-0.3/ignatius-polycarp/passages.jsonl",
@@ -3796,6 +3806,26 @@
       "sha256": "625fe1fe8bd3f357aaa396da8c0a109c5f99d71171f231fc14759168bc61af93",
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/b2ff5d3be588f8217215d8c69fe39918d917562c/releases/alpha-0.26/athanasius-incarnation/passages.jsonl"
     },
+    "releases/alpha-0.27/athenagoras-plea/passages.json": {
+      "git_blob": "782b507ca61d7492493d080e41e2af212fd5623c",
+      "sha256": "bdbf55d03a1ea4fdc781ab0ad45ad984b2e8cda15b4a6f0b59c2908a04e643f7",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/a8150729faa1679da9b3019779d0607582594991/releases/alpha-0.27/athenagoras-plea/passages.json"
+    },
+    "releases/alpha-0.27/athenagoras-plea/passages.jsonl": {
+      "git_blob": "bad39902e3e92256e5f622b9e3b4ed6dffbefa1f",
+      "sha256": "3ab2ceca48e5cd20c34a226012b680445efceed1aa92c460b11dea8836c8fb50",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/a8150729faa1679da9b3019779d0607582594991/releases/alpha-0.27/athenagoras-plea/passages.jsonl"
+    },
+    "releases/alpha-0.27/athenagoras-resurrection/passages.jsonl": {
+      "git_blob": "02a1c416111fcf5bdde5881a1ed755a400b2840c",
+      "sha256": "e8d9f288236759a84f0c7882adce171453dbfbe202b9e169a5f26772e5a5ec39",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/a8150729faa1679da9b3019779d0607582594991/releases/alpha-0.27/athenagoras-resurrection/passages.jsonl"
+    },
+    "releases/alpha-0.27/tatian-greeks/passages.jsonl": {
+      "git_blob": "2d666b3cbf7950403e9ef5680a6bbc8190d72dfa",
+      "sha256": "cdf4fdb70f2fa1230237a1acbd99ab40acda39fb1928b179ec70793c51c952d9",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/a8150729faa1679da9b3019779d0607582594991/releases/alpha-0.27/tatian-greeks/passages.jsonl"
+    },
     "releases/alpha-0.3/didache/passages.jsonl": {
       "git_blob": "a6cc4805e0a2a855677fcb0fb6364f85e85d4b1c",
       "sha256": "0dd2968eb4744d88c4e072e5a17ba7eb96b91f8e9aecb538f68a4de311531c9c",
@@ -4213,7 +4243,7 @@
     "latest_release_data": "local",
     "size_limit_bytes": 900000000
   },
-  "latest_release": "alpha-0.26.2",
+  "latest_release": "alpha-0.27",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/b6eea84954f6e3c182cf04dc960d9037779709c4/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/a8150729faa1679da9b3019779d0607582594991/"
 }
