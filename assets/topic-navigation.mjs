@@ -2286,6 +2286,36 @@ export default {
           "title": "클레멘스 2서",
           "work_id": "clement-2-corinthians",
           "work_passage_id": "clement-2-corinthians:lake-1914:9.1"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-14-65",
+          "label": "부활에 관하여 14.65",
+          "location": "14.65",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:14.65"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-18-88",
+          "label": "부활에 관하여 18.88",
+          "location": "18.88",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:18.88"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-25-125",
+          "label": "부활에 관하여 25.125",
+          "location": "25.125",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:25.125"
         }
       ],
       "title": "몸의 부활과 심판"
@@ -2878,6 +2908,26 @@ export default {
           "title": "그리스도인들을 위한 청원",
           "work_id": "athenagoras-plea",
           "work_passage_id": "athenagoras-plea:36.168"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-15-71",
+          "label": "부활에 관하여 15.71",
+          "location": "15.71",
+          "relation": "related_testimony",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:15.71"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-25-122",
+          "label": "부활에 관하여 25.122",
+          "location": "25.122",
+          "relation": "related_testimony",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:25.122"
         }
       ],
       "title": "영혼과 몸, 부활과 불멸"
@@ -5620,6 +5670,90 @@ export default {
         }
       ],
       "title": "클레멘스가 권하는 바울의 고린도 서신"
+    },
+    {
+      "group": "faith-life",
+      "id": "resurrection-creation-purpose",
+      "passages": [
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-12-53",
+          "label": "부활에 관하여 12.53",
+          "location": "12.53",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:12.53"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-13-58",
+          "label": "부활에 관하여 13.58",
+          "location": "13.58",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:13.58"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-14-65",
+          "label": "부활에 관하여 14.65",
+          "location": "14.65",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:14.65"
+        }
+      ],
+      "title": "창조의 목적과 사람의 지속"
+    },
+    {
+      "group": "interpretation",
+      "id": "resurrection-body-soul-judgment",
+      "passages": [
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-18-88",
+          "label": "부활에 관하여 18.88",
+          "location": "18.88",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:18.88"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-21-101",
+          "label": "부활에 관하여 21.101",
+          "location": "21.101",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:21.101"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-23-113",
+          "label": "부활에 관하여 23.113",
+          "location": "23.113",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:23.113"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "html_path": "works/athenagoras-resurrection/index.html#p-25-125",
+          "label": "부활에 관하여 25.125",
+          "location": "25.125",
+          "relation": "primary_passage",
+          "title": "부활에 관하여",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:25.125"
+        }
+      ],
+      "title": "몸과 영혼의 심판, 사람에게 주어진 법"
     }
   ]
 };

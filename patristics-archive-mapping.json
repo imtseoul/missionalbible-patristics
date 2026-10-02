@@ -2,8 +2,8 @@
   "commit": "9565e831ba9dfa544946315a47df4abc0a826114",
   "download_compatibility": {
     "policy": "published-raw-bytes-retained-1",
-    "restored_routes": 104,
-    "retained_routes": 522
+    "restored_routes": 106,
+    "retained_routes": 524
   },
   "external_historical_data": [
     "releases/alpha-0.1/didache/passages.jsonl",
@@ -4191,7 +4191,7 @@
     "latest_release_data": "local",
     "size_limit_bytes": 900000000
   },
-  "latest_release": "alpha-0.24.6",
+  "latest_release": "alpha-0.25",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/18396ff868fe0953dbdaf05835ffa1ef554ef594/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/74fef40123563257ef87925520b98d57926407d2/"
 }

@@ -101179,5 +101179,107 @@
     ],
     "location": "23",
     "work_id": "athanasius-serapion-4"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὅσον μὲν",
+        "before": "ὅσον μὶν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=ThpFAAAAIAAJ&pg=PA56",
+        "image_sha256": "b052ebee91845ee525e30af4d45abdcd42d7e75c043db98a3f0a91ac520fd16b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 56,
+        "reviewer_kind": "ai",
+        "work_location": "2.16"
+      }
+    ],
+    "location": "2.16",
+    "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "σύστασιν",
+        "before": "σύστσιν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=ThpFAAAAIAAJ&pg=PA56",
+        "image_sha256": "b052ebee91845ee525e30af4d45abdcd42d7e75c043db98a3f0a91ac520fd16b",
+        "kind": "digital_transcription_correction",
+        "printed_page": 56,
+        "reviewer_kind": "ai",
+        "work_location": "3.17"
+      }
+    ],
+    "location": "3.17",
+    "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "συμπληρούντων",
+        "before": "συμπηλρούντων",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=ThpFAAAAIAAJ&pg=PA58",
+        "image_sha256": "be9947c988895cf0f5d0e12a31f403b84b189a163a3c494cb36b2ec9c896b3a7",
+        "kind": "digital_transcription_correction",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "4.22"
+      }
+    ],
+    "location": "4.22",
+    "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "φύσει",
+        "before": "φύσειν",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=ThpFAAAAIAAJ&pg=PA58",
+        "image_sha256": "be9947c988895cf0f5d0e12a31f403b84b189a163a3c494cb36b2ec9c896b3a7",
+        "kind": "digital_transcription_correction",
+        "printed_page": 58,
+        "reviewer_kind": "ai",
+        "work_location": "5.23"
+      }
+    ],
+    "location": "5.23",
+    "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "τρεφομένου",
+        "before": "τρεφομένου μένου",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=ThpFAAAAIAAJ&pg=PA59",
+        "image_sha256": "ba00fd5ba8d19a3a1dc0466746a1fae25f44907c8d276a63477fe86c9941d185",
+        "kind": "digital_transcription_correction",
+        "printed_page": 59,
+        "reviewer_kind": "ai",
+        "work_location": "6.25"
+      }
+    ],
+    "location": "6.25",
+    "work_id": "athenagoras-resurrection"
+  },
+  {
+    "corrections": [
+      {
+        "after": "ὁ δίκαιος ἐπιμετρεῖ",
+        "before": "ὁ δίκαιος· ἐπιμετρεῖ",
+        "checked_on": "2026-10-02",
+        "evidence_url": "https://books.google.com/books?id=ThpFAAAAIAAJ&pg=PA64",
+        "image_sha256": "7d3838d84730761b7fe06315faaf810a3783e78d02402262316c7bc46a22b545",
+        "kind": "digital_transcription_correction",
+        "printed_page": 64,
+        "reviewer_kind": "ai",
+        "work_location": "10.40"
+      }
+    ],
+    "location": "10.40",
+    "work_id": "athenagoras-resurrection"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "archive_commit": "18396ff868fe0953dbdaf05835ffa1ef554ef594",
+  "archive_commit": "74fef40123563257ef87925520b98d57926407d2",
   "edition_readers": [
     {
       "alignment": {
@@ -11245,6 +11245,19 @@
     },
     {
       "alignment": {
+        "identical_text": 126
+      },
+      "anchor_aliases": 252,
+      "edition_json_sha256": "6fe4a2245650978896ae776992879197c712d3d719d686d6d562f12d3e77a87b",
+      "kind": "reader",
+      "passages_verified": 126,
+      "path": "releases/alpha-0.25/athenagoras-resurrection/index.html",
+      "preserved_anchor_count": 379,
+      "release_id": "alpha-0.25",
+      "work_id": "athenagoras-resurrection"
+    },
+    {
+      "alignment": {
         "identical_text": 100
       },
       "anchor_aliases": 200,
@@ -12464,8 +12477,8 @@
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "CNAME": "7215d7dbc92177d63632f4d01e33a47e991d145727f42421aaf6ee14a5f261cb",
-    "README.md": "4a03ebdb2308af46e1cffd5cec0e86512b9746d7462560299cf03531161deaf6",
-    "about.html": "caf0e2af7c5e5d821c71ef08553ce556491d812c05887c1faf0d684877bc9889",
+    "README.md": "c92d32a4049411d24a855ca39c7b51e2feb127449b0cf0f852cea119e125947e",
+    "about.html": "fa74e94b10764f4ba9379b7663876946f6fb7e8dd3f27d86daefeb70a147cebd",
     "assets/app.mjs": "7ce8b7eb6e46939330f67e23383c77474a7964a15dbb738264b2c0ea575eb58e",
     "assets/apple-touch-icon.png": "e7cda279fc19dbde3f0cf09a254be4c99ce6b6c3bb84e59ae4c4adb1f8280c4e",
     "assets/catalogue.mjs": "a85d679d579ff0ff0138facd3bbed973d4d50131e62c0f69d1612337117ffaee",
@@ -12494,12 +12507,12 @@
     "assets/site.css": "11d55d3005a0f2c49c3708b455198b1439b0f201ddc91a5f2f3373153c3939bd",
     "assets/style.css": "b0bde6051296db7b188e6170659fb3a771f71000f13a47aa56a135de4f254b69",
     "assets/text-matches.mjs": "921656645ade1da85bf01c517fca6f6ee4172e7322dae22429c56a4dc2e88c59",
-    "assets/topic-navigation.mjs": "2f1e6fb28c22f0ca1739588fb928d34e266e68fb25a5cccb196bd3e448dee66a",
+    "assets/topic-navigation.mjs": "3545db8795f1ecd4679bfdbe7f211ccb7133882c92dc894aca8e10c14b335cc2",
     "assets/topic-readings/accepted-books.mjs": "e14d1281ad4c46b68bdf8677a535181aeb72b397d6d9fb1a0489f7326c26ab56",
     "assets/topic-readings/athenagoras-angels.mjs": "4e3ebe2af8e57f543b8172fbde20ffe66009c91d9835b03f131c1f03507512f9",
     "assets/topic-readings/athenagoras-enemies.mjs": "4d8a1b62d6e64854118c809c4c91581d37f6d78471b2a5ecd485f6522a2622d7",
     "assets/topic-readings/athenagoras-father-son-spirit.mjs": "f15b60404d30b7f89eb07f5e00069350d07c74eddaa3c56d5afd94820ed9894e",
-    "assets/topic-readings/athenagoras-resurrection.mjs": "42cb1f34c61b4fa99127eb834e270b22657ee8e74256a5f7a2837f54e3ae0c2e",
+    "assets/topic-readings/athenagoras-resurrection.mjs": "755205593ef9ee0070342b5a20a612e7b3c03b12f8f9815eef17fba2476b9ca3",
     "assets/topic-readings/athenagoras-rulers.mjs": "4fefd60b0a052b4e5ceaa2a1cd85d04d4f3b830188b6a27584bcdf2bd5f627d5",
     "assets/topic-readings/athenagoras-sacrifice.mjs": "60db1c7e89f450e15ba4f9f9f2e16a7a074ded234654cf0bea8f953d3afffd3d",
     "assets/topic-readings/barnabas-318.mjs": "d0a5eb8402d43a324fa0bcaa8ef7e252fd90514679714d91bf41e2599f6f76a2",
@@ -12546,6 +12559,8 @@
     "assets/topic-readings/polycarp-gospel-martyrdom.mjs": "8e20b5eedebf02e692de77d5036d7c42a8825df346cc12a6c697914418737a21",
     "assets/topic-readings/polycarp-martyr-memory.mjs": "6cb04e4f0bfae560b0e90ff8201db233894d577adb73752c0343261b57843e76",
     "assets/topic-readings/polycarp-prayer-resurrection.mjs": "b6aeff5532ab165d094888ee863f6c760e51ba4c46003aa2e098c9a64418c413",
+    "assets/topic-readings/resurrection-body-soul-judgment.mjs": "8b339e915aad6d163d3f9565cfb32f563708dced6d92e3249ccf559a0e10188a",
+    "assets/topic-readings/resurrection-creation-purpose.mjs": "b1ef650d4584fc5a07c5b8494f5fc5e0ab4b139bd2e8d2ae21955f04fef10b9b",
     "assets/topic-readings/revelation-reception.mjs": "7362616ae58c61eb3da2cd259234fe6b6654fa11e9b4f7056f5319c64c797b7a",
     "assets/topic-readings/second-clement-church-body.mjs": "40f781619ff2279e577c378df3560dce26926e45b7a6f16bfb45983a9575bf2d",
     "assets/topic-readings/second-clement-peter-dialogue.mjs": "0ca2b110efa649b6ace0deca0e55353ca3533695eb68afc34130afd97c9e938b",
@@ -12557,7 +12572,7 @@
     "assets/topic-readings/tatian-chronology.mjs": "1de62e25615cd693db68aa1ef109d8b033cfabcac4d3ceffa83ebc009d05772c",
     "assets/topic-readings/tatian-john.mjs": "7df2ef82251d31e8ea40f4b01c42c2bad6e215ccdbe78c6a0156a2d3e10b77d7",
     "assets/topic-readings/tatian-justin.mjs": "29f312f63732624e65bf7f73b5e51fafe669eb4b045b47277ebac6c1c4a7a166",
-    "assets/topic-readings/tatian-resurrection.mjs": "a9c9fcaf686de0320645d7696b03c9fa1b8edac51bd85dc1d5d8ffa00266d1ac",
+    "assets/topic-readings/tatian-resurrection.mjs": "ef404688ea3e0f55874c339b19e6c681a72ca17f09498792889bf5ab334cbdb0",
     "assets/topic-readings/tatian-treasure.mjs": "8a9faed019982ccf5d08758f7c050f4fa3b8780c3badd3f465d34c913c754823",
     "assets/topic-readings/tatian-word.mjs": "873b559716bd01ac0e6902c6c390425c2753dcfc7445c45736433e706219b3ea",
     "assets/topic-readings/theophilus-aratus.mjs": "14834b5e68905cce67b9483dcdbfd8d119ed9d80269e538f862bee56a5aa512e",
@@ -12587,11 +12602,11 @@
     "assets/topic-readings/two-johns.mjs": "61528871303261bf0609a929209a14f55340c6965fd4c12f1fe7271458143017",
     "assets/topics.css": "31dbc612d25234b74a4582701525e3b797e7fddd33cc3309b9f82db90a0c4f98",
     "assets/topics.mjs": "45a0ff4dfd8ca332289bab6c705ea3f6392bfd2792391b81fe8f804abf477b06",
-    "catalog.json": "3500bc281dadaf4d9c47b15ee11792b76ca9240b7e0bf7d456b2c9e900abdb4e",
-    "data/corrections.json": "511642ec8ca018d0044432db566dd4b441ba8d8b2fcf4b4f271d63cb7a7f7a6f",
-    "data/phrase-alignments.json": "e75b1c5ea2f9310a60c1d55e08cc69cb3d798001b46cb752c64d2c6303ed7582",
-    "index.html": "cc3bfacf63fbd2d5c1e1466d2c29a968e9b715383370edd18a71fa85ab0f96fb",
-    "patristics-archive-mapping.json": "390ccc8060e1e7719424b8a580eac0da9924200bc62dd0f406fa8a3aefa32319",
+    "catalog.json": "6d7d77550599d7c34ef48221986ac3414ffac8a1bd741770f5aea2b00be0b2d1",
+    "data/corrections.json": "ab92bfc3180fba5ff6a0844f81eb9aec6267dcac52c376c18fd0c6e138943f7f",
+    "data/phrase-alignments.json": "a575c3b298f15e3b17090bfd0ec95c23cb0d6c711e2e52006c7246d07306994c",
+    "index.html": "1b188c71bbb657ae0385a2612278f7c623e6b5716e17a6367e08caa8939122c3",
+    "patristics-archive-mapping.json": "c7bb216d9987136485ec98ea058d4905f84e7f19ae242b2ca29180fac0053e32",
     "releases/alpha-0.1/didache/checksums.json": "706dfee7f3e1bcb4d59ea96374fd035d28e62db1c25ca5743d2acf3bcf4e4fcd",
     "releases/alpha-0.1/didache/index.html": "63001c52e8dfcc59c9a8b05a5acb143f30e7e6de9746ade8c46a6ad23c2c42b9",
     "releases/alpha-0.1/didache/passages.json": "e688c4d8a449b93988580f59bfc19e960bf2b4ebdc453bc10525007f6c084957",
@@ -14458,6 +14473,10 @@
     "releases/alpha-0.24/theophilus-autolycus/book-3.html": "53e8c9d393c4d241f51d8db80a7e0d3a928b4a5e45c3f90c0bf5ce68bb37f788",
     "releases/alpha-0.24/theophilus-autolycus/checksums.json": "5dea08c15e921f9d6233f3a54dadf72a2c2c8852f706926e10f612b0874515d5",
     "releases/alpha-0.24/theophilus-autolycus/index.html": "5c9ec9c1384aee94e6dcb517b3e8de4cf867026cb78c8c8f36aaf45d9066202c",
+    "releases/alpha-0.25/athenagoras-resurrection/checksums.json": "8f8a2ef3d302526200c8a68ed1d853ca8eec02607cbb90bf77672abebd5adccf",
+    "releases/alpha-0.25/athenagoras-resurrection/index.html": "5ca5872864c729321bc320a97e85cc5a8503db6392ebc93d432925aecddb9dd2",
+    "releases/alpha-0.25/athenagoras-resurrection/passages.json": "6fe4a2245650978896ae776992879197c712d3d719d686d6d562f12d3e77a87b",
+    "releases/alpha-0.25/athenagoras-resurrection/passages.jsonl": "93de795efd753edd4a7229b6dd92e7dc771fdd99b68a794d19755836e5974f87",
     "releases/alpha-0.3/didache/checksums.json": "f33cda0435976046ac9c049936d26cdbe48b771dc6473aa47d9d5041b33e2bbe",
     "releases/alpha-0.3/didache/index.html": "d976213630f8ed71d9b60d7a0f7eb79609985cfdd12de65006072fe0200543bb",
     "releases/alpha-0.3/didache/passages.json": "9718e8f56d534e062394be915fdeeaff70b8836982b76e6ef79d5da1ad54a8cd",
@@ -14692,12 +14711,12 @@
     "releases/alpha-0.9/polycarp-philippians/checksums.json": "ce3d83f50ee7142ba6ee4f692ff2f2f8994a1b8c919c89040f07890de0c98d15",
     "releases/alpha-0.9/polycarp-philippians/index.html": "f22d398c103b58658eab74ccdcb19686da19dda839f2993d814e7ce8ea095d3b",
     "releases/alpha-0.9/polycarp-philippians/passages.json": "6c295dc25de178dfa6ae6acc767202fb56c28b98fb6680814806e67db1ff3f0d",
-    "rights.html": "6b0365714fabd2a687e78f05021762fb32c29ba1f604e86e6dd5940dce27baa1",
+    "rights.html": "e9ad33339d26fc9eba831593737ad25bbc02f495e0a85347a8eba375d1fb73bf",
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
-    "search-index.json": "b3d31afae9ffceb58cf1bd9f7410b589de807e1fa35b6bf4bd228048446d07ee",
-    "sitemap.xml": "5ac299bf54d375124f60660704be4e949208958a13fbf8350a79f94ca2110649",
-    "topics.html": "5af32b4598b64a8e3e9e240dc7f66a861ef30d5eb604d4d616625aab2874e311",
-    "topics.json": "612c2340f8094519078a4f7e3b548a636f1d224d5ab1c9ec0410a1e045a6f17a",
+    "search-index.json": "bf2779ba1c37bc2d41edccff617af84839f1e40e38ff3853f355db9485876faa",
+    "sitemap.xml": "03c838ec5618ca7c4c6c17ba199fc27dbb6d04e7cd6eb475fad5f727621de400",
+    "topics.html": "ae4b5ed96fc5430bc3fc978e1440d280211388df569cfd8d1f2a30f502d29d66",
+    "topics.json": "267f5506eee0011cbf43127524d716d8e9c91d15fc8e8aa86606292b9344f7ec",
     "works/arius-eusebius-letter/index.html": "8750d7f2fbbde71e155cfc6b3270a86e100cc989b86b7399ec5a56234f294ed5",
     "works/athanasius-antiochenes/index.html": "112e9b52769897d8d741a94abc3485a42b2dfdb17f80cfdcb0c85b7e2dd2d001",
     "works/athanasius-serapion-1/index.html": "84a3129449820f7cd14fd58a9cefe28a77c947037eeae5594f48ea7060bf8623",
@@ -14705,6 +14724,7 @@
     "works/athanasius-serapion-3/index.html": "f9b7c91b53babe6648e0962dc7cbfea58dc0381a0ed232c6ee260c3e9792ea5a",
     "works/athanasius-serapion-4/index.html": "51549b2eae6c19091a491d38b6c448147d8c64e31a099122dfcc422127f12fd0",
     "works/athenagoras-plea/index.html": "72826e83402ff106ddb369afba7e2320578b81eabf6de9dc10ec437b0f609df5",
+    "works/athenagoras-resurrection/index.html": "88da0074a724d1231fc62fcc2372b576dd5c860c066c1f12f4d1751ef0232d34",
     "works/barnabas/index.html": "44edd725c2061e130f4ba14d71630aa83d887bbc8b8b42ab66bc51691eea4743",
     "works/basil-holy-spirit/index.html": "f7ea1fb6a8085cbb00602ff155eb1640c9347146780485da9f23d3fa54f98a24",
     "works/clement-1-corinthians/index.html": "88678339678df7f2db4f32311014bbd583318bcb6c341e421ace1a1cf3fd3d73",
@@ -14757,27 +14777,32 @@
     "works/theophilus-autolycus/index.html": "0e7b6fe45d80ee4f3d4bbaad0aea0faaf6089b05fe69590f748cc8db49c8017d"
   },
   "origin": "https://patristics.missionalbible.org",
-  "release_id": "alpha-0.24.6",
+  "release_id": "alpha-0.25",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 895069740,
-    "catalogue_hashes_verified": 39,
+    "bytes": 882788186,
+    "catalogue_hashes_verified": 40,
     "download_compatibility": {
+      "current_alignment_json_bytes_saved": 16240691,
+      "html_bytes_saved": 195172544,
+      "html_pages_compacted": 1029,
+      "published_release_files_preserved": 2100,
       "raw_bytes_verified": true,
+      "restored_routes": 106,
       "retained_routes": 524
     },
     "duplicate_anchors": 0,
-    "edition_checksums_verified": 2186,
-    "edition_data_files_unchanged": 1220,
-    "html_pages": 1027,
+    "edition_checksums_verified": 2189,
+    "edition_data_files_unchanged": 1222,
+    "html_pages": 1029,
     "missing_internal_links": 0,
     "reading_surfaces": {
       "book_directories": 58,
       "legacy_readers": 0,
       "other": 4,
-      "pages": 1027,
-      "readers": 965,
-      "top_controls": 1027
+      "pages": 1029,
+      "readers": 967,
+      "top_controls": 1029
     }
   }
 }

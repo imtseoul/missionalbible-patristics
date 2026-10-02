@@ -45,7 +45,7 @@
       "title": "초기 그리스도교와 로마 사회"
     }
   ],
-  "release_id": "alpha-0.24.6",
+  "release_id": "alpha-0.25",
   "schema_version": "patristics-topics-1",
   "topics": [
     {
@@ -16021,7 +16021,7 @@
       "title": "천사들의 타락과 거인 전승"
     },
     {
-      "attribution": "아테나고라스의 설명과 본문 인용",
+      "attribution": "아테나고라스의 청원, 전승상 귀속된 부활 논증, 클레멘스 2서",
       "group": "faith-life",
       "id": "athenagoras-resurrection",
       "passages": [
@@ -16356,9 +16356,259 @@
           "translation_revision_id": "sha256:4ee13076b24bc2cc75bb9b3792c602c2ceff438a2a323c9409e5a15597e4ca9f",
           "work_id": "clement-2-corinthians",
           "work_passage_id": "clement-2-corinthians:lake-1914:9.1"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 14.65, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-14-65",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-14-65",
+          "html_path": "works/athenagoras-resurrection/index.html#p-14-65",
+          "label": "부활에 관하여 14.65",
+          "location": "14.65",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-14-65",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:cc465f92dc1924cde972e9943d2fe72fc7bc89c93724b1ddbe2992745d27997b",
+              "sha256:978af146f811f9d9bc10f0fac17b33c7c429e3adaf02588e5218ae17e16f0f16"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Τοῦτο δὲ περιφανῶς δείκνυται ψεῦδος ἐκ τοῦ πάντας μὲν ἀνίστασθαι τοὺς ἀποθνήσκοντας ἀνθρώπους, μὴ πάντας δὲ κρίνεσθαι τοὺς ἀναστάντας· εἰ γὰρ μόνον τὸ κατὰ τὴν κρίσιν δίκαιον τῆς ἀναστάσεως ἦν αἴτιον, ἐχρῆν δήπου τοὺς μηδὲν ἡμαρτηκότας ἢ κατορθώσαντας μηδ᾿ ἀνίστασθαι, τοῦτ᾿ ἔστι τοὺς κομιδῆ νέους παῖδας· ἐξὸν δὲ πάντας ἀνίστασθαι, τούς τε ἄλλους καὶ δὴ καὶ τοὺς κατὰ τὴν πρώτην ἡλικίαν τελευτήσαντας, καὶ αὐτοὶ δικαιοῦσιν ὡς οὐ διὰ τὴν κρίσιν ἡ ἀνάστασις γίνεται κατὰ πρῶτον λόγον, ἀλλὰ διὰ τὴν τοῦ δημιουργήσαντος γνώμην καὶ τὴν τῶν δημιουργηθέντων φύσιν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:2dc949ab14576f41dc751f5c51e2b6571157b90a77111ac595905798b798a22f",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [
+              "모든 사람은 부활하지만 모두가 심판받지는 않는다는 것은 여기서 저자가 제시하는 주장이다. 그는 아주 어린아이를 들어 심판이 부활의 유일한 원인은 아니라고 논증한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "이 견해가 거짓이라는 점은, 죽은 모든 사람이 부활하지만 부활한 모두가 심판받지는 않는다는 사실에서 뚜렷이 드러납니다. 심판에서의 공정함만이 부활의 원인이라면, 잘못을 저지르지도 바른 행동을 하지도 않은 이들, 곧 아주 어린아이들은 부활하지 않아야 할 것입니다. 그러나 다른 사람들과 아주 어린 나이에 죽은 이들까지 모두 부활합니다. 이 사실 자체가 부활의 첫째 원인은 심판이 아니라 창조주의 뜻과 창조된 존재들의 본성임을 입증합니다."
+          },
+          "translation_revision_id": "sha256:0c17f190727bfc19382743aa37151882081d21df0d1a1b458bdfb08ef8a935f5",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:14.65"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 18.88, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-18-88",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-18-88",
+          "html_path": "works/athenagoras-resurrection/index.html#p-18-88",
+          "label": "부활에 관하여 18.88",
+          "location": "18.88",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-18-88",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:ae5df4689b7addb17279d94c73029866c21c856251f69c5353c2717d3280d102",
+              "sha256:a05bf8f219b28c43cb67009100881e7435df79cc66815abc3965e3f2820c6196"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Εἰ δὲ κατὰ τοῦ συναμφοτέρου φέρει τὴν ἐπὶ τοῖς εἰργασμένοις δίκην ἡ δικαία κρίσις, καὶ μήτε τὴν ψυχὴν μόνην δεῖ κομίσασθαι τὰ ἐπίχειρα τῶν μετὰ τοῦ σώματος εἰργασμένων (ἀπροσπαθὴς γὰρ αὕτη καθ᾿ ἑαυτὴν τῶν περὶ τὰς σωματικὰς ἡδονὰς ἢ τροφὰς καὶ θεραπείας γινομένων πλημμελημάτων) μήτε τὸ σῶμα μόνον (ἄκριτον γὰρ τοῦτο καθ᾿ ἑαυτὸ νόμου καὶ δίκης), ὁ δὲ ἐκ τούτων ἄνθρωπος τὴν ἐφ᾿ ἑκάστῳ τῶν εἰργασμένων αὐτῷ δέχεται κρίσιν, τοῦτο δὲ οὔτε κατὰ τήνδε τὴν ζωὴν εὑρίσκει συμβαῖνον ὁ λόγος (οὐ γὰρ σώζεται τὸ κατ᾿ ἀξίαν ἐν τῷ παρόντι βίῳ, διὰ τὸ πολλοὺς μὲν ἀθέους καὶ πᾶσαν ἀνομίαν καὶ κακίαν ἐπιτηδεύοντας μέχρι τελευτῆς διατελεῖν κακῶν ἀπειράτους, καὶ τοὐναντίον τοὺς κατὰ πᾶσαν ἀρετὴν ἐξητασμένον τὸν ἑαυτῶν βίον ἐπιδειξαμένους ἐν ὀδύναις ζῆν, ἐν ἐπηρείαις, ἐν συκοφαντίαις, αἰκίαις τε καὶ παντοίαις κακοπαθείαις) οὔτε δὲ μετὰ θάνατον (οὐδὲ γὰρ ἔστιν ἔτι τὸ συναμφότερον, χωριζομένης μὲν τῆς ψυχῆς ἀπὸ τοῦ σώματος, σκεδαννυμένου δὲ καὶ αὐτοῦ τοῦ σώματος εἰς ἐκεῖνα πάλιν ἐξ ὦν συνεφορήθη, καὶ μηδὲν ἔτι σώζοντος τῆς προτέρας φυῆς ἢ μορφῆς, ἤ πού γε τὴν μνήμην τῶν πεπραγμένων), εὔδηλον παντὶ τὸ λειπόμενον, ὅτι δεῖ κατὰ τὸν ἀπόστολον τὸ φθαρτὸν τοῦτο καὶ σκεδαστὸν ἐνδύσασθαι ἀφθαρσίαν, ἵνα, ζωοποιηθέντων ἐξ ἀναστάσεως τῶν νεκρωθέντων καὶ πάλιν ἑνωθέντων τῶν κεχωρισμένων ἢ καὶ πάντη διαλελυμένων, ἕκαστος κομίσηται δικαίως ἃ διὰ τοῦ σώματος ἔπραξεν, εἴτε ἀγαθὰ εἴτε κακά."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:b66502485f0f7b6ff02f6f475886ec064534e0f2dd3d128bafe3e54f0eee2a85",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [
+              "“썩을 것이 썩지 않음을 입는다”는 표현은 고린도전서15:53과 연결된다. 몸을 통해 행한 선악에 따른 대가는 고린도후서5:10의 표현과 연결된다. 저자는 이를 “사도”의 말로 소개한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "의로운 판단이 영혼과 몸으로 이루어진 존재 전체에 그 행위의 책임을 묻는다면, 영혼만이 몸과 함께 행한 일의 대가를 받아서는 안 됩니다. 영혼 자체는 몸의 쾌락과 먹고 몸을 돌보는 일에서 일어나는 잘못에 영향을 받지 않기 때문입니다. 몸만이 대가를 받아서도 안 됩니다. 몸 자체에는 법과 정의를 판단하는 능력이 없기 때문입니다. 영혼과 몸으로 이루어진 사람이 자신이 행한 각각의 일에 심판을 받아야 합니다. 그러나 이 일이 현재의 삶에서 이루어진다고 논증할 수는 없습니다. 현재의 생애에는 마땅한 대가가 지켜지지 않기 때문입니다. 하나님을 부정하고 온갖 불법과 악을 행하는 많은 사람이 죽을 때까지 고난을 겪지 않는 반면, 모든 덕을 실천하며 자신의 삶을 증명한 사람들은 고통과 괴롭힘, 비방과 학대, 온갖 고난 속에 삽니다. 죽은 뒤에도 곧바로 이루어지지는 않습니다. 영혼은 몸에서 분리되고 몸은 자신을 이루었던 재료로 흩어져, 이전의 본성이나 모습을 더는 보존하지 못합니다. 하물며 행한 일의 기억을 보존할 수 있겠습니까? 둘로 이루어진 전체가 더는 함께 존재하지 않습니다. 그러므로 남은 결론은 누구에게나 분명합니다. 사도의 말대로 이 썩고 흩어질 몸이 썩지 않음을 입어야 합니다. 죽은 몸들이 부활로 살아나고, 분리되거나 완전히 해체된 것들이 다시 결합하여, 각 사람이 몸을 통해 행한 일이 선하든 악하든 마땅한 대가를 의롭게 받도록 해야 합니다."
+          },
+          "translation_revision_id": "sha256:1fd3821ccd6af12518a693a7c4c445206378023f2b7aa66aa3e214e33f4a8ec2",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:18.88"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 25.125, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-25-125",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-25-125",
+          "html_path": "works/athenagoras-resurrection/index.html#p-25-125",
+          "label": "부활에 관하여 25.125",
+          "location": "25.125",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-25-125",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:d9839155a382a74beef6f8cb9c29f54939bcb900f65d2f6f06f46dd62f65981e",
+              "sha256:07221b1a243b8710c7e0d904ba93ec7c351b2f3151b357cc4f9f3745d21ac18a"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Τὸ δ᾿ αὐτὸ σῶμα τὴν αὐτὴν ψυχὴν ἀπολαβεῖν ἄλλως μὲν ἀδύνατον, κατὰ μόνην δὲ τὴν ἀνάστασιν δυνατόν· ταύτης γὰρ γενομένης καὶ τὸ τῇ φύσει τῶν ἀνθρώπων πρόσφορον ἐπακολουθεῖ τέλος."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:412d7d5d210430810cf412136999d72912fef0666e086a7b00819e48a2e45590",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "같은 몸이 같은 영혼을 다시 받는 것은 다른 방식으로는 불가능하고, 오직 부활을 통해서만 가능합니다. 부활이 이루어지면 사람의 본성에 맞는 목적도 뒤따릅니다."
+          },
+          "translation_revision_id": "sha256:a44c855c2860eda7aeda8011d864c7d9ce4cca1462d7b2ff0e6604c8d543bb9c",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:25.125"
         }
       ],
-      "summary": "몸의 부활을 식인 혐의에 답하는 근거로 사용하는 논증과 클레멘스 2서의 권면을 읽습니다.",
+      "summary": "식인 혐의에 대한 답변과 창조·몸의 부활·심판을 다루는 여러 문헌의 논증을 읽습니다.",
       "title": "몸의 부활과 심판"
     },
     {
@@ -20163,7 +20413,7 @@
       "title": "감추어진 보물과 성경을 배우는 삶"
     },
     {
-      "attribution": "타티아노스의 설명과 관련 문헌의 증언",
+      "attribution": "타티아노스의 설명과 관련 문헌의 증언 · 아테나고라스에게 전승상 귀속된 부활 논증",
       "group": "faith-life",
       "id": "tatian-resurrection",
       "passages": [
@@ -20504,9 +20754,173 @@
           "translation_revision_id": "sha256:85f3cc51920ea1e83bfa3be6bb25a82f833e7c515f99fe6bbb78d19f088bb73b",
           "work_id": "athenagoras-plea",
           "work_passage_id": "athenagoras-plea:36.168"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 15.71, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-15-71",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-15-71",
+          "html_path": "works/athenagoras-resurrection/index.html#p-15-71",
+          "label": "부활에 관하여 15.71",
+          "location": "15.71",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-15-71",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:0c40e0df4c912f01fa786c0606cf1cc146fbe804195439b82e5e46596bb3f185",
+              "sha256:ee94a00bdf6652b3e8bc8ca8ab0c39343d356e870f00e042352cdd11392172d9"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Ταύτην δὲ διαμένειν ἀδύνατον, μὴ τῆς δεξαμένης αὐτὴν καὶ τῆς ἐν οἶς ἐστι διαμενούσης φύσεως. Ὁ δὲ καὶ νοῦν καὶ λόγον δεξάμενός ἐστιν ἄνθρωπος, οὐ ψυχὴ καθ᾿ ἑαυτήν. Ἄνθρωπον ἄρα δεῖ τὸν ἐξ ἀμφοτέρων ὄντα διαμένειν εἰς ἀεί. Τοῦτον δὲ ἀδύνατον διαμένειν, μὴ ἀνιστάμενον. Ἀναστάσεως γὰρ μὴ γινομένης, οὐκ ἂν ἡ τῶν ἀνθρώπων ὡς ἀνθρώπων διαμένοι φύσις."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:abbeff71af2b81c9fe8f9ff147d1eec5c5a4cf2d32fa1f1cbdea0cdfdaa4528e",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그러나 판단력을 받아들여 그 판단력이 자리 잡는 본성이 지속하지 않는다면, 판단력이 지속하는 것은 불가능합니다. 지성과 이성을 받은 존재는 사람이므로, 영혼만을 가리키지 않습니다. 따라서 영혼과 몸 두 요소로 이루어진 사람이 영원히 지속해야 합니다. 부활하지 않고서는 사람이 지속하는 것은 불가능합니다. 부활이 일어나지 않으면, 사람인 한 사람의 본성은 지속할 수 없기 때문입니다."
+          },
+          "translation_revision_id": "sha256:fa1fe8d5fc12f5910307dae042cca4729a12fce2f733d3d640f647995d9a9c31",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:15.71"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 25.122, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-25-122",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-25-122",
+          "html_path": "works/athenagoras-resurrection/index.html#p-25-122",
+          "label": "부활에 관하여 25.122",
+          "location": "25.122",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-25-122",
+          "relation": "related_testimony",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:bdc77a4d924e1f56db9da6851a6a37351f4187b9ab2661780a5d3b7b84dcd334",
+              "sha256:d3d472d96a4efcc091d43e0b9de27dae5360c6360e0492782364fb6dda14fdc0"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Οὐ μὴν οὐδὲ μακαριότης ψυχῆς κεχωρισμένης σώματος· οὐδὲ γὰρ τὴν θατέρου τούτων ἐξ ὦν συνέστηκεν ἄνθρωπος ἐσκοποῦμεν ζωὴν ἢ τέλος, ἀλλὰ τοῦ συνεστῶτος ἐξ ἀμφοῖν· τοιοῦτος γὰρ πᾶς ὁ τόνδε τὸν βίον λαχὼν ἄνθρωπος, καὶ δεῖ τῆς τούτου ζωῆς εἶναί τι τέλος οἰκεῖον."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:21ed7f54617370bd8def7f927bfa6f4f11dae8e25f59e6b1738145044cb06c61",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "몸에서 분리된 영혼의 행복만이 목적일 수도 없습니다. 우리는 사람을 구성하는 두 요소 가운데 하나만의 삶이나 목적을 살핀 것이 아니라, 두 요소로 이루어진 존재의 삶과 목적을 살폈기 때문입니다. 이 생애를 받은 모든 사람은 그런 존재이며, 그 사람의 삶에는 그에 고유한 목적이 있어야 합니다."
+          },
+          "translation_revision_id": "sha256:59f8f3d863db69765b8a97d4342662d7e9819a29c81e2dd22f5c51c92cf12d21",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:25.122"
         }
       ],
-      "summary": "몸의 재구성, 영혼과 영의 결합, 심판을 위한 부활에 관한 설명을 비교합니다.",
+      "summary": "영혼과 몸의 관계, 지속과 부활을 각 문헌이 어떻게 설명하는지 비교합니다.",
       "title": "영혼과 몸, 부활과 불멸"
     },
     {
@@ -42976,6 +43390,606 @@
       ],
       "summary": "바울의 편지를 다시 읽으라는 권면과, 바울·게바·아폴로를 둘러싼 고린도 교회의 분열에 관한 설명을 읽습니다.",
       "title": "클레멘스가 권하는 바울의 고린도 서신"
+    },
+    {
+      "attribution": "아테나고라스에게 전승상 귀속된 부활 논증",
+      "group": "faith-life",
+      "id": "resurrection-creation-purpose",
+      "passages": [
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 12.53, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-12-53",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-12-53",
+          "html_path": "works/athenagoras-resurrection/index.html#p-12-53",
+          "label": "부활에 관하여 12.53",
+          "location": "12.53",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-12-53",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:d8d164f076504957f2d9cb9a2fd2dbce42d0acaa2ba8fd25f114ba0c31a13510",
+              "sha256:416fd45aa96af0f0343e2bb836a21799c03b7bf2df4fb854c7df7db5c01fe696"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Οὐκοῦν εἰ μήτε ἀναιτίως καὶ μάτην γέγονεν ἄνθρωπος (οὐδὲν γὰρ τῶν ὑπὸ θεοῦ γενομένων μάταιον, κατά γε τὴν τοῦ ποιήσαντος γνώμην), μήτε χρείας ἕνεκεν αὐτοῦ τοῦ ποιήσαντος ἢ ἄλλου τινὸς τῶν ὑπὸ θεοῦ γενομένων ποιημάτων, εὔδηλον ὅτι κατὰ μὲν τὸν πρῶτον καὶ κοινότερον λόγον δι᾿ ἑαυτὸν καὶ τὴν ἐπὶ πάσης τῆς δημιουργίας θεωρουμένην ἀγαθότητα καὶ σοφίαν ἐποίησεν ὁ θεὸς τὸν ἄνθρωπον, κατὰ δὲ τὸν προσεχέστερον τοῖς γενομένοις λόγον διὰ τὴν αὐτῶν τῶν γενομένων ζωήν, οὐκ ἐπὶ μικρὸν ἐξαπτομένην, εἶτα παντελῶς σβεννυμένην."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:c64fb6f7146cdb5a493585394fb1f4c7619788e89b4eab45e791a12654ba17ef",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [
+              "δι᾿ ἑαυτόν의 주체는 창조주 하나님이다. 앞에서 하나님의 결핍을 부정했으므로, 자신의 필요를 채운다는 뜻으로 옮기지 않았다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "따라서 사람은 원인 없이 헛되이 생겨난 것도, 창조주 자신이나 다른 피조물의 필요를 위해 생겨난 것도 아닙니다. 적어도 창조주의 뜻에서 보면 하나님께서 만드신 것에는 헛된 것이 없습니다. 그러므로 가장 근본적이고 일반적인 이유에서 하나님께서는 자신을 위하여, 그리고 피조세계 전체에 드러나는 자신의 선하심과 지혜 때문에 사람을 만드셨다는 점이 분명합니다. 창조된 사람들을 더 직접적으로 고려하면, 하나님께서는 그들 자신의 삶을 위해 만드셨습니다. 그 삶은 잠깐 켜졌다가 완전히 꺼지는 것이 아닙니다."
+          },
+          "translation_revision_id": "sha256:35b4f6382b633dfbcd47fdbcc4236e9fcc230bbb6328343bf6cb39d6c69d450c",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:12.53"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 13.58, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-13-58",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-13-58",
+          "html_path": "works/athenagoras-resurrection/index.html#p-13-58",
+          "label": "부활에 관하여 13.58",
+          "location": "13.58",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-13-58",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:e6f4073f7fdcb7bcb385620c065df3b608ad9a5e691cf8d293dc77a0e1c4aacf",
+              "sha256:51e9e3f26f42fbae02cd03ad77f33da15cddb33c8672de2adfd9588fb2a1931d"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Εἰ τοίνυν ὁ τοῦδε τοῦ παντὸς δημιουργὸς ἐποίησεν ἄνθρωπον ἐπὶ τῷ ζωῆς ἔμφρονος μετασχεῖν, καὶ γενόμενον θεωρὸν τῆς τε μεγαλοπρεπείας αὐτοῦ καὶ τῆς ἐπὶ πᾶσι σοφίας τῇ τούτων συνδιαμένειν ἀεὶ θεωρίᾳ, κατὰ τὴν ἐκείνου γνώμην καὶ καθ᾿ ἣν εἴληχε φύσιν, ἡ μὲν τῆς γενέσεως αἰτία πιστοῦται τὴν εἰς ἀεὶ διαμονήν, ἡ δὲ διαμονὴ τὴν ἀνάστασιν, ἧς χωρὶς οὐκ ἂν διαμείνειεν ἄνθρωπος."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:77bf63cf96ff162e35afb5ca26d346f31b3b346f637c2159f7d1f6773ebd3e05",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "이 우주의 창조주께서는 사람이 지혜로운 삶에 참여하고, 자신의 위대하심과 만물에 드러난 지혜를 관찰하며, 창조주의 뜻과 자신이 받은 본성에 따라 그 관찰 속에서 영원히 지속하도록 사람을 만드셨습니다. 그렇다면 사람의 생성 원인은 영원한 지속을 보증합니다. 그 지속은 부활을 보증합니다. 부활 없이는 사람이 지속할 수 없기 때문입니다."
+          },
+          "translation_revision_id": "sha256:7fcc6a5ac54b4ca5636564d2518f7e0ee506bf3d4712e10370a5bf86f411fba5",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:13.58"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 14.65, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-14-65",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-14-65",
+          "html_path": "works/athenagoras-resurrection/index.html#p-14-65",
+          "label": "부활에 관하여 14.65",
+          "location": "14.65",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-14-65",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:cc465f92dc1924cde972e9943d2fe72fc7bc89c93724b1ddbe2992745d27997b",
+              "sha256:978af146f811f9d9bc10f0fac17b33c7c429e3adaf02588e5218ae17e16f0f16"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Τοῦτο δὲ περιφανῶς δείκνυται ψεῦδος ἐκ τοῦ πάντας μὲν ἀνίστασθαι τοὺς ἀποθνήσκοντας ἀνθρώπους, μὴ πάντας δὲ κρίνεσθαι τοὺς ἀναστάντας· εἰ γὰρ μόνον τὸ κατὰ τὴν κρίσιν δίκαιον τῆς ἀναστάσεως ἦν αἴτιον, ἐχρῆν δήπου τοὺς μηδὲν ἡμαρτηκότας ἢ κατορθώσαντας μηδ᾿ ἀνίστασθαι, τοῦτ᾿ ἔστι τοὺς κομιδῆ νέους παῖδας· ἐξὸν δὲ πάντας ἀνίστασθαι, τούς τε ἄλλους καὶ δὴ καὶ τοὺς κατὰ τὴν πρώτην ἡλικίαν τελευτήσαντας, καὶ αὐτοὶ δικαιοῦσιν ὡς οὐ διὰ τὴν κρίσιν ἡ ἀνάστασις γίνεται κατὰ πρῶτον λόγον, ἀλλὰ διὰ τὴν τοῦ δημιουργήσαντος γνώμην καὶ τὴν τῶν δημιουργηθέντων φύσιν."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:2dc949ab14576f41dc751f5c51e2b6571157b90a77111ac595905798b798a22f",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [
+              "모든 사람은 부활하지만 모두가 심판받지는 않는다는 것은 여기서 저자가 제시하는 주장이다. 그는 아주 어린아이를 들어 심판이 부활의 유일한 원인은 아니라고 논증한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "이 견해가 거짓이라는 점은, 죽은 모든 사람이 부활하지만 부활한 모두가 심판받지는 않는다는 사실에서 뚜렷이 드러납니다. 심판에서의 공정함만이 부활의 원인이라면, 잘못을 저지르지도 바른 행동을 하지도 않은 이들, 곧 아주 어린아이들은 부활하지 않아야 할 것입니다. 그러나 다른 사람들과 아주 어린 나이에 죽은 이들까지 모두 부활합니다. 이 사실 자체가 부활의 첫째 원인은 심판이 아니라 창조주의 뜻과 창조된 존재들의 본성임을 입증합니다."
+          },
+          "translation_revision_id": "sha256:0c17f190727bfc19382743aa37151882081d21df0d1a1b458bdfb08ef8a935f5",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:14.65"
+        }
+      ],
+      "summary": "창조주의 뜻과 사람의 본성을 근거로 부활을 설명하고, 심판만이 부활의 원인은 아니라고 말하는 대목입니다.",
+      "title": "창조의 목적과 사람의 지속"
+    },
+    {
+      "attribution": "아테나고라스에게 전승상 귀속된 부활 논증",
+      "group": "interpretation",
+      "id": "resurrection-body-soul-judgment",
+      "passages": [
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 18.88, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-18-88",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-18-88",
+          "html_path": "works/athenagoras-resurrection/index.html#p-18-88",
+          "label": "부활에 관하여 18.88",
+          "location": "18.88",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-18-88",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:ae5df4689b7addb17279d94c73029866c21c856251f69c5353c2717d3280d102",
+              "sha256:a05bf8f219b28c43cb67009100881e7435df79cc66815abc3965e3f2820c6196"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Εἰ δὲ κατὰ τοῦ συναμφοτέρου φέρει τὴν ἐπὶ τοῖς εἰργασμένοις δίκην ἡ δικαία κρίσις, καὶ μήτε τὴν ψυχὴν μόνην δεῖ κομίσασθαι τὰ ἐπίχειρα τῶν μετὰ τοῦ σώματος εἰργασμένων (ἀπροσπαθὴς γὰρ αὕτη καθ᾿ ἑαυτὴν τῶν περὶ τὰς σωματικὰς ἡδονὰς ἢ τροφὰς καὶ θεραπείας γινομένων πλημμελημάτων) μήτε τὸ σῶμα μόνον (ἄκριτον γὰρ τοῦτο καθ᾿ ἑαυτὸ νόμου καὶ δίκης), ὁ δὲ ἐκ τούτων ἄνθρωπος τὴν ἐφ᾿ ἑκάστῳ τῶν εἰργασμένων αὐτῷ δέχεται κρίσιν, τοῦτο δὲ οὔτε κατὰ τήνδε τὴν ζωὴν εὑρίσκει συμβαῖνον ὁ λόγος (οὐ γὰρ σώζεται τὸ κατ᾿ ἀξίαν ἐν τῷ παρόντι βίῳ, διὰ τὸ πολλοὺς μὲν ἀθέους καὶ πᾶσαν ἀνομίαν καὶ κακίαν ἐπιτηδεύοντας μέχρι τελευτῆς διατελεῖν κακῶν ἀπειράτους, καὶ τοὐναντίον τοὺς κατὰ πᾶσαν ἀρετὴν ἐξητασμένον τὸν ἑαυτῶν βίον ἐπιδειξαμένους ἐν ὀδύναις ζῆν, ἐν ἐπηρείαις, ἐν συκοφαντίαις, αἰκίαις τε καὶ παντοίαις κακοπαθείαις) οὔτε δὲ μετὰ θάνατον (οὐδὲ γὰρ ἔστιν ἔτι τὸ συναμφότερον, χωριζομένης μὲν τῆς ψυχῆς ἀπὸ τοῦ σώματος, σκεδαννυμένου δὲ καὶ αὐτοῦ τοῦ σώματος εἰς ἐκεῖνα πάλιν ἐξ ὦν συνεφορήθη, καὶ μηδὲν ἔτι σώζοντος τῆς προτέρας φυῆς ἢ μορφῆς, ἤ πού γε τὴν μνήμην τῶν πεπραγμένων), εὔδηλον παντὶ τὸ λειπόμενον, ὅτι δεῖ κατὰ τὸν ἀπόστολον τὸ φθαρτὸν τοῦτο καὶ σκεδαστὸν ἐνδύσασθαι ἀφθαρσίαν, ἵνα, ζωοποιηθέντων ἐξ ἀναστάσεως τῶν νεκρωθέντων καὶ πάλιν ἑνωθέντων τῶν κεχωρισμένων ἢ καὶ πάντη διαλελυμένων, ἕκαστος κομίσηται δικαίως ἃ διὰ τοῦ σώματος ἔπραξεν, εἴτε ἀγαθὰ εἴτε κακά."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:b66502485f0f7b6ff02f6f475886ec064534e0f2dd3d128bafe3e54f0eee2a85",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [
+              "“썩을 것이 썩지 않음을 입는다”는 표현은 고린도전서15:53과 연결된다. 몸을 통해 행한 선악에 따른 대가는 고린도후서5:10의 표현과 연결된다. 저자는 이를 “사도”의 말로 소개한다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "의로운 판단이 영혼과 몸으로 이루어진 존재 전체에 그 행위의 책임을 묻는다면, 영혼만이 몸과 함께 행한 일의 대가를 받아서는 안 됩니다. 영혼 자체는 몸의 쾌락과 먹고 몸을 돌보는 일에서 일어나는 잘못에 영향을 받지 않기 때문입니다. 몸만이 대가를 받아서도 안 됩니다. 몸 자체에는 법과 정의를 판단하는 능력이 없기 때문입니다. 영혼과 몸으로 이루어진 사람이 자신이 행한 각각의 일에 심판을 받아야 합니다. 그러나 이 일이 현재의 삶에서 이루어진다고 논증할 수는 없습니다. 현재의 생애에는 마땅한 대가가 지켜지지 않기 때문입니다. 하나님을 부정하고 온갖 불법과 악을 행하는 많은 사람이 죽을 때까지 고난을 겪지 않는 반면, 모든 덕을 실천하며 자신의 삶을 증명한 사람들은 고통과 괴롭힘, 비방과 학대, 온갖 고난 속에 삽니다. 죽은 뒤에도 곧바로 이루어지지는 않습니다. 영혼은 몸에서 분리되고 몸은 자신을 이루었던 재료로 흩어져, 이전의 본성이나 모습을 더는 보존하지 못합니다. 하물며 행한 일의 기억을 보존할 수 있겠습니까? 둘로 이루어진 전체가 더는 함께 존재하지 않습니다. 그러므로 남은 결론은 누구에게나 분명합니다. 사도의 말대로 이 썩고 흩어질 몸이 썩지 않음을 입어야 합니다. 죽은 몸들이 부활로 살아나고, 분리되거나 완전히 해체된 것들이 다시 결합하여, 각 사람이 몸을 통해 행한 일이 선하든 악하든 마땅한 대가를 의롭게 받도록 해야 합니다."
+          },
+          "translation_revision_id": "sha256:1fd3821ccd6af12518a693a7c4c445206378023f2b7aa66aa3e214e33f4a8ec2",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:18.88"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 21.101, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-21-101",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-21-101",
+          "html_path": "works/athenagoras-resurrection/index.html#p-21-101",
+          "label": "부활에 관하여 21.101",
+          "location": "21.101",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-21-101",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:2df48196af4c4564f7d48882bed51d1f5034817bdb92865be93fe80a2e3ffc81",
+              "sha256:5f5b40b93d0c73c6be92b734f980443ed060b22b1402e3efba3e041163c9e60a"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Εἰ γὰρ τὰ πλεῖστα τῶν τοιούτων γίνεται κακῶν ἐκ τοῦ· μὴ κατακρατεῖν τοὺς ἀνθρώπους τῶν ἐνοχλούντων παθῶν, ἐνοχλοῦνται δὲ ὑπὸ τῆς τοῦ σώματος ἐνδείας καὶ χρείας καὶ τῆς περὶ τοῦτο σπουδῆς καὶ θεραπείας (τούτων γὰρ ἕνεκεν πᾶσα ἡ κτῆσις καὶ πρὸ ταύτης ἡ χρῆσις, ἔτι δὲ γάμος καὶ ὅσαι κατὰ τὸν βίον πράξεις, ἐν οἶς καὶ περὶ ἃ θεωρεῖται τό τε πλημμελὲς καὶ τὸ μὴ τοιοῦτον), ποῦ δίκαιον, ἐν οἶς πρωτοπαθεῖ τὸ σῶμα καὶ τὴν ψυχὴν ἕλκει πρὸς συμπάθειαν καὶ κοινωνίαν τῶν ἐφ᾿ ἃ δεῖται πράξεων, αὐτὴν κρίνεσθαι μόνην, καὶ τὰς μὲν ὀρέξεις καὶ τὰς ἡδονάς, ἔτι δὲ φόβους καὶ λύπας, ἐφ᾿ ὦν πᾶν τὸ μὴ μέτριον ὑπόδικον, ἀπὸ τοῦ σώματος ἔχειν τὴν κίνησιν, τὰς δὲ ἐκ τούτων ἁμαρτίας καὶ τὰς ἐπὶ τοῖς ἡμαρτημένοις τιμωρίας ἐπὶ τὴν ψυχὴν φέρεσθαι μόνην, τὴν μήτε δεομένην τοιούτου τινὸς μήτε ὀρεγομένην μήτε φοβουμένην ἢ πάσχουσάν τι τοιοῦτον καθ᾿ ἑαυτὴν οἷον πάσχειν πέφυκεν ἄνθρωπος;"
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:85bc97c1b22ac8132cc98555d405757d027edd532731f526f62aaf61b9ef717d",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "그런 악의 대부분은 사람이 자신을 괴롭히는 욕망을 통제하지 못하여 생깁니다. 사람은 몸의 결핍과 필요, 몸을 위하는 열심과 돌봄 때문에 괴로워합니다. 이를 위해 모든 소유와 그에 앞선 사용, 결혼과 생애의 온갖 행위가 이루어집니다. 그 행위들에서 잘못과 잘못이 아닌 것이 드러납니다. 몸이 먼저 영향을 받고 영혼을 끌어들여 몸에 필요한 행위를 함께 겪고 함께 하게 만드는 경우에, 영혼만을 심판하는 것이 어떻게 의롭겠습니까? 욕망과 쾌락, 두려움과 슬픔의 움직임은 몸에서 일어납니다. 그 가운데 절도를 벗어난 모든 것은 책임을 묻게 됩니다. 그런데 거기에서 생긴 죄와 죄에 대한 형벌만 영혼에게 돌아간다면 어떻게 의롭겠습니까? 영혼은 본성상 사람이 겪는 것과 같은 일을 스스로 필요로 하거나 욕망하거나 두려워하거나 겪지 않습니다."
+          },
+          "translation_revision_id": "sha256:4b29678e7e24cf387ae94284a6b77dba6e0e9f7f5fa156a7a9e3cee28152cdc9",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:21.101"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 23.113, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-23-113",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-23-113",
+          "html_path": "works/athenagoras-resurrection/index.html#p-23-113",
+          "label": "부활에 관하여 23.113",
+          "location": "23.113",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-23-113",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:a1856e38152a2fbf06ff86e5195646b2aa53fe253464e1c1f2f981559bc4734e",
+              "sha256:ef38b8a04e3cd6d0974f18d51f7d71e53cbbf4564c4c5895d1153047f4d1db5d"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Οὔτε γὰρ τὸ Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου ψυχαῖς μόνον εὐάρμοστον, οὐ προσηκόντων αὐταῖς τῶν τοιούτων ὀνομάτων· οὐ γὰρ ψυχαὶ ψυχὰς γεννῶσαι τὴν τοῦ πατρὸς ἢ τῆς μητέρος οἰκειοῦνται προσηγορίαν, ἀλλ᾿ ἀνθρώπους ἄνθρωποι· οὔτε οὖν τὸ Οὐ μοιχεύσεις ἐπὶ ψυχῶν λεχθείη ποτ᾿ ἂν ἢ νοηθείη δεόντως, οὐκ οὔσης ἐν αὐταῖς τῆς κατὰ τὸ ἄρσεν καὶ θῆλυ διαφορᾶς οὐδὲ πρὸς μῖξίν τινος ἐπιτηδειότητος ἢ πρὸς ταύτην ὀρέξεως."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:b5e323e538d268fb105244cc9d2384293e27ff43c9c4e9470b4a119c5f60673c",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [
+              "부모 공경과 간음 금지 명령을 영혼만이 아닌 몸과 영혼으로 이루어진 사람에게 적용하여 논증한다. 이는 출애굽기20:12·14에 나오는 명령이다."
+            ],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "“네 아버지와 어머니를 공경하라”는 명령은 영혼에만 적합한 것이 아닙니다. 그런 명칭은 영혼 자체에 속하지 않습니다. 영혼이 영혼을 낳아 아버지나 어머니라는 이름을 얻는 것이 아니라, 사람이 사람을 낳기 때문입니다. “간음하지 말라”는 명령도 영혼만을 두고서는 제대로 말하거나 이해할 수 없습니다. 영혼 자체에는 남성과 여성의 차이도, 성적 결합을 위한 능력이나 욕망도 없기 때문입니다."
+          },
+          "translation_revision_id": "sha256:18d0f38e6efcf0ee441afb3a9417c34286a8eabacb54521d85f36da0bb83cceb",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:23.113"
+        },
+        {
+          "author": "아테나고라스 (전승상 귀속)",
+          "citation": "아테나고라스 (전승상 귀속), 『부활에 관하여』 25.125, 그리스어 편집 본문, March·Owen 1876, 한국어 AI 번역 베타, 사람 검수 미실시, alpha-0.25, https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-25-125",
+          "fixed_url": "https://patristics.missionalbible.org/releases/alpha-0.25/athenagoras-resurrection/index.html#p-25-125",
+          "html_path": "works/athenagoras-resurrection/index.html#p-25-125",
+          "label": "부활에 관하여 25.125",
+          "location": "25.125",
+          "public_url": "https://patristics.missionalbible.org/works/athenagoras-resurrection/index.html#p-25-125",
+          "relation": "primary_passage",
+          "review_state": {
+            "human_review_status": "not_reviewed",
+            "stale_review_ids": [],
+            "translation_review_status": "ai_self_checked_with_open_questions",
+            "valid_review_ids": [
+              "sha256:d9839155a382a74beef6f8cb9c29f54939bcb900f65d2f6f06f46dd62f65981e",
+              "sha256:07221b1a243b8710c7e0d904ba93ec7c351b2f3151b357cc4f9f3745d21ac18a"
+            ]
+          },
+          "rights": {
+            "athenagoras-resurrection-first1k-cc-by-sa-4.0": {
+              "attribution": "전승상 Athenagoras; F. A. March; W. B. Owen; Tufts/Perseus; First1KGreek.",
+              "evidence_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/8ee111eb44ecef4120c844e10749178d95d1f30c/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc2.xml",
+              "license": "CC-BY-SA-4.0",
+              "scope": "명시적으로 허락된 그리스어 XML과 추출·교정 가공물",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "athenagoras-resurrection-notes-cc-by-sa-4.0": {
+              "attribution": "Codex AI 번역 및 메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "한국어 번역·메모에 보유 가능한 권리",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "corpus-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "first1k-cc-by-sa-4.0": {
+              "attribution": "OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집",
+              "license": "CC-BY-SA-4.0",
+              "scope": "First1KGreek에서 가공한 그리스어 자료",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-ko-cc-by-sa-4.0": {
+              "attribution": "이 저장소의 한국어 AI 번역 시제품; Codex AI 생성",
+              "license": "CC-BY-SA-4.0",
+              "scope": "AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "pilot-notes-cc-by-sa-4.0": {
+              "attribution": "Lake판을 근거로 한 Codex AI의 요약·메모",
+              "license": "CC-BY-SA-4.0",
+              "scope": "편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위",
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "source": {
+            "edition_id": "march-owen-1876-athenagoras-resurrection",
+            "edition_label": "Francis Andrew March 편집, William Baxter Owen 주해, Athenagoras, New York: Harper & Brothers, 1876, 53-86쪽",
+            "rights_id": "athenagoras-resurrection-first1k-cc-by-sa-4.0",
+            "text": "Τὸ δ᾿ αὐτὸ σῶμα τὴν αὐτὴν ψυχὴν ἀπολαβεῖν ἄλλως μὲν ἀδύνατον, κατὰ μόνην δὲ τὴν ἀνάστασιν δυνατόν· ταύτης γὰρ γενομένης καὶ τὸ τῇ φύσει τῶν ἀνθρώπων πρόσφορον ἐπακολουθεῖ τέλος."
+          },
+          "source_kind": "edited_original_language_text",
+          "source_language": "grc",
+          "source_revision_id": "sha256:412d7d5d210430810cf412136999d72912fef0666e086a7b00819e48a2e45590",
+          "title": "부활에 관하여",
+          "translation": {
+            "notes": [],
+            "rights_id": "corpus-ko-cc-by-sa-4.0",
+            "text": "같은 몸이 같은 영혼을 다시 받는 것은 다른 방식으로는 불가능하고, 오직 부활을 통해서만 가능합니다. 부활이 이루어지면 사람의 본성에 맞는 목적도 뒤따릅니다."
+          },
+          "translation_revision_id": "sha256:a44c855c2860eda7aeda8011d864c7d9ce4cca1462d7b2ff0e6604c8d543bb9c",
+          "work_id": "athenagoras-resurrection",
+          "work_passage_id": "athenagoras-resurrection:25.125"
+        }
+      ],
+      "summary": "몸을 통해 행한 일에 대한 대가와 부모 공경·간음 금지 명령을 영혼과 몸으로 이루어진 사람에게 적용합니다.",
+      "title": "몸과 영혼의 심판, 사람에게 주어진 법"
     }
   ]
 }
