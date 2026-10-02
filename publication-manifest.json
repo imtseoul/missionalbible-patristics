@@ -12478,7 +12478,7 @@
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "CNAME": "7215d7dbc92177d63632f4d01e33a47e991d145727f42421aaf6ee14a5f261cb",
     "README.md": "c92d32a4049411d24a855ca39c7b51e2feb127449b0cf0f852cea119e125947e",
-    "about.html": "f74560fa272cdc044b770ccc9bd523cd4696253af2d837332200dd2c949b1f82",
+    "about.html": "b417bc5517f3fcd6484c0342328ff7150af76f3fa75e5a9d24eae1e65cbfb859",
     "assets/app.mjs": "7ce8b7eb6e46939330f67e23383c77474a7964a15dbb738264b2c0ea575eb58e",
     "assets/apple-touch-icon.png": "e7cda279fc19dbde3f0cf09a254be4c99ce6b6c3bb84e59ae4c4adb1f8280c4e",
     "assets/catalogue.mjs": "a85d679d579ff0ff0138facd3bbed973d4d50131e62c0f69d1612337117ffaee",
@@ -14780,7 +14780,7 @@
   "release_id": "alpha-0.25",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 883504652,
+    "bytes": 883504403,
     "catalogue_hashes_verified": 40,
     "download_compatibility": {
       "raw_bytes_verified": true,
