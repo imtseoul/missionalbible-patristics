@@ -1,9 +1,9 @@
 {
-  "archive_commit": "b2ff5d3be588f8217215d8c69fe39918d917562c",
+  "archive_commit": "b6eea84954f6e3c182cf04dc960d9037779709c4",
   "edition_readers": [
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "e688c4d8a449b93988580f59bfc19e960bf2b4ebdc453bc10525007f6c084957",
@@ -16,7 +16,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "dffe474548543bf9208d120f3f26d0be69ac9f7fd80836242be88e7e08c033c5",
@@ -29,7 +29,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "cffe55e281128f8371e96f22f105cc39a349893526e6c77c14b660561cdd1572",
@@ -42,7 +42,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "113421d7781baa657216455538359ddcbce5d1c862b252ed13ef1563775b49aa",
@@ -55,7 +55,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "f49a93fd2242c9195151a52190661b9ea6502e86ab925beedcc8fc9bc839c759",
@@ -209,7 +209,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "800d93a98b7cd4e1bcc7adb143574ff277ae2a326b5f51514a6b3574dbb4c75e",
@@ -222,7 +222,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "d566ae1f6f981a7f539d5d9bed326f1983f12cd3ad6f139ee3a1dd0531209196",
@@ -235,7 +235,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "df919c65eb4ff78387b823a986098e8011813642017c430b98a3adc618642ef3",
@@ -248,7 +248,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "182246912560947162de55873eca6f86d8e31d6bd40f623ae598a5485ec0f454",
@@ -261,7 +261,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "a8194101f38ed0b84075df62cf42150d7092693cce03dbbb66dfa0c610eb87e0",
@@ -274,7 +274,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "13fc3ee182e64885193b58a1c726c2a0e0b7c47b566090e0e1d2ac9666c5c540",
@@ -287,7 +287,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "1a2afac8bec7033b9c3e14adabfb353b86d5cb538d340f811a5858e510f0c2ed",
@@ -376,7 +376,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "bd6f2c519b14317060e4e9502b9c0fc3080460a067cf4b7d072275d3b8517598",
@@ -389,7 +389,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "79b67ea520679f3094f8cef98528e0a7d21b69ebd22a0ecae5caab8ef9f0a11c",
@@ -402,7 +402,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "53f25b0aa193cb2189f922832a04b9b19ecc387691daa6c246527cb46803d7b5",
@@ -415,7 +415,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "058fa077cf3e5606d7f998bd85958c50e4774bfacb7ad7702f431bfbe6ba0dba",
@@ -428,7 +428,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "aaa607e5b85050a082a703a03be86f4eb687307e7d15547ccf20068510fa0ae8",
@@ -582,7 +582,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "32e9762b1ae1095df6b67baed2ff86e787f65f31e738aab792cd039c2dcfb7ca",
@@ -595,7 +595,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "b6ee89e963eeefb60525b4827670ff6c1a8c9943e49ad77be95aaebbcc318e81",
@@ -608,7 +608,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "fbcd13cf40fe59e5ec6f0f7b33af3ad79bd38630506a48776b7201af5d5f2687",
@@ -621,7 +621,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "94fa54446d8040a9b71120528ab7b3d8b6dfe91829fe26f7d0cae23e4eec11fa",
@@ -634,7 +634,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "3ebfe42bb3bb1d96ffb25dccfb3dfa1a59baa8e915a38c78eba1bf7cb15e98bd",
@@ -647,7 +647,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "d3f0a541acbafbef492470976c063009b27d89f0c60a268a245d0e66892f1a28",
@@ -660,7 +660,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "fd56a2ed4c590865e64ea6249e195794d09ea6bd120a817526a36f817f43f115",
@@ -749,7 +749,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "f84757acbeb3165568daa86b49696580468dfb54dfa66f45d617ff2b4e48e5a5",
@@ -762,7 +762,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "909353729cf552f0728a856b76b52e66e10ad65b9ad0c241df5356fa46d2a055",
@@ -775,7 +775,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "790405ad080249721fdaf8b82867e48a0788d7cc6a222acff9b88380d0d425f2",
@@ -788,7 +788,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "e23ba558d5b64dc79d7e1f821ce3df59f2e1e67f0146c77efbf1ee5fc0c2805c",
@@ -801,7 +801,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "7ba4ce91772fd28784ba235e45d869d510502c870af81630731aaf0c8ddab128",
@@ -814,7 +814,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "ebe9f15899fb3816e0395efb2c2a4ae92aff5d2126e072dd5157cc28d071c8ee",
@@ -827,7 +827,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "9c40c3fd689d1cf51c7e3dbaf6bb2d6f5f843c7df00c7b698a7699930f9a2549",
@@ -981,7 +981,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "ddaba37756db9adaac3b98b44f647903abc676f10cbbb55985dd5a51d0894549",
@@ -994,7 +994,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "a772b0f60247214d1e168b9e33daa3e5d2c37c036fddf2ad3639f843a38d1316",
@@ -1007,7 +1007,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "8450b25efe07e1bdde1a11de59028dd2918fa33af5e2c95558d1a01c32338a87",
@@ -1020,7 +1020,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "54a87a51c86a0c3eb32afa4f2d4a2708d2de7a9a31aae4b874dc5cd3928ce7ac",
@@ -1033,7 +1033,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "4f435cafc7b9c98f110f1dd91a75464774c81d03fd24647c5bc7bdbc7cb516a4",
@@ -1046,7 +1046,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "941d3402c1cf570959badbe042187e57b230d1b26c09cf514efa50e99d0ba9dd",
@@ -1059,7 +1059,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "9e3b4af97cccdd91421f7fb0c55ae4a2ca5a84fcb491ed1ea33cc1b83185fc67",
@@ -1148,7 +1148,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "58e8f05f380e4c66d2558f13baf3c0e249b7ab134628ba1c6da4c7cc013081e7",
@@ -1161,7 +1161,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "2a551156456bdd0ccfe1452e4dd3f798a815c446f668f3b20cf685cdb72fe61b",
@@ -1174,7 +1174,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "192f500643d7e22b46020eae723223d0c8ed301f00bd8d72ccc6ec5864d20667",
@@ -1187,7 +1187,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "41c6cfc0d7ce01c20044ea193837be7c82915d5cc5c8ae1debe19141d1cb6b4c",
@@ -1200,7 +1200,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "be71a367bce3cb974607bc8fb4c4bca153f097814e28e9bf80522683b81ca619",
@@ -1213,7 +1213,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "16f065eaa665ac82ab74d6b86121568974d9b772dafa6e269f03402b151afa44",
@@ -1226,7 +1226,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "3bfffd5f40e0afe73aa0f75ba95a964d2a87725421af6dabf67b7498f94fe1d1",
@@ -1239,7 +1239,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "3e1051ce51490300216140a5b97dac2aae7af3a32ad94c68ec659b0894929f01",
@@ -1393,7 +1393,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "60601f07200ccb5f6448fe28bb8401e8ce27fd0a40c036cf2943d550f3acc5c5",
@@ -1406,7 +1406,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "d98947f35a1e6ed7f11fa045f60db7ab18bac326a42d477b3771b0c7ca2806a5",
@@ -1419,7 +1419,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "ba3de7d621a795413d4b8b0399d79304e7426b10784c3dd4d65f88bae903f852",
@@ -1432,7 +1432,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "53c5cebd7efc3fcb58bc46d1122f0cf82885ac5482e7a964278a192b64fd1cbd",
@@ -1445,7 +1445,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "fd1d033a6ba2ab50b5cd828c4ea26d4a5e7963df4c95db17e171b53c25f8d81e",
@@ -1458,7 +1458,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "5eeb79009ca67ceb563509e31c8f9b0dfe7b01ea449c172fc2813fa19a2904af",
@@ -1471,7 +1471,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "4d44a760b1d2b2acc0d8edbbef889e27f4406841c6c81c87bd338d3c824d77a7",
@@ -1560,7 +1560,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "f65667f6bb848c7f6d2a97f4532fcbddf3e6767ad2159cfcdf605d4973364d90",
@@ -1573,7 +1573,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "4195f391d205b6a3697d3b68a8a71977aeb7ce324a80a50217a92119d22a86b6",
@@ -1586,7 +1586,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "74cd6797e6d77e6cda053c8a569ab24176b34e6802bc5c0dffc2e8ebb9720606",
@@ -1599,7 +1599,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "110a20f5f00b801e5a728700460ad71e040d081b31be558a4c613db26d356929",
@@ -1612,7 +1612,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "a7dda517c678dcb57a6ec187bf5114e015167c016074783be00cb90ea5f4d805",
@@ -1625,7 +1625,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "a2b33a9bf1f579d1d8ab2dfadfd5172a5a45935c9bbe998f91f355f875733e73",
@@ -1638,7 +1638,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "ae823e9826708f7c030ca353566cfbf5b5ba6d13c0600aeb85b4d8c078aa3e96",
@@ -1651,7 +1651,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "011e6924541e95edcf9451a877067e48f15d60f5b8b4eaa3e22e7d487a5f5dc5",
@@ -1805,7 +1805,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "3f2694770eea89cf0b52dc9244113306bc39f801389ec601bb540c88fc2ae6a9",
@@ -1818,7 +1818,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "d883add4068a9c563175c7efbb6278cbdbaf5d1ad3955d3906696d4fdba1f4e1",
@@ -1831,7 +1831,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "ee21b038b8856046b0a75953168a31f549e48a280b97224f74166e289a8d100b",
@@ -1844,7 +1844,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "b3e2b9dcde82385fec378b716e3515638ff680e0e6433f98eb82d3c17b405cc7",
@@ -1857,7 +1857,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "49935e23eec93e1af230f13fd87519729dc7d82115c3462a6042b78ed7b7e311",
@@ -1870,7 +1870,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "3a908dbf857b802f2942d4d44a41cbd659c0bd1b3564a9bb8907bdeda684b8e9",
@@ -1883,7 +1883,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "601f8501fabd2a6a3c39c6fdfbe9cf52c1353d1026f02aebacc76a34428f2628",
@@ -1972,7 +1972,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "23d3700a7423da39fb013ec2baf4531daa792502c85d73235bc6641098ef677a",
@@ -1985,7 +1985,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "d0a2da8364b0516d7749961f6a5d238d997f040a8cf7d938be587cf772254852",
@@ -1998,7 +1998,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "ca027076511ed83f860b68a9d8990b246ceef9fc47fc7288e9e6d18b623d7f17",
@@ -2011,7 +2011,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "57616a00676674430d9bb4657b2debd4c766a7d75ed18d42dd65306cff652955",
@@ -2024,7 +2024,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "ed71aa7d1272bb83335b366197deadc6737dafb63eab01e1b9ca41e803bbbd34",
@@ -2037,7 +2037,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "0b845f9da453f383d2b2ad306420bfe103ae5c550845478c62c56b9bf8177ba4",
@@ -2050,7 +2050,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "29515c079e74da1c6249aec6682fa2bb2b59c60f02736c01709d042db1e4e90c",
@@ -2063,7 +2063,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "d98e91a408760aca372d8c75516c1761fd977b0ebd4d7fe04bcc3a828c05a86d",
@@ -2076,7 +2076,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "0d658f601c6e0976f99121d8b86de75cea4dad2c2fe5ede7e702986368f603d0",
@@ -2089,7 +2089,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "4dfd36db5133f08345cfc718db866e729ad70a466ff9e37a316e9403ee022fb6",
@@ -2243,7 +2243,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "f722961cc41493e04bd2ebdb6711b61c40d03324d9f8ba48740ad8abf4cf5c6e",
@@ -2256,7 +2256,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "d8fef71eec2f062d6172cc0ed1eada681c5ae3f4d00805c2835e97dfd217ec1b",
@@ -2269,7 +2269,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "2f7774d0a238789ca0a3bd373aae55953f849bef50388720206ea07ecd1dcfde",
@@ -2282,7 +2282,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "9ab1396ddd7c031ebe1472eddbeea89549360a46b152db5b660da4bd2728407b",
@@ -2295,7 +2295,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "3247784b739cfd052ad4949fd9b6438b8bbbffca0573dd4a59bff49a2e389f1d",
@@ -2308,7 +2308,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "e6258f6e65bf456ce4bb2f393cd859bbbb8f107b33b3c7abb66f7e653323d3bb",
@@ -2321,7 +2321,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "eaca937fa8fd0fcfabe31adcf7aec35c5187415a3a0a757e63b98525e6d5be00",
@@ -2410,7 +2410,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "f5be98a942b7e94213f26e607f9d02ce417a6a52b5c0be65f211df10149c798a",
@@ -2423,7 +2423,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "32301c0cc1198c988e7d4f68990142b2bac864871bfaf3390f38d0d95baf8192",
@@ -2436,7 +2436,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "db3abcf9b91581b938b3f90c81ab10df004b877ef3a3b5457a4775523970eccb",
@@ -2449,7 +2449,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "49296383ee8d027037161bfbca9487c4122360e40900edba6adae27bdf2ed42b",
@@ -2462,7 +2462,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "0e380cda91a68092d4683c97ed071390985b6dd24cd556dbb53ad003b3aae249",
@@ -2475,7 +2475,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "81747932f51b57313869a357aedd3019d8accf7c8db33ec18d7d8b9c4349c315",
@@ -2488,7 +2488,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "e567dfe2ec1d55cee11b9f37b5f3e9e00130293a8050fde412bf15f36ea36e6d",
@@ -2501,7 +2501,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "e808521ef4ec60ce5af6ff1cbc7fb80573bbfd3abb9b0edbabae1514d26f1f45",
@@ -2514,7 +2514,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "c2d4ade846d58d88bfcb9459c84ae1d92792a89e8b2f0f8f2dbc4ce862a8a716",
@@ -2527,7 +2527,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "7293804dab0bdd5c04b58f4e19683590459a4a95749e21538f5054d39fe103c2",
@@ -2681,7 +2681,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "3ae30738a8edf9f931c4ae647c10c1a5d48683eee40074b244fd8711dc5199de",
@@ -2694,7 +2694,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "c7e8a1914cb6293774d3fe2b67950cfb21248b1ceb76dd63116e97198e6162d6",
@@ -2707,7 +2707,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "36515da87935bd67ae804eb4376d4d727a599bfde3d5c0264400f4e504525cf3",
@@ -2720,7 +2720,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "552eaf50e3b7c940a78f416e69330f765c7466e693a96cb0a6d0c2a9d0e2704a",
@@ -2733,7 +2733,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "f8eb7251e37a83fc8339056c1bd4b0227807351d23ad25312cced06473290207",
@@ -2746,7 +2746,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "7bd2df7ad71eb3d57cfb0ba41d2bb38f79071f1d645d13926cca53bffd95f896",
@@ -2759,7 +2759,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "97a723a51d543e56ea68f786cc1ce266c6dfdb84105eb47b3f5b1e3c9169635b",
@@ -2848,7 +2848,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "6f320fc6e7cf4219d29ca2ae61496f7109ab3c02f5f427517d5dc5bb6f5d2b58",
@@ -2861,7 +2861,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "87d2584c237088386d2f4b7fd147c104adae2c28fce323687b1f095e38561389",
@@ -2874,7 +2874,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "94db8ffcf0012b477056f1ebd27cac24da55c9116b61e23a2e590389fa838695",
@@ -2887,7 +2887,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "c5c836b831cdf8d4d72ab448b3fb0bb4cc2384f565a60608817703692bb863ac",
@@ -2900,7 +2900,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "703abb672d4e7ee27ac2e6aa65137193546c137ec26fa1685eab5098d81827c9",
@@ -2913,7 +2913,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "fada16efd13374b9e6874b67d5f791152df7304084f8dc381134e56e65188e37",
@@ -2926,7 +2926,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "39defc98590c604afe0ff55011f3e41a1f15fe3d17d1d652910b0a6b6f10a1bd",
@@ -2939,7 +2939,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "a470f510d63f1685302c4258efd459fec452b6687379002a4fddec1025845a5f",
@@ -2952,7 +2952,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "41245386f55cf011560753bfe97f4ed6dba7157adf9af50363d5368691ab6485",
@@ -2965,7 +2965,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "fafebc77be69d5427ca6a531ad4aa3b75476d7cc77c029fb1d13488108b844e3",
@@ -2978,7 +2978,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "7b1bc2690b044c15d2657e0ce65273c40923dcbcaa328bd158865e67ecee0fd4",
@@ -2991,7 +2991,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "ea6ef090c305d48a20dc7961e877e2f670f07e1acbfc872d07a094af0ec486a1",
@@ -3145,7 +3145,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "17a88c0298d62de0c1da2569d997a876b69959b4f1b8d0150636b91200083505",
@@ -3158,7 +3158,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "7d4a59740e6372f85301da7a24a8a25d15f78baf38cf776a79b9905568c109c4",
@@ -3171,7 +3171,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "14241c754a9f4e151356329af4d4266bbcf0cbb083eaff7ee2053e4d43fe34c6",
@@ -3184,7 +3184,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "e89adfbffaab0d657ecfc13e32f2a6d9e1100cf409d8abd84aa5dfe8e212a5ce",
@@ -3197,7 +3197,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "8d996844db52364fabdbb12c794aab2dc3455164782ad8c30bfe52ea1c1c3b2f",
@@ -3210,7 +3210,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "eb7c42d21f16fddb47e01cf5edb71cdc2f17b95fce379dd94b4ade9dadbe7abb",
@@ -3223,7 +3223,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "caeb0a4dd8fa605f6e5b439f2e043ab8d7500aaa85cb269ce8328f0633ce8ec3",
@@ -3312,7 +3312,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "1fb35c822228c7aa2e4cdaeb2c839f7c4ab3313f2530e75de0dbec57273b52bd",
@@ -3325,7 +3325,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "a4dac8853b458b53ae16b04b15008f946610ea38fced3c09296724c43b11e599",
@@ -3338,7 +3338,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "25a38ae0e8e6aab691439079d843a6d121291efb068abb7acb272a00346fa204",
@@ -3351,7 +3351,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "8d4c35be1c9c6d996ad7052c0893787298715b76c92c9ffd5317947bcb5fa331",
@@ -3364,7 +3364,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "74e9abd78032df29794ccdd366ca1ac5789c82e021e65acddb6bba0d2c4761d6",
@@ -3377,7 +3377,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "72e97992cf619f6d7f5bf7809ca74634b94d4c5118b54afd89dd55ad5a2ae5e7",
@@ -3390,7 +3390,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "632cb574b3c9923d56d91fb7c47d3344b4794728113917a584f1af07b79b4ec4",
@@ -3403,7 +3403,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "c4fb2faf6eb2bdade5693187d2e7f0056382d08d6482dea877541a5d2358f0ea",
@@ -3416,7 +3416,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "d0f03c1d128720e658fbe6395d6af748158f2869605bf5bbbaa7329f8925ae5f",
@@ -3429,7 +3429,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "60b51fc8151da3a47d2ee4499fba20bee2c29773926a1d5f405a6fe21bbe8ed1",
@@ -3442,7 +3442,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "be54887511c20351e9b6729fb30c64d9a58040bf8a189753c00a053ddde381d9",
@@ -3455,7 +3455,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "bab17fae167597fd7c19be6e57534be0714b3bfcf449ffb43ef09a971a31d85a",
@@ -3609,7 +3609,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "8902b8191e3799ca7bd3f89f26f224f2faa47a1168b04c59a001c9b84f125b08",
@@ -3622,7 +3622,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "522637cf4c07bb80c500f381ae56dde86ee52d88c6405142c4bf60f1aa10949f",
@@ -3635,7 +3635,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "16518336440eb43c5fb6558dbe9bd8ad76133f8fdc1287da0dd3f75634a75865",
@@ -3648,7 +3648,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "9fba60146728e039c30d9638904d849cba2dc8d30a394e5f7c0c6e201ba2df5f",
@@ -3661,7 +3661,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "711f70d3936d136e68f17b7f6a82698afe60f0120182b3ba057bbd2a578a2273",
@@ -3674,7 +3674,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "4fac4e3bcd33a0636b43ca4a76acdbf467cd722cab098f3ca1580f773f97f922",
@@ -3687,7 +3687,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "22b2f658857326cac9623d744ad08be4bed83511a2b161c86cc4fb07ef087a0b",
@@ -3776,7 +3776,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "92a2b8e69e3b6b0e73dad14a237019f619ca5bb2a2e70afa19ddfcba529a8d46",
@@ -3789,7 +3789,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "3159829921b652ad329caefd315f56b7a5e7cff36fe9e7410551d3b08ba6c1b7",
@@ -3802,7 +3802,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "e572d62490f74878994fca1752764b6168a3c9c72fdf58b0ff1da85a5ed62606",
@@ -3815,7 +3815,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "b90e2d4b764748c41a7716aef19d6a2cf86809b4f7ca87cf3f6536aa06a11a99",
@@ -3828,7 +3828,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "2ed1866eda86cde2b8598cfb5ffd648cdbe2e5b4dddbe2011523953004fa5c2b",
@@ -3841,7 +3841,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "ad6a6cb0d4933ccb76290fbf693b2289d8cc4c347be1b1872e8870d9ab46af20",
@@ -3904,7 +3904,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "2cc31f37e8a9d254f4859bc5cdea57b63635a6769ebc02e1149a4a70b11486e4",
@@ -3917,7 +3917,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "efeb0c1eb507c2132607e0f42081af3dcbc25ea6a143c817a2db639a2ef6595e",
@@ -3930,7 +3930,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "9481691bec6177007a0d0e48091fe2761eb5648c644283ff2dea99be30b326b1",
@@ -3943,7 +3943,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "c86059a6cdd2a7eabaefdc36cb89039d559c6ab80399a58e45115a2323a8d9d8",
@@ -3956,7 +3956,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "c8be1046b1312816fd3fb757dc2f91594df30ffe8b806499f4d47e90eb0fb399",
@@ -3969,7 +3969,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "aeb9f8100283944a49d958640a6be64c89034ad2833be0b187c333064e2891a8",
@@ -4123,7 +4123,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "373c259ea8e85e94d1513864331fdc79bf90244c1ce02b5ffca8d7c5dcfda4b5",
@@ -4136,7 +4136,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "bfc71337363925d75a4d84d8cc33edab918dc4c2eef2844eca05ae37946400b2",
@@ -4149,7 +4149,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "813ba321cf4f82a57a31ad39126043744f7ee1abd8efffb455c5b4b0778aef91",
@@ -4162,7 +4162,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "56b00be46da3240aaa6fffb1c6c532fe1b1b81f0b4af3f781ba7349c43cc4c30",
@@ -4175,7 +4175,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "91bb5cae87e80d54db9880970c07c90cf10a633ed2e09a27c9da5e5e6e545461",
@@ -4188,7 +4188,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "338043b89a9b9c1dc0d7ef5ad92890a7833c9238b5452d2f9cfba9cb4e6a51c8",
@@ -4201,7 +4201,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "be8107b9cd45fb799eae4ba117e2bebcc3e8900e1c7e8b2b3401410422f01476",
@@ -4290,7 +4290,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "be5bce43f33242e3d4e667f5a051d8b08a5b0db6084ad5a0143d6aaffcf94319",
@@ -4303,7 +4303,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "8bf3059cdd3d1e2e9a4347d006c3e7420f78e62f6df498a6c3eccc1b42cfc146",
@@ -4316,7 +4316,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "b740ea0b4608a137e62ca3a6faef638bd733116b9106f6760d734795782259a9",
@@ -4329,7 +4329,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "56975e4d26761c263d0fcb68967c985b3efec9c6f03233e0d781d9f4935ad93b",
@@ -4342,7 +4342,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "f1b23f3f26b177b79a6985f4b85bb02fa4097a363133689b9377dd598f02700e",
@@ -4355,7 +4355,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "100269853633bfe099a14299da172658d0aee5e4bd4c27331d2197d9b8664c3d",
@@ -4368,7 +4368,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "3268a50b7b07c9b948788ab4528c2faf7e6b42fac26f3e4f0cdaefbafb3e25cf",
@@ -4431,7 +4431,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "d577e857c1d1dc5f9820974735561dfff925b03b122215a38806c4824d20255c",
@@ -4444,7 +4444,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "314f3f4e92fe08f8e953f09be3df4005e5d38c049c0fa2c732f82e997a21ebeb",
@@ -4457,7 +4457,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "89d4d3d59dc3e8e3ecd4c3188bf34ac0fdee08e1d786c4f85ef4fe14b1ab0a62",
@@ -4470,7 +4470,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "cde083f37234db8ebc1762bff67c55920954c5f9df9ec5b0ae127350d6ba762d",
@@ -4483,7 +4483,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "747dbf152dabb7b687863f7892d1ff9cb8c24f00aa7afc6cef46dc45d8f1da96",
@@ -4496,7 +4496,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "a4a7b69d1d63e33f67084de203bb43ec0b020116e3960f3e48a4d1ec90a36d8b",
@@ -4650,7 +4650,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "98dc12dcc9ced6615f24fb8c25ffb74f4ee7ef7d7bba97f8bd3e5860bab7cac6",
@@ -4663,7 +4663,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "fe350a399177c8ed5556cddfdef37ddfe13baf5c3102789a9e178d46d2e5cc19",
@@ -4676,7 +4676,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "730e8d440ca64f8c49189de728b84d1e7ecd97a112b6f15bcc737ab7353aa72b",
@@ -4689,7 +4689,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "f50a10a4b5d456409840495d1a5a3e1d74aaa71656bfbc3bee645793f576cd45",
@@ -4702,7 +4702,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "121cf2c390cd45d7d8fee5416f80d4f047fc5aa13ea079fdd97256bc41adc8fc",
@@ -4715,7 +4715,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "fefb98e350ed01f3c0754c5e97870f05348e85cd225596e54010378f1ae2dfde",
@@ -4728,7 +4728,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "9e1434376647ddcaa0aa63f5689cd84600905b32ea60ea37f7d64b79acb10d7e",
@@ -4817,7 +4817,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "b80f0ae80c288de30bf47479442a92b4c4a8104b7774627e6c9b2f057dd87694",
@@ -4830,7 +4830,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "b169a1d49330010ddfe6f9c4879a50fd42504e6d050390632a4f378c8e8901b1",
@@ -4843,7 +4843,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "03df953605025a7c70466ed4a5dd2ddc5dfe6478b58cea67b9b942e05c8e425a",
@@ -4856,7 +4856,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "46e449bad3e6ba588a9e941015b980c3e85095ae65f21d5ed078af9abd5664b0",
@@ -4869,7 +4869,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "a317ebef5451af73a92a35cd0c7a808b618c5818efbf7e8b5f973fd15f893753",
@@ -4882,7 +4882,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "b2e6f2fb111fe564fd2c96dcb0910efacbe613510f79c4753f5a70d5c22051de",
@@ -4895,7 +4895,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "7b8d11d455474e260d5c7d4004799e056e5158af1bd92c378a227e6020ca128c",
@@ -4958,7 +4958,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "c78f744be9185c53875e5b6cdec6d9de719cbd42acd9d2563b008dae2919341f",
@@ -4971,7 +4971,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "fb063d134429ce8e477b51ea54cf4e10fe208d54a1ef82fd9906fea662f52a9c",
@@ -4984,7 +4984,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "f5fb894b7937c5564da0e18ed8eaddfb6c5205f24d456af7a949da901c970a2a",
@@ -4997,7 +4997,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "3751af05844506c04e0f4ab94cb0f93e999cfe690f34dd69b93dcf8ec79b3511",
@@ -5010,7 +5010,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "c6944d8a871b9832a694128c864e76f476f4e9c3859f20122ced783e9d208576",
@@ -5023,7 +5023,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "78c79862ce7997a87e6522aa944f669aac97362ba327a16a605c18335091a300",
@@ -5036,7 +5036,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "66d9eb3a40e90dd83050caa7c83299053f7aeca38687a7773ad49447d61e6de0",
@@ -5049,7 +5049,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "6d8edc440c13be217f5b43ea72f5e5a8aef93fd5c64c25585aa63fe433fbb61d",
@@ -5062,7 +5062,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "30b5a109c4ab2bde5486932a7882ffc112b8400d9ca52f590c8586409486feb1",
@@ -5075,7 +5075,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "daaadaa079dabf80f2b1a13a1787fcae6d49eaeb55dc7fb4d61a08ac41b7113a",
@@ -5088,7 +5088,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "bf21541aa0a1e2f81dddd5ce20facc59b9929f30fd0a72f0130edfb18287fc3c",
@@ -5242,7 +5242,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "dce4dd16d5e8f49e0ce80e703ba4f83a2b1ba77c5d076c08ad5b4e13de7b1270",
@@ -5255,7 +5255,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "f9acfdabfd3ec4cb1ac16d93ef92178ace0d5c7ff5babfb1d72761a090759d81",
@@ -5268,7 +5268,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "e2bf794b75c8942441621dd7aca835133fceb26576bd01846a83be96c6eb04fb",
@@ -5281,7 +5281,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "f987c437cbe0b2d139df0c89ea66a63ec65b6c720a9d78597aaefab1496c9f38",
@@ -5294,7 +5294,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "477a1a1e9d406d6a856b9bc72a802a6524281cea608d4cb802a47a0bf318aa0f",
@@ -5307,7 +5307,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "dfbbfdd2b75820cff1b54f343d1436a3ffc543d98185d93edfa941d094eaf6ec",
@@ -5320,7 +5320,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "175e738b42371a60b33795b055ead8d98e1fc4b4524bf54da1540d4482795b06",
@@ -5333,7 +5333,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "b773ca696d88b5601bf5ea95eb37f61ceeff6aa647038888f61e85e8e8005a5c",
@@ -5346,7 +5346,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "4ea609d89174d9e955a28179853f68aa91101abcdd589553638471a96c4a87e3",
@@ -5435,7 +5435,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "6283ec863436e4e3d699b0b73da3fadced2c55a105cadbb3573244b85ac0fce9",
@@ -5448,7 +5448,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "b7a0cf499520a4a0c5f54eccbcd377755cabac39f98dcd5677d773701e412755",
@@ -5461,7 +5461,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "6e2f0c6a39fddfabbf3db920504f66c69f370c891201b0948068f667ab8faf63",
@@ -5474,7 +5474,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "c133439cac379a4a6122065534b147ab95b463e3a1c8d3af480f392490e22272",
@@ -5487,7 +5487,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "ede01977b52e8e51a0872b3ce4db22cf11d3117ce51e035f6ddcba12c107e4bb",
@@ -5500,7 +5500,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "8e6bd8e8ae08e704215792d5f65e023bb0e6904f8c76964a95df541cc35c5441",
@@ -5513,7 +5513,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "58ba48e2c81246377155ddad173c5460aec789104facc9a349e6d057c11c6d45",
@@ -5526,7 +5526,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "206f8e71ed6c525d83b648cc3d45dd76b4611d609daa8a211ca10cb3e7ca0c80",
@@ -5539,7 +5539,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "68f00c546b4631380717e3502aa809f60b72c305825e9c726023fd80d011b193",
@@ -5602,7 +5602,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "a9ab5ce37a350f60c6a447e7f8c20365c3d28a1261ebce447bb3b70ac304e985",
@@ -5615,7 +5615,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "88743d0b4a6552eddace3e53c5409c0dc796d9eafce75935aae898c69d945e21",
@@ -5628,7 +5628,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "0fe05e438215e487f4b6f66a138f441190c2059b184253ee9ccc739cbd7378dd",
@@ -5641,7 +5641,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "5ae00207224e0a92a2f4bb3faaf2fcbde40794e8710a35b4fc644042f3265718",
@@ -5654,7 +5654,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "eaae9f3de9efb779d024a1d44b07f231e01dbcd0d391f0668c0d0c576612800b",
@@ -5667,7 +5667,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "9a8c69c3cd3843f7ab14fc55062656609a8c48aceaa87e9bf7b8b4679416c571",
@@ -5680,7 +5680,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "156942a2bc9daf4bc3e0365a5297bd60d054fd059a0a3e7f7e38edbd9c253018",
@@ -5693,7 +5693,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "4dcc3578ee6031dfe8291ee74d1e353057b29a0e4ab5120f98ded58bd7b1713c",
@@ -5847,7 +5847,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "51942165d5cb6c67cd3d181171dc207a35e56cad9e9d6f5e5212d97025ae789c",
@@ -5860,7 +5860,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "989d0350dfb224bf4b32c43f46105aeca8444f87ed8a0d0028d6a359fe95cd18",
@@ -5873,7 +5873,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "93eb2ca294c20b5764693e714afbf16fa186c352ea5eebdfea0d1ecaa214d658",
@@ -5886,7 +5886,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "0dfb992295d317c38c58e1b96a47caccf4292ea611817cdd42c11966875c4f6a",
@@ -5899,7 +5899,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "7a766a1f4cbd2ccce8246518d9974766f14dea0a2316c68058d07de152bdf852",
@@ -5912,7 +5912,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "416b2a90ad40042eea2b583efda945fe320fe1f5bbfa9daaa3174de5de621d5a",
@@ -5925,7 +5925,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "ad17a0179bc3937d9acfce93b4b418be0c63856d7c817eea8926613472e24a5e",
@@ -5938,7 +5938,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "c401dd5f36914a01eca9592cad57585611d7419cd2f2bda1153d2fdeb33999f4",
@@ -5951,7 +5951,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "c031abb800faa1dbea2f13f25d09f9570bba1ad1332a62232c8f52646573e3bf",
@@ -5964,7 +5964,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "aa1492c67e7fa45ae44d6cb7dab86ca7b334539e0c6b4edb8595eed0a4db9303",
@@ -6053,7 +6053,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "35d05307c447f1f2f37d35715e152940c683d296237a291210fcb44518c0fce7",
@@ -6066,7 +6066,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "3cf2119881f972f51be23dba0323dbaecb9adc6424712ebe132809c342a3f738",
@@ -6079,7 +6079,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "e3d008ec75c91311beb2b1a850bddca80cc7457deeb5aa8d2134d8f589e4e921",
@@ -6092,7 +6092,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "b0c05102b7cf463dc6d6b4a226aa300c9c825fda247dc036e81ee064adc4bafc",
@@ -6105,7 +6105,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "10401238ce0789a7ff5c0f7751cea5c44ead6802db97ada1f8f054e9f339f8ee",
@@ -6118,7 +6118,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "9bda7a58dbf2919897e65210e5cb93f58f3bc037b37915f9e098a4c7d67c19fc",
@@ -6131,7 +6131,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "2618d8a829919cd859b45acf6d357a8881c4b0ea8f463074357b891a48a486f5",
@@ -6144,7 +6144,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "124e17e68e1113a057e56876410eb921054d6b21386eb56349c23a881138c00a",
@@ -6157,7 +6157,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "23db60abc7d606e6d3adeeb226cb6e1d90984e31261fa5d4ab9d5280ae194f3d",
@@ -6220,7 +6220,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "2df883e997569b82bbce02be1c92a87f28901933a72998f49a678d578153476e",
@@ -6233,7 +6233,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "c7391898c150bf7f3298251110be529243df190befde252b8b9b374121e581e5",
@@ -6246,7 +6246,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "3e0bae82f1e2fc5f7bb2396bccd70e3136bb77f4c4d12acdbbd3316f781da8ad",
@@ -6259,7 +6259,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "3e372dea8891dac168794085ec4a76b3a9d6f184daa7b41e62de6b2355ff8488",
@@ -6272,7 +6272,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "cbad372788a86ed7878caee1a0be318667a419f91f7191a9d9ccf3b9928e8515",
@@ -6285,7 +6285,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "a64add1905c42443595efb1cc527e5a772bd9e8064e648068b671cd6bc12400b",
@@ -6298,7 +6298,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "75d8268d905a299ec10a967a80cc2088a7dd6ee39115ab9d1f3aec2f0ad4b747",
@@ -6311,7 +6311,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "de12045273e4d0a827346d920e7d9d87990586cc6dc47dc7f570eb3d478d7417",
@@ -6324,7 +6324,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "63540cacaf1bb2ab3c83dc00d491a8fc9926cd0c3cb6db21682a319583bb99a4",
@@ -6478,7 +6478,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "34913ded0191ff8462fa104364ec970db79eadbd404f45d63f75708a7474ef15",
@@ -6491,7 +6491,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "3b60540443099e6f462f1fc0b72ac39ce45c79e92787fb938e06ace0cc49d5f9",
@@ -6504,7 +6504,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "8f84b55d6afabbc00ead11850e303133bf7c7d8bd974beb8b61602c7592f0d87",
@@ -6517,7 +6517,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "8d403164c15dd63bcd774b8cd68f1cfc1619edb2bfb407c8cc7273bb883849dd",
@@ -6530,7 +6530,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "f58f949e8dc1746b045effd6ce82e8ece2a690b626df2e9bc1e9e2fb1de9ed6a",
@@ -6543,7 +6543,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "dc39f5437a4f31f8af06ae29a72996153fe341809564749b2db5144b0703c7fe",
@@ -6556,7 +6556,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "69b62c5dd148369c0960c6485b1a71d544f34cf9e4555a71f8b8debf0515f937",
@@ -6569,7 +6569,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "03f69e897550dbe9e46a94a7e0a4bbdbd0b3af4bccfaca629f0f1ded41956cf0",
@@ -6582,7 +6582,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "5880af4cc6d79d41b3290aa539623bf1c6fbeed97d98273c60c2cffe40984077",
@@ -6595,7 +6595,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "8eba2b1c7ba3aa054796c72132d7d7cd4e46c23dd180a77aff299027b56c3e14",
@@ -6684,7 +6684,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "f4db8cb8c417806bb2e676877fd057fef3b2d5eec1c5358369196699c8b5a437",
@@ -6697,7 +6697,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "824f1f24241e86d7ab5cdcac8259aa2f20790f0f0753d2fca120b05bf24698f8",
@@ -6710,7 +6710,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "fb8572f8111b2471ba68b1681ad7d41539400f415db32623c49cd17cf21c400d",
@@ -6723,7 +6723,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "1a753d24228d1733426dd3a28a1e3b204c2f1d0844d37276416849a30030f797",
@@ -6736,7 +6736,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "412de64bbb2be1383c2c0d152eab18c4ed5e6de30d5b0ab847ba7bbf422826e8",
@@ -6749,7 +6749,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "08cc3dd3c78055cd3dd4d1a1466e1c035c804040e5747a0b6f6f508a2ba4e4ab",
@@ -6762,7 +6762,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "74d1acc36d4e0916f92c71deb606382f0f7e9bdcef9f400c8df1068c593df173",
@@ -6775,7 +6775,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "7a78ce5e07713b1103582c7c79a378f349c9e869ee7b172f56f9a91139ff5fec",
@@ -6788,7 +6788,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "daa3db144f7169161b727b457b3c750df109bb37ef718995d7d12fe1ef57bd8c",
@@ -6851,7 +6851,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "2d3c54166ba6258328bb52f1504cec8cf6a7057b0405bcccf365b410720bc886",
@@ -6864,7 +6864,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "741a1599811cb70367289560b548ba878bc407f5e842519dbd10acd3e5becf4e",
@@ -6877,7 +6877,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "9caf12baab94f4449d282879bcf69b81012e613dd70d3f71240f606f1b870ea9",
@@ -6890,7 +6890,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "68c070855b6080bee0d2e6bef38e4602de71cc8c62aa80733a8d00e57404afee",
@@ -6903,7 +6903,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "f8ef138a1fbd3cfa5e2114c765a815cec0e9ea05c5432e6f9792c8269a30d784",
@@ -6916,7 +6916,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "4f3e34aaf2e1a0535a4cbed420b827da81c0d4b18412ff2690605bf9a4df6303",
@@ -6929,7 +6929,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "bc0a2cb44c34b85ebafc82dc5000021a8dfee92648e70e3429a119f27910c034",
@@ -6942,7 +6942,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "346a6f2e31b7f26396733461ec4e91daa96ebf63bafcce805882756288b3fd02",
@@ -6955,7 +6955,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "de9c6c8e95ec6df60329fc3eb8d6a2ff32e80fa6c84574ff0b3f28baecabce48",
@@ -7109,7 +7109,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "5b978d9a6dbd54bdee51c06ae848cd355b5bbe2b0d9bf9e32adde3659ef739b4",
@@ -7122,7 +7122,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "98e5dd6be9f4ea26791cad1fe7b1c67b036eaa2ff857cae5d092ac30d2e6a421",
@@ -7135,7 +7135,7 @@
     },
     {
       "alignment": {
-        "identical_text": 31
+        "saved": 31
       },
       "anchor_aliases": 62,
       "edition_json_sha256": "bf1c1371a957bc23c96159aeb5dcaea0007f9c91f4552f3385f24ab3e553703b",
@@ -7148,7 +7148,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "cb9f2ba35dafd7ade830ea0d025b67a707977dfb1e9403a7e530cd8332c7f7f3",
@@ -7161,7 +7161,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "e452623997e4d0f530a560a07d0cc3a99122d67b823e0480790c5e480fec9ba8",
@@ -7174,7 +7174,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "1f22726436ee42ba8af18bcc74c8e030916a86dd60500f6f0f4a5633f30c7caf",
@@ -7187,7 +7187,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "cee7163149ad4cd5178773fc6d9d733f0a55dee37c2ac06783ab1af10cdf531c",
@@ -7200,7 +7200,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "4f52a24c1853229f2f53b37e7288cb057d59c75e96c4708e10b2c6cc4c36843e",
@@ -7213,7 +7213,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "79dd3cfac16d27dcfd26b64cfd470625b2a975f9564a92c5552a1fb1c059ca5f",
@@ -7226,7 +7226,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "af709e00ecd5c755d4822396cf4a7f4d999d5302c87b7bc0d35f5f88aeef56b9",
@@ -7239,7 +7239,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "084bd9dd2336d6e7aeed810e77c420cd1100f049ec536cf464911b431f3acefb",
@@ -7252,7 +7252,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "3484eea074dc3001a1c78da55a4d037c537ed33ef2d8350622f374e077ab00ec",
@@ -7265,7 +7265,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "e81b80a2a8c651857aa37f88f1f65cc146d695d7178fb786c304779e636c6bbf",
@@ -7278,7 +7278,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "331f6ffeb404deee75eef229961689f3009a15745b33571e74b013a49e86dda8",
@@ -7367,7 +7367,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "b7a2d065cf17df8fe9981ce06d1d4027560cc0f969ef95c1226d5fa8628b4fc8",
@@ -7380,7 +7380,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "5a07f4032b175a40f0e54349a647e3d554cc6a3e0e796fa46e3248b6269a85c6",
@@ -7393,7 +7393,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "58f615f3de858607837675e689cd580d6269ed015d72eb03bb3382a574ed1d9f",
@@ -7406,7 +7406,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "9d1ce0da2b59299e198d84bfcc1de2caf0db4cbb16b1700b0ce897c149510dc3",
@@ -7419,7 +7419,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "7181381eec339b34f9464bd9dbf99e969354a21a77ac79479e42c181592b1813",
@@ -7432,7 +7432,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "f80ca174f1429843d8a9d44b5525ec203a5931c64b99b1deec03566d80409959",
@@ -7445,7 +7445,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "f5cd2c044759ff11b299a0fc0b835b9aeb512fad56b3631b3796d3748ab50151",
@@ -7458,7 +7458,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "d0f1bd071b0a848cdd667b340ef5a1b8660cbbbda4115f87235f947cd309bb00",
@@ -7471,7 +7471,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "b4619551eac6b987125938e2b59dad9e94b5de26a39db552f5f18e0d78f3c92d",
@@ -7534,7 +7534,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "88b8f566488cfadb403e1c1234cfe1b876da8e8044b280176972c6d778d11ec9",
@@ -7547,7 +7547,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "135e71ab2aeeb663d19435144c1a6735057c03203390f23d12406278010002ad",
@@ -7560,8 +7560,8 @@
     },
     {
       "alignment": {
-        "identical_text": 29,
-        "plain_edition_text": 4
+        "plain_edition_text": 4,
+        "saved": 29
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "7860b077bb73ff752dda1548553816dee83fde925fdb8be9b917f70f9d23e977",
@@ -7574,8 +7574,8 @@
     },
     {
       "alignment": {
-        "identical_text": 8,
-        "plain_edition_text": 1
+        "plain_edition_text": 1,
+        "saved": 8
       },
       "anchor_aliases": 18,
       "edition_json_sha256": "19652e6a62c01b5ce407b0dc03f42be701ab17f12034e4216521ab583b8ff570",
@@ -7588,8 +7588,8 @@
     },
     {
       "alignment": {
-        "identical_text": 5,
-        "plain_edition_text": 2
+        "plain_edition_text": 2,
+        "saved": 5
       },
       "anchor_aliases": 14,
       "edition_json_sha256": "2debc26b6c1383e3cb2db9e62e3244610017f370fe47c805716e11a16742530d",
@@ -7602,8 +7602,8 @@
     },
     {
       "alignment": {
-        "identical_text": 18,
-        "plain_edition_text": 5
+        "plain_edition_text": 5,
+        "saved": 18
       },
       "anchor_aliases": 46,
       "edition_json_sha256": "4219e4098213d55a1b6acd74da12de4c8b8c2b131c731848f8adfc17cce6eb71",
@@ -7616,7 +7616,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "7bbc291fe1269c0486d2eadd6e130e998ca7bb87c251a97b53f4a427dc343049",
@@ -7629,7 +7629,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "feed12732e3f08d93bf7a58a0cb8e3bbdeaac5af23d516922b74d300cbc66331",
@@ -7642,7 +7642,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "f1755d0232439812bf66c6170ab6c466278362a7ecf11775ed35792fc425b4bd",
@@ -7655,7 +7655,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "75182fae72ead31cd58879f1ecbd4e077067a6c5d3c85791c006af582ea06f30",
@@ -7668,7 +7668,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "971931404389f6e75637df1a185885516d67890177b2c1f056fc89ad70f28098",
@@ -7681,7 +7681,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "1b31c4ccb5f6020d5a83d32e3ea7883fd94bc05600762d5ebf3c905f8144f931",
@@ -7694,7 +7694,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "042c916cc68750943e48dab5b2d4526b2ab4bd3b2d41c6700226c5dd2cd2d688",
@@ -7848,7 +7848,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "99019687942a6496f2a4fe63187e3f3d076ce3f9f2ff98d49eeb472817368632",
@@ -7861,7 +7861,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "f4cde665e23b6eb7ad9e3050eb22f447ad6ac9049baad6ade92f03737c8bee32",
@@ -7874,7 +7874,7 @@
     },
     {
       "alignment": {
-        "identical_text": 31
+        "saved": 31
       },
       "anchor_aliases": 62,
       "edition_json_sha256": "7a72ac46096edf7b52a1586a54dabc012c81523a57f4980ae16aecef1e29bed9",
@@ -7887,7 +7887,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "022d1714d4508b3182fa022ed5c741ebd8b45f8b72f14bb9c1def87ee0509678",
@@ -7900,7 +7900,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "d520fc63dded63d77bce86bb6e03130878a501413d6aeb357ed348977a150a37",
@@ -7913,7 +7913,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "ff280cd96c3086d987d18a8aa93693601214ee4d9ae70fe593f6d7e5c360ee85",
@@ -7926,7 +7926,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "2549b451d5496565a17874aaa739a0e7c418b2f1b1d2f1c0f0a7784febc9d44c",
@@ -7939,7 +7939,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "a1457827b1a45f48fe97924365e691311f5fcaac4ec6130739d18670f1c17f96",
@@ -7952,7 +7952,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "4ecbca9f4842d558ab930ed21f6bbdc06a80a5e49b93323ba992069ca10d2894",
@@ -7965,7 +7965,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "b08f38dc2d45b39e6c634e92ee62ac037ff1117bfcd82d0269449b5a289ed0bb",
@@ -7978,7 +7978,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "e41e3c03f5288fcd0f414fc8aaee78b7641ab78f507bb14cbfadd970c2c7d36c",
@@ -7991,7 +7991,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "7137edc6032d66e1e54f8821ebfb0eade4deaea5fff94343ce331a0dc1189476",
@@ -8004,7 +8004,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "34352bb891bfeeda28cbbe150075ea750b0404bb61ee4841271dc22994f0e9ea",
@@ -8017,7 +8017,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "e6145233f5fd541095d8a0e19a3b48f8b2b98ba730cf69984c77599e8dee38bc",
@@ -8106,7 +8106,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "051c56d6c3f4accaa7f9afbf2f56a5d376efed251550e2ee2f17bdd6fc826632",
@@ -8119,7 +8119,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "464fc82bc683af84711e2f37ad394c8e61c3ac81e7172caae9e4b7414dfa1ce8",
@@ -8132,7 +8132,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "3b598fba476df19690c2092b55dbfc38fc7f74e56a58c8f04b0a1c9f9165b830",
@@ -8145,7 +8145,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "c58d6f026b7f884882d00c183c05162242af037e8c6bfccc7dc9a9b5a1e41296",
@@ -8158,7 +8158,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "57098756770b3af7b5d3c9bc4a8da4466d8b1f4515d50ebbdc9f822998ec5bff",
@@ -8171,7 +8171,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "56686afa16982591dc5d54cfe611e43d121a529742ceadf1322e6e252b21a1be",
@@ -8184,7 +8184,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "dadd8a6d0138579c7ec98b62a094861a17577f09d1a5a7488e163a0b169a5395",
@@ -8197,7 +8197,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "6fa7985920adc788fbbe26591e724aed4a8d6a1582b97ad0c467f0b7964e4ff7",
@@ -8210,7 +8210,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "d30935d560879c1177516c05c35297aa2d6945376992703caa4ab455c3a7958f",
@@ -8273,7 +8273,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "3d23444e11bfbb0c0acadb3c5d72d76b66f12b0f58f6b12ffd46d955af0c92f9",
@@ -8286,7 +8286,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "79e2d43922826a8a2c9bbe1c8d968c73a8df59bf0973c1750b8c5a77ce86986b",
@@ -8299,8 +8299,8 @@
     },
     {
       "alignment": {
-        "identical_text": 30,
-        "plain_edition_text": 3
+        "plain_edition_text": 3,
+        "saved": 30
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "870a4a038500a97fc082647196690eabebdf4f0e6f53fe31d40608fd62966014",
@@ -8313,7 +8313,7 @@
     },
     {
       "alignment": {
-        "identical_text": 9
+        "saved": 9
       },
       "anchor_aliases": 18,
       "edition_json_sha256": "adec981ebf6fa8216141881e3a2513ca3a4d348e9fb510e75dd9e91c57ada8fa",
@@ -8326,8 +8326,8 @@
     },
     {
       "alignment": {
-        "identical_text": 5,
-        "plain_edition_text": 2
+        "plain_edition_text": 2,
+        "saved": 5
       },
       "anchor_aliases": 14,
       "edition_json_sha256": "6ec4a92ad2581f4ad502ca2465cf2820bb39652a0a61e27f7d0d84b89513e026",
@@ -8340,8 +8340,8 @@
     },
     {
       "alignment": {
-        "identical_text": 21,
-        "plain_edition_text": 2
+        "plain_edition_text": 2,
+        "saved": 21
       },
       "anchor_aliases": 46,
       "edition_json_sha256": "6da1011663e415ceb00ce0c1601738ae9be5049522a7fd835ece568a1d704f33",
@@ -8354,7 +8354,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "f9dd7d0cd8359d6e66d19af9b8ecf6f52db9e5303e71943d4295680a05afa8a6",
@@ -8367,7 +8367,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "498dbbaf994254517cb4c9341e973576c993e141c56d61005ea829382998224a",
@@ -8380,7 +8380,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "646f4a9f5f9bcf0157a319846b4b4e090f70d6f028e619c9ab8bd670f6e9513f",
@@ -8393,7 +8393,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "07a9595f3c4c4cef3e91c681dd186934569839f2f88ef06a65c70389c5c36166",
@@ -8406,7 +8406,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "af25cecfe66d67681c8cbf72a8d291e27cbdb972be5696d60c15560a372360b0",
@@ -8419,7 +8419,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "b2017c50255470551d846de27a0e9eef596ced81d67b3ca0fd98318baca2936c",
@@ -8432,7 +8432,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "d9eaaf63f3f9459e6b094c1c80411dbef202403571a1aadde9585cc2c62a5aa5",
@@ -8586,7 +8586,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "231550eee52714ddf2501f6ad3692af954c2e05c6af10e101a107f9d7d143869",
@@ -8599,7 +8599,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "77dcfc8c052899ce85d4668c4ed423805d197045487193d94af9f2810c2566ef",
@@ -8612,7 +8612,7 @@
     },
     {
       "alignment": {
-        "identical_text": 31
+        "saved": 31
       },
       "anchor_aliases": 62,
       "edition_json_sha256": "9d1d781021fa678ee19aa9a99093f1fe728dee8bc591b7e0fd6474a1f2de8bd1",
@@ -8625,7 +8625,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "5eab036e206eb6191834e71719c14bbc3a3c9e02659fd4e7618943d5cf6a14a4",
@@ -8638,7 +8638,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "376b835fde22dd9e0d2f949ef8a5a966dc4f582a8af0332bf7b2444e6496a7fe",
@@ -8651,7 +8651,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "ea30fe00c23510872a4e9a7575b04f181b5e2c647ece32c200a77d45c97fffe2",
@@ -8664,7 +8664,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "df90f801e7f33037426118bc11007514ecb8c88276000d1730240fd03f171575",
@@ -8677,7 +8677,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "56c0da804fc79ab2aad4d7663cdcbb492a0e736ac73cf7811282729a807a663b",
@@ -8690,7 +8690,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "0e56394cad92bcb0c81c2b55ee4bfe164bc4fcace9b908f6218b4301c0209839",
@@ -8703,7 +8703,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "edc31ba4fbaf530d970a148b69aca02731ad7ea25c86293984713ae2b0686b2a",
@@ -8716,7 +8716,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "b25e0be325bcb5453f6c585d0cb61f51068e723ed80152fca259094faafb4315",
@@ -8729,7 +8729,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "44486f089bada76f6ab431a692913507e77ea0edba8a5264ec33ee84a87723cf",
@@ -8742,7 +8742,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "46ac03f03b91a4fc4cf64b494f89ba4555a764f32915deafda7867eb9cefc6a1",
@@ -8755,7 +8755,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "cceb7a633a6f6dfb1d436d44fa99b72008744732d2138849a9e956ad490dda8d",
@@ -8844,7 +8844,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "648f4d326f5e5556068a1cdbc13a2a70abd43aba47a267bc1166b17ce5a086f4",
@@ -8857,7 +8857,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "d13f998f36fce67cff79af9765af2698a82ff97e0353963def1d513e89143733",
@@ -8870,7 +8870,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "68f380f3637ac755f0a485335abcfd259879cdf956f68abe0bc36d66d760a94c",
@@ -8883,7 +8883,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "f1fba02774009cbfdda917d4d3089b3c07650b68ced4bfdb38ffb172032ebcd3",
@@ -8896,7 +8896,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "7565f8dcc672cad7ca9aae73fed9d6ce447050d92e6f0d42bea2208fbd85e817",
@@ -8909,7 +8909,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "8d8439777882fb4dfadde93683ec8b4a34c08a562d6ef4eb44fd1468f4701cc9",
@@ -8922,7 +8922,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "5c77af09c32ae66f42d52734a895933e92b6bdc2966fd976dcd38d6bd34d6053",
@@ -8935,7 +8935,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "7462a74bdbfa3c465f54de204f90dfbd2f79e052561fff22ab25e5725f55b65a",
@@ -8948,7 +8948,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "eed26d38c2b4b422f688d9d34b4da02809d95010fdd0758b0c5323ba51328abd",
@@ -9011,7 +9011,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "e5345491dcbb7ed00ecfaabf1268dd37b0632081b53b55ea2ede56e21e61f222",
@@ -9024,7 +9024,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "1be3135d5bcc6b24196d243725138229e525e2add2c3174546d9ade31eabd953",
@@ -9037,8 +9037,8 @@
     },
     {
       "alignment": {
-        "identical_text": 32,
-        "plain_edition_text": 1
+        "plain_edition_text": 1,
+        "saved": 32
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "78eee71aee9dad68b2be6fabadd227e20eaeba79b8ef82145bd8d66393f00f58",
@@ -9051,7 +9051,7 @@
     },
     {
       "alignment": {
-        "identical_text": 9
+        "saved": 9
       },
       "anchor_aliases": 18,
       "edition_json_sha256": "5ccaba653762fde186b7ec50dd74dfa810bc9d285f2d5b092617820b996d023b",
@@ -9064,7 +9064,7 @@
     },
     {
       "alignment": {
-        "identical_text": 7
+        "saved": 7
       },
       "anchor_aliases": 14,
       "edition_json_sha256": "47ba945436ffa72abcdb13dedf432eefb484b303c9ac59254d8d1a24d4918862",
@@ -9077,7 +9077,7 @@
     },
     {
       "alignment": {
-        "identical_text": 23
+        "saved": 23
       },
       "anchor_aliases": 46,
       "edition_json_sha256": "afee14bec22e8f9db934906695c7361f343b12135031857cdc4dc81472fdfa5f",
@@ -9090,7 +9090,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "a1d67c41811e9c99d99f730aa416833b817bbd6c7693738ce5d91720f494d740",
@@ -9103,7 +9103,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "fdae605047ee0b773581ef082258ab684741daf346a625960e5cf2419f444072",
@@ -9116,7 +9116,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "3a6c9b3e816d48dc3ac8a4874ca2fa61078660cb63965436a2de1ae8346e5dfd",
@@ -9129,7 +9129,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "69bc7cb2e703af008ddd6de051b2408c5f2a8c742075e5f94e252701f828b5e8",
@@ -9142,7 +9142,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "c9213a53e441bc3a1a22043a3d2f2a71046bb4b411f91f02876fe484cef425ce",
@@ -9155,7 +9155,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "8b25bfdafa6878b603ff6def924f4c4da67c726856f4d0caebac0b469fd11237",
@@ -9168,7 +9168,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "1af493e66711d90d8622109705f4f823a1c729886f9ce591359f0f3a4d74539e",
@@ -9322,7 +9322,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "45d7fed18e90861706af73668d4e90eb22bcd926bcffbcb8ae47221fb89f4528",
@@ -9335,7 +9335,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "619177932b436fbf1a7bf8b89877732b70a4b4c07020c2929659aa9b31a7d3e1",
@@ -9348,7 +9348,7 @@
     },
     {
       "alignment": {
-        "identical_text": 31
+        "saved": 31
       },
       "anchor_aliases": 62,
       "edition_json_sha256": "8daed5ac481b0e5a8dc62f2addeb217c177628011edb9857190e27f58f014d1d",
@@ -9361,7 +9361,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "b1a1b2bd404373dd9f74a286414c7cf959738008dd3a0958a1fdc7675a493d98",
@@ -9374,7 +9374,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "c6227a63660fb0a6f2347f7c43c9d280813ca8d3def4bfa3afcc3853ae842ab4",
@@ -9387,7 +9387,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "3c65786e5004e201cb2297964e9401cc0e2514053d25f3a94a1c9196afb6dc7a",
@@ -9400,7 +9400,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "639ececcf452d524382c161b94900a2cd7ea4fb870dea8b56cde3137a8e647c5",
@@ -9413,7 +9413,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "fa39f1485f5872632ac2c9ac4df5b065038ea933620efcc1f6ef4beea1dc4cb5",
@@ -9426,7 +9426,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "6d0156d980842e78ffd9499067e76e6c13e6442f114d8cb3d5df8afd82e3ac95",
@@ -9439,7 +9439,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "dd160d33a874f772e4448ac8b5497f6c496454b448ac61ffda18c7c48692ef38",
@@ -9452,7 +9452,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "8414a7e60ed070d0d1614bfc6217eee6355b393359e19f8279b35c9c7a7e438e",
@@ -9465,7 +9465,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "babf061f2182417b618002f1d5befa50e8e71e472e4ecf5cf93fc599d34e202f",
@@ -9478,7 +9478,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "8fa60cfde3a560627a523cfa59ae95e3110a4d32024085133cf74827834feead",
@@ -9491,7 +9491,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "fc724184152366fa9f9635755f1868fa4cf592b5b25edcd6086d89b52dc3166b",
@@ -9580,7 +9580,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "1695c1c6585f3fb9fe720ff01c0d24a39545755b311ab099d9402640064c2d79",
@@ -9593,7 +9593,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "fc6f4aac13080b1bab683d9a0b41b23302995fbec293197e7ac515984d8f8c60",
@@ -9606,7 +9606,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "96c2d2a7815d02a22134e9ad94d0557040c65107a6c998a21a7f94e75203c08e",
@@ -9619,7 +9619,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "9e026249d232440007ef7eb780b42467b459ea35447568cfdef0046f15073c0e",
@@ -9632,7 +9632,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "171a682bf023e3e950d0c8828a4c528f53d0e6a02c48ce255f88a527e87f48ab",
@@ -9645,7 +9645,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "1947abea96009ada376df5ce659095dfb487252f92b2e5b303c56355fe3f458f",
@@ -9658,7 +9658,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "1599f10351dee146c7e4341c846624c159ae2c7dd27a27f09fdaabb8be9f4bd3",
@@ -9671,7 +9671,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "74f3c6e3e98aceaabc42fa3f520c8887fa5091c12a33256adc93d9d2b931cbaf",
@@ -9684,7 +9684,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "ef8372940075ce56eedfa628f605d1759848283b7aab0bc0ef67e9234cd4c853",
@@ -9747,7 +9747,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "346d37bc83bb90981122bff0cdf9393cee8239a24cac401ec86bd91342e250a5",
@@ -9760,7 +9760,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "2fb2a9b058db425d80da027e517af6b1a23dcb4a44299ffed2552eb2e0c9f60c",
@@ -9773,8 +9773,8 @@
     },
     {
       "alignment": {
-        "identical_text": 32,
-        "plain_edition_text": 1
+        "plain_edition_text": 1,
+        "saved": 32
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "cce4f6951c3b5048a4f44b07f3902828f5fddd438ba882c39a47a65d4e508e48",
@@ -9787,7 +9787,7 @@
     },
     {
       "alignment": {
-        "identical_text": 9
+        "saved": 9
       },
       "anchor_aliases": 18,
       "edition_json_sha256": "3b991126967b954fcc3e238c00be0163325d73efe263c4776f22ced771e13593",
@@ -9800,7 +9800,7 @@
     },
     {
       "alignment": {
-        "identical_text": 7
+        "saved": 7
       },
       "anchor_aliases": 14,
       "edition_json_sha256": "14940bab93c016ad891270a7bccb65bca3a0eb95895a426b570add844308fe20",
@@ -9813,7 +9813,7 @@
     },
     {
       "alignment": {
-        "identical_text": 23
+        "saved": 23
       },
       "anchor_aliases": 46,
       "edition_json_sha256": "72ebd294c7b2f1cae7f44bf27e08ead2328515b4f422d8375a3cbe1e9742085d",
@@ -9826,7 +9826,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "1c7cac515107995db0c0f10e5a680a128d1c3b5e6118d8f1d4bbdd33210c662b",
@@ -9839,7 +9839,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "800923397142437bcbeb255e95c11f942f4f55a9625ffa258cdb65be2320d999",
@@ -9852,7 +9852,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "f3d244ec173aca5f34f8f40eab2b4ac6488254bdc6172e79ccb15545533365a6",
@@ -9865,7 +9865,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "6b0d3a38ac301dd6e21362348971af38c0bd4af59c3c7a04b565487d1df1e22f",
@@ -9878,7 +9878,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "b1a90e07d42ad38a55420a6b075087dec6bc13c2ec4e553d4d068af9a941419a",
@@ -9891,7 +9891,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "c84530f736de5d67911a386871fcab676e2e5af9d15bf0daab1fba73468011a4",
@@ -9904,7 +9904,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "e850863e55514b6ea20addfa04c6e658f2551cad5cdb1c462699e3d0cf7721e0",
@@ -10058,7 +10058,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "4f6d9420c16ee7e8039485310a0b3599127bd6797aa67d2b84341fde608757ba",
@@ -10071,7 +10071,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "05e87d9633f9bae6d118a0ca2c9af0fe4d757fbc9d5d4cdbd515771d5acc79be",
@@ -10084,7 +10084,7 @@
     },
     {
       "alignment": {
-        "identical_text": 31
+        "saved": 31
       },
       "anchor_aliases": 62,
       "edition_json_sha256": "dcee2bebbe7515870bbac4bb16129f50d501dcbafff09121298a6e8a380f3323",
@@ -10097,7 +10097,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "25bc7d6116ddf32043170f773f615644d0fe3b32c8be349f5bde69a1e1fa9484",
@@ -10110,7 +10110,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "015fa82b3e43052ecd61e03f5bcba12c4b86bdd2636b9190781f796b59d40570",
@@ -10123,7 +10123,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "59b25658bf1fd1131918c9e95350bc145cc08b7d0d1d3ac1b40fba0dd11304d3",
@@ -10136,7 +10136,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "105398ed86158f4ffa4494af3a627e1f01b1431412ca0ff69210a587fcd9d8e9",
@@ -10149,7 +10149,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "79c057a5aafc73d72330dbb6b0cfc4cdde6058909fda53d0a2672d840ffe14c1",
@@ -10162,7 +10162,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "67f00bf5fd99c5b4ffc27cfbd0040b5e7983a0e7d25d2ced6d29072ca677c7d2",
@@ -10175,7 +10175,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "497bc2ed1cd77b43131875a40e3007b47332f4e9459febcb020ef97c2fca3d4d",
@@ -10188,7 +10188,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "d23dabeb222f3b03bc3f8dbb1fbaff41ed9565fa0e07b012c9a19f67770fe3fa",
@@ -10201,7 +10201,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "9ba78caf97448e3ccb8d0180bbd0085d8a782e40da37cd57aeb98ff56483cf87",
@@ -10214,7 +10214,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "af05e4dcd4e3a4054a14aac97b9306951f4584419393abab91b5a9e0da39750a",
@@ -10227,7 +10227,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "2dd3f69e6e4825d0095a5d4b08aece12ea0a9c96cca0b4da794b7ebc92852b05",
@@ -10316,7 +10316,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "0291fc790d4551038461188811e246b0c6570008421748882a03e6738d8cc058",
@@ -10329,7 +10329,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "2418f94b54201ef3b4e58840570b8bf73de302ade3d182aa329d8034ffebe295",
@@ -10342,7 +10342,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "9a6e3a78b9345fa20b509555e4f584368a0de7ca34f9b7afc9ccdaed917cfefa",
@@ -10355,7 +10355,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "01c30fbe334ee165ccf41bbfbf118245c23d42c46c017bdce5a22efe03a063e7",
@@ -10368,7 +10368,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "df9484b7ad62f56e19051e21c17ae111cda0bff84817e454ef57209db3a81db7",
@@ -10381,7 +10381,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "c79029800cfc2e29bc642b62ed6f754a1a1fe3cb37bb3fe4420f6d12f00fd3df",
@@ -10394,7 +10394,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "9a73365d6a0531dbacf4183b206ae017fae7de01c19f6f8fc289bf523d79bf5c",
@@ -10407,7 +10407,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "41ecdbbf583feb7b79fca241b9a592d31b5a4988ccd0a112f960d67cf4ce1bb5",
@@ -10420,7 +10420,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "ab3a4d7c66f95438f736a4452b41ea85dfe84cb5fcfcc6d089bb8e933e6daec4",
@@ -10483,7 +10483,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "1f7ce8c305946b9dd074b528a014a844c74f865f43859a576743403fd0f91b28",
@@ -10496,7 +10496,7 @@
     },
     {
       "alignment": {
-        "identical_text": 34
+        "saved": 34
       },
       "anchor_aliases": 68,
       "edition_json_sha256": "c1f241c50ba9eb412fcd0bcd17b8e09ea0497bf79414373fdf433eae6fe68569",
@@ -10509,8 +10509,8 @@
     },
     {
       "alignment": {
-        "identical_text": 32,
-        "plain_edition_text": 1
+        "plain_edition_text": 1,
+        "saved": 32
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "bae14d11120b683884923f64d916ce92673ee51a9c65bfc2f7b436c04466f25a",
@@ -10523,7 +10523,7 @@
     },
     {
       "alignment": {
-        "identical_text": 9
+        "saved": 9
       },
       "anchor_aliases": 18,
       "edition_json_sha256": "be6ded43c4f46084669648f59de20168a75fc167c8c6c61e8e4f5d38f1b9a804",
@@ -10536,7 +10536,7 @@
     },
     {
       "alignment": {
-        "identical_text": 7
+        "saved": 7
       },
       "anchor_aliases": 14,
       "edition_json_sha256": "e13d885cd67d52ba43991cfb5e9eaf3e17ba5ab77d3389511d94cefda028c7af",
@@ -10549,7 +10549,7 @@
     },
     {
       "alignment": {
-        "identical_text": 23
+        "saved": 23
       },
       "anchor_aliases": 46,
       "edition_json_sha256": "59ac99c2155cadbb0da54f84a2dd8bc916d7cb66442b773733015ccb45fa79a5",
@@ -10562,7 +10562,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "755cecb7d4b79431d6bcb0793dfe1ff8c6b91b15e18f495d8847af64f9cdca4c",
@@ -10575,7 +10575,7 @@
     },
     {
       "alignment": {
-        "identical_text": 195
+        "saved": 195
       },
       "anchor_aliases": 390,
       "edition_json_sha256": "38dbaf265f58fcd895ec49dd1a4616ceccef0530f6f6baea7315bda68a88cdd7",
@@ -10588,7 +10588,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "24066295b378710da1f59ff78929694433ccab3c0ab55ff4b312cbae4f8f8cfd",
@@ -10601,7 +10601,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "be67422c0f5361787dfe23aee21ebbea293be378f34721efbc500bbf6b0f709a",
@@ -10614,7 +10614,7 @@
     },
     {
       "alignment": {
-        "identical_text": 119
+        "saved": 119
       },
       "anchor_aliases": 238,
       "edition_json_sha256": "8808f1f0c6891c6b59c69c60fedd0c77df7fd71265a470d5e996a5a689f3ded8",
@@ -10627,7 +10627,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "7bbb27762ba2791cec6f68b8b4dac75e914062f6dfd9afb05c40f6528d3a7fd1",
@@ -10640,7 +10640,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "a117a291079385728ea1c329a3bbfd9e3920afc5cc8c5e85856479235e73a69f",
@@ -10794,7 +10794,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "1f485923a1bd263eb815c0dcc0de3e604c7688d87f7c96bd751f9295cbd1e5a6",
@@ -10807,7 +10807,7 @@
     },
     {
       "alignment": {
-        "identical_text": 10
+        "saved": 10
       },
       "anchor_aliases": 20,
       "edition_json_sha256": "1d806904053b15dde4b67836762db9c602da57ba76ddf57dfd912ae1f717aad8",
@@ -10820,7 +10820,7 @@
     },
     {
       "alignment": {
-        "identical_text": 31
+        "saved": 31
       },
       "anchor_aliases": 62,
       "edition_json_sha256": "17d88bf32f3e73c69194f8d4d2a58d6c5fb38fc14f85d21cf8a78e9c088e195f",
@@ -10833,7 +10833,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "e2355b369e8442d8de6889e5fd683bf0ee76376f1500f47c6017d7f661f1479b",
@@ -10846,7 +10846,7 @@
     },
     {
       "alignment": {
-        "identical_text": 21
+        "saved": 21
       },
       "anchor_aliases": 42,
       "edition_json_sha256": "19c8a974d1c18daa1f1af1b19cf1858125425bf5b80fe16bfa8c3d8895a7facd",
@@ -10859,7 +10859,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "aaffdc8c72ae63f17ec1c6f149a52be0d28159768117226bb606fb2834d35d0a",
@@ -10872,7 +10872,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "3f2bae68ae48e8df2c62a084ef1c09ef39e4991a662378864a931f058fc3b877",
@@ -10885,7 +10885,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "ae5efa6cb5602adec53d0f71415ef23fb2df12f1e443495ad37ec60c8b686fe6",
@@ -10898,7 +10898,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "5a4dad1e030325ff9018693538fd5143a55d39f0bbe847845b4b015fc619d011",
@@ -10911,7 +10911,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "6a36c7d6f3a4e35d156987a1339fe314f1ea366f4c32dfac84e55b90918a723a",
@@ -10924,7 +10924,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "633bbeab8579c9a5f2f9782fe118ef9cc6abe3fbbd3bc8235fc5317fb7fab40e",
@@ -10937,7 +10937,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "33843f330b91eaff993064ce13749b284d65ca2b644898cc01f26b777b42f10b",
@@ -10950,7 +10950,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "e5aecedee32890d96d4402e169f131013908b46272b75d2e8a8d712722ea1aca",
@@ -10963,7 +10963,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "e1212c7461c76bed65a353ff1ef22784a6b8f014c0682c4bfa1542b9a22232c1",
@@ -11052,7 +11052,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "e19a6300a8683a1d501187ae0b0735f00236e4b30a9badb0764a60a6a7bccb3f",
@@ -11065,7 +11065,7 @@
     },
     {
       "alignment": {
-        "identical_text": 15
+        "saved": 15
       },
       "anchor_aliases": 30,
       "edition_json_sha256": "05ae9e367ae4cc67b2451485de198eb66eb8c312ebc24c6e93a892540cb4fd8c",
@@ -11078,7 +11078,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "6002c8181d0ea52e18d89eb8c2e68a7c527beaed6b2c3da536de27a61dca7efa",
@@ -11091,7 +11091,7 @@
     },
     {
       "alignment": {
-        "identical_text": 4
+        "saved": 4
       },
       "anchor_aliases": 8,
       "edition_json_sha256": "2aa1e3474e6ee407cd322fbf29bfd5ebe84707b00ec6220f891abb9336603743",
@@ -11104,7 +11104,7 @@
     },
     {
       "alignment": {
-        "identical_text": 12
+        "saved": 12
       },
       "anchor_aliases": 24,
       "edition_json_sha256": "e1f78741a3f6500b6eb682bdb3648618fa1ad77b1ad1e363eba2ab77256363c2",
@@ -11117,7 +11117,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "ffbbe20206a122c5086230d1f3b85f7a48cdb11cdd305628ac97bf6c3f90bf2e",
@@ -11130,7 +11130,7 @@
     },
     {
       "alignment": {
-        "identical_text": 59
+        "saved": 59
       },
       "anchor_aliases": 118,
       "edition_json_sha256": "42c0eac050f12d85797e0e1f25a098283bdcaa71e825e868f3aad337fd7ec2c0",
@@ -11143,7 +11143,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "1a5accb1932afd1b99c0398e03a45a56f0946f11a3b7ef6e972c77b3d9ac9cc7",
@@ -11156,7 +11156,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "cb9b5eeba8a73b361ecad346e7394a0b10a3b42aac5d98dfc1afefe6674c1a07",
@@ -11219,7 +11219,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "7b96044483caa3ee5d6c0db2bf097d5827a56f43ffe6eea9fd426b8c1ac42275",
@@ -11232,7 +11232,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "631b0a0dc765fa41e214fde22c27a4c31a8b123620a6e2c108e6b36d61c1ad37",
@@ -11245,7 +11245,7 @@
     },
     {
       "alignment": {
-        "identical_text": 126
+        "saved": 126
       },
       "anchor_aliases": 252,
       "edition_json_sha256": "6fe4a2245650978896ae776992879197c712d3d719d686d6d562f12d3e77a87b",
@@ -11258,8 +11258,8 @@
     },
     {
       "alignment": {
-        "identical_text": 329,
-        "plain_edition_text": 3
+        "plain_edition_text": 3,
+        "saved": 329
       },
       "anchor_aliases": 664,
       "edition_json_sha256": "b6affef37f8e32efd4203954ccfb3231ac6782c083994fd433f020bc1b4112f1",
@@ -11272,7 +11272,7 @@
     },
     {
       "alignment": {
-        "identical_text": 332
+        "saved": 332
       },
       "anchor_aliases": 664,
       "edition_json_sha256": "4f6b3185f34f4e55bf8687699fcf168cda1495b650c0e35d6dec069a69f169ee",
@@ -11285,7 +11285,20 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "identical_text": 332
+      },
+      "anchor_aliases": 664,
+      "edition_json_sha256": "1f256d372a683afb7a41f003c1de33b05069d6cb816aacc223144a2d2fd1b77a",
+      "kind": "reader",
+      "passages_verified": 332,
+      "path": "releases/alpha-0.26.2/athanasius-incarnation/index.html",
+      "preserved_anchor_count": 997,
+      "release_id": "alpha-0.26.2",
+      "work_id": "athanasius-incarnation"
+    },
+    {
+      "alignment": {
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "9718e8f56d534e062394be915fdeeaff70b8836982b76e6ef79d5da1ad54a8cd",
@@ -11298,7 +11311,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "e8d788dde94526aa7c24e98ad4c21a4d400511403e451bb812b0e46dce5671cb",
@@ -11311,7 +11324,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "6bf4557020b5fe215bd87995c63464870f75c4bc328b46d4a85a95de8ad8be60",
@@ -11324,7 +11337,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "f5065247b847f79521c7aa3bcae48b3c65efdee5bc89ff13b6de8bb3b363da6a",
@@ -11337,7 +11350,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "db38c026524d560050acb3a70854d003a98795870a4d5545925a542f23309f80",
@@ -11350,7 +11363,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "8e88a57ab53669cc9042606c80f2e28472d266c01d315a4bfd37ebee03dbc5aa",
@@ -11363,7 +11376,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "572495820c9d9b971f679e8554c28731712bd3c030f73933c332ce71a82f3952",
@@ -11376,7 +11389,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "748f770e240120e0d73e3cb9de3afaf058cdfaf0fb538a827d7cebe417df55df",
@@ -11389,7 +11402,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "81402b0837f95ca1c7f7124af22b4a0c7ba47b8e9424cb8f3c74653ae451f2fd",
@@ -11402,7 +11415,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "f775e43680cdc8f7ee30a6b7bc9593a3ee8a70984ff64e38d688cf670af21745",
@@ -11415,7 +11428,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "4a8c16dd0665ca7165b0ffc2d12797b0b61fed8b8424bfa295a689f8b28ed52c",
@@ -11428,7 +11441,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "c740fab549cbed8c0d8368b3e4df775816f28a96fdb774139fe8a52d1b928d78",
@@ -11441,7 +11454,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "4e4103369aac060dfdbbd6bdcb14c49da7ec93b4d1f22e13272bce36b58c7804",
@@ -11454,7 +11467,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "714179859785f149ed2c2a08302ffbabb230103b42dc3f32f7464a0c434c5d4e",
@@ -11467,7 +11480,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "47f230a0ffbc02167b2a48e73e3deee6ff3351a3ebe7b563d605732bc2f23d6d",
@@ -11480,7 +11493,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "1165870e760bbe088fc04b4e0f3a99e3b991508b837671842e79c729d69cab0d",
@@ -11493,7 +11506,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "422250facdd0e82de3b59f597a668cb78f810412392c647fba95a6fb70bdfd84",
@@ -11506,7 +11519,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "666b31f3ba805c2b6a4235cfccb4e3dfa47f65eba8f41c7c11e367f2f9e4bc4c",
@@ -11519,7 +11532,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "00f6905e534c093705fba14d1690b8e326268a45eea9088e83bf6d2f65fb6379",
@@ -11532,7 +11545,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "33cff240840352e8c84148583aaeadf6ead0514aab44372302e03bfadb86b0fe",
@@ -11545,7 +11558,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "219a5d1b11934f51fc70f9eaec63c1db577a0bc8437b818af1557b686ad0ebdc",
@@ -11558,7 +11571,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "d7eec01fe5e0de68b773594ebc31958c30d97e2e2cfb3fdda0445258eae359e6",
@@ -11571,7 +11584,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "f2c2ce77bb779d8f74314d5613c8c1ac0faea4e7b20f3348020cb38e2c571546",
@@ -11584,7 +11597,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "0434da38fefefa27f9607c9023c606659f85d9b39ef6106dd3f3e20ed78f601f",
@@ -11597,7 +11610,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "ad922a33b0cc855efaf72fb3c62de809b0f3b934db77ed33ce270867f38756bd",
@@ -11610,7 +11623,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "bc4e0d52d54d83ba04e8afb4f5422c7c75c2984f054a9851ee105cb161a43c89",
@@ -11623,7 +11636,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "7b18f3e0562b8a77751d60b65593ad2aa26ffbff9f9da768de425e831a73612a",
@@ -11636,7 +11649,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "b4b4b0e3d7a74866449dbb4d145de1d43fd453297f50686071ce96e6c91dcb1e",
@@ -11649,7 +11662,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "599ef64b6392527034c14df466daf9916bf5dd803f7a474ded2433fbadc84b35",
@@ -11662,7 +11675,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "9cf8d080c16cf35309e5af3d87025111b7d067d4d99d5439a0358201ad35841c",
@@ -11675,7 +11688,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "00cac33c27724a2cdd8700986021025e836d4c59c07a98a1537ee520a6b1f376",
@@ -11688,7 +11701,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "b42b5e357e4d87b4b8794dff46cbb315de8f295ddbc799cfd98e025ae9407211",
@@ -11701,7 +11714,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "cd2586d98e315e59e8818c03e59588180222ff6379e3ab060b6900b708b45c07",
@@ -11714,7 +11727,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "3732911ac828ba31d0cbfdd6aba2307d568a8d214a8d644f1503a19895728992",
@@ -11727,7 +11740,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "963f7a5bb12c42d3fe82a95a56e34cc2f3cf983a08760bd1a2af18cd8d98110b",
@@ -11740,7 +11753,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "1e7e91d142a7506be3edac511bdfb8e09e8f3c0f0114bb29244ee528704e4367",
@@ -11753,7 +11766,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "6e12b40a8208d3d05ec2f232ec3e175a1fdae7d543c6adb6adfa2549d342dbc4",
@@ -11766,7 +11779,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "6bf2101cc37477463e038de5113049cb3cecefcf8cb907ebdc7c28542f2655f3",
@@ -11779,7 +11792,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "c288eca1446e59fc4ef6b40b0d5be02f4eb86f632a43a8c52b4e441a1d602cc5",
@@ -11792,7 +11805,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "12e7102666475b62c212b203aeb5f7a1618c2a37a7bfe602ac462ea81d9396f3",
@@ -11805,7 +11818,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "0132e4f2d18aa44ffb9aa9234ac9a9d602eccb0ba607ac0f4b097ba36793e735",
@@ -11818,7 +11831,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "d42a587d3df343729d9e6ed074c645d8623f06b74cf8ec21ea84f48a8110efc7",
@@ -11831,7 +11844,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "220154d9f3a59a80d4dc3f804c1b09547d2b2c713235d91436f40fb482b7d0d7",
@@ -11844,7 +11857,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "02930bc1538edf46113f2c760083c61a60178ca7e10ae4c88a8949ebf4523df5",
@@ -11857,7 +11870,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "046d08a394c99690f08921ad22ed023870421fb283778b4e688e9582d9df9bd2",
@@ -11870,7 +11883,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "93c4464b86c40e2470d42feab66acef1fafca69e18b3f55f1c9cb4f32c6acc68",
@@ -11883,7 +11896,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "54229568ddc46116c0b4ef84dc1539df73933e104ffda1b9a37c6337bf63284a",
@@ -11896,7 +11909,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "b78d4e99177247af1cf5404063aa438c42ede9f49e36ac93ffdcbcb17cd038f3",
@@ -11909,7 +11922,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "1f31189759beeb7870ec541a667d42059457a3527c19be0c3881cfc11db68011",
@@ -11922,7 +11935,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "5b664339d96a4f99b64716c794f1825df2b7988ea197cdf30d331f53a038fb69",
@@ -11935,7 +11948,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "fd0bc781ee86667f874e701f16eb2233ba114c1bc46d29841ad14ae9eb5a2398",
@@ -11948,7 +11961,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "58c983a4c7c02815d5b59c4c688a73d90e35f326b47f7f04204f2c55305c7dcb",
@@ -11961,7 +11974,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "9ec4d549e4f2d3eececa264a9c28b0d402a637e15f6f1fe05a232f6470344ea0",
@@ -11974,7 +11987,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "88dfa1b48b8b2b8a61c298872c039e59fe5a4ba6ba66795808517e36c81294bb",
@@ -11987,7 +12000,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "eab653c28d726cb32bce203f76b72f6089dc56cbd7881803fbeb4ccf374abdf2",
@@ -12000,7 +12013,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "e6bf65cd5a1d5e1e5912ce2892120a78b9367f8c68f9c94307c13371e3663c2d",
@@ -12089,7 +12102,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "c22af5a0fbc0f18dce385bc76ec04e3c789d46897429c58e73587351062f90e6",
@@ -12102,7 +12115,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "6a86137f26e4e22737f7868f84f15a3c95eff95994822dd0c1c8818a5a85a8a1",
@@ -12115,7 +12128,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "60651c8ef1b317a3a2feb103a3fb8f07c9c897a138dc71a4abe5de7609d91a13",
@@ -12128,7 +12141,7 @@
     },
     {
       "alignment": {
-        "identical_text": 401
+        "saved": 401
       },
       "anchor_aliases": 802,
       "edition_json_sha256": "bb6b5c408c79375c5ba36cd3a43ac972e29a08c6f5a03946510c74580f4bc0c4",
@@ -12141,7 +12154,7 @@
     },
     {
       "alignment": {
-        "identical_text": 100
+        "saved": 100
       },
       "anchor_aliases": 200,
       "edition_json_sha256": "d1337893a4f679a93674b001337c7306da46862f1b67ecef38d7ffdeeeafddcb",
@@ -12295,7 +12308,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "84270e393a71ca4d3fac75505958c3d7ea45cb1153d6747620fb11c0c7c3065e",
@@ -12308,7 +12321,7 @@
     },
     {
       "alignment": {
-        "identical_text": 26
+        "saved": 26
       },
       "anchor_aliases": 52,
       "edition_json_sha256": "38ebf98c2de6140125bfd7d38725a871461687de725a90b3025e1ba7141925a4",
@@ -12321,7 +12334,7 @@
     },
     {
       "alignment": {
-        "identical_text": 24
+        "saved": 24
       },
       "anchor_aliases": 48,
       "edition_json_sha256": "33ad5cae8056296cf3f1daa483613c8ccda6390a2b6441956fcc92a71f661df2",
@@ -12334,7 +12347,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "0efa2fbd680cb426c3eb03bd2c60899a174ce2eaa366cd098bce4b48ce4b5089",
@@ -12347,7 +12360,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "0ca4a3990877729a0fd400149a1dc153c23f72bed8b16b00c0d5c08476b2bc39",
@@ -12360,7 +12373,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "004ef227114e91e9268dd9447582b58ab36bd8e29e45145bd32859a6973879e3",
@@ -12373,7 +12386,7 @@
     },
     {
       "alignment": {
-        "identical_text": 30
+        "saved": 30
       },
       "anchor_aliases": 60,
       "edition_json_sha256": "c473e6e8aa29f0f9eda961ae5ca4c4f6926e143bb62d7e80aa52008d28ea0df9",
@@ -12462,7 +12475,7 @@
     },
     {
       "alignment": {
-        "identical_text": 22
+        "saved": 22
       },
       "anchor_aliases": 44,
       "edition_json_sha256": "c9b80d5607b3135215596352ffe0a4926fe740ce1477073415e0393974850dc4",
@@ -12475,7 +12488,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "403bf441a595b4289d46d18b9a45fe55bd5e6378bdaf0993b0c5f94458c49c3a",
@@ -12488,7 +12501,7 @@
     },
     {
       "alignment": {
-        "identical_text": 38
+        "saved": 38
       },
       "anchor_aliases": 76,
       "edition_json_sha256": "6c295dc25de178dfa6ae6acc767202fb56c28b98fb6680814806e67db1ff3f0d",
@@ -12500,11 +12513,11 @@
       "work_id": "polycarp-philippians"
     }
   ],
-  "external_historical_files": 698,
+  "external_historical_files": 699,
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "CNAME": "7215d7dbc92177d63632f4d01e33a47e991d145727f42421aaf6ee14a5f261cb",
-    "README.md": "c1f48600499507e52c5dc0a37971008fe4bcfdce2e613140d3fdfee0c752b548",
+    "README.md": "e6e23c0e78029f5fb2bc7e1ecad15d9590ad4f6de58f08a1c4a3974a4e383dde",
     "about.html": "7458bf0d9bd6f29135f7e7bf00c18438d3eac9907e74342a1c6da1f659699dff",
     "assets/app.mjs": "7ce8b7eb6e46939330f67e23383c77474a7964a15dbb738264b2c0ea575eb58e",
     "assets/apple-touch-icon.png": "e7cda279fc19dbde3f0cf09a254be4c99ce6b6c3bb84e59ae4c4adb1f8280c4e",
@@ -12534,106 +12547,106 @@
     "assets/site.css": "11d55d3005a0f2c49c3708b455198b1439b0f201ddc91a5f2f3373153c3939bd",
     "assets/style.css": "b0bde6051296db7b188e6170659fb3a771f71000f13a47aa56a135de4f254b69",
     "assets/text-matches.mjs": "921656645ade1da85bf01c517fca6f6ee4172e7322dae22429c56a4dc2e88c59",
-    "assets/topic-navigation.mjs": "fa9fde1ddb5dc9ff4e1f48b4528052cfea126663ec976791110fd5a1f01c5b06",
-    "assets/topic-readings/accepted-books.mjs": "e14d1281ad4c46b68bdf8677a535181aeb72b397d6d9fb1a0489f7326c26ab56",
-    "assets/topic-readings/athenagoras-angels.mjs": "4e3ebe2af8e57f543b8172fbde20ffe66009c91d9835b03f131c1f03507512f9",
-    "assets/topic-readings/athenagoras-enemies.mjs": "4d8a1b62d6e64854118c809c4c91581d37f6d78471b2a5ecd485f6522a2622d7",
-    "assets/topic-readings/athenagoras-father-son-spirit.mjs": "f15b60404d30b7f89eb07f5e00069350d07c74eddaa3c56d5afd94820ed9894e",
-    "assets/topic-readings/athenagoras-resurrection.mjs": "9d2c6dd43d4baa6e4f1cacdad600271d3800bfe015148b6401d33049e8c15738",
-    "assets/topic-readings/athenagoras-rulers.mjs": "4fefd60b0a052b4e5ceaa2a1cd85d04d4f3b830188b6a27584bcdf2bd5f627d5",
-    "assets/topic-readings/athenagoras-sacrifice.mjs": "60db1c7e89f450e15ba4f9f9f2e16a7a074ded234654cf0bea8f953d3afffd3d",
-    "assets/topic-readings/barnabas-318.mjs": "d0a5eb8402d43a324fa0bcaa8ef7e252fd90514679714d91bf41e2599f6f76a2",
-    "assets/topic-readings/barnabas-eighth-day.mjs": "2c37084d9f05323e61873c8f9f643a545a2f4fa696cfc1208ae457054682de96",
-    "assets/topic-readings/barnabas-jesus-joshua.mjs": "fcbf3639e6506db5f02e0d451c98d62c095b1af993ae89ad839bb13096b008fb",
-    "assets/topic-readings/barnabas-temple.mjs": "3e22e75061ad99bfaba1df39da7613a11289edea47e157fb3f5a9e223f20a891",
-    "assets/topic-readings/barnabas-water-tree.mjs": "40b0f84f730131bdaecfe23976b19d390489c8ac910d361db9dc504b3ba6aa24",
-    "assets/topic-readings/clement-paul-corinthians.mjs": "66e13906d55c231de12a7370b46abe6018997dc53a467b32bcb3866032a5a785",
-    "assets/topic-readings/clement-vine-waiting.mjs": "a2780ad7f29bae5212d1985541cb3d7f827d23b1e7c06353cde765ba9d1ba72e",
-    "assets/topic-readings/diognetus-citizenship.mjs": "83d1053902846e19f76401df8957d50e07f627c07323247184cefc73dce496b6",
-    "assets/topic-readings/diognetus-exchange.mjs": "27b939a56dd2f9bbe18953ad487bf8fe62d7cbd71d550055e3ebb2b7ef5b4b3e",
-    "assets/topic-readings/diognetus-imitation.mjs": "b5239ac8cc30905c0bf88624c7d2ea5596125bfd3b7f0ded158ed574715a0f50",
-    "assets/topic-readings/diognetus-scripture-tradition.mjs": "46af8d07f45773242d0785acfe4e22f94e36f3fa85b4162ea316a96c9ab80ee9",
-    "assets/topic-readings/diognetus-soul-world.mjs": "d36973a6f72e613a52ae8f9f8750e8ae6ed87f4b4d6d66478d4ef56ec58a0688",
-    "assets/topic-readings/diognetus-trees.mjs": "90d8f77b67b4c62a888c67e920d1520f809b65338e5c782becf93cae5cd7e39f",
-    "assets/topic-readings/disputed-books.mjs": "6d85e073a6adb979defc8d715789ee340506993cdb15724ba299548b3969bd35",
-    "assets/topic-readings/four-gospels.mjs": "1f071c3bf5e80d1e57cee9d3e6a65c92b79704666370c8ed49426917757d23ba",
-    "assets/topic-readings/gospel-order.mjs": "8fa01fb83d540c3392832fe9ae212797fe500697b2e181341d802f3fb63d519e",
-    "assets/topic-readings/hebrews-clement.mjs": "cbea5733e772448dc38c93508b03e56862aebfba76942f4e62145fab14fed51f",
-    "assets/topic-readings/hebrews-origen.mjs": "17966fc13bc813f9eb437b83be9639b7207e383184aedb1cb4c6771d4cec4f70",
-    "assets/topic-readings/john-composition.mjs": "0c350f0d1d08fcb466b5361237390fa3b2ef193200144d2703eafa89fc1c103f",
-    "assets/topic-readings/john-letters.mjs": "01c02e891987a08803fe8e82d0245a2b5d01de66ab6ecdeb6b10f894c5dc24c3",
-    "assets/topic-readings/justin-apostolic-memoirs.mjs": "e4ebd24e846159081bbbfc609d25dcc7714d5b61e23ab47a04480e50525a288f",
-    "assets/topic-readings/justin-baptism-and-meal.mjs": "c363a1959045621d30f252bd6868c56f6002f72d84b4e59829a1c968fd48daa0",
-    "assets/topic-readings/justin-second-crescens.mjs": "1ae77d72a7e3a0ad6887b94aef1a9db1d56c2de42c9ee2260f90a8b69f4f5a6b",
-    "assets/topic-readings/justin-second-logos.mjs": "76a6ecd1112a6a725e8bff8a68c5b189212ce9d036a8dd10173b40194749d1e4",
-    "assets/topic-readings/justin-second-names.mjs": "22e2648e7c15fbaa1ff9bdb5e22a7df988e150ff3fd91003eef1365fccea14e2",
-    "assets/topic-readings/justin-second-trial.mjs": "d9d175cff2ef2b79e29702817ae0d79fea23cae6d2c6ab16c4a0fe987860927c",
-    "assets/topic-readings/justin-second-witness.mjs": "b3f352121de6548cf8ff72ece663c03313e2de7e4ac7d353f3dc4e6593429184",
-    "assets/topic-readings/justin-second-world.mjs": "bc73a8029837a7ac34b4a339db54b1b3f43d462b06db00341b61fddcb865c919",
-    "assets/topic-readings/justin-sunday-reading.mjs": "7a7ed6172faf485fbf5f83bf0f472d28282e52a63d5c5c9f7bfb4c3b3d476ae9",
-    "assets/topic-readings/luke-paul.mjs": "64809572cf29b9864f73cc0911a50c825f72603e0dfec68b70f3141e276fc173",
-    "assets/topic-readings/mark-peter.mjs": "0d99b22ff434f8e07236a01b73d81c4019ccc19a42e2426b570063c4358fe321",
-    "assets/topic-readings/mark-rome.mjs": "0178c95a59f006e39cc9c9682f844b4b217b810d2f95ee8f832702c48f660424",
-    "assets/topic-readings/matthew-language.mjs": "f4b7952821a2749f8733c1c8fd360059018526ba5a62448d8c92676089b3a06c",
-    "assets/topic-readings/other-books.mjs": "8486abb87fc3fc39aa9b66be41f5502072955cabb6003b375436bebc42de5be8",
-    "assets/topic-readings/papias-books.mjs": "29b2e27f899bac3fd69e94e21b7fa4d25f3fb8356dc36cf455bdc76b93d1773a",
-    "assets/topic-readings/papias-millennium.mjs": "ff8e739e9f6a3e04be83108364547d02c59921008cf9ee2219425d3341413a28",
-    "assets/topic-readings/papias-oral-tradition.mjs": "0e12511efde7fa998082752c8a115dd7dfbb58af993c1fb2589654e00028fb42",
-    "assets/topic-readings/peter-letters.mjs": "c215b68d2bc90dce37abc841879e1df32652bdbc0c5cac9f8a123396138d8301",
-    "assets/topic-readings/polycarp-confession-authority.mjs": "b85ebdcfdc0dbf77a7a9e2cfdd387b1821dfb1118cb048fa9deb908167a16799",
-    "assets/topic-readings/polycarp-copying-traditions.mjs": "5ccca2bda63752e4428359fc3647adc9a5c9d628cd3244dd27197daeaed8c13f",
-    "assets/topic-readings/polycarp-dove-reading.mjs": "7be316b1cc5c4a592b71e1acc660119479d1b535d6992e3f17cb87452acab46d",
-    "assets/topic-readings/polycarp-gospel-martyrdom.mjs": "8e20b5eedebf02e692de77d5036d7c42a8825df346cc12a6c697914418737a21",
-    "assets/topic-readings/polycarp-martyr-memory.mjs": "6cb04e4f0bfae560b0e90ff8201db233894d577adb73752c0343261b57843e76",
-    "assets/topic-readings/polycarp-prayer-resurrection.mjs": "b6aeff5532ab165d094888ee863f6c760e51ba4c46003aa2e098c9a64418c413",
-    "assets/topic-readings/resurrection-body-soul-judgment.mjs": "8b339e915aad6d163d3f9565cfb32f563708dced6d92e3249ccf559a0e10188a",
-    "assets/topic-readings/resurrection-creation-purpose.mjs": "b1ef650d4584fc5a07c5b8494f5fc5e0ab4b139bd2e8d2ae21955f04fef10b9b",
-    "assets/topic-readings/revelation-reception.mjs": "7362616ae58c61eb3da2cd259234fe6b6654fa11e9b4f7056f5319c64c797b7a",
-    "assets/topic-readings/second-clement-church-body.mjs": "031e31497655837b2211d099bc8450d92714b22bd5963962823452dcdcde4587",
-    "assets/topic-readings/second-clement-peter-dialogue.mjs": "0ca2b110efa649b6ace0deca0e55353ca3533695eb68afc34130afd97c9e938b",
-    "assets/topic-readings/second-clement-reading-exhortation.mjs": "67d53c9fc88320f8c987c4c85e7fd2348d3ad0f3aa4e01471f65023a25afee11",
-    "assets/topic-readings/second-clement-scripture-gospel.mjs": "82764762b3c9a306f76dcf227001fd124daa070da3fbb0462c31f72a84e06bdc",
-    "assets/topic-readings/second-clement-two-one.mjs": "1ba864bb6cea56c7940b73a62746dad30b05459e59d472ea884199b3e62d7fd7",
-    "assets/topic-readings/spiritual-gospel.mjs": "a4468816355bd66cf66e558c54399a744bc3e036dc0653fb2d875aa4f6c08d13",
-    "assets/topic-readings/tatian-author.mjs": "5660f3e9f9660dc076b28bdc227a7495e369c0e13a6b87497e2b022f06b1aeaf",
-    "assets/topic-readings/tatian-chronology.mjs": "1de62e25615cd693db68aa1ef109d8b033cfabcac4d3ceffa83ebc009d05772c",
-    "assets/topic-readings/tatian-john.mjs": "7df2ef82251d31e8ea40f4b01c42c2bad6e215ccdbe78c6a0156a2d3e10b77d7",
-    "assets/topic-readings/tatian-justin.mjs": "29f312f63732624e65bf7f73b5e51fafe669eb4b045b47277ebac6c1c4a7a166",
-    "assets/topic-readings/tatian-resurrection.mjs": "7a1befdeea41a11394889f693ba1847f2f41f01c790e86b3e1bfaa0ead55697e",
-    "assets/topic-readings/tatian-treasure.mjs": "8a9faed019982ccf5d08758f7c050f4fa3b8780c3badd3f465d34c913c754823",
-    "assets/topic-readings/tatian-word.mjs": "873b559716bd01ac0e6902c6c390425c2753dcfc7445c45736433e706219b3ea",
-    "assets/topic-readings/theophilus-aratus.mjs": "14834b5e68905cce67b9483dcdbfd8d119ed9d80269e538f862bee56a5aa512e",
-    "assets/topic-readings/theophilus-baptism.mjs": "22d9aa439c3b1b4ed9450445910e381d2f30613835e28ce75e0aab67e3af3b65",
-    "assets/topic-readings/theophilus-chronology.mjs": "79dd6f95f125ecf65e995b7a06d4d11f408256d434317b21d55f6097778a30b2",
-    "assets/topic-readings/theophilus-genesis.mjs": "f036fcb5ccd133e94883789e04cd1045c71819da52b82cf502dcdf52fc3a1a87",
-    "assets/topic-readings/theophilus-john.mjs": "c5c6b116b5271de773456cb7fc23c133714ce3fa95f8f46773b4df2fbcc6f6f5",
-    "assets/topic-readings/theophilus-knowledge.mjs": "52448c07216348bbc761a4d4a4a8478e56ee08f152ba6615c2d34354351216fa",
-    "assets/topic-readings/theophilus-law-gospel.mjs": "7a8170134046fbe4d95b6aa4d9fbc7c3468d08f01795bd90503e583c381656fe",
-    "assets/topic-readings/theophilus-paul.mjs": "67ad4f9f1ddee2fe77a1ec2fa770c0e6b046c0c8a00d39b3e659dbf53f009485",
-    "assets/topic-readings/theophilus-word-wisdom.mjs": "7cef6043c1f7afdb71ffb77e31b29e200457e51aabc2e8df72a6f773a3189e0c",
-    "assets/topic-readings/trinity-adoption-participation.mjs": "ee04a731bcc0e697cf6725ac5890d539cfef5943167b8729e3892670f9cac1fc",
-    "assets/topic-readings/trinity-arius.mjs": "49b36520372a8c264b0ca8f928f0ec6b62114a1a340bd1e201200baf525f6686",
-    "assets/topic-readings/trinity-baptism-tradition.mjs": "9f8ea4a6badeadfd42060f0800405c6d85218b017d8e4a283cdb89ba92dfbdd4",
-    "assets/topic-readings/trinity-creeds.mjs": "3a44651677470b658eb78fcce4945068da676f6d38be6d82563e0e4ac5fc6276",
-    "assets/topic-readings/trinity-distinction.mjs": "991451395faade89a304a843657f3c7df885a46c3a4ac502e992aabd519155e3",
-    "assets/topic-readings/trinity-doxology.mjs": "e0641e005c296e0ad3e07523c931c77d2f6011a1f9e84fe88f62afd2010833ab",
-    "assets/topic-readings/trinity-homoousios.mjs": "8c8c1cf274260e95491d83d86df1b384c3a16d01cad8663a545d034eb9ad67f9",
-    "assets/topic-readings/trinity-hypostasis.mjs": "c43c2ccb1e28749352d3f020c2237bc8b77c5d15d89337ef80bc1c406acd2ff2",
-    "assets/topic-readings/trinity-incarnation.mjs": "fef5774fb669363411dd59439b983589e15c50342a51e666cf9f370ded6981ac",
-    "assets/topic-readings/trinity-knowledge.mjs": "642ab0f86643f426306ce9c3577da01ec84e2e542a76b9408280103a5383fef7",
-    "assets/topic-readings/trinity-one-operation.mjs": "e5b7e7f3bd329df03318862ff307b48a7ebd04b88dedcd3b72a27707ec5ad081",
-    "assets/topic-readings/trinity-scriptural-names.mjs": "b014b222ed430c87a60dd0c9acf8dcc1b7edd692e7397c98737d18eee7ec94e5",
-    "assets/topic-readings/trinity-spirit-blasphemy.mjs": "c80120aaec2dbb83f1a213888711c3adc12aec6028c2e77ad2465d6b7772fadc",
-    "assets/topic-readings/trinity-spirit.mjs": "fd109cc642c5a78777c17a874c6b551c6741a00a958f559f64ecdb14dd7dd2be",
-    "assets/topic-readings/trinity-theological-discourse.mjs": "8765ab65b5545ecd02fff0ee38dfa95dcfd1c0f3e1dae700bb98960758660f9b",
-    "assets/topic-readings/two-johns.mjs": "61528871303261bf0609a929209a14f55340c6965fd4c12f1fe7271458143017",
+    "assets/topic-navigation.mjs": "763a800fa118c476108e775985756026bafefb68ff7a5244fb348f09e11fbb82",
+    "assets/topic-readings/accepted-books.mjs": "3ac8b53988cb9e20f2fe33f746c82ea5cef4d761b90ff8634b38da6e85a0a319",
+    "assets/topic-readings/athenagoras-angels.mjs": "8bf6829e26959004cab77d43742e6837b62335e9f80fbbe7eb6f09d85b948504",
+    "assets/topic-readings/athenagoras-enemies.mjs": "13f72ae5fe3c804283c7457c19ebce79852e9850453635d4767a137c72da77d8",
+    "assets/topic-readings/athenagoras-father-son-spirit.mjs": "c65add92d89d288b248712e59bc21c56cc97466d45a32dbc4d6de427cb2236df",
+    "assets/topic-readings/athenagoras-resurrection.mjs": "9375ff1bf0ef62b496cd8c03dab375a5e3a98241b2e48054009ac85a525a9cdc",
+    "assets/topic-readings/athenagoras-rulers.mjs": "971b7796b047425f9b483a44b9cdaa7e2af85e3b584ba40a7f55e4e981460c14",
+    "assets/topic-readings/athenagoras-sacrifice.mjs": "3f6dc2bbe9bb7637eb0f508994b628aa4c8c52939c4e3ff9b1e3537c80c19df9",
+    "assets/topic-readings/barnabas-318.mjs": "f8b1c464d0adf1cf1627c7baeafd4a8739640be611d2d8437cdd2b4f9a06704e",
+    "assets/topic-readings/barnabas-eighth-day.mjs": "b033abf50b79958a48b2d3dfe496610d2e137114676196679ab6799c0591d9d8",
+    "assets/topic-readings/barnabas-jesus-joshua.mjs": "62ca58d0dac12922a55da10450d2bb32adefc3e8faa0e35ca80d5f9ba89a460d",
+    "assets/topic-readings/barnabas-temple.mjs": "76b2616154205a75516af0144d2c94d16e17f168cc35d79ae13275f0fc06d941",
+    "assets/topic-readings/barnabas-water-tree.mjs": "48f8aca06a05190fcfd465c1fb5f5aad3bb4a10be446e02ce55cb95ce6e219ea",
+    "assets/topic-readings/clement-paul-corinthians.mjs": "9270b34ed94a07a652a92394048012f17b5c377929632e7f094509987169767d",
+    "assets/topic-readings/clement-vine-waiting.mjs": "a3665973f9ee183825e679dedb0006c300feaee27c23315e7a0c8c9817fcf65f",
+    "assets/topic-readings/diognetus-citizenship.mjs": "c48ec5a43de430c38f20b39a878d02e25685531074598aa2b3acc5e487664672",
+    "assets/topic-readings/diognetus-exchange.mjs": "67e9a40d211d5bb999e8fdac305d9c95eff33b926c13d94ce349bb5c6c20eb26",
+    "assets/topic-readings/diognetus-imitation.mjs": "6e7d60b457baa436b3de920be23e698bca4faf6fde965099a6bb516b4d649bb9",
+    "assets/topic-readings/diognetus-scripture-tradition.mjs": "c0952fadd4e2403cca2d625a3614ba444d498869c89d2ff486736ce480b7b568",
+    "assets/topic-readings/diognetus-soul-world.mjs": "01c97cd09d40b7d083985718be386a22436649ead437dfc0276ca2a5d095421e",
+    "assets/topic-readings/diognetus-trees.mjs": "957fe984a96cc9329c9c576a32dc754e45365337e1605fd4814091fd743b9b1e",
+    "assets/topic-readings/disputed-books.mjs": "9c81c6c39f8bacb14a89f95c20802c190258a640b1909ad789b50d8b9f76e068",
+    "assets/topic-readings/four-gospels.mjs": "2ecd6409ac47fbd90d3b3b299ffb703c139ed799a4e10717c24aaf2d8829759f",
+    "assets/topic-readings/gospel-order.mjs": "f6b12a0fdfbf38539ca737d6e50eb27a67bd933a6a545ec2d62b5bc76b0e71f6",
+    "assets/topic-readings/hebrews-clement.mjs": "d8d7d0a1e684f27e82d4456297c47830e70d4e59a863dba7787a55a773b82ae0",
+    "assets/topic-readings/hebrews-origen.mjs": "89a6bf20c764c4f601deec72c6b032b14740612923920b90f6b5782c364fd023",
+    "assets/topic-readings/john-composition.mjs": "620198daec6644c1cd538040e0c7c8b078bfedeb9a5177022413336a49a1190c",
+    "assets/topic-readings/john-letters.mjs": "aedb765dc29722374d3f7f00527b912a5c32830b4777231f8a8ce2fb51931d41",
+    "assets/topic-readings/justin-apostolic-memoirs.mjs": "f18bb914ecabfb6684effcb3b2689a2abd6b16bc0e56720f8a19ca80cf842014",
+    "assets/topic-readings/justin-baptism-and-meal.mjs": "5ff93b83924aef746009daedc4c65ab4b5484b0b134f5ceedb6bccf37dd88de1",
+    "assets/topic-readings/justin-second-crescens.mjs": "2f9cf66aee8e55cf3fd91f5412e41edf3451a04a926d8528057be6bf78b1524e",
+    "assets/topic-readings/justin-second-logos.mjs": "4a5235358a2b463b21d21b8befeb656be92cfc2b5029f4541eda4131b27c6f97",
+    "assets/topic-readings/justin-second-names.mjs": "6a1f14ae19a0cd230298f91e61385255c93d662896e0ff98cba339fcd6cb6d3a",
+    "assets/topic-readings/justin-second-trial.mjs": "d5dd0f89cd431774edd34d14e17c653dd5da9d92b34e936185c5bd73af51ed5d",
+    "assets/topic-readings/justin-second-witness.mjs": "1fcb6290c428cfeacc38b3709e701107aad11c7e2ae52bf0855e210aa860e8e0",
+    "assets/topic-readings/justin-second-world.mjs": "2f35366c0a753c73c8b9cc497cf890d9a069b8d6c140ff9dea5c4d1c1a0a4ecf",
+    "assets/topic-readings/justin-sunday-reading.mjs": "7722411ed11852fef60e8e3171957b571862cb954c918574d83bd06c9348f0cc",
+    "assets/topic-readings/luke-paul.mjs": "ce119b3aceb79b46dd630dcf5fe4fc1e9e4ae7d0b8c937cf26f5bc8c869ebc52",
+    "assets/topic-readings/mark-peter.mjs": "1760d26b55b0d4b435f90a57c5d704af2ec511f4990cfe5a1073c15355ea76fc",
+    "assets/topic-readings/mark-rome.mjs": "5ada1272ea34a303828d84ca64a41ff56347007d77a2a8bd753e8cc654a79d74",
+    "assets/topic-readings/matthew-language.mjs": "938cf8491c401c47291785e7e6f9c158979d6d44e081b1c209bf5c651e863e5d",
+    "assets/topic-readings/other-books.mjs": "f2eb78d9c8654470415a01b2456f0a967df98e185669c7ef005da90088c33912",
+    "assets/topic-readings/papias-books.mjs": "5154c5f0681b099a8633f1a9d2ded7ae11c74745df660e3c518aeb7709cfd5ec",
+    "assets/topic-readings/papias-millennium.mjs": "49d4815ee4a18db40d79874ddeeefabfd89ac006b11115bbe4e6defc598ce1d7",
+    "assets/topic-readings/papias-oral-tradition.mjs": "51ebd13e0f9602db0bac33da64b0408768065cf2a14b49efc18cfacd51b40731",
+    "assets/topic-readings/peter-letters.mjs": "78e87ead99b6855493798184f43ac534aed4fb3523fd672305e5b7b9f4f146d8",
+    "assets/topic-readings/polycarp-confession-authority.mjs": "7f076c60b35581acc415a40a833d01bf3f6a588558b6380dcbf83204fe576a2b",
+    "assets/topic-readings/polycarp-copying-traditions.mjs": "da0fbfbff12f9c059c5c1f3ad301a44dd7193204c7217f69d04fbc383bc280d5",
+    "assets/topic-readings/polycarp-dove-reading.mjs": "da36d210c4f0ef51e82665ec2e1f9e4083f01c196b88d3a33ed999ca29f3f724",
+    "assets/topic-readings/polycarp-gospel-martyrdom.mjs": "35bd538a69deb67828af91fa9ce60aa73a10df9d093e7efd36021963166bcb3f",
+    "assets/topic-readings/polycarp-martyr-memory.mjs": "92283477a32e51e0dd09d9e94d8e026f774c29f955940aeb0f588889a4724e74",
+    "assets/topic-readings/polycarp-prayer-resurrection.mjs": "eee2112defc6542b0420c2e0cba22cfcda4067dec84eb4303aabaaea9e5eaf73",
+    "assets/topic-readings/resurrection-body-soul-judgment.mjs": "02a6402f27d3a9e9a8363f98f613a515ce152e00b133fb92aa27fd6c3f8f64c0",
+    "assets/topic-readings/resurrection-creation-purpose.mjs": "a14fef05aebbfdd54e77f9afcbd84ae1610eb1a06fa577e07708f1a326287d31",
+    "assets/topic-readings/revelation-reception.mjs": "075a42b64816564bf4467260e0c50cffdf2b22f2700bc70fdba99de2c5df5ec3",
+    "assets/topic-readings/second-clement-church-body.mjs": "0b86a89de034d232e49f3a7d0b0b20ee4929d83c6129ada426b9422cffca817d",
+    "assets/topic-readings/second-clement-peter-dialogue.mjs": "eaed2c51475d913b1876cbb5c74fbefef460414470d8316fc69bece8d5bfb627",
+    "assets/topic-readings/second-clement-reading-exhortation.mjs": "b7e760d7505230fd49910b0947170bf885d6f6e872c8d6e2e4d750d9fe41ae16",
+    "assets/topic-readings/second-clement-scripture-gospel.mjs": "8c1f8c202204b0cbb527b9014d8d3c587edded80160cf39703a74fc44b58c8ec",
+    "assets/topic-readings/second-clement-two-one.mjs": "84a23ba9be5ed8fc45384f7c0f14080fa627b2f0d025ad9904b3f906fc4d991a",
+    "assets/topic-readings/spiritual-gospel.mjs": "6bbbd7b90138f99471dabd6c77fba28a53daffa57ab3d72568e621724770fa1d",
+    "assets/topic-readings/tatian-author.mjs": "0fa3b363d0f39d366288fdce52821669e98231f78dcfeb6975887dcdd7f87a90",
+    "assets/topic-readings/tatian-chronology.mjs": "cac4ed7f9f58a81c9bda902baee84dee7948e12bba19fa3f26b52ab4e7bafc51",
+    "assets/topic-readings/tatian-john.mjs": "de2396d035b5c46212b3b9bbce20993b6a13f56d3105ef474d317b2e9f981b01",
+    "assets/topic-readings/tatian-justin.mjs": "eac1e9247d698dc8cffdeb6c2283a134816076ece2e612572defc624306d6208",
+    "assets/topic-readings/tatian-resurrection.mjs": "fda70e1eccff2dc390e08392edca3ec90e060e56cc18842b175c89290cdad9e5",
+    "assets/topic-readings/tatian-treasure.mjs": "b1444948628859b5f457ed4e83501cc4b706140015a43fb6ce924574e136fd01",
+    "assets/topic-readings/tatian-word.mjs": "0fdefb7d97702a2642dc509e86c1c645e2847967147954114e26b332fb4f4806",
+    "assets/topic-readings/theophilus-aratus.mjs": "96befb0ad11aafaa3009de8be057d9692eff915d749a6ea01e7ac9cc3f660d20",
+    "assets/topic-readings/theophilus-baptism.mjs": "1e0e480e820b2a6632a57651888c49976e2a3f1738b2c94d229fca89870ce864",
+    "assets/topic-readings/theophilus-chronology.mjs": "5e2b3316c82ca48e7e2756a23275bbdf88b8264ec831ad0d4f4ac6d99f8566e9",
+    "assets/topic-readings/theophilus-genesis.mjs": "80c3f2c7b4cb1c1149417ea6322dfd1f7cc50d703729674cacdb1ac94da2f29a",
+    "assets/topic-readings/theophilus-john.mjs": "7371e50fede321951ebb90a04e0c309632de58ec70a1d68a35d36b1c64eaac67",
+    "assets/topic-readings/theophilus-knowledge.mjs": "88f64bbebf9d341aee9f364a3faf464a34c4dda9ac867d3b38cada168c5a3528",
+    "assets/topic-readings/theophilus-law-gospel.mjs": "c5f646d2cddef422dbcbdc2f260173a6e1542ef11f2b95e434559b612df17c59",
+    "assets/topic-readings/theophilus-paul.mjs": "ea3fe527893cc148f193718c476ce1c193ded21960ca29aeff83494f50c4e24e",
+    "assets/topic-readings/theophilus-word-wisdom.mjs": "f5579c0dc921ca8c1317a7da27d5f15e616d2701cdc76201fdeea2dd320fa07b",
+    "assets/topic-readings/trinity-adoption-participation.mjs": "54c25a5ec6a20c78bb9e97bc39e271e6c64976a083a6158f699e440dfe4846e9",
+    "assets/topic-readings/trinity-arius.mjs": "9e31a5978ba0aa304aad529678363170a2bcd7b4062e67cb7d74fa406cafecbc",
+    "assets/topic-readings/trinity-baptism-tradition.mjs": "6b3aca596ef16b493d5377eacc82a87f042d3edb5c011e22c918530ae41f2204",
+    "assets/topic-readings/trinity-creeds.mjs": "ecc220705d5245d13206a27089d4e747f97f47eb8c0affcbdefd2a1bf07cc303",
+    "assets/topic-readings/trinity-distinction.mjs": "f93b915b02b41eccb7ee2fe5e0bfde9c34cd764eb5550f3a218d14cbe22122b0",
+    "assets/topic-readings/trinity-doxology.mjs": "b69cb41cbaee51b4913e3289b21ff51f656f70bc3f0095c8431df54df4c7d7ec",
+    "assets/topic-readings/trinity-homoousios.mjs": "4fa92de2ad14028ac20beee10c60694182758fc96d87e9223da55cf0a4d3e340",
+    "assets/topic-readings/trinity-hypostasis.mjs": "c6cf9370b73c2115261482670d574018d2494092591d032be04551b2cc6ff4d0",
+    "assets/topic-readings/trinity-incarnation.mjs": "de968b50df06eda5e15de50e23cf37b61c17e94ec83915fb5e57aefff63e4061",
+    "assets/topic-readings/trinity-knowledge.mjs": "f9fc3160acf6e2594481d54e0efb2332bd864c3b487cf79fdff61720dcfd457a",
+    "assets/topic-readings/trinity-one-operation.mjs": "337c2bb071b7061d3aa6289e2f8d95835a7ade85fda110fdf4156a6f0f04ec94",
+    "assets/topic-readings/trinity-scriptural-names.mjs": "63c217175c256a869638745c6364ccbafbc245b43d6ea7054b950d33f49b59f6",
+    "assets/topic-readings/trinity-spirit-blasphemy.mjs": "65e0121359fada3805e42f90a29433adad1729df8b1c45b60e1a52cc1fab2dc5",
+    "assets/topic-readings/trinity-spirit.mjs": "7bc4a03b764b2c2076dfa89a22690aae6318fe292ef48ba820d6db6c1fedc3f4",
+    "assets/topic-readings/trinity-theological-discourse.mjs": "051bc0c3a189223dd5609b4b976f6287b051fc4cd4543b2e2831d3a3638367c6",
+    "assets/topic-readings/two-johns.mjs": "30128f4dcf846f8754304f9b3293e1e716635be30d05f66c5e379066b7d02cb6",
     "assets/topics.css": "31dbc612d25234b74a4582701525e3b797e7fddd33cc3309b9f82db90a0c4f98",
     "assets/topics.mjs": "45a0ff4dfd8ca332289bab6c705ea3f6392bfd2792391b81fe8f804abf477b06",
-    "catalog.json": "33af0803af56b2be36bccb5a50834b9c95731de7ecc207270197b3f1d7a49c0a",
+    "catalog.json": "a317cb924d85a56e43d260b03ec918e9840304e5a4d94ba28a3202f34a9a0827",
     "data/corrections.json": "7bd960e420528246dc9ec258271290f67af2506f5f4f66fe6c8f1602b3f8c541",
-    "data/phrase-alignments.json": "54d6bbf7162415cedbe92c32dfa8a349f8e8c335cc1b168fdf63d627f6b114d9",
+    "data/phrase-alignments.json": "0c8c209aea493a03bc7b52953e300a4c3d6bb2a31405ac6b333d6f772ba068a8",
     "index.html": "4cdcff95f2024a5280865edd821a8835fc43e0449116b18949d4d710b34047c0",
-    "patristics-archive-mapping.json": "d31c75d87bdad0e1b9d82f835631e9f94e2b327e0592c28d125cf7d1653cc203",
+    "patristics-archive-mapping.json": "5148e79b1fafe866d11be9b8e3097dcef3e630c9cdbfe9a2258975b8029e1ca6",
     "releases/alpha-0.1/didache/checksums.json": "706dfee7f3e1bcb4d59ea96374fd035d28e62db1c25ca5743d2acf3bcf4e4fcd",
     "releases/alpha-0.1/didache/index.html": "63001c52e8dfcc59c9a8b05a5acb143f30e7e6de9746ade8c46a6ad23c2c42b9",
     "releases/alpha-0.1/didache/passages.json": "e688c4d8a449b93988580f59bfc19e960bf2b4ebdc453bc10525007f6c084957",
@@ -14508,6 +14521,9 @@
     "releases/alpha-0.26.1/athanasius-incarnation/index.html": "81def27133e70046dacc43d6ff01a321c7b1549f5570b749d67a912af6cb7093",
     "releases/alpha-0.26.1/athanasius-incarnation/passages.json": "4f6b3185f34f4e55bf8687699fcf168cda1495b650c0e35d6dec069a69f169ee",
     "releases/alpha-0.26.1/athanasius-incarnation/passages.jsonl": "f556e63cbe07a4e110ceaa456dfa659fc37829258dc7518bbbfb6b6665fc2189",
+    "releases/alpha-0.26.2/athanasius-incarnation/checksums.json": "b34580a6e60b20234a7ef6859edbebdfccee5d274abca9f16a2f5bb0ad6d4ede",
+    "releases/alpha-0.26.2/athanasius-incarnation/index.html": "eb06190bc7127fbe66ce7c7ae65f633e3b594e9eebfd8eb7e38e9516de6f76ee",
+    "releases/alpha-0.26.2/athanasius-incarnation/passages.json": "1f256d372a683afb7a41f003c1de33b05069d6cb816aacc223144a2d2fd1b77a",
     "releases/alpha-0.26/athanasius-incarnation/checksums.json": "ca0877248a6a9368e96e9c7ed4f71458d52d85f9270c6f48fa5bfd93751d1355",
     "releases/alpha-0.26/athanasius-incarnation/index.html": "603e1e18111a48d3d3d8c5c94798044ce37c4cfd90b2ec354285f925bfcb780c",
     "releases/alpha-0.3/didache/checksums.json": "f33cda0435976046ac9c049936d26cdbe48b771dc6473aa47d9d5041b33e2bbe",
@@ -14746,13 +14762,13 @@
     "releases/alpha-0.9/polycarp-philippians/passages.json": "6c295dc25de178dfa6ae6acc767202fb56c28b98fb6680814806e67db1ff3f0d",
     "rights.html": "e9a71b35983204d62e14f2dd88aeba1507e401222e66427fdb78814af09cca99",
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
-    "search-index.json": "e5a04af07befa31aa3bc5ce8290857ea88bad6ec680e2ba87af80ff66f2dace4",
+    "search-index.json": "4e2a1423137f01d066f3e66d56ad1a29dd25bef9ce36a2e67c5d592a89586610",
     "sitemap.xml": "ec09fd0a176271a62c2f1324307bf0958f96ee79f14ba68d34d624d2db3abde8",
     "topics.html": "2f5f47a6011699bd24552d54fb1d73458024d230998b24d99118a717ba2d9f54",
-    "topics.json": "952006de5381d13b9ec9c97d6876adf5ff869841d66dbf1f7f311ecd9d49acca",
+    "topics.json": "8b2ef1755d518dc309b9135132d49f9be6931d139e542ae7107dd7ab991fb484",
     "works/arius-eusebius-letter/index.html": "8750d7f2fbbde71e155cfc6b3270a86e100cc989b86b7399ec5a56234f294ed5",
     "works/athanasius-antiochenes/index.html": "112e9b52769897d8d741a94abc3485a42b2dfdb17f80cfdcb0c85b7e2dd2d001",
-    "works/athanasius-incarnation/index.html": "c44ac7689bed4b11049584d8b8851ed3277ed5a9e35dec150e044b456d34446a",
+    "works/athanasius-incarnation/index.html": "c6340f5b27b8a5aa5b9ced4f120d0e9b1ae1ddd36380c13a7b692306646297ab",
     "works/athanasius-serapion-1/index.html": "84a3129449820f7cd14fd58a9cefe28a77c947037eeae5594f48ea7060bf8623",
     "works/athanasius-serapion-2/index.html": "249dc0affa4065247798d6746dcee69ecd2d986e938c63c07d108ea73a9525cd",
     "works/athanasius-serapion-3/index.html": "f9b7c91b53babe6648e0962dc7cbfea58dc0381a0ed232c6ee260c3e9792ea5a",
@@ -14811,32 +14827,34 @@
     "works/theophilus-autolycus/index.html": "0e7b6fe45d80ee4f3d4bbaad0aea0faaf6089b05fe69590f748cc8db49c8017d"
   },
   "origin": "https://patristics.missionalbible.org",
-  "release_id": "alpha-0.26.1",
+  "release_id": "alpha-0.26.2",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "bytes": 895582284,
+    "bytes": 897474116,
     "catalogue_hashes_verified": 41,
     "download_compatibility": {
       "current_alignment_json_bytes_saved": 16804110,
-      "html_bytes_saved": 195528103,
-      "html_pages_compacted": 1032,
-      "published_release_files_preserved": 2104,
+      "html_bytes_saved": 195646949,
+      "html_pages_compacted": 1033,
+      "published_release_files_preserved": 2110,
       "raw_bytes_verified": true,
-      "restored_routes": 108,
-      "retained_routes": 526
+      "restored_routes": 110,
+      "retained_routes": 528,
+      "topic_module_bytes_saved": 3257943,
+      "topic_modules_compacted": 93
     },
     "duplicate_anchors": 0,
-    "edition_checksums_verified": 2195,
-    "edition_data_files_unchanged": 1226,
-    "html_pages": 1032,
+    "edition_checksums_verified": 2198,
+    "edition_data_files_unchanged": 1228,
+    "html_pages": 1033,
     "missing_internal_links": 0,
     "reading_surfaces": {
       "book_directories": 58,
       "legacy_readers": 0,
       "other": 4,
-      "pages": 1032,
-      "readers": 970,
-      "top_controls": 1032
+      "pages": 1033,
+      "readers": 971,
+      "top_controls": 1033
     }
   }
 }
