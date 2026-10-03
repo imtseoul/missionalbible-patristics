@@ -187,3 +187,4 @@ html { overflow-anchor: none; }
 }
 .copy-fallback { flex-basis: 100%; width: 100%; }
 .copy-fallback textarea { display: block; box-sizing: border-box; width: 100%; min-height: 96px; font: inherit; font-size: 16px; border: 1px solid var(--line); padding: 10px; color: var(--ink); }
+.all-scripture-search { display: inline-flex; align-items: center; min-height: 44px; margin-block: 4px 12px; font-size: 14px; }

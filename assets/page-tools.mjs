@@ -1,4 +1,10 @@
 // Current reading and discovery pages share one unobtrusive return-to-top button.
+import knownWorks from './reader-metadata-index.mjs?v=52805ad10444';
+const archivedWork=location.pathname.match(/^\/releases\/[a-z0-9.-]+\/([a-z0-9-]+)\/(?:index|book-\d+)\.html$/)?.[1];
+if(archivedWork&&Object.hasOwn(knownWorks,archivedWork)&&!document.querySelector('.edition-history-link')) {
+  const link=document.createElement('a');link.className='edition-history-link';link.href='/works/'+archivedWork+'/information.html#history';link.textContent='이 문헌의 판본·교정 이력';
+  document.querySelector('.reader-footer')?.prepend(link);
+}
 const header = document.querySelector('.site-header');
 if (header) {
   new ResizeObserver(()=>document.documentElement.style.setProperty('--site-header-height',header.getBoundingClientRect().height+'px')).observe(header);

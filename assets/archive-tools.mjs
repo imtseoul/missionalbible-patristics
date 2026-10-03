@@ -1,6 +1,6 @@
-import versions from './reader-metadata-index.mjs?v=ea2f17fbfe29';
+import versions from './reader-metadata-index.mjs?v=52805ad10444';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-import {workInformationURL} from './work-information.mjs?v=544c00bd4fdd';
+import {workInformationURL} from './work-information.mjs?v=edc958e66257';
 
 const metadata=new Map();
 export async function passageMetadata(work,id) {

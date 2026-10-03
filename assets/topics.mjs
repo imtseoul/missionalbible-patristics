@@ -1,10 +1,11 @@
-import {markedText} from './text-matches.mjs?v=921656645ade';
+import {markedText} from './text-matches.mjs?v=c9235b0b8b9b';
 import {installPhraseHover} from './phrase-hover.mjs?v=4f4926fe87ad';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-import {passageTools} from './archive-tools.mjs?v=8814a12e06e9';
+import {passageTools} from './archive-tools.mjs?v=34434736ec6a';
 import {preserveGuide,installGuideContext,guideReadingControls} from './reading-guides.mjs?v=3195acedeec2';
 import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=eb4889bb8be8';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=018e45b6d00e';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=0c303f3c35a1';
+import {searchURL} from './archive-search-core.mjs?v=e4859555cee8';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
@@ -71,6 +72,7 @@ function initTopics() {
   const refreshGuide=installGuideContext();
   const clear = document.querySelector('#topic-clear');
   const empty = document.querySelector('.topic-empty');
+  const allScripture=document.createElement('a');allScripture.className='all-scripture-search';allScripture.hidden=true;allScripture.textContent='이 성경 구절을 전체 문헌에서 찾기';form.after(allScripture);
   const mobile = document.querySelector('.topic-mobile-categories');
   const links = [...document.querySelectorAll('[data-topic-group]')];
   const sections = [...document.querySelectorAll('.topic-section')];
@@ -181,6 +183,8 @@ function initTopics() {
 
   function render() {
     const scripture=parseScriptureQuery(input.value);
+    allScripture.hidden=!scripture;
+    if(scripture)allScripture.href=searchURL(location.href,{query:input.value,mode:'scripture',work:'',exact:false,page:1,relation:'',numbering:'edition'}).href;
     const terms = normalize(input.value).split(' ').filter(Boolean);
     const scripturePassages=new Set();
     let count = 0;

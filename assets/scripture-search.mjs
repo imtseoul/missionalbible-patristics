@@ -1,4 +1,4 @@
-import scriptureIndex from './scripture-index.mjs?v=039e5984e111';
+import scriptureIndex from './scripture-index.mjs?v=759ad19d874b';
 
 if (scriptureIndex.schema_version !== 'patristics-topic-scripture-index-1') {
   throw new Error('성경 구절 색인의 자료 형식을 읽을 수 없습니다.');
@@ -25,7 +25,7 @@ export function parseScriptureQuery(value) {
   for (const [alias,book] of aliases) {
     if (!text.startsWith(alias)) continue;
     let rest=text.slice(alias.length).replace(/^\./,'');
-    rest=rest.replace(/^(\d+)장(\d+)절(?:-(\d+)절?)?$/,(_,c,v,e)=>c+':'+v+(e?'-'+e:''));
+    rest=rest.replace(/^(\d+)(?:장|편)(\d+)절(?:-(\d+)절?)?$/,(_,c,v,e)=>c+':'+v+(e?'-'+e:''));
     rest=rest.replace(/^(\d+)(?:장|편)$/,'$1');
     const match=rest.match(/^([1-9]\d{0,2})(?:[:.]([1-9]\d{0,3})(?:-(?:([1-9]\d{0,2})[:.])?([1-9]\d{0,3}))?)?$/);
     if (!match) continue;

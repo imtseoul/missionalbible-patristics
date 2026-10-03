@@ -1,10 +1,12 @@
 // Keep original text intact while matching normalized Korean and Greek strings.
 const segmenter = new Intl.Segmenter('ko', {granularity: 'grapheme'});
-const fold = (text, {normalization = 'NFC', caseSensitive = true} = {}) => {
-  const normalized = text.normalize(normalization);
-  return caseSensitive ? normalized : normalized.toLocaleLowerCase('ko');
+const fold = (text, {normalization = 'NFC', caseSensitive = true, ignoreMarks = false, collapseWhitespace = false} = {}) => {
+  let normalized = text.normalize(ignoreMarks?'NFKD':normalization);
+  if(ignoreMarks)normalized=normalized.replace(/\p{M}/gu,'');
+  if(collapseWhitespace)normalized=normalized.replace(/\s+/g,' ');
+  return caseSensitive ? normalized : normalized.toLocaleLowerCase('ko').replace(/ς/g,'σ');
 };
-export const queryTerms = (query, options = {}) => [...new Set(fold(query, options).trim().split(/\s+/).filter(Boolean))];
+export const queryTerms = (query, options = {}) => options.exact?[fold(query,options).trim()].filter(Boolean):[...new Set(fold(query, options).trim().split(/\s+/).filter(Boolean))];
 
 export function matchRanges(text, query, options = {}) {
   const terms = queryTerms(query, options);
@@ -13,6 +15,7 @@ export function matchRanges(text, query, options = {}) {
   const offsets = [];
   for (const {segment, index} of segmenter.segment(text)) {
     const value = fold(segment, options);
+    if(options.collapseWhitespace&&value===' '&&normalized.endsWith(' ')) {offsets.at(-1)[1]=index+segment.length;continue;}
     normalized += value;
     for (let i = 0; i < value.length; i++) offsets.push([index, index + segment.length]);
   }

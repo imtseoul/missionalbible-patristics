@@ -41,3 +41,27 @@
 @media print {
   .information-heading nav, .data-integrity { display: none; }
 }
+.edition-bibliography { margin-top: 16px; font-size: 14px; }
+.edition-bibliography > summary, .history-revision > summary, .history-changes > summary, .work-corrections > summary { min-height: 44px; padding-block: 10px; cursor: pointer; color: var(--blue); }
+.edition-bibliography nav, .history-changes nav { display: flex; flex-wrap: wrap; gap: 8px 24px; }
+.edition-bibliography nav a, .history-changes nav a, .preserved-editions a, .work-corrections a { display: inline-flex; align-items: center; min-height: 44px; }
+.reading-downloads { padding: 0; list-style: none; margin-block: 12px 20px; }
+.reading-downloads li { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; padding-block: 8px; }
+.reading-downloads a { font-size: 14px; display: inline-flex; min-height: 44px; align-items: center; }
+.reading-downloads button, .history-more, .work-corrections button { min-height: 44px; border: 1px solid var(--blue); border-radius: 3px; padding: 8px 14px; color: var(--blue); background: var(--paper,#fff); font: 14px/1.7 var(--font); cursor: pointer; }
+.reading-downloads button:hover, .history-more:hover, .work-corrections button:hover { background: var(--wash); }
+.reading-downloads button:disabled { color: var(--muted); border-color: var(--line); cursor: default; }
+[data-download-status] { font-size: 14px; color: var(--muted); }
+.work-information-page h3 { font-size: 16px; line-height: 1.7; }
+.history-revision { padding-block: 6px; border-bottom: 1px solid var(--line); font-size: 14px; }
+.history-revision > p, .history-revision li > p { margin-block: 10px; }
+.history-registration { color: var(--muted); }
+.preserved-editions, [data-history-changes] { list-style: none; padding: 0; margin-block: 10px; }
+.preserved-editions li { display: flex; flex-wrap: wrap; gap: 6px 20px; align-items: center; }
+.preserved-editions li > span { font-variant-numeric: tabular-nums; }
+[data-history-changes] > li { padding-block: 16px; border-bottom: 1px solid var(--line); scroll-margin-top: calc(var(--site-header-height) + 20px); }
+.work-corrections { margin-top: 20px; font-size: 14px; }
+.correction-records { padding-left: 22px; }
+.correction-records > li { padding-block: 12px; border-bottom: 1px solid var(--line); }
+.correction-records p { margin-top: 8px; overflow-wrap: anywhere; }
+.correction-text { font: 16px/1.8 Georgia, var(--font), serif; }

@@ -1,7 +1,8 @@
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=56a23c1dd8f1';
-import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=8814a12e06e9';
-import {workInformationURL} from './work-information.mjs?v=544c00bd4fdd';
+import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=34434736ec6a';
+import {workInformationURL} from './work-information.mjs?v=edc958e66257';
+import {searchReturnURL} from './archive-search-core.mjs?v=e4859555cee8';
 
 export function installReaderFeatures() {
   if(!/^\/works\/[a-z0-9-]+\/(?:(?:index|book-\d+)\.html)?$/.test(location.pathname))return;
@@ -10,6 +11,11 @@ export function installReaderFeatures() {
   if(!articles.length||!tools||!title)return;
   let current=articles[0],focusUnit=null,intentUntil=0,pending=false,lastRead=null;
   const work=location.pathname.split('/')[2],name=title.textContent;
+  const searchBack=searchReturnURL(location.href);
+  if(searchBack&&!document.querySelector('.reader-search-context')) {
+    const back=document.createElement('a');back.className='reader-search-context';back.textContent='검색 결과로 돌아가기';back.href=searchBack.href;
+    title.closest('.work-heading').prepend(back);
+  }
   let information=document.querySelector('.work-information-link');
   if(!information){information=document.createElement('a');information.className='work-information-link';information.textContent='이 문헌의 자료 정보';document.querySelector('.reader-footer')?.prepend(information);}
   const locationLink=document.createElement('a');locationLink.className='reader-current-location';locationLink.setAttribute('aria-label','현재 읽는 장');
