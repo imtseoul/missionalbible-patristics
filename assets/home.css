@@ -164,3 +164,19 @@ button:hover { background: #16455f; }
   .search-entry-row button { padding-inline: 16px; }
   #search-pagination { gap: 10px; }
 }
+.archive-index-links{display:flex;flex-wrap:wrap;gap:10px 24px;margin:0 0 24px;font-size:14px}
+.archive-index-links a{text-underline-offset:4px}
+.search-text-conditions{margin:20px 0 8px;border-top:1px solid var(--line);padding-top:12px}
+.search-text-conditions summary{width:fit-content;color:var(--blue);cursor:pointer;font-size:14px;padding:8px 0}
+.search-text-conditions .archive-search-options{margin-top:12px}
+.search-text-conditions p,.search-help{font-size:13px;line-height:1.7;color:var(--muted);margin:10px 0}
+.search-text-conditions input{width:100%;min-width:0;box-sizing:border-box;font:inherit;padding:10px 12px;border:1px solid #b9c3ca;border-radius:2px}
+.search-operations{display:flex;flex-wrap:wrap;gap:12px;margin-top:14px}
+.search-operations:has(> :not([hidden])){margin-bottom:12px}
+.search-operations button,.search-result-actions button{font:inherit;font-size:14px;color:var(--blue);background:transparent;border:1px solid var(--line);padding:8px 12px;border-radius:2px;cursor:pointer}
+.search-result-actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px 20px;margin-top:16px}
+.search-result-actions .search-information-link{margin:0}
+.search-result-actions button[data-copy-state="copied"]{background:#e6eff3}
+.search-result-actions .copy-fallback{width:100%}
+.search-result-actions textarea{width:100%;min-height:100px;font:inherit;padding:10px;box-sizing:border-box}
+@media(max-width:720px){.search-text-conditions input{font-size:16px}.search-result-actions button,.search-operations button{min-height:44px}}

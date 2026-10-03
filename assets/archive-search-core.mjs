@@ -3,7 +3,7 @@ export const useLabels={quotation:'직접 인용',paraphrase:'의역',exposition
 export const originLabels={body_reference:'본문 근거',editorial_reference:'편집자 참조',translation_note_reference:'번역 주석 참조'};
 export const speakerLabels={author:'저자의 논의',reported_view:'보고된 상대 견해',quoted_witness:'인용된 증언'};
 export const compositionLabels={adapted:'표현 조정',composite:'복합 인용',interrupted:'인용 사이에 해설'};
-const modes=['ko','grc','lat','scripture'];
+const modes=['ko','grc','lat','notes','scripture'];
 const uses=Object.keys(useLabels);
 const cut=value=>Array.from(String(value||'')).slice(0,200).join('');
 
@@ -12,14 +12,16 @@ export function searchState(value) {
   const page=Number(params.get('page'));
   return {query:cut(params.get('text')),work:params.get('work')||'',mode:modes.includes(params.get('mode'))?params.get('mode'):'ko',
     exact:params.get('exact')==='1',page:Number.isSafeInteger(page)&&page>0&&page<100000?page:1,
-    relation:uses.includes(params.get('relation'))?params.get('relation'):'',numbering:params.get('numbering')==='conventional'?'conventional':'edition'};
+    relation:uses.includes(params.get('relation'))?params.get('relation'):'',numbering:params.get('numbering')==='conventional'?'conventional':'edition',
+    match:params.get('match')==='any'?'any':'all',exclude:cut(params.get('exclude'))};
 }
 
 export function searchURL(base,state) {
   const current=new URL(base),url=new URL('/index.html',current);
   if(['/', '/index.html'].includes(current.pathname))for(const key of ['find','lang'])if(current.searchParams.has(key))url.searchParams.set(key,current.searchParams.get(key));
   const values={text:cut(state.query).trim(),work:state.work||'',mode:state.mode!=='ko'?state.mode:'',exact:state.exact?'1':'',
-    page:state.page>1?String(state.page):'',relation:state.relation||'',numbering:state.numbering==='conventional'?'conventional':''};
+    page:state.page>1?String(state.page):'',relation:state.relation||'',numbering:state.numbering==='conventional'?'conventional':'',
+    match:state.match==='any'?'any':'',exclude:cut(state.exclude).trim()};
   for(const [key,value] of Object.entries(values))if(value)url.searchParams.set(key,value);else url.searchParams.delete(key);
   url.hash='body-search';return url;
 }
@@ -43,14 +45,31 @@ export function foldSearch(text) {
 
 export function passageSearchText(row,mode) {
   if(mode==='ko')return row.ko;
+  if(mode==='notes')return row.notes.join('\n');
   if(!row.languages.includes(mode))return '';
   if(!row.language_ranges)return row.original;
   return row.language_ranges.filter(range=>range[0]===mode).map(range=>row.original.slice(range[1],range[2])).join(' … ');
 }
 
-export function textMatches(text,query,exact=false) {
+export function textMatches(text,query,exact=false,match='all',exclude='') {
   const value=foldSearch(text),needle=foldSearch(query);if(!needle)return false;
-  return exact?value.includes(needle):needle.split(' ').every(term=>value.includes(term));
+  const omitted=foldSearch(exclude).split(' ').filter(Boolean);
+  if(omitted.some(term=>value.includes(term)))return false;
+  return exact?value.includes(needle):match==='any'?needle.split(' ').some(term=>value.includes(term)):needle.split(' ').every(term=>value.includes(term));
+}
+
+export function resultCitation(item) {
+  if(typeof item.row.citation!=='string'||!item.row.citation.trim())throw new Error('이 대목의 인용 정보를 불러오지 못했습니다.');
+  return item.row.citation;
+}
+
+export function resultCSV(found,state,base) {
+  const fields=['work_id','author','title','location','search_target','query','match','exclude','reference_type','korean','original','matching_notes','citation','fixed_url','search_url'];
+  const cell=value=>{let text=String(value??'');if(/^[\s]*[=+@-]/u.test(text))text="'"+text;return '"'+text.replace(/"/g,'""')+'"';};
+  const rows=found.rows.map(item=>[item.work.id,item.work.author,item.work.title,item.row.label,state.mode,state.query,found.kind==='text'?(state.exact?'phrase':state.match||'all'):'',found.kind==='text'?state.exclude||'':'',
+    (item.references||[]).map(row=>useLabels[row.use]).filter((value,index,array)=>array.indexOf(value)===index).join('; '),item.row.ko,item.row.original,
+    (item.noteMatches||[]).map(row=>(row.index+1)+'. '+row.text).join('\n'),resultCitation(item),item.row.fixed_url,searchURL(base,{...state,page:1}).href]);
+  return [fields,...rows].map(row=>row.map(cell).join(',')).join('\n')+'\n';
 }
 
 const identity=text=>foldSearch(text).replace(/[\s.]/g,'');

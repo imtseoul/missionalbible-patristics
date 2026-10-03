@@ -2,7 +2,7 @@ import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=56a23c1dd8f1';
 import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=34434736ec6a';
 import {workInformationURL} from './work-information.mjs?v=edc958e66257';
-import {searchReturnURL} from './archive-search-core.mjs?v=e4859555cee8';
+import {searchReturnURL} from './archive-search-core.mjs?v=c183809f9954';
 
 export function installReaderFeatures() {
   if(!/^\/works\/[a-z0-9-]+\/(?:(?:index|book-\d+)\.html)?$/.test(location.pathname))return;

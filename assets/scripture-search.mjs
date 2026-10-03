@@ -1,4 +1,4 @@
-import scriptureIndex from './scripture-index.mjs?v=759ad19d874b';
+import scriptureIndex from './scripture-index.mjs?v=11eb9959b765';
 
 if (scriptureIndex.schema_version !== 'patristics-topic-scripture-index-1') {
   throw new Error('성경 구절 색인의 자료 형식을 읽을 수 없습니다.');
@@ -25,12 +25,17 @@ export function parseScriptureQuery(value) {
   for (const [alias,book] of aliases) {
     if (!text.startsWith(alias)) continue;
     let rest=text.slice(alias.length).replace(/^\./,'');
+    const single=books.get(book).single_chapter_verses;
+    const short=single&&rest.match(/^([1-9]\d{0,2})(?:절)?(?:-([1-9]\d{0,2})(?:절)?)?$/);
+    if(short){const verse=Number(short[1]),verse_end=Number(short[2]||short[1]);return verse<=verse_end&&verse_end<=single?{book,chapter:1,verse,chapter_end:1,verse_end}:null;}
     rest=rest.replace(/^(\d+)(?:장|편)(\d+)절(?:-(\d+)절?)?$/,(_,c,v,e)=>c+':'+v+(e?'-'+e:''));
     rest=rest.replace(/^(\d+)(?:장|편)$/,'$1');
     const match=rest.match(/^([1-9]\d{0,2})(?:[:.]([1-9]\d{0,3})(?:-(?:([1-9]\d{0,2})[:.])?([1-9]\d{0,3}))?)?$/);
     if (!match) continue;
     const chapter=Number(match[1]),verse=match[2]?Number(match[2]):null;
     const chapter_end=match[3]?Number(match[3]):chapter,verse_end=match[4]?Number(match[4]):verse;
+    const maximum=books.get(book).max_chapter||151;
+    if(chapter>maximum||chapter_end>maximum)return null;
     if (chapter_end<chapter || verse!==null && chapter_end===chapter && verse_end<verse) return null;
     return {book,chapter,verse,chapter_end,verse_end};
   }

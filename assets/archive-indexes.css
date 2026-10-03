@@ -1,0 +1,43 @@
+.archive-index-page{max-width:850px;min-width:0;font-size:16px;line-height:1.8}
+.archive-index-page h1{font-size:30px;line-height:1.5;margin:0 0 20px;letter-spacing:-.03em}
+.information-sidebar{top:calc(var(--site-header-height) + 24px);max-height:calc(100dvh - var(--site-header-height) - 48px)}
+.index-introduction{word-break:keep-all;overflow-wrap:anywhere;max-width:65ch;margin-bottom:24px;color:#45515a}
+.index-mobile-nav{display:none}
+.index-search-label{display:block;font-size:14px;margin:22px 0 8px}
+.index-query,.correction-search input,.correction-search select{width:100%;min-width:0;height:44px;padding:8px 12px;font:inherit;color:var(--ink);background:#fff;border:1px solid #b9c3ca;border-radius:3px;caret-color:var(--blue)}
+.index-query::placeholder,.correction-search input::placeholder{color:var(--muted);opacity:1}
+.index-status{font-size:14px;color:var(--muted);margin:16px 0 24px;font-variant-numeric:tabular-nums;scroll-margin-top:calc(var(--site-header-height) + 24px)}
+.scripture-book{border-bottom:1px solid var(--line)}
+.scripture-book:first-child{border-top:1px solid var(--line)}
+.scripture-book summary{padding:15px 0;cursor:pointer;color:var(--blue);font-size:18px}
+.scripture-book summary span:last-child{font-size:13px;color:var(--muted);margin-left:16px}
+.scripture-chapters{list-style:none;padding:0 0 18px;margin:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px 24px}
+.scripture-chapters li{display:flex;align-items:center;gap:10px;min-height:44px}
+.scripture-chapters li span{font-size:12px;color:var(--muted)}
+.scripture-chapters a{min-width:35px}
+.index-downloads{display:flex;flex-wrap:wrap;gap:12px 24px;margin:20px 0;font-size:14px}
+.bibliography-entry{border-top:1px solid var(--line);padding:26px 0}
+.bibliography-entry h2{font-size:20px;line-height:1.6;overflow-wrap:anywhere}
+.bibliography-entry dl{display:grid;grid-template-columns:100px minmax(0,1fr);gap:8px 18px;margin:16px 0;font-size:14px}
+.bibliography-entry dt{color:var(--muted)}
+.bibliography-entry dd{margin:0;overflow-wrap:anywhere}
+.bibliography-entry details{margin-top:16px;font-size:14px}
+.bibliography-entry summary{color:var(--blue);cursor:pointer;padding:8px 0}
+.bibliography-entry ul{padding-left:20px}.bibliography-entry li{margin:10px 0}
+.correction-search{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) auto;gap:12px;align-items:end;margin:24px 0}
+.correction-search label{font-size:14px;display:grid;gap:8px;min-width:0}
+.correction-search button,.index-pagination button,#correction-retry{font:inherit;min-height:44px;padding:8px 16px;background:var(--blue);color:#fff;border:0;border-radius:3px;cursor:pointer}
+.correction-results{margin:0;padding-left:30px}
+.correction-results li{border-top:1px solid var(--line);padding:24px 0 28px 4px;overflow-wrap:anywhere}
+.correction-results h2{font-size:17px;line-height:1.7;margin-bottom:12px}
+.correction-results p{margin:8px 0;font-size:15px}
+.correction-wording{white-space:pre-wrap}
+.correction-results nav{display:flex;flex-wrap:wrap;gap:12px 24px;margin-top:16px;font-size:14px}
+.index-pagination{display:flex;justify-content:center;align-items:center;gap:16px;margin:22px 0 32px}
+.index-pagination select{font:inherit;max-width:130px;height:44px;padding:7px 12px;border:1px solid #b9c3ca;background:#fff;color:var(--ink)}
+.index-pagination button:disabled{opacity:.5;cursor:default}
+@media(max-width:1000px){.scripture-chapters{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px 16px}.correction-search{grid-template-columns:1fr 1fr}.correction-search button{grid-column:1/-1;justify-self:start}}
+@media(max-width:720px){.archive-index-page h1{font-size:26px}.index-mobile-nav{display:flex;flex-wrap:wrap;gap:8px 22px;margin:0 0 28px;font-size:14px}.index-mobile-nav a{min-height:44px;display:flex;align-items:center}.scripture-chapters{grid-template-columns:repeat(2,minmax(0,1fr))}.bibliography-entry dl{grid-template-columns:90px minmax(0,1fr);gap:10px 12px}.correction-search{grid-template-columns:1fr}.correction-search input,.correction-search select{font-size:16px}.correction-results{padding-left:22px}.correction-results li{padding-left:2px}}
+@media print{.index-mobile-nav,.index-query,.index-search-label,.correction-search,.index-pagination{display:none}}
+
+.information-sidebar nav a[aria-current],.index-mobile-nav a[aria-current]{color:var(--blue);font-weight:600;text-decoration:underline}

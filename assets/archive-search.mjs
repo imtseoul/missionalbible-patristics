@@ -1,68 +1,14 @@
-import index from './archive-search-index.mjs?v=6fa64cec064c';
+import {createArchiveSearchClient} from './archive-search-client.mjs?v=d1570746f8a7';
+import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
+export {archiveResults} from './archive-search-engine.mjs?v=824d96d5bb7a';
+import index from './archive-search-index.mjs?v=9d563b22713c';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=c9235b0b8b9b';
-import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=0c303f3c35a1';
+import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=e127e538461b';
 import {workInformationURL} from './work-information.mjs?v=edc958e66257';
-import {searchState,searchURL,searchReaderURL,passageSearchText,textMatches,workReference,referenceMatches,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels} from './archive-search-core.mjs?v=e4859555cee8';
+import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=c183809f9954';
 
 const works=new Map(index.works.map(work=>[work.id,work]));
-const loaded=new Map(),attempts=new Map();
-let scripture,scriptureAttempts=0;
-const scriptureModule='./archive-scripture.mjs?v=c0261ee3748f';
-async function loadWork(work) {
-  if(!loaded.has(work.id)) {
-    const attempt=attempts.get(work.id)||0;
-    loaded.set(work.id,import('./archive-readings/'+work.id+'.mjs?v='+work.version+(attempt?'&retry='+attempt:'')).then(module=>{
-      const data=module.default;
-      if(data.work!==work.id||data.source_sha256!==work.source_sha256||data.passages.length!==work.passages)throw new Error('문헌의 자료 판본이 맞지 않습니다. 새로고침 후 다시 검색하세요.');
-      return data.passages;
-    }).catch(error=>{loaded.delete(work.id);attempts.set(work.id,attempt+1);throw error;}));
-  }
-  return loaded.get(work.id);
-}
-async function loadWorks(selected) {
-  const result=new Array(selected.length);let cursor=0;
-  await Promise.all(Array.from({length:Math.min(6,selected.length)},async()=>{
-    while(cursor<selected.length){const i=cursor++;result[i]={work:selected[i],rows:await loadWork(selected[i])};}
-  }));
-  return result;
-}
-async function scriptureData() {
-  if(!scripture)scripture=import(scriptureModule+(scriptureAttempts?(scriptureModule.includes('?')?'&':'?')+'retry='+scriptureAttempts:'')).then(module=>{
-    const data=module.default;
-    if(data.schema_version!=='patristics-archive-scripture-1'||index.works.some(work=>data.source_bindings[work.id]!==work.source_sha256))throw new Error('성경 색인과 문헌 판본이 맞지 않습니다. 새로고침 후 다시 검색하세요.');
-    return data;
-  }).catch(error=>{scripture=null;scriptureAttempts++;throw error;});
-  return scripture;
-}
-
-export async function archiveResults(state) {
-  const selected=index.works.filter(work=>!state.work||work.id===state.work);
-  const biblical=state.mode==='scripture'||state.mode==='ko'&&!state.exact?parseScriptureQuery(state.query):null;
-  if(state.mode==='scripture'&&!biblical)return {kind:'invalid-scripture',rows:[]};
-  if(biblical) {
-    const data=await scriptureData();
-    const references=data.references.filter(reference=>(!state.work||reference.work===state.work)&&(!state.relation||reference.use===state.relation)&&scriptureIntersects(reference,biblical));
-    const byPassage=new Map();
-    for(const reference of references){if(!byPassage.has(reference.passage))byPassage.set(reference.passage,[]);byPassage.get(reference.passage).push(reference);}
-    const wanted=new Set(references.map(reference=>reference.work));
-    const corpus=await loadWorks(selected.filter(work=>wanted.has(work.id)));
-    return {kind:'scripture',query:biblical,rows:corpus.flatMap(({work,rows})=>rows.filter(row=>byPassage.has(row.id)).map(row=>({work,row,references:byPassage.get(row.id)})))};
-  }
-  const reference=state.mode==='ko'&&!state.exact?workReference(index.works,state.query,state.work,state.numbering):null;
-  if(reference?.invalid)return {kind:'invalid-reference',rows:[]};
-  if(reference?.works.length>1)return {kind:'ambiguous-reference',rows:[],candidates:reference.works.map(id=>works.get(id))};
-  const wanted=reference?selected.filter(work=>reference.works.includes(work.id)):selected;
-  const corpus=await loadWorks(wanted);
-  if(reference) {
-    return {kind:'reference',reference,rows:corpus.flatMap(({work,rows})=>rows.flatMap(row=>{
-      const matches=referenceMatches(row,reference);return matches.length?[{work,row,numberMatches:matches}]:[];
-    }))};
-  }
-  return {kind:'text',rows:corpus.flatMap(({work,rows})=>rows.flatMap(row=>{
-    const text=passageSearchText(row,state.mode);return text&&textMatches(text,state.query,state.exact)?[{work,row,text}]:[];
-  }))};
-}
 
 function referenceEvidence(item,reference) {
   const details=document.createElement('details');details.className='scripture-evidence';
@@ -88,9 +34,11 @@ export function installArchiveSearch() {
   const form=document.getElementById('search-form');if(!form)return;
   const results=document.getElementById('search-results'),status=document.getElementById('search-status'),details=document.getElementById('body-search');
   const pagination=document.getElementById('search-pagination');
-  let state=searchState(location.href),submission=0;
+  const cancel=document.getElementById('search-cancel'),exportButton=document.getElementById('search-export'),exportFile=document.getElementById('search-export-file');
+  const client=createArchiveSearchClient();
+  let state=searchState(location.href),submission=0,lastFound=null,lastState=null,exportURL=null;
   if(state.work&&!works.has(state.work))state.work='';
-  const names={query:'query',work:'work',mode:'mode',exact:'exact',relation:'relation',numbering:'numbering'};
+  const names={query:'query',work:'work',mode:'mode',exact:'exact',relation:'relation',numbering:'numbering',match:'match',exclude:'exclude'};
   const field=name=>form.elements.namedItem(name);
   const controls=()=>{
     const mode=field('mode')?.value||'ko';
@@ -100,14 +48,18 @@ export function installArchiveSearch() {
     const exactControl=form.querySelector('.search-exact');if(exactControl)exactControl.hidden=mode==='scripture';
     const relationGroup=document.getElementById('scripture-relation-control'),numberGroup=document.getElementById('reference-numbering-control');
     if(relationGroup)relationGroup.hidden=!biblical;if(numberGroup)numberGroup.hidden=!numbering;
+    const advanced=document.getElementById('search-text-conditions');if(advanced)advanced.hidden=biblical||numbering;
+    if(field('match'))field('match').disabled=exact;
   };
   const fill=()=>{
     for(const [key,name] of Object.entries(names)){const element=field(name);if(!element)continue;if(key==='exact')element.checked=state.exact;else element.value=state[key]||'';}
     controls();
+    const advanced=document.getElementById('search-text-conditions');if(advanced&&(state.match==='any'||state.exclude))advanced.open=true;
   };
   const collect=()=>{
     const value={query:field('query').value.trim(),work:field('work').value,mode:field('mode')?.value||'ko',exact:field('exact')?.checked||false,
-      relation:field('relation')?.value||'',numbering:field('numbering')?.value||'edition',page:1};
+      relation:field('relation')?.value||'',numbering:field('numbering')?.value||'edition',page:1,
+      match:field('match')?.value||'all',exclude:field('exclude')?.value.trim()||''};
     const reference=value.mode==='ko'&&!value.exact?workReference(index.works,value.query,value.work,value.numbering):null;
     if(reference){value.numbering=reference.scheme;if(field('numbering'))field('numbering').value=value.numbering;}
     return value;
@@ -126,14 +78,15 @@ export function installArchiveSearch() {
       const list=document.createElement('ol');list.className='search-passages';group.append(heading,list);
       for(const item of items) {
         const row=item.row,entry=document.createElement('li');entry.dataset.searchResult=row.id;
-        const title=document.createElement('h4'),link=document.createElement('a'),reader=searchReaderURL(row.path,location.href,state);
-        link.href=reader.href;link.textContent=row.label;title.append(link);entry.append(title);
+        const path=item.noteMatches?row.path.split('#')[0]+'#note-'+row.location.replace(/\./g,'-'):row.path;
+        const title=document.createElement('h4'),link=document.createElement('a'),reader=searchReaderURL(path,location.href,state);
+        link.href=reader.href;link.textContent=row.label+(item.noteMatches?' · 번역 주석':'');title.append(link);entry.append(title);
         if(item.numberMatches&&found.reference.scheme==='conventional') {
           const mapping=document.createElement('p');mapping.className='reference-numbering';mapping.textContent=[...new Set(item.numberMatches.map(match=>match.label))].join(' · ');entry.append(mapping);
         }
         const body=document.createElement('p');body.className='search-excerpt';
         if(found.kind==='text') {
-          body.lang=state.mode==='ko'?'ko':state.mode;
+          body.lang=['ko','notes'].includes(state.mode)?'ko':state.mode;
           const options={ignoreMarks:true,caseSensitive:false,collapseWhitespace:true,exact:state.exact};
           const excerpts=matchExcerpts(item.text,state.query,options);
           if(excerpts[0].start>0)body.append('… ');
@@ -151,7 +104,9 @@ export function installArchiveSearch() {
           entry.append(evidence);
         }
         const information=document.createElement('a');information.className='search-information-link';information.textContent='문헌 자료 정보';information.href=workInformationURL(wid,reader.href,location.href).href;
-        entry.append(information);list.append(entry);
+        const actions=document.createElement('div');actions.className='search-result-actions';
+        actions.append(information,copyControl('인용 복사',()=>resultCitation(item),work.title+' '+row.label+' 고정 인용 복사'));
+        entry.append(actions);list.append(entry);
       }
       fragment.append(group);
     }
@@ -165,12 +120,17 @@ export function installArchiveSearch() {
     }
   };
   const run=async (push=true)=>{
-    const token=++submission,snapshot={...state};results.replaceChildren();if(pagination)pagination.hidden=true;
+    const token=++submission,snapshot={...state};lastFound=null;lastState=null;
+    if(exportURL){URL.revokeObjectURL(exportURL);exportURL=null;}if(exportFile){exportFile.hidden=true;exportFile.removeAttribute('href');}
+    results.replaceChildren();if(pagination)pagination.hidden=true;if(exportButton)exportButton.hidden=true;if(cancel)cancel.hidden=true;
     if(push)persist(false);
-    if(!snapshot.query.trim()){status.textContent='본문, 문헌의 장절 또는 성경 구절을 입력하세요.';results.removeAttribute('aria-busy');return;}
+    if(!snapshot.query.trim()){client.cancel();status.textContent='본문, 문헌의 장절 또는 성경 구절을 입력하세요.';results.removeAttribute('aria-busy');return;}
     details.open=true;status.textContent='수록 자료를 찾고 있습니다.';results.setAttribute('aria-busy','true');
+    if(cancel)cancel.hidden=false;
     try {
-      const found=await archiveResults(snapshot);if(token!==submission)return;
+      const found=await client.run(snapshot,{onProgress:progress=>{
+        if(token===submission)status.textContent='문헌 '+progress.loaded+'/'+progress.total+'편의 자료를 읽었습니다.';
+      }});if(token!==submission)return;
       if(found.kind==='invalid-scripture'){status.textContent='성경의 책과 장절을 입력하세요. 예: 요한복음 1:1, 고전 15:53-55';return;}
       if(found.kind==='invalid-reference'){status.textContent='문헌의 장절 번호를 확인하세요.';return;}
       if(found.kind==='ambiguous-reference') {
@@ -185,19 +145,36 @@ export function installArchiveSearch() {
         found.kind==='reference'?'해당 번호에 대응하는 대목이 없습니다. 장절 체계와 문헌을 확인하세요.':
         found.kind==='scripture'?'기록된 성경 참조 중 조건에 맞는 대목이 없습니다. 책·장절과 참조 유형을 확인하세요.':'수록된 본문에서 검색어를 찾지 못했습니다. 검색 대상과 문헌을 확인하세요.';
       paint(found,slice);
-    }catch(error){if(token===submission)status.textContent=dataErrorMessage(error,'자료를 불러오지 못했습니다. 연결을 확인한 뒤 다시 검색하세요.');}
-    finally{if(token===submission)results.removeAttribute('aria-busy');}
+      lastFound=found;lastState={...state};if(exportButton)exportButton.hidden=!found.rows.length;
+    }catch(error){if(token===submission&&error.name!=='AbortError')status.textContent=dataErrorMessage(error,'자료를 불러오지 못했습니다. 연결을 확인한 뒤 다시 검색하세요.');}
+    finally{if(token===submission){results.removeAttribute('aria-busy');if(cancel)cancel.hidden=true;}}
+  };
+  const restore=()=>{
+    const version=submission+1;let interacted=false;
+    const touch=()=>{interacted=true;};const events=['wheel','touchmove','pointerdown','keydown'];
+    for(const event of events)window.addEventListener(event,touch,{passive:true});
+    run(false).finally(()=>{
+      for(const event of events)window.removeEventListener(event,touch);
+      if(!interacted&&submission===version&&location.hash==='#body-search')requestAnimationFrame(()=>details.scrollIntoView({block:'start'}));
+    });
   };
   status.tabIndex=-1;fill();
-  if(state.query||state.mode!=='ko'){details.open=true;run(false);}
+  if(state.query||state.mode!=='ko'){details.open=true;restore();}
   form.addEventListener('submit',event=>{event.preventDefault();state=collect();run();});
   field('query').addEventListener('input',controls);
-  for(const name of ['mode','work','exact','relation','numbering'])field(name)?.addEventListener('change',()=>{
+  for(const name of ['mode','work','exact','relation','numbering','match'])field(name)?.addEventListener('change',()=>{
     if(name==='numbering')field('query').value=field('query').value.normalize('NFC').replace(/통상|Harvey/gi,'').replace(/\s+/g,' ').trim();
     controls();if(field('query').value.trim()){state=collect();run();}
   });
-  document.querySelector('[data-search-reset]')?.addEventListener('click',()=>{state={query:'',work:'',mode:'ko',exact:false,relation:'',numbering:'edition',page:1};fill();run();field('query').focus();});
-  window.addEventListener('popstate',()=>{state=searchState(location.href);if(!works.has(state.work))state.work='';fill();run(false);});
+  document.querySelector('[data-search-reset]')?.addEventListener('click',()=>{state={query:'',work:'',mode:'ko',exact:false,relation:'',numbering:'edition',page:1,match:'all',exclude:''};fill();run();field('query').focus();});
+  cancel?.addEventListener('click',()=>{submission++;client.cancel();cancel.hidden=true;results.removeAttribute('aria-busy');status.textContent='검색을 취소했습니다. 조건을 바꾸거나 다시 검색하세요.';field('query').focus();});
+  exportButton?.addEventListener('click',()=>{
+    if(!lastFound||!lastState)return;
+    const csv=resultCSV(lastFound,lastState,location.href);if(exportURL)URL.revokeObjectURL(exportURL);exportURL=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));
+    exportFile.href=exportURL;exportFile.download='patristics-search-'+lastState.mode+'.csv';exportFile.hidden=false;exportFile.click();status.textContent=lastFound.rows.length.toLocaleString('ko-KR')+'개 대목의 CSV를 준비했습니다.';
+  });
+  window.addEventListener('pagehide',()=>client.cancel());
+  window.addEventListener('popstate',()=>{state=searchState(location.href);if(!works.has(state.work))state.work='';fill();restore();});
 }
 
 if(typeof document!=='undefined')installArchiveSearch();

@@ -1,4 +1,5 @@
-import {installReaderFeatures} from './reader-features.mjs?v=548268fca7c1';
+import {installReaderFeatures} from './reader-features.mjs?v=342d9c9ee5cb';
+import {installReaderSearch} from './reader-search.mjs?v=2cadbac4529c';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => { chapterMenu.open = false; });
@@ -37,7 +38,7 @@ async function installTopicContext() {
   if (!id) return;
   try {
     const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
-      import('./topic-navigation.mjs?v=b8e400dcafb7'), import('./topics.mjs?v=82b90d06fe92'),
+      import('./topic-navigation.mjs?v=b8e400dcafb7'), import('./topics.mjs?v=28e828b8a052'),
     ]);
     const topic = navigation.topics.find(t=>t.id===id);
     if (!topic?.passages.length) return;
@@ -162,3 +163,4 @@ if(readerTools){
   new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
 }
 installReaderFeatures();
+installReaderSearch();

@@ -4,8 +4,8 @@ import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {passageTools} from './archive-tools.mjs?v=34434736ec6a';
 import {preserveGuide,installGuideContext,guideReadingControls} from './reading-guides.mjs?v=3195acedeec2';
 import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=eb4889bb8be8';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=0c303f3c35a1';
-import {searchURL} from './archive-search-core.mjs?v=e4859555cee8';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=e127e538461b';
+import {searchURL} from './archive-search-core.mjs?v=c183809f9954';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
