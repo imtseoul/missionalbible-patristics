@@ -1,4 +1,4 @@
-import {installPhraseHover} from './phrase-hover.mjs';
+import {installPhraseHover} from './phrase-hover.mjs?v=4f4926fe87ad';
 
 export function comparisonPair(read, compare, next, pane='read') {
   if (!compare || compare===read) return {read:next,compare:null};

@@ -40,7 +40,7 @@ async function loadCurrentReader() {
     const params = new URL(location.href).searchParams;
     if (params.get('topic')) {
       const back = new URL('/topics.html', current);
-      for (const key of ['group', 'q', 'read', 'compare', 'pane']) if (params.has(key)) back.searchParams.set(key, params.get(key));
+      for (const key of ['group', 'q', 'read', 'compare', 'pane', 'guide']) if (params.has(key)) back.searchParams.set(key, params.get(key));
       back.hash = 'topic-' + params.get('topic');
       for (const link of document.querySelectorAll('.site-header a')) if (new URL(link.href).pathname.endsWith('/topics.html')) link.href = back.href;
     }

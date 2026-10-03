@@ -1,4 +1,4 @@
-import {installReaderFeatures} from './reader-features.mjs?v=6468ee06837f';
+import {installReaderFeatures} from './reader-features.mjs?v=9b9ca39e934b';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => { chapterMenu.open = false; });
@@ -37,7 +37,7 @@ async function installTopicContext() {
   if (!id) return;
   try {
     const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
-      import('./topic-navigation.mjs'), import('./topics.mjs'),
+      import('./topic-navigation.mjs?v=701b392d6fb6'), import('./topics.mjs?v=66d6c3ac2d74'),
     ]);
     const topic = navigation.topics.find(t=>t.id===id);
     if (!topic?.passages.length) return;
@@ -150,7 +150,7 @@ async function installTopicContext() {
     update();
   } catch {
     const fallback=document.createElement('a');fallback.className='topic-context-fallback';fallback.textContent='주제별 탐색으로 돌아가기';
-    const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;for(const key of ['group','q','read','compare','pane'])if(params.has(key))url.searchParams.set(key,params.get(key));fallback.href=url;
+    const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;for(const key of ['group','q','read','compare','pane','guide'])if(params.has(key))url.searchParams.set(key,params.get(key));fallback.href=url;
     document.querySelector('.work-context')?.prepend(fallback);
   }
 }

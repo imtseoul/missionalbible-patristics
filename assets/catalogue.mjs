@@ -1,5 +1,6 @@
 // Native anchors still reach every author when JavaScript is unavailable.
 import {installRecentReading} from './reading-progress.mjs?v=56a23c1dd8f1';
+import {installReadingCollection} from './reading-collection.mjs?v=90c89380bac1';
 const catalogue = document.getElementById('author-catalogue');
 const sections = [...document.querySelectorAll('[data-author]')];
 const links = [...document.querySelectorAll('[data-author-filter]')];
@@ -20,6 +21,10 @@ function updateAuthorMenu() {
 
 function showAuthor() {
   const hash = location.hash.slice(1);
+  for(const link of document.querySelectorAll('.browse-switch a')) {
+    const selected=hash==='saved-readings'?link.hash==='#saved-readings':link.hash==='#library';
+    if(selected)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current');
+  }
   const selected = sections.some(section => section.dataset.author === hash) ? hash : 'all';
   let count = 0;
   for (const section of sections) {
@@ -37,6 +42,7 @@ function showAuthor() {
 
 if (catalogue && counter) {
   installRecentReading();
+  installReadingCollection();
   showAuthor();
   for (const link of links) link.addEventListener('click', event => {
     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;

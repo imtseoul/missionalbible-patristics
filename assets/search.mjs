@@ -1,5 +1,5 @@
 // Current search UI; app.mjs stays unchanged for frozen edition reproduction.
-import {markedText, matchExcerpts} from './text-matches.mjs';
+import {markedText, matchExcerpts} from './text-matches.mjs?v=921656645ade';
 import {passageDestination} from './passage-jump.mjs?v=e9831b8b0ca5';
 
 export function findPassages(rows, query, work = '') {

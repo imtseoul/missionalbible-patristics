@@ -1,26 +1,24 @@
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=56a23c1dd8f1';
+import {passageMetadata,savePassageControl,sourceDetails} from './passage-tools.mjs?v=46e2bfb1e295';
 
 export function installReaderFeatures() {
   if(!/^\/works\/[a-z0-9-]+\/(?:(?:index|book-\d+)\.html)?$/.test(location.pathname))return;
   const articles=[...document.querySelectorAll('article.passage[data-passage-id]')];
   const tools=document.querySelector('.reader-tools'),title=document.querySelector('.work-heading h1');
   if(!articles.length||!tools||!title)return;
-  let current=articles[0],focusUnit=null,intentUntil=0,pending=false,metadata,lastRead=null;
+  let current=articles[0],focusUnit=null,intentUntil=0,pending=false,lastRead=null;
   const work=location.pathname.split('/')[2],name=title.textContent;
   const locationLink=document.createElement('a');locationLink.className='reader-current-location';locationLink.setAttribute('aria-label','현재 읽는 장');
   const citation=copyControl('인용',async()=>{
     const id=current.dataset.passageId;
-    const edition=document.body.dataset.readerSource?.split('/')[2]||new URL(document.querySelector('a[href*="releases/"]')?.href||location.href).pathname.split('/')[2];
-    metadata??=import('./reader-metadata/'+work+'.mjs?edition='+encodeURIComponent(edition)).catch(error=>{metadata=null;throw error;});
-    const data=(await metadata).default;
-    const entry=data.passages.find(p=>p.id===id);
-    if(!entry)throw new Error('Missing citation');
-    return entry.citation;
+    return (await passageMetadata(work,id)).passage.citation;
   },'현재 대목 인용 정보 복사');
   citation.classList.add('reader-copy-citation');
+  const selection=()=>{const url=new URL(location.href);url.hash=current.id;return {work,id:current.dataset.passageId,path:url.href};};
+  const save=savePassageControl(selection),source=sourceDetails(selection);
   const titleLink=tools.querySelector('.reader-current-title');
-  if(titleLink){const meta=document.createElement('div');meta.className='reader-meta';tools.prepend(meta);meta.append(titleLink,locationLink,citation);}
+  if(titleLink){const meta=document.createElement('div');meta.className='reader-meta';tools.prepend(meta);meta.append(titleLink,locationLink,citation,save,source);}
   const mark=node=>{
     current=node||current;
     const chapter=current.dataset.chapter;
@@ -30,6 +28,7 @@ export function installReaderFeatures() {
     locationLink.href='#'+current.id;
     const url=new URL(location.href);url.hash=current.id;
     rememberRecent({title:name,label:locationLink.textContent,url:url.href});
+    save.refresh();source.refresh();
   };
   const hashPosition=()=>{
     let id;try{id=decodeURIComponent(location.hash.slice(1)).replace(/^note-/,'p-');}catch{return;}
