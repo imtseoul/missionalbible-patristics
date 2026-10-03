@@ -125,3 +125,4 @@ button:hover { background: #16455f; }
   .catalogue-filter input { flex-basis: 100%; }
   .catalogue-filter select { flex: 1; width: auto; font-size: 16px; }
 }
+.search-information-link { display: inline-flex; align-items: center; min-height: 44px; font-size: 13px; }

@@ -1,0 +1,43 @@
+.work-information-layout .information-sidebar { top: calc(var(--site-header-height) + 24px); max-height: calc(100dvh - var(--site-header-height) - 48px); }
+.work-information-page { font-size: 16px; line-height: 1.9; }
+.information-heading h1 { font-size: 28px; line-height: 1.55; letter-spacing: -.03em; word-break: keep-all; overflow-wrap: anywhere; }
+.information-heading .work-original { margin-top: 8px; font: 18px/1.7 Georgia, serif; color: var(--muted); overflow-wrap: anywhere; }
+.information-author { margin-top: 8px; }
+.information-heading nav { display: flex; flex-wrap: wrap; gap: 8px 24px; margin-top: 16px; font-size: 14px; }
+.information-heading nav a, .adopted-editions nav a { display: inline-flex; align-items: center; min-height: 44px; }
+.work-information-page section { margin-top: 32px; padding-top: 22px; border-top: 1px solid var(--line); scroll-margin-top: calc(var(--site-header-height) + 20px); }
+.work-information-page section h2 { font-size: 20px; line-height: 1.6; margin-bottom: 12px; }
+.work-information-page section > p { max-width: 70ch; }
+.work-facts { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 10px 20px; margin-top: 20px; font-size: 14px; }
+.work-facts dt { color: var(--muted); }
+.work-facts dd { margin: 0; overflow-wrap: anywhere; }
+.adopted-editions, .archive-downloads { list-style: none; padding: 0; margin: 0; }
+.adopted-editions li + li { margin-top: 20px; }
+.adopted-editions nav { display: flex; flex-wrap: wrap; gap: 4px 24px; font-size: 14px; margin-top: 4px; }
+.transmission-table { width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 14px; table-layout: fixed; }
+.transmission-table caption { text-align: left; color: var(--muted); margin-bottom: 8px; }
+.transmission-table th, .transmission-table td { vertical-align: top; text-align: left; padding: 12px 12px 12px 0; border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
+.transmission-table th:first-child { width: 30%; }
+.transmission-table th:nth-child(2) { width: 20%; }
+.transmission-table tbody th { font-weight: 400; }
+.transmission-table a { text-underline-offset: .2em; }
+.archive-downloads li { padding: 12px 0; }
+.archive-downloads li > a { display: inline-flex; align-items: center; min-height: 44px; }
+.archive-downloads p { font-size: 14px; color: var(--muted); }
+.data-integrity { margin-top: 20px; font-size: 14px; }
+.data-integrity summary { min-height: 44px; padding-block: 8px; cursor: pointer; color: var(--blue); }
+.data-integrity code { font-size: 13px; }
+.work-information-page .information-footer { font-size: 14px; }
+.work-information-page .information-footer a { display: inline-flex; align-items: center; min-height: 44px; }
+@media (max-width: 720px) {
+  .information-heading h1 { font-size: 24px; }
+  .information-heading .work-original { font-size: 17px; }
+  .work-information-page .information-menu { margin: 24px 0 0; font-size: 14px; }
+  .work-information-page .information-menu summary { min-height: 44px; padding-block: 8px; }
+  .work-information-page section { margin-top: 24px; }
+  .work-facts { grid-template-columns: 76px minmax(0, 1fr); gap: 10px 12px; }
+  .transmission-table th, .transmission-table td { padding-right: 8px; }
+}
+@media print {
+  .information-heading nav, .data-integrity { display: none; }
+}

@@ -1,5 +1,6 @@
 import versions from './reader-metadata-index.mjs?v=ea2f17fbfe29';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
+import {workInformationURL} from './work-information.mjs?v=544c00bd4fdd';
 
 const metadata=new Map();
 export async function passageMetadata(work,id) {
@@ -23,6 +24,8 @@ export function sourceDetails(resolve) {
       const edition=data.editions[passage.edition],name=document.createElement('p');name.className='source-edition';name.textContent=edition.label;
       const reference=document.createElement('p');reference.textContent=data.author+' · '+data.title+' '+passage.location+' · '+data.release_id;
       const links=document.createElement('ul');
+      const information=document.createElement('li'),informationLink=document.createElement('a');
+      informationLink.textContent='이 문헌의 자료 정보';informationLink.href=workInformationURL(selected.work,selected.path,location.href).href;information.append(informationLink);links.append(information);
       for(const link of [{label:'이 판본의 고정 본문',url:passage.fixed_url},...passage.evidence.map(i=>data.links[i]),...(edition.rights_url?[{label:'원문 이용 조건 · '+edition.license,url:edition.rights_url}]:[])]) {
         let url;try{url=new URL(link.url);}catch{continue;}if(!['https:','http:'].includes(url.protocol))continue;
         const item=document.createElement('li'),anchor=document.createElement('a');anchor.textContent=link.label;anchor.href=url.href;anchor.target='_blank';anchor.rel='noopener';item.append(anchor);links.append(item);

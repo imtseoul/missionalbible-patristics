@@ -1,6 +1,7 @@
 // Current search UI; app.mjs stays unchanged for frozen edition reproduction.
 import {markedText, matchExcerpts} from './text-matches.mjs?v=921656645ade';
 import {passageDestination} from './passage-jump.mjs?v=e9831b8b0ca5';
+import {workInformationURL} from './work-information.mjs?v=544c00bd4fdd';
 
 export function findPassages(rows, query, work = '') {
   const terms = query.normalize('NFC').trim().split(/\s+/).filter(Boolean);
@@ -14,6 +15,10 @@ if (typeof document !== 'undefined') {
     let source, submission = 0;
     const results = document.getElementById('search-results');
     const status = document.getElementById('search-status');
+    const informationLink=(work,path)=>{
+      const link=document.createElement('a');link.className='search-information-link';link.textContent='문헌 자료 정보';
+      link.href=workInformationURL(work,path,location.href).href;return link;
+    };
     form.addEventListener('submit', async event => {
       event.preventDefault();
       const version = ++submission;
@@ -30,7 +35,7 @@ if (typeof document !== 'undefined') {
             if(jump.ambiguous){status.textContent='여러 문헌에 해당합니다. 문헌을 선택하거나 저자 이름을 함께 입력하세요.';return;}
             if(jump.missing){status.textContent='이 문헌에서 해당 장절을 찾지 못했습니다. 장절을 확인해 주세요.';return;}
             const item=document.createElement('li'),heading=document.createElement('h3'),link=document.createElement('a');
-            link.href=jump.path;link.textContent=jump.title+' '+jump.label+' 바로 읽기';heading.append(link);item.append(heading);results.append(item);
+            link.href=jump.path;link.textContent=jump.title+' '+jump.label+' 바로 읽기';heading.append(link);item.append(heading,informationLink(jump.work,jump.path));results.append(item);
             status.textContent='수록된 대목으로 바로 이동할 수 있습니다.';return;
           }
         }
@@ -58,7 +63,7 @@ if (typeof document !== 'undefined') {
             body.append(markedText(document, excerpt.text, query));
           });
           if (excerpts.at(-1).end < row.text.length) body.append(' …');
-          item.append(heading, body); fragment.append(item);
+          item.append(heading, body, informationLink(row.work_id,row.path)); fragment.append(item);
         }
         results.append(fragment);
       } catch {
