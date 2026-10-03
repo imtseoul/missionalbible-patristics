@@ -185,3 +185,5 @@ html { overflow-anchor: none; }
   .topic-comparison-grid[data-active-pane="read"] [data-comparison-pane="compare"],
   .topic-comparison-grid[data-active-pane="compare"] [data-comparison-pane="read"] { display: none; }
 }
+.copy-fallback { flex-basis: 100%; width: 100%; }
+.copy-fallback textarea { display: block; box-sizing: border-box; width: 100%; min-height: 96px; font: inherit; font-size: 16px; border: 1px solid var(--line); padding: 10px; color: var(--ink); }

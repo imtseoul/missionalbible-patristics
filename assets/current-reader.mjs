@@ -111,6 +111,14 @@ async function loadCurrentReader() {
     syncNavigation();
     if (message?.isConnected) message.textContent = '본문을 불러오지 못했습니다. 아래에서 이어 읽을 수 있습니다.';
     if (!fallback?.isConnected && recoveryHref) location.replace(recoveryHref);
+    if(message?.isConnected&&!document.querySelector('[data-reader-retry]')) {
+      const retry=document.createElement('button');retry.type='button';retry.dataset.readerRetry='true';retry.textContent='다시 불러오기';
+      retry.addEventListener('click',async()=>{
+        retry.remove();message.textContent='본문을 불러오는 중입니다.';
+        await loadCurrentReader();
+      });
+      message.after(retry);
+    }
     cleanIntent();
   }
 }

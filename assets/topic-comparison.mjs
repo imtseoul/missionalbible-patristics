@@ -12,13 +12,24 @@ export function comparisonDefault(passages, primary) {
     || passages.find(p=>p.work_passage_id!==primary.work_passage_id);
 }
 
+export function singleComparisonPassage(read, compare, pane) {
+  return pane==='compare'&&compare?compare:read;
+}
+
 export function installTopicComparison({entry,data,primary,body,toolbar,controls,heading,author,bookmark,
   alignedText,refresh,change,activate}) {
   const toggle=document.createElement('button');toggle.type='button';toggle.className='topic-compare-toggle';
   toggle.textContent=entry.comparison?'한 대목만 읽기':'두 대목 비교';toggle.disabled=data.passages.length<2;
   toggle.addEventListener('click',()=>{
     const next=entry.comparison?null:comparisonDefault(data.passages,primary)?.work_passage_id;
-    change({read:entry.selected,compare:next,pane:'read'});
+    let continueAt;
+    if(entry.comparison) {
+      const panel=entry.viewer.querySelector('[data-comparison-pane="'+entry.activePane+'"]');
+      const probe=toolbar.getBoundingClientRect().bottom+20;
+      const unit=[...panel.querySelectorAll('.translation [data-align]')].find(x=>x.getBoundingClientRect().bottom>probe);
+      if(unit){const r=unit.getBoundingClientRect();continueAt={group:unit.dataset.align,fraction:Math.max(0,Math.min(1,(probe-r.top)/r.height))};}
+    }
+    change({read:entry.comparison?singleComparisonPassage(entry.selected,entry.comparison,entry.activePane):entry.selected,compare:next,pane:'read',continueAt});
   });controls.append(toggle);
   if(!entry.comparison)return;
   const secondary=data.passages.find(p=>p.work_passage_id===entry.comparison);

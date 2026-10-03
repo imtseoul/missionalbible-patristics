@@ -1,3 +1,4 @@
+import {installReaderFeatures} from './reader-features.mjs?v=6468ee06837f';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => { chapterMenu.open = false; });
@@ -160,3 +161,4 @@ if(readerTools){
   if(heading){const title=document.createElement('a');title.className='reader-current-title';title.href='#main';title.textContent=heading.textContent;readerTools.prepend(title);}
   new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
 }
+installReaderFeatures();

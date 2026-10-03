@@ -1,7 +1,8 @@
 import {markedText} from './text-matches.mjs';
 import {installPhraseHover} from './phrase-hover.mjs';
-import {installTopicComparison,comparisonPair} from './topic-comparison.mjs';
-import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=bbf25fc01547';
+import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
+import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=673b6dabfd3d';
+import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=018e45b6d00e';
 
 export function topicBrowseURL(base, state) {
   const url = new URL('topics.html', new URL('/', base));
@@ -230,7 +231,7 @@ function initTopics() {
     for(const a of document.querySelectorAll('.site-header nav a,.browse-switch a'))if(new URL(a.href).pathname.endsWith('/topics.html'))a.href=location.href;
   }
 
-  async function readPassage(entry, key, {scroll = true, push = true, focus = true, resume = false} = {}) {
+  async function readPassage(entry, key, {scroll = true, push = true, focus = true, resume = false,continueAt=null} = {}) {
     if(push)savePosition();
     if (!entry.selected) entry.browsePosition = push ? snapshot() : {y:bookmarks[entry.id]?.browseY};
     const bookmark = resume ? {...bookmarks[entry.id]} : null;
@@ -317,7 +318,8 @@ function initTopics() {
       installTopicComparison({entry,data,primary:p,body,toolbar,controls,heading,author,bookmark,alignedText,
         refresh:()=>updateReadingContext(entry,parseScriptureQuery(input.value)),
         activate:()=>{persist(entry,entry.selected,false);rememberReading(entry);},
-        change:pair=>{savePosition();entry.comparison=pair.compare;entry.activePane=pair.pane||'read';readPassage(entry,pair.read,{push:true});}});
+        change:pair=>{savePosition();entry.comparison=pair.compare;entry.activePane=pair.pane||'read';readPassage(entry,pair.read,{push:true,continueAt:pair.continueAt});}});
+      controls.append(copyControl('링크 복사',()=>topicBrowseURL(location.href,state(entry,entry.selected)).href,'주제와 읽는 대목 링크 복사'));
       updateReadingContext(entry,parseScriptureQuery(input.value));persist(entry,key,push);
       if (bookmark) { readingList.open=bookmark.listOpen ?? readingList.open; readingList.scrollTop=bookmark.listY || 0; }
       const active=readingList.querySelector('.source-locations [aria-current]');
@@ -330,7 +332,12 @@ function initTopics() {
         requestAnimationFrame(()=>window.scrollTo({top:saved.y,behavior:'auto'}));
       } else {
         savedPosition=null;
-        if(scroll) {
+        if(continueAt) {
+          requestAnimationFrame(()=>{
+            const unit=entry.viewer.querySelector('.translation [data-align="'+CSS.escape(continueAt.group)+'"]');
+            if(unit){const r=unit.getBoundingClientRect();window.scrollBy({top:r.top+r.height*continueAt.fraction-toolbar.getBoundingClientRect().bottom-20,behavior:'auto'});}
+          });
+        } else if(scroll) {
           entry.viewer.scrollIntoView({block:'start'});
           if (bookmark?.offset) window.scrollBy({top:bookmark.offset,behavior:'auto'});
         }

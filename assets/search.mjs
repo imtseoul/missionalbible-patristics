@@ -1,5 +1,6 @@
 // Current search UI; app.mjs stays unchanged for frozen edition reproduction.
 import {markedText, matchExcerpts} from './text-matches.mjs';
+import {passageDestination} from './passage-jump.mjs?v=e9831b8b0ca5';
 
 export function findPassages(rows, query, work = '') {
   const terms = query.normalize('NFC').trim().split(/\s+/).filter(Boolean);
@@ -22,6 +23,17 @@ if (typeof document !== 'undefined') {
       if (!query.trim()) { status.textContent = '검색어를 입력하세요.'; return; }
       status.textContent = '본문을 찾고 있습니다.';
       try {
+        if(/\d/.test(query)) {
+          const jump=passageDestination((await import('./reading-locations.mjs?v=51ba43a4af0c')).default.works,query,work);
+          if(version!==submission)return;
+          if(jump) {
+            if(jump.ambiguous){status.textContent='여러 문헌에 해당합니다. 문헌을 선택하거나 저자 이름을 함께 입력하세요.';return;}
+            if(jump.missing){status.textContent='이 문헌에서 해당 장절을 찾지 못했습니다. 장절을 확인해 주세요.';return;}
+            const item=document.createElement('li'),heading=document.createElement('h3'),link=document.createElement('a');
+            link.href=jump.path;link.textContent=jump.title+' '+jump.label+' 바로 읽기';heading.append(link);item.append(heading);results.append(item);
+            status.textContent='수록된 대목으로 바로 이동할 수 있습니다.';return;
+          }
+        }
         source ??= fetch('search-index.json', {cache: 'no-cache'}).then(response => {
           if (!response.ok) throw new Error();
           return response.json();

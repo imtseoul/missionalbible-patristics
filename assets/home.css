@@ -59,6 +59,7 @@ button:hover { background: #16455f; }
   select { width: 125px; }
 }
 @media (max-width: 720px) {
+  input { font-size: 16px; }
   html { scroll-padding-top: calc(var(--site-header-height) + 18px); }
   .library-layout { display: flex; flex-direction: column; gap: 25px; padding: 24px 20px; }
   .library-sidebar { position: static; width: 100%; max-height: none; overflow: visible; }
@@ -94,3 +95,9 @@ button:hover { background: #16455f; }
   .author-section { break-inside: avoid; }
   .site-footer { margin-top: 20px; }
 }
+.recent-reading { display: grid; grid-template-columns: 1fr auto; gap: 8px 16px; margin: 20px 0 26px; padding: 18px 0; border-block: 1px solid var(--line); }
+.recent-reading h2 { font-size: 17px; align-self: center; }
+.recent-reading ul { grid-column: 1 / -1; list-style: none; margin: 0; padding: 0; }
+.recent-reading a { display: inline-block; padding: 9px 0; font-size: 14px; }
+.recent-reading button { color: var(--blue); background: #fff; border: 1px solid var(--line); min-height: 44px; padding: 7px 12px; }
+.recent-reading button:hover { background: var(--wash); }

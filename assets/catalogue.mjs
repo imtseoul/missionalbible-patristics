@@ -1,4 +1,5 @@
 // Native anchors still reach every author when JavaScript is unavailable.
+import {installRecentReading} from './reading-progress.mjs?v=56a23c1dd8f1';
 const catalogue = document.getElementById('author-catalogue');
 const sections = [...document.querySelectorAll('[data-author]')];
 const links = [...document.querySelectorAll('[data-author-filter]')];
@@ -35,6 +36,7 @@ function showAuthor() {
 }
 
 if (catalogue && counter) {
+  installRecentReading();
   showAuthor();
   for (const link of links) link.addEventListener('click', event => {
     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
