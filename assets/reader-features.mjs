@@ -1,6 +1,6 @@
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=56a23c1dd8f1';
-import {passageMetadata,savePassageControl,sourceDetails} from './passage-tools.mjs?v=46e2bfb1e295';
+import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=dfe24b825728';
 
 export function installReaderFeatures() {
   if(!/^\/works\/[a-z0-9-]+\/(?:(?:index|book-\d+)\.html)?$/.test(location.pathname))return;
@@ -16,9 +16,9 @@ export function installReaderFeatures() {
   },'현재 대목 인용 정보 복사');
   citation.classList.add('reader-copy-citation');
   const selection=()=>{const url=new URL(location.href);url.hash=current.id;return {work,id:current.dataset.passageId,path:url.href};};
-  const save=savePassageControl(selection),source=sourceDetails(selection);
+  const source=sourceDetails(selection);
   const titleLink=tools.querySelector('.reader-current-title');
-  if(titleLink){const meta=document.createElement('div');meta.className='reader-meta';tools.prepend(meta);meta.append(titleLink,locationLink,citation,save,source);}
+  if(titleLink){const meta=document.createElement('div');meta.className='reader-meta';tools.prepend(meta);meta.append(titleLink,locationLink,citation,source);}
   const mark=node=>{
     current=node||current;
     const chapter=current.dataset.chapter;
@@ -28,7 +28,7 @@ export function installReaderFeatures() {
     locationLink.href='#'+current.id;
     const url=new URL(location.href);url.hash=current.id;
     rememberRecent({title:name,label:locationLink.textContent,url:url.href});
-    save.refresh();source.refresh();
+    source.refresh();
   };
   const hashPosition=()=>{
     let id;try{id=decodeURIComponent(location.hash.slice(1)).replace(/^note-/,'p-');}catch{return;}

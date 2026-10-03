@@ -101,3 +101,27 @@ button:hover { background: #16455f; }
 .recent-reading a { display: inline-block; padding: 9px 0; font-size: 14px; }
 .recent-reading button { color: var(--blue); background: #fff; border: 1px solid var(--line); min-height: 44px; padding: 7px 12px; }
 .recent-reading button:hover { background: var(--wash); }
+.catalogue-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 24px; }
+.catalogue-filter input { flex: 1; min-width: 160px; padding-left: 12px; }
+.catalogue-filter select { width: 168px; }
+.catalogue-filter button, .catalogue-empty button { color: var(--blue); background: #fff; border: 1px solid var(--line); min-height: 44px; padding: 7px 12px; }
+.catalogue-filter button:hover, .catalogue-empty button:hover { background: var(--wash); }
+.catalogue-filter-status { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
+.catalogue-empty { border-block: 1px solid var(--line); padding: 28px 0; margin-top: 20px; }
+.catalogue-empty h2 { font-size: 18px; }
+.catalogue-empty p { color: var(--muted); margin: 8px 0 16px; }
+.body-search { border-bottom: 1px solid var(--line); padding-bottom: 12px; }
+.body-search > summary { min-height: 44px; padding-block: 10px; cursor: pointer; color: var(--blue); font-size: 14px; }
+.body-search[open] > summary { margin-bottom: 10px; }
+.work-information { margin-top: 7px; font-size: 13px; }
+.work-information > summary { min-height: 44px; padding-block: 10px; cursor: pointer; color: var(--blue); }
+.work-information dl { margin: 4px 0 12px; }
+.work-information dt { color: var(--muted); font-size: 12px; margin-top: 12px; }
+.work-information dd { margin: 3px 0 0; overflow-wrap: anywhere; line-height: 1.8; }
+.work-information ul { margin: 0; padding-left: 18px; }
+.work-information nav { display: flex; gap: 8px 16px; flex-wrap: wrap; }
+.work-information nav a { display: inline-block; min-height: 44px; padding-block: 10px; }
+@media (max-width: 720px) {
+  .catalogue-filter input { flex-basis: 100%; }
+  .catalogue-filter select { flex: 1; width: auto; font-size: 16px; }
+}

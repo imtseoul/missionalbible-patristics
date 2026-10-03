@@ -62,9 +62,9 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
 }
 
 /* Reading tools reuse the catalogue's plain lists and native disclosures. */
-.reading-guides, .saved-collection { border-block: 1px solid var(--line); margin: 24px 0; padding: 8px 0; }
-.reading-guides > summary, .saved-collection > summary { min-height: 44px; padding: 9px 0; cursor: pointer; color: var(--blue); font-weight: 600; }
-.reading-guides > summary span, .saved-collection > summary span { margin-left: 16px; color: var(--muted); font-size: 13px; font-weight: 400; }
+.reading-guides { border-block: 1px solid var(--line); margin: 24px 0; padding: 8px 0; }
+.reading-guides > summary { min-height: 44px; padding: 9px 0; cursor: pointer; color: var(--blue); font-weight: 600; }
+.reading-guides > summary span { margin-left: 16px; color: var(--muted); font-size: 13px; font-weight: 400; }
 .reading-guides > ul { margin: 8px 0; padding: 0; list-style: none; }
 .reading-guides > ul > li { padding: 18px 0; border-top: 1px solid var(--line); }
 .reading-guides h3 { font-size: 16px; }
@@ -79,17 +79,8 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
 .guide-context [aria-current] { font-weight: 600; text-decoration: underline; }
 .guide-reading-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 24px; border-top: 1px solid var(--line); margin-top: 12px; padding-top: 4px; font: 13px/1.7 var(--font); }
 .guide-reading-controls a { min-height: 44px; display: inline-flex; align-items: center; }
-.passage-research-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; position: relative; margin-bottom: 16px; font: 13px/1.7 var(--font); }
-.passage-research-tools > a { min-height: 44px; padding-block: 10px; }
-.save-passage-control { position: relative; display: inline-flex; flex: none; }
-.save-passage, .saved-collection button, .passage-source button { color: var(--blue); font: 13px/1.6 var(--font); min-height: 44px; padding: 7px 10px; background: #fff; border: 1px solid var(--line); border-radius: 3px; cursor: pointer; }
-.save-passage:hover, .saved-collection button:hover, .passage-source button:hover { background: var(--wash); }
-.save-passage[aria-pressed="true"] { background: var(--selected); }
-.save-passage:disabled, .saved-collection button:disabled { opacity: .6; cursor: default; }
-.passage-tool-status:not(.is-error):not(.is-notice) { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
-.passage-tool-status.is-error, .passage-tool-status.is-notice { position: absolute; top: 100%; left: 0; min-width: 230px; padding: 12px; background: #fff; border: 1px solid var(--line); z-index: 5; }
-.reader-meta .passage-tool-status { left: auto; right: 0; }
-.passage-tool-status button { min-height: 44px; padding: 6px 10px; color: var(--blue); background: #fff; border: 1px solid var(--line); font: inherit; cursor: pointer; }
+.passage-reference-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; position: relative; margin-bottom: 16px; font: 13px/1.7 var(--font); }
+.passage-reference-tools > a { min-height: 44px; padding-block: 10px; }
 .passage-source { flex: none; font: 13px/1.7 var(--font); }
 .passage-source > summary { min-height: 44px; padding: 10px 0; color: var(--blue); cursor: pointer; white-space: nowrap; }
 .passage-source-content { position: absolute; left: 0; top: 100%; width: min(520px,100%); max-height: 55dvh; overflow: auto; overscroll-behavior: contain; padding: 20px; background: #fff; border: 1px solid var(--line); z-index: 6; overflow-wrap: anywhere; }
@@ -101,21 +92,12 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
 .source-citation { color: var(--muted); font-size: 12px; }
 .reader-tools .reader-meta { position: relative; gap: 8px; flex-wrap: nowrap; }
 .reader-meta .reader-current-title { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.collection-help { color: var(--muted); font-size: 13px; padding-block: 12px; }
-.collection-file-controls, .saved-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 12px; }
-.collection-file-controls label { font-size: 13px; }
-.collection-file-controls input { display: block; max-width: 100%; font: 13px var(--font); padding-block: 8px; }
-[data-saved-status] { font-size: 13px; margin: 12px 0; }
-.saved-reading { border-top: 1px solid var(--line); padding: 24px 0; }
-.saved-reading h3 { font-size: 17px; line-height: 1.6; }
-.saved-author { color: var(--muted); font-size: 13px; margin: 6px 0 16px; }
-.saved-reading label { display: block; font-size: 13px; }
-.saved-reading textarea { display: block; width: 100%; min-height: 86px; margin: 7px 0 12px; padding: 10px 12px; resize: vertical; color: var(--ink); caret-color: var(--blue); background: #fff; border: 1px solid #aebcc5; border-radius: 3px; font: 16px/1.6 var(--font); }
-.saved-note-status { color: var(--muted); font-size: 13px; }
 @media (max-width: 720px) {
   .browse-switch a { padding-inline: 5px; white-space: nowrap; }
-  .reader-meta .copy-control, .reader-meta .save-passage { padding-inline: 8px; }
-  .reading-guides > summary span, .saved-collection > summary span { font-size: 12px; margin-left: 10px; }
+  .reading-guides > summary span { font-size: 12px; margin-left: 10px; }
   .passage-source-content { width: 100%; padding: 16px; }
 }
-@media print { .passage-research-tools, .saved-collection, .reading-guides, .guide-context { display: none; } }
+@media print { .passage-reference-tools, .reading-guides, .guide-context { display: none; } }
+
+.passage-source button, .passage-reference-tools > .copy-control { color: var(--blue); font: 13px/1.6 var(--font); min-height: 44px; padding: 7px 10px; background: #fff; border: 1px solid var(--line); border-radius: 3px; cursor: pointer; }
+.passage-source button:hover, .passage-reference-tools > .copy-control:hover { background: var(--wash); }
