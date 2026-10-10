@@ -1,0 +1,2254 @@
+클레멘스 1서
+로마의 클레멘스 (전승상 귀속)
+
+자료 판본: alpha-0.24.4
+수록 범위: 서두와 1-65장 전문, 끝맺음 표제 별도 수록. 채택 판본의 결락 표시 보존
+고정판: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html
+원자료 SHA-256: be67422c0f5361787dfe23aee21ebbea293be378f34721efbc500bbf6b0f709a
+
+형식: 한국어
+
+서두
+로마에 머무는 하나님의 교회가 고린토에 머무는 하나님의 교회, 하나님의 뜻에 따라 우리 주 예수 그리스도를 통하여 부름받고 거룩하게 된 이들에게 문안합니다. 전능하신 하나님에게서 오는 은혜와 평화가 예수 그리스도를 통하여 여러분에게 넘치기를 빕니다.
+
+번역 주석
+1. 발신자는 ‘로마에 머무는 하나님의 교회’로 제시된다. 작품명과 저자 표시는 클레멘스에게 귀속해 온 전승을 따른다. παροικεῖν은 자기 본향을 떠나 머무는 삶을 가리키는 말로, 로마와 고린토의 교회에 함께 사용된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-praef-1
+
+1.1
+사랑하는 여러분, 우리에게 갑작스럽게 잇달아 재난과 어려움이 닥쳤기에, 여러분 가운데 문제가 된 일들을 살피는 데 늦었다고 생각합니다. 하나님의 선택받은 이들에게는 낯설고 어울리지 않는, 더럽고 불경한 분열을 말합니다. 성급하고 고집 센 몇몇 사람이 그것을 이토록 광적으로 불태워, 존귀하고 이름 높으며 모든 사람에게 사랑받던 여러분의 이름이 크게 모독받게 되었습니다.
+
+번역 주석
+1. στάσις는 공동체 안에서 일어난 분쟁이나 반란을 가리킨다. 편지는 고린토 교회에서 지도자들을 둘러싸고 벌어진 분쟁을 다룬다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-1-1
+
+1.2
+여러분을 방문했던 사람 가운데 여러분의 덕스럽고 굳건한 믿음을 인정하지 않은 사람이 누구입니까? 그리스도 안에서 절제와 온유함으로 드러난 경건에 감탄하지 않은 사람이 누구입니까? 여러분의 훌륭한 손님 대접을 널리 말하지 않은 사람이 누구입니까? 온전하고 확실한 지식을 복되다고 하지 않은 사람이 누구입니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-1-2
+
+1.3
+여러분은 사람을 차별하지 않고 모든 일을 했으며, 하나님의 법도를 따라 살았습니다. 여러분의 지도자들에게 순종하고, 여러분 가운데 있는 장로들에게 마땅한 존경을 드렸습니다. 젊은이들에게는 절도 있고 품위 있게 생각하도록 권했습니다. 여성들에게는 흠 없고 품위 있고 순결한 양심으로 모든 일을 하며, 자기 남편들을 마땅히 사랑하도록 당부했습니다. 순종의 규범을 지키고 깊이 절제하며 집안일을 품위 있게 돌보도록 가르쳤습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-1-3
+
+2.1
+여러분은 모두 겸손하여 조금도 자랑하지 않았고, 남을 복종시키기보다 스스로 순종했으며, 받기보다 주기를 더 즐거워했습니다. 그리스도께서 주시는 양식에 만족하며, 그분의 말씀에 주의 깊게 귀를 기울여 마음 깊이 품었습니다. 그분의 수난은 늘 여러분 눈앞에 있었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-1
+
+2.2
+그리하여 깊고 풍성한 평화가 모두에게 주어졌고, 선을 행하려는 열망은 그칠 줄 몰랐으며, 성령이 모두에게 충만히 부어졌습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-2
+
+2.3
+거룩한 뜻으로 가득 차, 선한 열의와 경건한 확신을 품고 전능하신 하나님께 손을 뻗었습니다. 혹시라도 뜻하지 않게 죄를 지었다면 자비를 베풀어 주시기를 그분께 간구했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-3
+
+2.4
+온 형제 공동체를 위하여 밤낮으로 힘겨운 수고를 했습니다. 하나님께서 선택하신 이들 모두가 자비와 양심 가운데 구원받도록 애썼습니다.
+
+번역 주석
+1. συνείδησις는 양심이나 자각을 뜻한다. ‘자비와 양심 가운데’는 Lake가 본문에 채택한 이 낱말을 따른 번역이다. 편집자는 각주에서 공감을 뜻하는 낱말로 고치는 방안도 제시한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-4
+
+2.5
+여러분은 진실하고 순수했으며, 서로에게 원한을 품지 않았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-5
+
+2.6
+모든 분쟁과 분열을 혐오했습니다. 이웃의 잘못을 두고 슬퍼했으며, 그들의 부족함을 자기 일로 여겼습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-6
+
+2.7
+온갖 선한 일을 한 것을 후회하지 않았고, 모든 좋은 일을 할 준비가 되어 있었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-7
+
+2.8
+덕스럽고 존경할 만한 생활로 단장하고, 하나님을 경외하며 모든 일을 했습니다. 주님의 명령과 법도가 여러분의 마음 판에 새겨져 있었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-2-8
+
+3.1
+모든 영광과 풍요가 여러분에게 주어졌고, 기록된 말씀이 이루어졌습니다. “사랑받던 이가 먹고 마시며, 살찌고 비대해져, 발길질했다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-3-1
+
+3.2
+이로부터 질투와 시기, 다툼과 분쟁, 박해와 혼란, 전쟁과 포로 생활이 생겨났습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-3-2
+
+3.3
+천대받던 이들이 존귀한 이들에게, 이름 없던 이들이 이름 높은 이들에게, 어리석은 이들이 지혜로운 이들에게, 젊은이들이 나이 든 이들에게 이렇게 맞서 일어났습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-3-3
+
+3.4
+이 때문에 의와 평화가 멀리 떠났습니다. 각자가 하나님을 경외하기를 버리고, 그분을 향한 믿음에 눈이 어두워졌기 때문입니다. 그분이 명하신 법도를 따라 걷지 않고, 그리스도께 합당하게 살지 않으며, 자신의 악한 마음의 욕망을 따라 각자 살아갔습니다. 불의하고 불경한 질투를 품었고, 그것을 통해 죽음도 세상에 들어왔습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-3-4
+
+4.1
+이렇게 기록되어 있습니다. “얼마 뒤에 카인이 땅에서 난 열매로 제물을 마련하여 하나님께 바쳤고, 아벨도 양 떼의 맏배와 그 기름을 바쳤다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-1
+
+4.2
+하나님께서는 아벨과 그의 예물을 돌아보셨지만, 카인과 그의 제물에는 주의를 기울이지 않으셨다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-2
+
+4.3
+카인은 매우 슬퍼했고, 그 얼굴이 굳어졌다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-3
+
+4.4
+하나님께서 카인에게 말씀하셨다. ‘왜 슬퍼하느냐? 왜 네 얼굴이 굳어졌느냐? 바르게 바쳤더라도 바르게 나누지 않았다면, 죄를 지은 것이 아니냐?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-4
+
+4.5
+진정하여라. 그는 네게로 향하며, 너는 그를 다스릴 것이다.’
+
+번역 주석
+1. αὐτοῦ는 남성 단수 대명사이며, 앞의 ‘그가 네게로 향한다’와 뒤의 ‘그를 다스린다’를 연결한다. 이곳에서는 창세기 인용에 나타나는 인칭을 그대로 살렸다. 지시 대상은 문맥 해석에 따라 달리 읽힐 수 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-5
+
+4.6
+카인이 그의 형제 아벨에게 말했다. ‘들로 나가자.’ 그들이 들에 있을 때, 카인이 그의 형제 아벨에게 달려들어 그를 죽였다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-6
+
+4.7
+형제 여러분, 보십시오. 질투와 시기가 형제 살해를 일으켰습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-7
+
+4.8
+질투 때문에 우리 조상 야곱은 자기 형제 에사우를 피해 달아났습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-8
+
+4.9
+질투가 요셉을 죽음에 이르도록 몰아세웠고, 종살이로 끌고 갔습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-9
+
+4.10
+질투가 모세를 이집트 왕 파라오에게서 도망치게 했습니다. 그가 같은 민족의 사람에게 이런 말을 들었을 때였습니다. “누가 너를 우리 위에 재판관이나 심판자로 세웠느냐? 어제 이집트인을 죽였듯이 나도 죽이려 하느냐?”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-10
+
+4.11
+질투 때문에 아론과 미리암은 진영 밖에서 지냈습니다.
+
+번역 주석
+1. 서신의 문장은 아론과 미리암을 함께 주어로 삼아 진영 밖에 머문 일을 서술한다. 두 이름과 복수형을 번역에 반영했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-11
+
+4.12
+질투가 다탄과 아비람을 산 채로 저승에 내려가게 했습니다. 하나님의 종 모세에게 그들이 맞서 일어났기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-12
+
+4.13
+질투 때문에 다윗은 이방인들에게 시기를 받았을 뿐 아니라, 이스라엘 왕 사울에게도 박해를 받았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-4-13
+
+5.1
+옛 본보기들에 관한 이야기는 그만하고, 우리와 아주 가까운 때의 경기자들에게 눈을 돌립시다. 우리 세대의 고귀한 본보기들을 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-1
+
+5.2
+질투와 시기 때문에 가장 위대하고 의로운 기둥들이 박해받았고, 죽음에 이르기까지 싸웠습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-2
+
+5.3
+훌륭한 사도들을 우리 눈앞에 떠올립시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-3
+
+5.4
+베드로는 부당한 질투 때문에 한두 번이 아닌 많은 고난을 견뎠으며, 그렇게 증언한 뒤 자신에게 마땅히 주어질 영광의 자리로 갔습니다.
+
+번역 주석
+1. μαρτυρήσας는 ‘증언한 뒤’라는 뜻이다. 고난을 견디고 영광의 자리로 갔다는 문맥이 베드로의 죽음을 둘러싼 증언과 연결된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-4
+
+5.5
+질투와 다툼 때문에 바울은 인내의 상이 무엇인지 보여 주었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-5
+
+5.6
+일곱 번 결박되고, 쫓겨나고 돌에 맞았으며, 동방과 서방에서 선포자가 되어, 자신의 믿음으로 고귀한 명예를 얻었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-6
+
+5.7
+온 세상에 의를 가르치고, 서쪽 끝에 이르러, 통치자들 앞에서 증언한 뒤, 그렇게 세상을 떠났고 거룩한 곳으로 들려 올라갔습니다. 그는 인내의 가장 위대한 본보기가 되었습니다.
+
+번역 주석
+1. τὸ τέρμα τῆς δύσεως는 ‘서쪽 끝’이라는 지리적 표현이다. 본문이 제공하는 위치 정보는 이 표현까지이며, 구체적인 지명은 해석의 대상이다. μαρτυρήσας는 통치자들 앞에서 한 증언을 가리킨다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-5-7
+
+6.1
+거룩하게 살았던 이 사람들과 선택받은 수많은 이들이 함께했습니다. 그들은 질투 때문에 많은 학대와 고문을 겪었으며, 우리 가운데서 더없이 훌륭한 본보기가 되었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-6-1
+
+6.2
+질투로 박해받은 여성들, 다나이데스와 디르케들은 끔찍하고 불경한 학대를 겪고도 믿음의 경주를 굳건히 완주했습니다. 몸은 약했으나 고귀한 상을 받았습니다.
+
+번역 주석
+1. 다나이데스와 디르케들은 그리스 신화에서 가져온 이름들이다. 이 문장은 그 이름들을 박해받은 여성들의 고난과 연결한다. Lake는 각주에서 이 이름들의 독법과 해석 문제를 논의한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-6-2
+
+6.3
+질투는 아내들을 남편들에게서 갈라놓았고, 우리 조상 아담이 한 말을 뒤틀었습니다. “이는 이제 내 뼈에서 난 뼈요, 내 살에서 난 살이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-6-3
+
+6.4
+질투와 다툼은 큰 도시들을 무너뜨리고, 큰 민족들을 뿌리 뽑았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-6-4
+
+7.1
+사랑하는 여러분, 우리가 이 글을 쓰는 것은 여러분만 훈계하려는 것이 아니라, 우리 자신도 되새기려는 것입니다. 우리는 같은 경기장에 서 있고, 똑같은 경기를 앞두고 있기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-1
+
+7.2
+그러므로 공허하고 헛된 염려를 버리고, 우리에게 전해진 영예롭고 존귀한 규범으로 돌아갑시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-2
+
+7.3
+우리를 지으신 분 앞에서 무엇이 선하고, 무엇이 즐거우며, 무엇이 받아들여질 만한지 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-3
+
+7.4
+그리스도의 피를 바라보고, 그분의 아버지께 그 피가 얼마나 귀한지 알아봅시다. 우리의 구원을 위해 흘린 그 피는 온 세상에 회개의 은혜를 가져다주었습니다.
+
+번역 주석
+1. 그리스도의 피와 온 세상에 주어진 회개의 은혜를 연결하는 문장이다. μετάνοια는 삶의 방향을 돌이키는 회개로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-4
+
+7.5
+모든 세대를 돌아보며 깊이 살펴봅시다. 주인께서는 세대마다 자신에게 돌아오려는 이들에게 회개의 기회를 주셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-5
+
+7.6
+노아가 회개를 선포하자, 그 말에 순종한 이들이 구원받았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-6
+
+7.7
+요나는 니네베 사람들에게 멸망을 선포했습니다. 그들은 자신의 죄를 회개하고 하나님께 간구하여 그분의 노여움을 풀었습니다. 하나님께 낯선 사람들이었지만, 구원을 받았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-7-7
+
+8.1
+하나님의 은혜를 섬기는 이들은 성령을 통하여 회개에 관해 말했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-8-1
+
+8.2
+만물의 주인께서도 친히 맹세하시며 회개에 관해 말씀하셨습니다. “주님이 말한다. 내가 살아 있음을 두고 말한다. 나는 죄인의 죽음보다 그의 회개를 바란다.” 선하신 뜻도 덧붙이셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-8-2
+
+8.3
+“이스라엘 집안아, 너희의 불법에서 돌이켜라. 내 백성의 자녀들에게 내가 말했다. 너희 죄가 땅에서 하늘에 닿고, 진홍빛보다 더 붉으며, 거친 베보다 더 검더라도, 온 마음으로 내게 돌아와 ‘아버지’라고 부르면, 거룩한 백성의 말처럼 너희 말을 들어 주겠다.”
+
+번역 주석
+1. 회개를 촉구하는 여러 표현이 하나의 인용으로 이어진다. 인용문의 범위와 인칭은 이 서신의 본문을 기준으로 삼았다. ‘아버지’는 인용문 안에서 다시 인용된 호칭이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-8-3
+
+8.4
+다른 곳에서도 이렇게 말씀하십니다. “씻어라. 깨끗해져라. 내 눈앞에서 너희 영혼의 악을 없애라. 너희의 악행을 그치고, 선한 일을 배워라. 정의를 찾고, 억울한 이를 구해 주며, 고아에게 공정한 판결을 내려 주고, 과부의 억울함을 풀어 주어라. 주님이 말한다. 와서 함께 따져 보자. 너희 죄가 자줏빛 같아도 눈처럼 희게 하겠고, 진홍빛 같아도 양털처럼 희게 하겠다. 너희가 원하고 내 말을 들으면 땅의 좋은 것을 먹을 것이다. 그러나 원하지 않고 내 말을 듣지 않으면 칼이 너희를 삼킬 것이다. 주님의 입이 이렇게 말씀하셨다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-8-4
+
+8.5
+사랑하는 모든 이가 회개에 참여하기를 바라시기에, 그분의 전능한 뜻으로 이를 굳게 정하셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-8-5
+
+9.1
+그러므로 그분의 위엄 있고 영광스러운 뜻에 순종합시다. 그분의 자비와 선하심을 간구하며 엎드리고, 그분의 긍휼로 돌아갑시다. 헛된 수고와 다툼, 죽음으로 이끄는 질투를 버립시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-9-1
+
+9.2
+그분의 위엄 있는 영광을 온전히 섬긴 이들을 바라봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-9-2
+
+9.3
+에녹을 생각해 봅시다. 그는 순종함으로 의로운 사람으로 인정되어 옮겨졌고, 그의 죽음은 발견되지 않았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-9-3
+
+9.4
+노아는 신실한 사람으로 인정되어, 자신의 섬김을 통해 세상에 새로운 탄생을 선포했습니다. 주인께서는 그를 통해 방주에 조화롭게 들어온 동물들을 구해 내셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-9-4
+
+10.1
+벗이라 불린 아브라함은 하나님의 말씀에 순종함으로 신실한 사람으로 인정되었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-1
+
+10.2
+그는 순종하여 자기 땅과 자기 친족과 아버지의 집을 떠났습니다. 작은 땅과 힘없는 친족과 작은 집을 뒤로하고, 하나님의 약속을 상속받으려는 것이었습니다. 하나님께서는 그에게 말씀하셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-2
+
+10.3
+“네 땅과 네 친족과 아버지의 집을 떠나, 내가 네게 보여 줄 땅으로 가라. 내가 너를 큰 민족으로 만들고, 네게 복을 주며, 네 이름을 크게 하겠다. 너는 복을 받은 사람이 될 것이다. 너를 축복하는 이들을 내가 축복하고, 너를 저주하는 이들을 저주하겠다. 땅의 모든 족속이 너를 통해 복을 받을 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-3
+
+10.4
+그가 롯과 헤어질 때에도 하나님께서 그에게 말씀하셨습니다. “눈을 들어 지금 네가 있는 곳에서 북쪽과 남서쪽, 동쪽과 바다 쪽을 보아라. 네가 보는 이 모든 땅을 너와 네 후손에게 영원히 주겠다.
+
+번역 주석
+1. λίψ는 남서풍과 남서쪽을 가리킨다. θάλασσα는 바다라는 뜻으로, 이곳에서는 방향 표현인 ‘바다 쪽’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-4
+
+10.5
+네 후손을 땅의 모래처럼 많아지게 하겠다. 땅의 모래를 누군가 셀 수 있다면, 네 후손도 셀 수 있을 것이다.”
+
+번역 주석
+1. 채택 본문은 후손의 수를 ‘땅의 모래’에 견준다. ἄμμος를 ‘모래’로 옮겨 이 인용의 표현을 살렸다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-5
+
+10.6
+다시 말씀하십니다. “하나님께서 아브라함을 밖으로 이끄시고 그에게 말씀하셨다. ‘하늘을 올려다보아라. 별들을 셀 수 있거든 세어 보아라. 네 후손이 이와 같을 것이다.’ 아브라함이 하나님을 믿었고, 그에게 이것이 의로 여겨졌다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-6
+
+10.7
+믿음과 손님 대접으로 그는 늙어서 아들을 받았고, 순종하여 하나님께서 보여 주신 산을 향해 하나님께 그 아들을 제물로 바쳤습니다.
+
+번역 주석
+1. πρὸς τὸ ὄρος는 산을 향한 방향을 나타내는 표현으로 읽었다. Lake는 각주에서 ‘그 산에서’라는 위치 표현으로 읽는 대안을 설명한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-10-7
+
+11.1
+손님 대접과 경건으로 롯은 소돔에서 구원받았습니다. 주위의 온 지역이 불과 유황으로 심판받을 때였습니다. 주인께서는 자신에게 소망을 두는 이들을 버리지 않으시고, 다른 쪽으로 기우는 이들은 형벌과 고통에 내맡기신다는 것을 분명히 하셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-11-1
+
+11.2
+그와 함께 나온 아내는 다른 생각을 품고 한마음을 이루지 않았기에, 소금 기둥이 되어 오늘까지 표징으로 남았습니다. 두 마음을 품는 이들과 하나님의 능력을 의심하는 이들이 심판을 받고, 모든 세대에 경고의 표지가 된다는 것을 모두가 알게 하려는 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-11-2
+
+12.1
+매춘부 라합은 믿음과 손님 대접으로 구원받았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-1
+
+12.2
+눈의 아들 여호수아가 정탐꾼들을 예리코에 보냈을 때, 그 땅의 왕은 그들이 자기 나라를 정탐하러 왔음을 알게 되었습니다. 그래서 사람들을 그들을 잡으러 보내, 붙잡아 죽이려 했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-2
+
+12.3
+손님을 환대한 라합은 그들을 맞아들여, 위층의 삼대 아래에 숨겼습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-3
+
+12.4
+왕이 보낸 사람들이 찾아와 말했습니다. “우리 땅을 살피던 정탐꾼들이 네게 들어왔다. 그들을 끌어내라. 왕의 명령이다.” 라합은 대답했습니다. “당신들이 찾는 사람들이 제게 들어오기는 했지만, 곧 떠났고, 지금은 길을 가고 있습니다.” 그들에게 다른 방향을 가리켜 주었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-4
+
+12.5
+그리고 정탐꾼들에게 말했습니다. “주 하나님께서 이 땅을 당신들에게 넘겨주신다는 것을 저는 분명히 압니다. 당신들 때문에 이곳 주민들에게 두려움과 떨림이 덮쳤기 때문입니다. 당신들이 이 땅을 차지하게 되면, 저와 제 아버지의 집안을 살려 주십시오.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-5
+
+12.6
+그들은 라합에게 말했습니다. “우리에게 말한 대로 될 것이다. 우리가 오는 것을 알게 되면, 네게 속한 모든 사람을 네 지붕 아래로 모아라. 그러면 그들은 살아남을 것이다. 집 밖에서 발견되는 사람은 누구나 죽을 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-6
+
+12.7
+그들은 표지를 주라고 덧붙이며, 자기 집에서 붉은 줄을 밖으로 늘어뜨리게 했습니다. 하나님을 믿고 소망하는 모든 이가 주님의 피를 통하여 구속받으리라는 것을 분명히 드러낸 것입니다.
+
+번역 주석
+1. 붉은 줄을 그리스도의 피와 연결하는 해석은 이 서신 자체에 제시되어 있다. 라합 이야기의 표징을 구속의 표징으로 읽는 대목이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-7
+
+12.8
+사랑하는 여러분, 보십시오. 이 여성에게는 믿음만이 아니라, 예언도 있었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-12-8
+
+13.1
+형제 여러분, 그러므로 겸손해집시다. 온갖 자만과 허세, 어리석음과 분노를 버리고, 기록된 말씀을 행합시다. 성령께서 말씀하십니다. “지혜로운 사람은 자기 지혜를 자랑하지 말고, 강한 사람은 자기 힘을 자랑하지 말며, 부유한 사람은 자기 재산을 자랑하지 마라. 자랑하는 사람은 오직 주님 안에서 자랑하여, 그분을 찾고 정의와 의를 행하여라.” 주 예수께서 온유함과 오래 참음을 가르치시며 하신 말씀을 특히 기억합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-13-1
+
+13.2
+그분은 이렇게 말씀하셨습니다. “자비를 베풀어라. 자비를 받을 것이다. 용서하여라. 용서를 받을 것이다. 너희가 행하는 대로 너희에게도 행해질 것이다. 너희가 주는 대로 너희에게도 주어질 것이다. 너희가 판단하는 대로 판단받을 것이다. 너희가 친절을 베푸는 대로 친절을 받을 것이다. 너희가 재는 그 척도로 너희도 측정받을 것이다.”
+
+번역 주석
+1. 예수의 말씀을 자비, 용서, 행위, 베풂, 판단, 친절, 측정의 순서로 묶어 인용한다. 반복되는 ‘너희가 하는 대로’라는 대응을 번역에 유지했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-13-2
+
+13.3
+이 명령과 권면으로 우리 자신을 굳게 세우고, 겸손하게 그분의 거룩한 말씀에 순종하며 살아갑시다. 거룩한 말씀이 이렇게 말하기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-13-3
+
+13.4
+“내가 누구를 돌보겠느냐? 온유하고 고요한 이, 내 말씀을 두고 떠는 이를 돌보지 않겠느냐?”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-13-4
+
+14.1
+형제 여러분, 자만과 혼란 속에서 역겨운 질투를 이끄는 자들을 따르기보다, 하나님께 순종하는 것이 옳고 거룩합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-14-1
+
+14.2
+우리를 선한 상태에서 떼어 놓으려고 다툼과 분쟁으로 몰아가는 사람들의 뜻에 무모하게 자신을 내맡긴다면, 우리가 입을 해는 작지 않을 것이며, 실상 큰 위험을 겪을 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-14-2
+
+14.3
+우리를 지으신 분의 긍휼과 따뜻하심을 따라 서로 친절하게 대합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-14-3
+
+14.4
+이렇게 기록되어 있습니다. “선한 이들이 땅에 살 것이며, 악의 없는 이들이 그 위에 남을 것이다. 그러나 법을 어기는 이들은 그 땅에서 멸망할 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-14-4
+
+14.5
+다시 말씀하십니다. “레바논의 백향목처럼 높이 솟아 자기를 치켜세우는 불경한 자를 보았다. 내가 지나가 보니, 보라, 그는 사라졌다. 그의 자리를 찾아보았으나, 발견하지 못했다. 악의 없음을 지키고, 올곧음을 보아라. 평화를 사랑하는 사람에게는 후손이 남기 때문이다.”
+
+번역 주석
+1. ἐγκατάλειμμα는 뒤에 남는 것 또는 남겨진 사람들을 뜻한다. 여기서는 평화를 사랑하는 사람에게 이어지는 ‘후손’으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-14-5
+
+15.1
+경건하게 평화를 누리는 이들과 함께합시다. 위선으로 평화를 원하는 이들과는 함께하지 맙시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-1
+
+15.2
+어떤 곳에서는 이렇게 말씀하십니다. “이 백성은 입술로 나를 공경하지만, 그 마음은 내게서 멀리 떨어져 있다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-2
+
+15.3
+또 말씀하십니다. “그들의 입으로는 축복하지만, 마음으로는 저주했다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-3
+
+15.4
+다시 말씀하십니다. “그들은 입으로 그분을 사랑하고, 혀로 그분을 속였다. 그들의 마음은 그분께 올곧지 않았고, 그분의 언약에 신실하지 않았다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-4
+
+15.5
+“그러므로 의로운 이를 거슬러 불법을 말하는 거짓된 입술은 말을 못 하게 되어라.” 또 말씀하십니다. “주님께서 거짓된 모든 입술과 거만하게 말하는 혀를 없애시기를 바란다. 그들은 이렇게 말한다. ‘우리는 우리 혀를 크게 내세우겠다. 우리 입술은 우리 것이다. 누가 우리의 주인이겠느냐?’
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-5
+
+15.6
+주님이 말한다. 가난한 이들의 고통과 궁핍한 이들의 신음 때문에 내가 이제 일어나 그들을 안전한 곳에 두겠다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-6
+
+15.7
+그 안에서 담대히 말하겠다.”
+
+번역 주석
+1. παρρησιάζομαι는 거리낌 없이 담대하게 말하거나 행동하는 것을 뜻한다. ἐν αὐτῷ의 ‘그’는 앞 문장과 연결되며, 여기서는 ‘그 안에서 담대히 말하겠다’로 옮겼다. 지시 대상과 행위의 뜻은 함께 검토할 부분이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-15-7
+
+16.1
+그리스도께서는 겸손한 이들과 함께하십니다. 그분의 양 떼 위에 자기를 높이는 이들과는 함께하지 않으십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-1
+
+16.2
+하나님의 위엄을 드러내는 왕홀이신 주 예수 그리스도께서는 그러실 수 있었어도, 자만과 교만을 뽐내며 오지 않으셨고, 겸손하게 오셨습니다. 성령께서 그분에 관해 말씀하신 대로입니다. 이렇게 말씀하십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-2
+
+16.3
+“주님, 우리의 소식을 누가 믿었습니까? 주님의 팔은 누구에게 드러났습니까? 우리는 그분 앞에서 어린아이 같고, 마른 땅의 뿌리 같은 이를 알렸습니다. 그에게는 볼 만한 모습도 영광도 없습니다. 우리가 그를 보았으나, 볼 만한 모습도 아름다움도 없었습니다. 그의 모습은 오히려 천대받고, 사람들의 모습에 미치지 못했습니다. 그는 상처와 고통 속에 있으며 연약함을 짊어지는 데 익숙한 사람입니다. 그의 얼굴은 외면당했고, 그는 멸시받고 인정받지 못했습니다.
+
+번역 주석
+1. 이사야 인용의 ἀνηγγείλαμεν은 ‘우리는 알렸다’라는 1인칭 복수형이다. 얼굴에 관한 수동형 표현은 ‘그의 얼굴은 외면당했다’로 읽었다. 이 긴 인용의 어순과 인칭을 한국어 문장으로 풀어 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-3
+
+16.4
+그는 우리의 죄를 지고, 우리를 위해 아파합니다. 우리는 그가 고통과 상처와 학대 속에 있다고 여겼습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-4
+
+16.5
+그는 우리의 죄 때문에 상처를 입고, 우리의 불법 때문에 쇠약해졌습니다. 우리의 평화를 위한 징계가 그에게 내려졌고, 그가 맞은 상처로 우리가 나았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-5
+
+16.6
+우리는 모두 양처럼 길을 잃었고, 각자 자기 길로 빗나갔습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-6
+
+16.7
+주님께서는 우리의 죄를 위하여 그를 내어 주셨고, 그는 학대받으면서도 입을 열지 않습니다. 그는 도살장으로 끌려가는 양처럼 끌려갔으며, 털을 깎는 사람 앞에서 소리 내지 않는 어린양처럼 그렇게 입을 열지 않습니다. 굴욕 가운데 그에 대한 공정한 판결이 박탈되었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-7
+
+16.8
+그의 세대를 누가 말하겠습니까? 그의 생명이 땅에서 거두어지기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-8
+
+16.9
+내 백성의 불법 때문에 그는 죽음에 이릅니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-9
+
+16.10
+그의 장례를 대신하여 악인들을 내어 주고, 그의 죽음을 대신하여 부유한 이들을 내어 주겠습니다. 그는 불법을 행하지 않았으며, 그 입에서 속임수를 찾아볼 수 없었기 때문입니다. 주님께서는 그의 상처를 씻어 주기를 원하십니다.
+
+번역 주석
+1. ἀντί가 장례와 죽음에 각각 붙어 ‘대신하여’라는 관계를 만든다. 악인들과 부유한 이들을 내어 준다는 이 인용의 구조를 따라 번역했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-10
+
+16.11
+여러분이 죄를 위한 제물을 드리면, 여러분의 영혼은 오래 사는 자손을 보게 될 것입니다.
+
+번역 주석
+1. δῶτε와 ὑμῶν은 2인칭 복수형이다. 제물을 드리는 이들과 자손을 보게 될 이들을 ‘여러분’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-11
+
+16.12
+주님께서는 그의 영혼의 고통을 없애기를 원하시며, 그에게 빛을 보여 주고 깨달음으로 빚어 주며, 많은 사람을 훌륭히 섬기는 의인을 의롭다 하기를 원하십니다. 그들의 죄를 그가 친히 짊어질 것입니다.
+
+번역 주석
+1. πλάσαι는 ‘빚다’라는 뜻으로 읽었다. 이어지는 δικαιῶσαι의 목적어는 ‘많은 사람을 훌륭히 섬기는 의인’이며, 그를 의롭다 하시는 주체는 앞의 주님이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-12
+
+16.13
+이 때문에 그는 많은 이를 상속받고, 강한 자들의 전리품을 나눌 것입니다. 그의 영혼이 죽음에 넘겨지고, 불법을 행하는 이들 가운데 헤아려졌기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-13
+
+16.14
+그는 많은 이의 죄를 지고, 그들의 죄 때문에 넘겨졌습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-14
+
+16.15
+그분 자신도 다시 말씀하십니다. “나는 벌레요, 사람이 아닙니다. 사람들의 비방거리이며, 백성의 멸시거리입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-15
+
+16.16
+나를 보는 모든 이가 나를 비웃고, 입술을 놀리며 고개를 흔들어 말했습니다. ‘그가 주님께 소망을 두었으니, 주님이 그를 구해 주시라. 주님이 그를 기뻐하시니, 그를 살려 주시라.’”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-16
+
+16.17
+사랑하는 여러분, 우리에게 주어진 본보기가 어떤 것인지 보십시오. 주님께서 이렇게 자신을 낮추셨다면, 그분을 통하여 그분의 은혜의 멍에 아래 들어온 우리는 어떻게 해야 하겠습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-16-17
+
+17.1
+염소 가죽과 양 가죽을 두르고 다니며, 그리스도께서 오실 것을 선포한 이들을 우리도 본받읍시다. 엘리야와 엘리사, 그리고 에제키엘이라는 예언자들과, 그 밖에 좋은 증언을 받은 사람들을 말합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-17-1
+
+17.2
+아브라함은 훌륭한 증언을 받았고, 하나님의 벗이라 불렸습니다. 하나님의 영광을 바라보며, 겸손하게 말했습니다. “저는 흙이며 재입니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-17-2
+
+17.3
+욥에 관해서도 이렇게 기록되어 있습니다. “욥은 의롭고 흠이 없으며, 진실하고, 하나님을 경외하며, 모든 악에서 떠난 사람이었다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-17-3
+
+17.4
+그런 그도 자신을 책망하며 말합니다. “더러움에서 깨끗한 사람은 아무도 없습니다. 그의 생명이 단 하루뿐이라 해도 그렇습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-17-4
+
+17.5
+모세는 하나님의 온 집안에서 신실한 사람이라 불렸습니다. 하나님께서는 그의 섬김을 통해 재앙과 고통을 내리시어 이집트를 심판하셨습니다. 모세는 이렇게 크게 영광을 받았으나, 거만하게 말하지 않았습니다. 떨기나무에서 계시를 받을 때, 오히려 이렇게 말했습니다. “제가 누구이기에 저를 보내십니까? 저는 말에 힘이 없고, 혀가 둔합니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-17-5
+
+17.6
+다시 말합니다. “저는 솥에서 피어나는 김입니다.”
+
+번역 주석
+1. ‘솥에서 피어나는 김’은 앞 절의 모세에게 이어 귀속된 말이다. 사람의 작고 덧없는 처지를 표현하는 비유로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-17-6
+
+18.1
+좋은 증언을 받은 다윗에 관해서는 무슨 말을 하겠습니까? 하나님께서는 그에 관해 말씀하셨습니다. “내 마음에 맞는 사람, 이새의 아들 다윗을 찾았다. 영원한 자비로 그에게 기름을 부었다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-1
+
+18.2
+그런 그도 하나님께 말합니다. “하나님, 당신의 크신 자비를 따라 저를 불쌍히 여겨 주십시오. 당신의 풍성한 긍휼을 따라 제 불법을 지워 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-2
+
+18.3
+제 불법에서 저를 더욱 씻어 주시고, 제 죄에서 깨끗하게 해 주십시오. 저는 제 불법을 알고 있으며, 제 죄는 언제나 제 앞에 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-3
+
+18.4
+오직 당신께 죄를 지었고, 당신 앞에서 악한 일을 했습니다. 그리하여 당신이 하신 말씀이 옳다고 인정받으시고, 당신이 재판받으실 때 이기시게 됩니다.
+
+번역 주석
+1. κρίνεσθαι는 여기서 재판을 받는다는 수동의 뜻으로 읽었다. 인용문이 하나님께 직접 말하는 형식이므로 ‘당신이 재판받으실 때’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-4
+
+18.5
+보십시오. 저는 불법 가운데 잉태되었고, 제 어머니는 죄 가운데 저를 배었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-5
+
+18.6
+보십시오. 당신은 진실을 사랑하셨고, 당신의 지혜 가운데 드러나지 않고 감추어진 것들을 제게 알려 주셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-6
+
+18.7
+우슬초로 저를 뿌려 주시면 제가 깨끗해질 것입니다. 저를 씻어 주시면 눈보다 더 희어질 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-7
+
+18.8
+기쁨과 즐거움을 제게 들려주시면, 꺾인 뼈들이 기뻐할 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-8
+
+18.9
+제 죄에서 당신의 얼굴을 돌리시고, 제 모든 불법을 지워 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-9
+
+18.10
+하나님, 제 안에 깨끗한 마음을 창조하시고, 제 속에 올곧은 영을 새롭게 해 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-10
+
+18.11
+당신 앞에서 저를 내쫓지 마시고, 당신의 거룩한 영을 제게서 거두어 가지 마십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-11
+
+18.12
+당신이 주시는 구원의 기쁨을 제게 돌려주시고, 이끄는 영으로 저를 굳게 세워 주십시오.
+
+번역 주석
+1. πνεῦμα ἡγεμονικόν은 이끄는 힘을 지닌 영을 뜻한다. 여기서는 ‘이끄는 영’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-12
+
+18.13
+불법을 행하는 이들에게 당신의 길을 가르치겠습니다. 그러면 불경한 이들이 당신께 돌아올 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-13
+
+18.14
+하나님, 저를 구원하시는 하나님, 피 흘린 죄에서 저를 건져 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-14
+
+18.15
+제 혀가 당신의 의를 기쁘게 노래할 것입니다. 주님, 제 입을 열어 주시면, 제 입술이 당신을 향한 찬양을 전할 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-15
+
+18.16
+당신이 제물을 원하셨다면, 제가 드렸을 것입니다. 그러나 번제물은 기뻐하지 않으실 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-16
+
+18.17
+하나님께 드리는 제물은 부서진 영입니다. 하나님께서는 부서지고 낮아진 마음을 업신여기지 않으실 것입니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-18-17
+
+19.1
+이처럼 훌륭한 증언을 받은 수많은 사람의 겸손과 자신을 낮추는 태도는, 그들의 순종을 통하여 우리뿐 아니라 우리보다 앞선 세대도 더 나은 사람들로 만들었습니다. 경외심과 진실함으로 그분의 말씀을 받아들인 모든 사람에게 그렇게 했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-19-1
+
+19.2
+이토록 많고 위대하며 영광스러운 일들에 참여했으니, 처음부터 우리에게 전해진 평화의 목표를 향해 다시 달려갑시다. 온 세상의 아버지이자 창조주를 바라보고, 그분이 평화로 주시는 위엄 있고 더없이 풍성한 선물과 은혜를 굳게 붙듭시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-19-2
+
+19.3
+생각으로 그분을 바라보고, 영혼의 눈으로 오래 참으시는 그분의 뜻을 들여다봅시다. 자신이 창조하신 모든 것에 얼마나 분노 없이 대하시는지 생각해 봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-19-3
+
+20.1
+하늘은 그분의 다스림에 따라 움직이며, 평화 속에서 그분께 순종합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-1
+
+20.2
+낮과 밤은 서로 방해하지 않으며, 그분이 정해 주신 길을 달립니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-2
+
+20.3
+해와 달, 별들의 무리는 그분의 명령에 따라 조화를 이루며, 조금도 벗어나지 않고 자신들에게 정해진 궤도를 돌아갑니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-3
+
+20.4
+땅은 열매를 품어 그분의 뜻에 따라 정해진 철마다 사람과 짐승, 그 위에 사는 모든 동물에게 풍성한 먹거리를 내어 줍니다. 뜻을 거스르지도 않고, 그분이 정하신 것 가운데 어느 것도 바꾸지 않습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-4
+
+20.5
+헤아릴 수 없는 심연과 말로 다할 수 없는 지하의 영역들도 같은 명령에 따라 붙들려 있습니다.
+
+번역 주석
+1. κλίματα는 영역이나 구역을 뜻하며, Lake가 편집 본문에 채택한 교정이다. 심연과 지하의 영역까지 하나님의 명령 아래 있다는 우주 질서의 묘사에 속한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-5
+
+20.6
+끝없는 바다의 깊은 바닥은 그분의 창조를 따라 물이 모이는 곳으로 세워졌습니다. 둘러쳐진 경계를 넘지 않고, 그분이 명하신 대로 움직입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-6
+
+20.7
+그분은 말씀하셨습니다. “너는 여기까지 오고, 네 파도는 네 안에서 부서질 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-7
+
+20.8
+사람이 건널 수 없는 대양과 그 너머의 세계들도 주인의 같은 명령으로 다스려집니다.
+
+번역 주석
+1. 바다와 그 너머의 세계들은 이 문헌이 제시하는 우주 질서의 일부로 묘사된다. 각 영역이 창조주의 명령을 지킨다는 논지가 계속된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-8
+
+20.9
+봄과 여름, 가을과 겨울은 평화롭게 서로 자리를 넘겨줍니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-9
+
+20.10
+바람이 머무는 곳들도 정해진 때에 자신의 임무를 막힘없이 수행합니다. 즐거움과 건강을 위해 창조된 마르지 않는 샘들은 사람들에게 생명을 주는 젖줄을 끊임없이 내어 줍니다. 가장 작은 동물들조차 조화와 평화 속에서 서로 어울립니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-10
+
+20.11
+위대한 창조주, 만물의 주인께서 이 모든 것이 평화와 조화 속에 있도록 명하셨습니다. 모든 것에 은혜를 베푸시되, 우리 주 예수 그리스도를 통하여 그분의 긍휼로 피신한 우리에게는 더욱 넘치도록 베푸십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-11
+
+20.12
+그분께 영광과 위엄이 영원무궁토록 있기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-20-12
+
+21.1
+사랑하는 여러분, 조심하십시오. 그분께 합당하게 살고, 한마음으로 그분 앞에서 선하고 기쁜 일을 행하지 않으면, 그분의 많은 은혜가 우리를 심판하는 계기가 될 수 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-1
+
+21.2
+어떤 곳에서는 이렇게 말씀하십니다. “주님의 영은 뱃속 깊은 곳을 살피는 등불이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-2
+
+21.3
+그분이 얼마나 가까이 계시는지, 우리의 생각도 우리가 품는 계획도 그분께 조금도 숨겨져 있지 않다는 것을 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-3
+
+21.4
+그러므로 그분의 뜻에서 우리가 이탈하지 않는 것이 마땅합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-4
+
+21.5
+하나님을 거스르기보다, 어리석고 분별없으며, 자기를 높이고 자신의 말로 자만하며 자랑하는 사람들과 차라리 부딪칩시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-5
+
+21.6
+우리를 위해 그 피를 내어 주신 주 예수 그리스도를 공경합시다. 우리의 지도자들을 존중하고, 장로들을 귀하게 여기며, 젊은이들에게 하나님을 경외하는 훈련을 시킵시다. 우리의 아내들이 선한 길로 나아가도록 이끕시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-6
+
+21.7
+그들은 순결의 사랑스러운 성품을 드러내고, 온유함에서 나오는 순수한 뜻을 보여 주어야 합니다. 침묵으로 자신의 혀가 온유함을 드러내고, 편들기에 따르지 않으며, 하나님을 경외하는 모든 이에게 거룩하게, 똑같이 사랑을 베풀어야 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-7
+
+21.8
+우리의 자녀들은 그리스도 안에서 가르침을 받아야 합니다. 겸손이 하나님 앞에서 어떤 힘을 지니며, 순수한 사랑이 하나님 앞에서 무엇을 할 수 있는지 배워야 합니다. 그분을 경외함이 얼마나 선하고 위대하며, 깨끗한 마음으로 그분 안에서 거룩하게 사는 모든 이를 어떻게 구원하는지도 배워야 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-8
+
+21.9
+그분은 생각과 마음속 계획을 살피시는 분입니다. 그분의 숨이 우리 안에 있고, 원하실 때 그것을 거두어 가실 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-21-9
+
+22.1
+그리스도를 향한 믿음이 이 모든 것을 확증합니다. 그분께서 친히 성령을 통해 우리를 이렇게 부르십니다. “자녀들아, 와서 내 말을 들어라. 주님을 경외하는 법을 너희에게 가르치겠다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-1
+
+22.2
+생명을 원하고, 좋은 날들을 보고 싶어 하는 사람이 누구냐?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-2
+
+22.3
+네 혀가 악을 말하지 않게 멈추고, 네 입술도 속임수를 말하지 않게 하여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-3
+
+22.4
+악에서 돌아서고, 선을 행하여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-4
+
+22.5
+평화를 찾고, 그것을 좇아라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-5
+
+22.6
+주님의 눈은 의로운 이들을 향하고, 그 귀는 그들의 간구를 향한다. 주님의 얼굴은 악을 행하는 이들에게 맞서, 그들의 기억을 땅에서 없애려 하신다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-6
+
+22.7
+의로운 이가 외치자, 주님께서 그 말을 들으시고, 그의 모든 환난에서 그를 구해 내셨다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-7
+
+22.8
+“죄인에게는 많은 채찍이 있으나, 주님께 소망을 두는 이들은 자비가 감쌀 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-22-8
+
+23.1
+모든 면에서 긍휼을 베풀고 은혜를 주시는 아버지께서는 자신을 경외하는 이들에게 깊은 연민을 품으십니다. 순수한 마음으로 자신에게 다가오는 이들에게 온화하고 다정하게 은혜를 베푸십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-23-1
+
+23.2
+그러므로 두 마음을 품지 말고, 그분의 더없이 크고 영광스러운 선물을 두고 우리 영혼이 헛된 상상에 빠지지 않게 합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-23-2
+
+23.3
+다음 기록이 우리를 두고 하는 말이 되지 않게 합시다. 이렇게 말합니다. “두 마음을 품고 영혼으로 의심하는 이들, 이렇게 말하는 이들은 불행하다. ‘우리 조상들의 때에도 이런 말을 들었는데, 보라, 우리는 늙었어도 그 어떤 일도 우리에게 일어나지 않았다.’
+
+번역 주석
+1. 저자는 이 말을 ‘기록’이라고 소개하고, 그 안에 조상 때부터 들은 약속을 의심하는 이들의 말을 다시 인용한다. 바깥 인용과 안쪽 발언을 따옴표로 구분했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-23-3
+
+23.4
+어리석은 이들아, 자신을 나무와 비교해 보아라. 포도나무를 생각해 보아라. 먼저 잎이 떨어지고, 그다음 싹이 나며, 그다음 잎이, 그다음 꽃이 나고, 그 뒤에는 덜 익은 포도가, 마침내 익은 포도송이가 생긴다.” 나무의 열매가 얼마나 짧은 사이에 익어 가는지 보십시오.
+
+번역 주석
+1. φυλλοροεῖ는 잎이 떨어지는 것을 뜻한다. 포도나무가 잎을 떨어뜨리고 싹, 잎, 꽃, 열매를 맺는다는 본문의 순서를 따랐다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-23-4
+
+23.5
+참으로 그분의 뜻은 빠르게, 갑작스럽게 이루어질 것입니다. 성경도 함께 증언합니다. “곧 오실 것이며 지체하지 않으실 것이다.” 또 말합니다. “주님께서 자신의 성전에 갑자기 오실 것이며, 너희가 기다리는 거룩하신 분이 오실 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-23-5
+
+24.1
+사랑하는 여러분, 주인께서 앞으로 부활이 있을 것을 어떻게 끊임없이 우리에게 보여 주시는지 생각해 봅시다. 주 예수 그리스도를 죽은 이들 가운데서 일으키시어 그 부활의 첫 열매로 삼으셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-24-1
+
+24.2
+사랑하는 여러분, 때마다 일어나는 부활을 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-24-2
+
+24.3
+낮과 밤이 우리에게 부활을 보여 줍니다. 밤이 잠들면, 낮이 일어납니다. 낮이 물러가면, 밤이 찾아옵니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-24-3
+
+24.4
+열매들을 생각해 봅시다. 씨앗은 어떻게, 어떤 방식으로 자랍니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-24-4
+
+24.5
+씨 뿌리는 사람이 나가서 씨앗을 하나하나 땅에 뿌립니다. 그 씨앗들은 땅에 떨어져, 마르고 헐벗은 채 분해됩니다. 그때 주인의 위대한 섭리가 분해된 데서 그것들을 일으켜, 하나에서 더 많은 것을 자라게 하고, 열매를 내게 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-24-5
+
+25.1
+동방 지역, 곧 아라비아 근방에서 일어나는 놀라운 표징을 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-25-1
+
+25.2
+포이닉스라 불리는 새가 있습니다. 이 새는 한 마리만 존재하며, 오백 년을 삽니다. 죽어서 생을 마칠 때가 가까워지면, 유향과 몰약, 그 밖의 향료로 자신의 둥지를 만듭니다. 정해진 시간이 차면 그 안으로 들어가 죽습니다.
+
+번역 주석
+1. φοῖνιξ는 흔히 불사조라 부르는 새의 이름으로, 본문에서는 ‘포이닉스’로 음역했다. 저자는 오백 년의 수명과 향료로 만든 둥지에 관한 전승을 부활 논증의 예로 사용한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-25-2
+
+25.3
+살이 썩으면, 벌레 하나가 생겨나 죽은 새의 진액으로 자라며 깃털이 돋습니다. 튼튼하게 자라면, 앞서 있던 새의 뼈가 담긴 그 둥지를 들어 올립니다. 그것들을 짊어지고 아라비아 땅에서 이집트까지, 헬리오폴리스라 불리는 도시로 날아갑니다.
+
+번역 주석
+1. 서신은 죽은 새의 살이 썩은 뒤 벌레가 생기고, 그 벌레가 자라 날개를 얻는 순서로 이야기한다. 이 서술을 따라 변화의 과정을 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-25-3
+
+25.4
+낮에, 모두가 보는 앞에서, 태양의 제단 위로 내려앉아 그것들을 놓고, 그렇게 왔던 곳으로 돌아갑니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-25-4
+
+25.5
+제사장들은 연대 기록을 살펴보고, 오백 년이 찬 때에 그 새가 왔음을 알게 됩니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-25-5
+
+26.1
+만물의 창조주께서 선한 믿음에 대한 확신으로 자신을 거룩하게 섬긴 이들을 부활시키신다 하여, 우리가 그것을 크고 놀라운 일로 여기겠습니까? 한 마리 새를 통해서도 그분의 약속이 얼마나 위대한지 우리에게 보여 주시는데 말입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-26-1
+
+26.2
+어떤 곳에서는 이렇게 말씀하십니다. “당신께서 저를 일으키시면, 당신을 찬양하겠습니다.” 또 말합니다. “제가 누워 잠들었다가 깨어났습니다. 당신께서 저와 함께 계시기 때문입니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-26-2
+
+26.3
+욥도 다시 말합니다. “이 모든 일을 견뎌 낸 저의 이 육체를 당신께서 일으키실 것입니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-26-3
+
+27.1
+우리의 영혼이 이 소망으로 약속에 신실하시고, 심판에 의로우신 분께 굳게 매여 있기를 바랍니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-1
+
+27.2
+거짓말하지 말라고 명하신 분께서는 더더욱 거짓말하지 않으실 것입니다. 하나님께는 거짓말하시는 것 외에 불가능한 일이 없기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-2
+
+27.3
+그분을 향한 믿음이 우리 안에서 다시 타오르게 합시다. 모든 것이 그분 가까이에 있음을 생각해 봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-3
+
+27.4
+그분은 위엄 있는 말씀으로 만물을 세우셨고, 말씀으로 그것들을 무너뜨리실 수도 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-4
+
+27.5
+“무엇을 하셨습니까?”라고 누가 그분께 말하겠습니까? 그분의 강대한 능력에 누가 맞서겠습니까? 원하시는 때에, 원하시는 방식으로 모든 일을 하실 것이며, 그분이 정하신 것 가운데 어떤 것도 사라지지 않을 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-5
+
+27.6
+모든 것이 그분 앞에 있고, 그분의 뜻에 숨겨진 것은 아무것도 없습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-6
+
+27.7
+하늘이 하나님의 영광을 이야기하고, 궁창이 그분의 손이 하신 일을 알리고 있으니 그러합니다. “낮은 낮에게 말을 쏟아 내고, 밤은 밤에게 지식을 전한다. 그 소리가 들리지 않는 말이나 이야기는 하나도 없다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-27-7
+
+28.1
+모든 것이 보이고 들리므로, 그분을 경외하고 악한 일을 향한 더러운 욕망을 버립시다. 그분의 자비로 다가올 심판에서 보호받도록 합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-28-1
+
+28.2
+우리 가운데 누가 그분의 강한 손에서 어디로 도망갈 수 있겠습니까? 어느 세계가 그분을 떠나 도망치는 사람을 받아 주겠습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-28-2
+
+28.3
+기록된 말씀이 어떤 곳에서 말합니다. “어디로 가며, 당신의 얼굴을 피해 어디에 숨겠습니까? 하늘로 올라가면, 당신이 거기 계십니다. 땅끝으로 가면, 당신의 오른손이 거기 있습니다. 심연에 자리를 깔면, 당신의 영이 거기 있습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-28-3
+
+28.4
+모든 것을 감싸고 계신 분에게서 누가 어디로 떠나며, 어디로 달아나겠습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-28-4
+
+29.1
+거룩한 영혼으로 그분께 다가가고, 깨끗하고 더럽혀지지 않은 손을 그분께 들어 올립시다. 온유하고 자비로우신 우리 아버지를 사랑합시다. 그분은 우리를 자신이 선택한 몫으로 삼으셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-29-1
+
+29.2
+이렇게 기록되어 있습니다. “지극히 높으신 분께서 민족들을 나누고, 아담의 자손들을 흩으실 때, 하나님의 천사들의 수에 따라 민족들의 경계를 세우셨다. 그 백성 야곱이 주님의 몫이 되었고, 이스라엘이 그분의 유산으로 측량된 땅이 되었다.”
+
+번역 주석
+1. 민족들의 경계를 ‘하나님의 천사들의 수’에 따라 정했다는 인용이다. ἀγγέλων은 천사들이라는 뜻으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-29-2
+
+29.3
+다른 곳에서도 말씀하십니다. “보라, 주님께서 민족들 가운데서 한 민족을 자신을 위해 취하신다. 사람이 타작마당에서 자신의 첫 열매를 취하듯이 하신다. 그 민족에게서 지극히 거룩한 것들이 나올 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-29-3
+
+30.1
+우리는 거룩하신 분의 몫이므로, 거룩함에 속한 모든 일을 행합시다. 비방과 더럽고 불결한 결합, 술 취함과 반란, 혐오스러운 욕망, 역겨운 간음과 혐오스러운 교만을 피합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-1
+
+30.2
+이렇게 말씀하시기 때문입니다. “하나님께서는 교만한 이들에게 맞서시고, 겸손한 이들에게는 은혜를 베푸신다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-2
+
+30.3
+하나님에게서 은혜를 받은 사람들과 함께합시다. 겸손하게, 자제하면서 일치를 옷처럼 입고, 모든 수군거림과 비방에서 자신을 멀리합시다. 말로가 아니라 행실로 의롭다고 인정받읍시다.
+
+번역 주석
+1. ‘행실로 의롭다고 인정받다’는 말과 행실의 대조 속에 놓여 있다. 수군거림과 비방을 버리고 화합을 실천하라는 권면에 이어진다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-3
+
+30.4
+이렇게 말씀하십니다. “말을 많이 하는 사람은 대꾸를 듣게 될 것이다. 말 잘하는 사람이 자신을 의롭다고 생각하느냐?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-4
+
+30.5
+여인에게서 태어나 잠시 사는 이는 복되다. 말을 많이 하지 마라.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-5
+
+30.6
+우리를 향한 칭찬이 하나님 안에서 나오게 하고, 우리 자신에게서 나오지 않게 합시다. 하나님께서는 스스로 칭찬하는 이들을 미워하시기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-6
+
+30.7
+우리의 의로운 조상들이 받았던 것처럼, 우리의 선한 행실에 대한 증언은 다른 사람들이 하게 합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-7
+
+30.8
+뻔뻔함과 고집과 무모함은 하나님께 저주받은 이들에게 속합니다. 온유함과 겸손과 부드러움은 하나님께 복을 받은 이들에게 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-30-8
+
+31.1
+그분의 복을 굳게 붙들고, 복에 이르는 길이 무엇인지 살펴봅시다. 처음부터 일어난 일들을 펼쳐 봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-31-1
+
+31.2
+우리 조상 아브라함은 무엇 때문에 복을 받았습니까? 믿음을 통하여 의와 진실을 행했기 때문이 아닙니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-31-2
+
+31.3
+이사악은 확신을 가지고 앞으로 일어날 일을 알면서도, 기꺼이 제물로 이끌려 갔습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-31-3
+
+31.4
+야곱은 형제 때문에 겸손히 자기 땅을 떠나 라반에게 가서 종으로 일했고, 이스라엘의 열두 지파를 받았습니다.
+
+번역 주석
+1. δωδεκάσκηπτρον은 문자적으로 열두 홀, 곧 열두 통치 지팡이를 가리킨다. 이 문맥에서는 야곱에게서 나온 이스라엘 열두 지파로 풀어 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-31-4
+
+32.1
+이 일을 누구든 하나하나 진실하게 살펴보면, 그분이 주신 선물들이 얼마나 위대한지 알게 될 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-32-1
+
+32.2
+하나님의 제단을 섬기는 제사장들과 레위인들 모두가 그에게서 나왔습니다. 주 예수께서도 육신으로는 그에게서 나셨습니다. 유다 지파의 왕들과 통치자들과 지도자들도 그에게서 나왔습니다. 그의 다른 지파들도 작지 않은 영광을 누립니다. 하나님께서 “네 후손이 하늘의 별들처럼 될 것이다”라고 약속하셨기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-32-2
+
+32.3
+그들 모두는 영광을 얻고 높아졌습니다. 자신들 때문이나, 자신들의 행위나, 자신들이 이루어 낸 의로운 행실 때문이 아니라, 그분의 뜻 때문에 그렇게 되었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-32-3
+
+32.4
+그분의 뜻에 따라 그리스도 예수 안에서 부름받은 우리도 자신을 통하여 의롭게 되는 것이 아닙니다. 우리의 지혜나 깨달음이나 경건함, 거룩한 마음으로 이루어 낸 행위들을 통해서도 아닙니다. 오직 믿음을 통하여 의롭게 됩니다. 전능하신 하나님께서는 이 믿음을 통하여 옛적부터 모든 이를 의롭게 하셨습니다. 그분께 영광이 영원무궁토록 있기를 빕니다. 아멘.
+
+번역 주석
+1. 자신의 지혜, 깨달음, 경건, 행위를 열거한 뒤 믿음을 통한 의롭다 함을 말한다. 30.3의 행실에 관한 권면과 함께 이 서신 안에서 각각의 논지를 지닌다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-32-4
+
+33.1
+형제 여러분, 그러면 어떻게 해야 하겠습니까? 선을 행하기를 그만두고, 사랑을 버리겠습니까? 주인께서 우리에게 이런 일이 생기도록 결코 내버려 두지 않으시기를 바랍니다. 오히려 열의와 열정을 다하여 모든 좋은 일을 완수하도록 힘씁시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-1
+
+33.2
+만물의 창조주이며 주인이신 그분 자신이 자신이 하신 일을 기뻐하시기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-2
+
+33.3
+그분은 더없이 크신 능력으로 하늘을 세우시고, 헤아릴 수 없는 지혜로 그것을 질서 있게 꾸미셨습니다. 땅을 둘러싼 물에서 갈라내고, 자신의 뜻이라는 확고한 토대 위에 세우셨습니다. 자신의 명령으로 땅 위를 다니는 동물들이 존재하게 하셨고, 바다와 그 안의 동물들을 준비하시어 자신의 능력으로 가두어 두셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-3
+
+33.4
+무엇보다 뛰어나고, 생각하는 능력이 더없이 큰 사람을, 거룩하고 흠 없는 손으로 자신의 형상을 새긴 모습으로 빚으셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-4
+
+33.5
+하나님께서는 이렇게 말씀하십니다. “우리의 형상과 모양을 따라 사람을 만들자.” “하나님께서 사람을 만드시되, 남자와 여자로 그들을 만드셨다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-5
+
+33.6
+이 모든 일을 마치신 뒤, 그것들을 좋게 여기시고 복을 주시며 말씀하셨습니다. “자라나고 번성하여라.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-6
+
+33.7
+의로운 이들은 모두 선한 행실로 단장했으며, 주님 자신도 선한 일로 자신을 단장하시고 기뻐하셨음을 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-7
+
+33.8
+이러한 본보기가 있으니, 주저하지 말고 그분의 뜻을 향해 다가갑시다. 우리의 온 힘을 다해 의로운 일을 행합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-33-8
+
+34.1
+성실한 일꾼은 당당하게 자기 노동의 대가인 빵을 받지만, 게으르고 태만한 일꾼은 일을 맡긴 주인의 눈을 똑바로 보지 못합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-1
+
+34.2
+그러므로 선한 일을 열심히 하는 사람이 되어야 합니다. 모든 것이 그분에게서 오기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-2
+
+34.3
+그분은 우리에게 미리 말씀하십니다. “보라, 주님이 계시며, 그분의 보상이 그분 앞에 있다. 각자의 행위에 따라 갚아 주시려는 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-3
+
+34.4
+온 마음으로 그분을 믿는 우리에게, 모든 좋은 일에 게으르거나 태만하지 말라고 권하십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-4
+
+34.5
+우리의 자랑과 담대함이 그분 안에 있게 하고, 그분의 뜻에 순종합시다. 그분의 천사들 온 무리가 앞에 서서, 그분의 뜻을 따라 어떻게 섬기는지 살펴봅시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-5
+
+34.6
+성경이 말합니다. “만만의 무리가 그분 앞에 서 있었고, 천천의 무리가 그분을 섬기며 외쳤다. ‘거룩하시다, 거룩하시다, 거룩하시다, 만군의 주님. 온 피조물이 그분의 영광으로 가득하다.’”
+
+번역 주석
+1. 천상 존재들의 수를 표현한 ‘만만’과 ‘천천’은 수가 매우 많음을 나타내는 반복이다. 원문의 수 표현을 살려 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-6
+
+34.7
+우리도 마음을 모아 한뜻으로 한자리에 모여, 한 입으로 말하듯 그분께 간절히 외칩시다. 그분의 크고 영광스러운 약속에 우리가 참여하게 해 달라고 간구합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-7
+
+34.8
+이렇게 말씀하시기 때문입니다. “주님께서 자신을 기다리는 이들을 위해 준비하신 것들은 눈이 보지 못했고, 귀가 듣지 못했으며, 사람의 마음에 떠오르지 않았다.”
+
+번역 주석
+1. ὑπομένουσιν은 기다리며 견디는 이들을 가리킨다. 이 인용에서는 주님을 ‘기다리는 이들’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-34-8
+
+35.1
+사랑하는 여러분, 하나님의 선물들은 얼마나 복되고 놀랍습니까!
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-1
+
+35.2
+죽지 않는 생명, 의 가운데 빛나는 영광, 담대함 가운데 있는 진실, 확신 가운데 있는 믿음, 거룩함 가운데 있는 절제, 이 모든 것은 우리의 생각 안에 이미 들어왔습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-2
+
+35.3
+그분을 기다리는 이들을 위해 준비되는 것들은 과연 무엇이겠습니까? 지극히 거룩하신 만세의 창조주이자 아버지께서 그 크기와 아름다움을 친히 아십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-3
+
+35.4
+약속된 선물을 함께 받도록, 기다리는 이들의 무리에 우리가 들기를 힘씁시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-4
+
+35.5
+사랑하는 여러분, 어떻게 해야 그렇게 되겠습니까? 우리의 마음이 하나님을 향하여 신실하게 굳게 서고, 그분께 기쁘고 받아들여질 만한 것을 찾으며, 그분의 흠 없는 뜻에 합당한 일을 완수하고, 진리의 길을 따를 때 그렇게 됩니다. 온갖 불의와 악, 탐욕과 다툼, 악의와 속임수, 수군거림과 비방, 하나님을 미워함, 교만과 자만, 헛된 영광과 손님을 거절하는 태도를 우리 자신에게서 버려야 합니다.
+
+번역 주석
+1. ἀφιλοξενία는 손님을 받아들이지 않는 태도이다. 이 서신에서 반복되는 손님 대접의 권면과 연결해 ‘손님을 거절하는 태도’로 옮겼다. Lake의 편집주는 이 낱말의 이문을 기록한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-5
+
+35.6
+이런 일을 하는 이들은 하나님께 미움을 받습니다. 행하는 이들만 아니라, 그들에게 찬성하는 이들도 그렇습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-6
+
+35.7
+성경이 말합니다. “하나님께서 죄인에게 말씀하셨다. ‘너는 어찌하여 내 법도를 말하고, 내 언약을 네 입에 올리느냐?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-7
+
+35.8
+너는 훈계를 미워했고, 내 말을 등 뒤로 내던졌다. 도둑을 보면 그와 함께 달려갔고, 간음하는 이들과 몫을 함께했다. 네 입은 악을 늘어놓았고, 네 혀는 속임수를 엮었다. 앉아서 네 형제를 비방했고, 네 어머니의 아들 앞에 걸림돌을 놓았다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-8
+
+35.9
+네가 이런 일을 해도 내가 침묵하니, 불법을 행하는 자야, 나도 너와 같으리라고 생각했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-9
+
+35.10
+내가 너를 책망하고, 네 앞에 너 자신을 세우겠다.’
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-10
+
+35.11
+하나님을 잊는 이들아, 이 일을 깨달아라. 그분이 사자처럼 덮쳐, 구해 주는 이가 없어지는 일이 없도록 하여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-11
+
+35.12
+찬양의 제물이 나를 영화롭게 하며, 거기에 길이 있다. 그 길에서 하나님의 구원을 그에게 보여 주겠다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-35-12
+
+36.1
+사랑하는 여러분, 이 길에서 우리의 구원, 우리가 드리는 예물의 대제사장이며, 우리의 연약함을 지키고 도우시는 예수 그리스도를 우리가 찾았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-36-1
+
+36.2
+이분을 통해 높은 하늘을 바라보고, 이분을 통해 그분의 흠 없고 지극히 높은 모습을 거울에 비추어 보듯 바라봅니다. 이분을 통해 우리 마음의 눈이 열렸고, 이분을 통해 어리석고 어두워진 우리의 생각이 빛을 향해 다시 피어납니다. 주인께서는 이분을 통해 죽지 않는 지식을 우리가 맛보게 하기를 원하셨습니다. 그리스도는 그분의 위엄에서 빛나는 광채이시며, 더 뛰어난 이름을 상속받으신 만큼 천사들보다 더욱 위대하십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-36-2
+
+36.3
+이렇게 기록되어 있습니다. “자신의 천사들을 바람으로, 자신의 일꾼들을 불꽃으로 만드시는 분.”
+
+번역 주석
+1. πνεύματα는 문맥에 따라 영들이나 바람들을 가리킬 수 있다. 불꽃과 짝을 이루는 이 인용에서는 ‘바람’으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-36-3
+
+36.4
+주인께서는 자신의 아들에 관해서는 이렇게 말씀하셨습니다. “너는 내 아들이다. 내가 오늘 너를 낳았다. 내게 구하여라. 민족들을 네 유산으로, 땅끝을 네 소유로 주겠다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-36-4
+
+36.5
+다시 그분께 말씀하십니다. “내가 네 원수들을 네 발아래 발판으로 삼을 때까지, 내 오른편에 앉아라.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-36-5
+
+36.6
+그 원수들은 누구입니까? 악한 이들과 그분의 뜻에 맞서는 이들입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-36-6
+
+37.1
+형제 여러분, 그분의 흠 없는 명령을 따라 온 힘을 다해 군인처럼 복무합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-37-1
+
+37.2
+우리 지휘관들 아래서 복무하는 병사들이 얼마나 질서 있게, 얼마나 충실하게, 얼마나 순종하며 명령을 수행하는지 살펴봅시다.
+
+번역 주석
+1. ἑκτικῶς는 이 문맥에서 명령을 굳게 지키는 태도로 읽어 ‘충실하게’로 옮겼다. Lake의 편집주는 이 낱말의 독법 문제를 다룬다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-37-2
+
+37.3
+모두가 사령관인 것도, 천인대장인 것도, 백인대장인 것도, 오십인대장인 것도, 그 아래 계급인 것도 아닙니다. 각자 자기 계급에 따라 왕과 지휘관들이 내린 명령을 수행합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-37-3
+
+37.4
+큰 이들은 작은 이들 없이 존재할 수 없으며, 작은 이들도 큰 이들 없이 존재할 수 없습니다. 모두가 서로 결합되어 있고, 그러한 관계가 유익을 줍니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-37-4
+
+37.5
+우리의 몸을 생각해 봅시다. 머리는 발이 없으면 아무것도 아니며, 발도 머리가 없으면 마찬가지입니다. 우리 몸의 가장 작은 지체들도 온몸에 필요하고 유익합니다. 모두 함께 숨 쉬고 하나로 순종하여, 몸 전체가 보존되게 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-37-5
+
+38.1
+우리 몸 전체가 그리스도 예수 안에서 보존되게 하고, 각자 자신이 받은 은사 안에서 정해진 대로 이웃에게 순종하게 합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-38-1
+
+38.2
+강한 사람은 약한 이를 돌보고, 약한 사람은 강한 이를 존중해야 합니다. 부유한 사람은 가난한 이에게 베풀고, 가난한 사람은 하나님께 감사해야 합니다. 자신의 부족함을 채울 수 있도록 도와줄 사람을 주셨기 때문입니다. 지혜로운 사람은 자신의 지혜를 말로가 아니라 선한 행실로 드러내야 합니다. 겸손한 사람은 자신을 위해 증언하지 말고, 다른 사람이 자신을 증언하도록 맡겨야 합니다. 육체가 순결한 사람은 자랑하지 말아야 합니다. 다른 분께서 자신에게 절제를 주신다는 것을 알아야 합니다.
+
+번역 주석
+1. τημελείτω는 돌보고 보살피라는 명령이다. 부유한 이가 가난한 이를 돌보고 가난한 이가 하나님께 감사하는 상호 관계를 서술한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-38-2
+
+38.3
+형제 여러분, 우리가 무엇으로 만들어졌고, 어떤 모습의 어떤 사람으로 세상에 들어왔는지 생각해 봅시다. 우리를 빚고 창조하신 분께서 어떤 무덤과 어둠에서 그분의 세상으로 우리를 이끄셨는지 생각해 봅시다. 우리가 태어나기도 전에 그분의 은혜를 미리 준비하셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-38-3
+
+38.4
+이 모든 것을 그분에게서 받았으므로, 모든 일에서 그분께 감사해야 합니다. 그분께 영광이 영원무궁토록 있기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-38-4
+
+39.1
+어리석고 분별없고, 미련하고 배우지 못한 이들이 우리를 조롱하고 비웃으며, 자기 생각 속에서 자신을 높이려 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-1
+
+39.2
+죽을 사람이 무엇을 할 수 있습니까? 땅에서 난 이에게 무슨 힘이 있습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-2
+
+39.3
+이렇게 기록되어 있습니다. “내 눈앞에 형체는 없었고, 바람과 목소리만 들었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-3
+
+39.4
+무슨 말인가? 죽을 사람이 주님 앞에서 깨끗할 수 있겠는가? 사람이 자신의 행실로 흠 없을 수 있겠는가? 그분은 자신의 종들도 믿지 않으시고, 천사들에게서도 비뚤어진 점을 보셨거늘!
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-4
+
+39.5
+하늘도 그분 앞에서 깨끗하지 않으니, 흙집에 사는 이들은 어떠하겠는가? 우리도 그들과 같이 같은 흙에서 났다. 좀벌레가 갉아먹듯 그들을 치셨고, 아침에서 저녁 사이에 그들은 사라졌다. 스스로를 도울 수 없었기에 멸망했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-5
+
+39.6
+그들에게 숨을 불어 넣으시자, 지혜가 없었기에 그들은 죽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-6
+
+39.7
+네 말에 대답할 사람이 있는지, 거룩한 천사들 가운데 누구를 볼 수 있는지 불러 보아라. 분노는 어리석은 이를 죽이고, 질투는 잘못된 길을 가는 이를 죽음에 이르게 한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-7
+
+39.8
+어리석은 이들이 뿌리내리는 것을 나는 보았으나, 그들의 거처는 곧 삼켜졌다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-8
+
+39.9
+그들의 자녀들이 구원에서 멀리 떨어지고, 약한 이들의 문간에서 짓밟히기를 바란다. 구해 주는 이도 없을 것이다. 그들에게 마련된 것은 의로운 이들이 먹을 것이며, 그들 자신은 재앙에서 벗어나지 못할 것이다.”
+
+번역 주석
+1. 앞의 두 동사는 소망을 나타내는 형태로, 뒤의 ‘구해 주는 이도 없을 것이다’는 미래 진술로 읽었다. κολαβρισθείησαν은 짓밟히거나 거칠게 다뤄지는 모습을 나타낸다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-39-9
+
+40.1
+우리에게 이런 일들이 분명하고, 하나님을 아는 지식의 깊은 곳을 살펴보았으므로, 주인께서 정해진 때에 수행하라고 명하신 모든 것을 질서 있게 행해야 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-40-1
+
+40.2
+예물과 예배의 봉사를 수행하되, 아무렇게나 무질서하게 하지 말고, 정해진 때와 시간에 행하도록 명하셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-40-2
+
+40.3
+어디에서, 누구를 통하여 수행하기를 원하시는지 지극히 높으신 뜻으로 친히 정하셨습니다. 모든 일이 거룩하게 이루어져, 그분을 기쁘시게 하고 그분의 뜻에 받아들여지도록 하신 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-40-3
+
+40.4
+정해진 때에 예물을 드리는 이들은 받아들여지고 복을 누립니다. 주인의 법도를 따라서 잘못을 저지르지 않기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-40-4
+
+40.5
+대제사장에게는 고유한 봉사가 주어져 있고, 제사장들에게는 고유한 자리가 정해져 있으며, 레위인들에게는 고유한 섬김이 맡겨져 있습니다. 평신도는 평신도에게 주어진 명령에 매여 있습니다.
+
+번역 주석
+1. λαϊκός는 백성에 속한 일반 구성원을 가리킨다. 대제사장, 제사장, 레위인과 나란히 놓인 구분을 따라 ‘평신도’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-40-5
+
+41.1
+형제 여러분, 우리 각자는 자기 위치에서 선한 양심을 지니고, 하나님을 기쁘시게 해야 합니다. 자기 봉사에 정해진 규범을 벗어나지 않으며, 품위 있게 행해야 합니다.
+
+번역 주석
+1. Lake가 본문에 채택한 εὐαριστείτω를 ‘기쁘시게 해야 한다’로 읽었다. 각주에는 감사드림을 뜻하는 εὐχαριστείτω라는 독법도 실려 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-41-1
+
+41.2
+형제 여러분, 항상 드리는 제사와 서원의 제사, 죄와 허물을 위한 제사는 어디서나 드리는 것이 아닙니다. 오직 예루살렘에서 드립니다. 거기서도 아무 곳에서나 드리지 않고, 성전 앞의 제단에서 드립니다. 바칠 것은 대제사장과 앞서 말한 봉사자들이 흠을 검사합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-41-2
+
+41.3
+그분의 뜻에 마땅한 바를 어겨 무엇인가 행하는 이들은 죽음의 형벌을 받습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-41-3
+
+41.4
+형제 여러분, 보십시오. 더 많은 지식을 받을 자격을 얻은 만큼, 더 큰 위험 아래 놓여 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-41-4
+
+42.1
+사도들은 주 예수 그리스도께 받은 복음을 우리에게 전했고, 예수 그리스도께서는 하나님에게서 보내심을 받으셨습니다.
+
+번역 주석
+1. 두 번 나오는 ἀπό는 복음과 파송의 출발점을 연결한다. 사도들은 그리스도에게서, 그리스도는 하나님에게서 보내심을 받았다는 흐름으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-42-1
+
+42.2
+그러므로 그리스도는 하나님에게서, 사도들은 그리스도에게서 왔습니다. 이 두 일은 하나님의 뜻에 따라 질서 있게 이루어졌습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-42-2
+
+42.3
+사도들은 명령을 받고, 우리 주 예수 그리스도의 부활을 통하여 확신을 얻었으며, 하나님의 말씀으로 믿음이 굳게 세워졌습니다. 성령의 확신에 차서 나아가, 하나님의 나라가 장차 오리라는 복음을 전했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-42-3
+
+42.4
+각 지방과 도시에서 선포하며, 처음 맺은 열매들을 성령으로 시험한 뒤, 장차 믿게 될 이들의 감독과 집사로 세웠습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-42-4
+
+42.5
+이것은 새롭게 시작된 일이 아닙니다. 감독과 집사들에 관해서는 이미 오래전부터 기록되어 있었습니다. 성경은 어떤 곳에서 이렇게 말합니다. “그들의 감독들을 의 안에, 그들의 집사들을 믿음 안에 세우겠다.”
+
+번역 주석
+1. 서신이 인용하는 성경 문장에는 감독들과 집사들이 등장한다. 본문의 직무 명칭과 의로움, 믿음이라는 수식어를 따라 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-42-5
+
+43.1
+그리스도 안에서 하나님께 이러한 일을 맡은 이들이 앞서 말한 사람들을 세웠다고 하여, 무엇이 놀랍겠습니까? 온 집안에서 신실한 종인 복된 모세도 자신에게 명해진 모든 일을 거룩한 책들에 기록했습니다. 다른 예언자들도 그의 뒤를 따라, 그를 통해 정해진 법들을 함께 증언했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-43-1
+
+43.2
+제사장직을 두고 질투가 일어나고, 영광스러운 이름을 어느 지파가 지닐지 지파들이 다투었을 때, 모세는 열두 지파 우두머리에게 각 지파의 이름을 적은 지팡이를 자기에게 가져오라고 명했습니다. 그것들을 받아 묶고, 지파 우두머리들의 인장 반지로 봉인하여, 증언의 장막 안, 하나님의 상 위에 놓았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-43-2
+
+43.3
+장막을 닫고, 지팡이를 봉인한 것과 같은 방식으로 잠금장치도 봉인했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-43-3
+
+43.4
+그들에게 말했습니다. “형제 여러분, 어느 지파의 지팡이에 싹이 나면, 하나님께서 제사장 일을 하고 자신을 섬기도록 그 지파를 선택하신 것입니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-43-4
+
+43.5
+아침이 되자, 온 이스라엘, 육십만 명의 남자를 불러 모으고, 지파 우두머리들에게 봉인을 보여 주었습니다. 증언의 장막을 열고, 지팡이들을 꺼냈습니다. 아론의 지팡이는 싹이 났을 뿐 아니라, 열매까지 맺고 있었음이 드러났습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-43-5
+
+43.6
+사랑하는 여러분, 어떻게 생각합니까? 모세가 이 일이 일어나리라는 것을 미리 알지 못했겠습니까? 분명히 알았습니다. 이스라엘 가운데 혼란이 생기지 않도록 그렇게 행한 것입니다. 참되시고 유일하신 하나님의 이름이 영광을 받도록 한 것입니다. 그분께 영광이 영원무궁토록 있기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-43-6
+
+44.1
+우리의 사도들은 우리 주 예수 그리스도를 통하여, 감독직의 이름을 두고 다툼이 일어나리라는 것을 알았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-44-1
+
+44.2
+이 때문에 미리 온전히 알고, 앞서 말한 사람들을 세웠습니다. 그 뒤에 후속 규정도 주어, 그들이 잠들면 검증된 다른 사람들이 그들의 봉사를 이어받게 했습니다.
+
+번역 주석
+1. ἐπινομή는 이곳에서 직무를 이어 맡을 사람들에 관한 ‘후속 규정’으로 읽었다. 낱말의 독법과 뜻은 편집주에서도 논의된다. 문장은 먼저 세워진 이들이 죽은 뒤 다른 검증된 사람들이 직무를 계승하도록 한 조치를 설명한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-44-2
+
+44.3
+사도들이, 또는 그 뒤에 명망 있는 다른 사람들이 온 교회의 동의를 받아 세운 이들, 겸손하게, 조용하고 사심 없이 그리스도의 양 떼를 흠 없이 섬겼으며, 오랜 세월 모든 이에게 좋은 증언을 받은 이들을 그 봉사에서 내쫓는 것은 옳지 않다고 생각합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-44-3
+
+44.4
+흠 없이 거룩하게 예물을 바친 이들을 감독직에서 물러나게 한다면, 그것은 우리에게 작은 죄가 아닐 것입니다.
+
+번역 주석
+1. ἐπισκοπή는 맡겨진 감독 직무를 가리킨다. 문장의 쟁점은 흠 없이 예물을 드린 사람들을 그 직무에서 물러나게 하는 일이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-44-4
+
+44.5
+먼저 길을 떠난 장로들은 복됩니다. 열매 맺은 온전한 삶을 마치고 떠났으며, 자신들에게 마련된 자리에서 누군가 자기를 옮겨 놓을까 두려워하지 않기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-44-5
+
+44.6
+올바르게 살아온 몇 사람을 여러분이 그들이 흠 없이 명예롭게 수행하던 봉사에서 옮겨 놓았음을 우리는 보고 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-44-6
+
+45.1
+형제 여러분, 구원에 속하는 일들을 두고 경쟁하고 열심을 내십시오.
+
+번역 주석
+1. ἔστε는 이어지는 권면에 맞추어 명령으로 읽었다. 경쟁하고 열심을 낼 대상을 구원에 속한 일들로 돌리는 표현이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-1
+
+45.2
+성령을 통하여 주어진, 참된 거룩한 성경을 여러분은 깊이 살펴보았습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-2
+
+45.3
+그 안에는 불의하거나 거짓으로 꾸며진 일이 기록되어 있지 않음을 알고 있습니다. 거룩한 사람들이 의로운 이들을 내쫓은 사례는 찾지 못할 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-3
+
+45.4
+의로운 이들은 박해를 받았으나, 불법을 행하는 자들에게 받았습니다. 감옥에 갇혔으나, 불경한 자들에게 갇혔습니다. 법을 어기는 자들에게 돌에 맞았고, 더럽고 불의한 질투를 품은 자들에게 죽임을 당했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-4
+
+45.5
+이런 일을 겪으면서도 영예롭게 견뎠습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-5
+
+45.6
+형제 여러분, 무슨 말을 하겠습니까? 다니엘은 하나님을 경외하는 사람들에 의해 사자 굴에 던져졌습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-6
+
+45.7
+아니면 아나니아와 아자리아와 미사엘이 지극히 높으신 분을 향한 위엄 있고 영광스러운 예배를 드리는 이들에 의해 불가마에 갇혔습니까? 결코 그럴 수 없습니다. 그런 일을 한 이들은 누구입니까? 가증하고 온갖 악이 가득한 이들입니다. 그들은 그토록 분노를 일으켜, 거룩하고 흠 없는 뜻으로 하나님을 섬기는 이들을 학대 속에 몰아넣었습니다. 지극히 높으신 분께서 깨끗한 양심으로 그분의 온전히 선하신 이름을 섬기는 이들의 보호자이며 방패이심을 알지 못했습니다. 그분께 영광이 영원무궁토록 있기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-7
+
+45.8
+확신을 가지고 견딘 이들은 영광과 존귀를 상속받고, 높이 들렸으며, 하나님에 의해 그분의 기념책에 영원무궁토록 기록되었습니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-45-8
+
+46.1
+형제 여러분, 그러므로 우리도 이런 본보기들에 굳게 붙어 있어야 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-1
+
+46.2
+이렇게 기록되어 있습니다. “거룩한 이들에게 굳게 붙어 있으십시오. 그들에게 붙어 있는 이들은 거룩하게 될 것입니다.”
+
+번역 주석
+1. κολλᾶσθαι는 달라붙어 떨어지지 않는 모습을 나타낸다. 공동체의 본보기를 따르는 관계를 ‘굳게 붙어 있다’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-2
+
+46.3
+또 다른 곳에서는 이렇게 말합니다. “허물없는 사람과 함께하면 그대도 허물없을 것이고, 선택받은 이와 함께하면 그대도 선택받은 이가 될 것이며, 비뚤어진 이와 함께하면 그대도 비뚤어질 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-3
+
+46.4
+그러므로 허물없고 의로운 이들에게 굳게 붙어 있읍시다. 이들은 하나님께서 선택하신 이들입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-4
+
+46.5
+어찌하여 여러분 가운데 다툼과 분노, 분열과 분파, 싸움이 있습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-5
+
+46.6
+우리에게는 한 하나님이 계시고, 한 그리스도께서 계시며, 우리에게 부어 주신 한 은혜의 영이 계시지 않습니까? 그리스도 안에서 받은 부르심도 하나이지 않습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-6
+
+46.7
+어찌하여 그리스도의 지체들을 잡아당겨 갈라놓으며, 우리 자신의 몸을 거슬러 반란을 일으킵니까? 우리가 서로의 지체라는 사실을 잊어버릴 만큼 그토록 분별을 잃어버립니까? 주 예수의 말씀을 기억하십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-7
+
+46.8
+그분은 이렇게 말씀하셨습니다. “그 사람에게 화가 있다. 내가 선택한 이들 가운데 하나를 걸려 넘어지게 하느니, 태어나지 않았더라면 그에게 더 좋았을 것이다. 내가 선택한 이들 가운데 하나를 그릇되게 하느니, 맷돌을 둘러매고 바닷속에 빠지는 편이 그에게 더 나았을 것이다.”
+
+번역 주석
+1. 예수의 말씀은 태어나지 않았더라면 더 좋았을 사람과 맷돌을 둘러매고 바다에 빠지는 사람의 비유를 이어 제시한다. 두 문장에서 반복되는 대상은 ‘내가 선택한 이들 가운데 하나’이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-8
+
+46.9
+여러분의 분열은 많은 사람을 그릇되게 하고, 많은 사람을 낙담하게 했으며, 많은 사람을 의심에 빠뜨리고, 우리 모두를 슬프게 했습니다. 여러분의 분쟁은 여전히 이어지고 있습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-46-9
+
+47.1
+복된 사도 바울의 편지를 다시 집어 드십시오.
+
+번역 주석
+1. 바울의 편지를 다시 집어 들라는 명시적 요청이다. 뒤에서 바울, 게바, 아폴로를 언급하며 과거의 편 가르기와 현재의 분쟁을 비교한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-1
+
+47.2
+복음이 전해지기 시작할 때 그가 여러분에게 처음 쓴 내용은 무엇입니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-2
+
+47.3
+참으로 그는 성령의 인도를 받아 자신과 게바와 아폴로에 관하여 여러분에게 편지를 썼습니다. 그때에도 여러분이 편을 갈랐기 때문입니다.
+
+번역 주석
+1. πνευματικῶς는 성령의 인도를 받아 썼다는 뜻으로 읽었다. 이 서신이 바울의 편지를 어떻게 받아들이고 있는지 드러내는 표현이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-3
+
+47.4
+그러나 그때 편을 가른 일로 여러분이 지은 죄는 더 작았습니다. 인정받은 사도들과 그들에게서 검증받은 사람의 편을 들었기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-4
+
+47.5
+이제 살펴보십시오. 누가 여러분을 그릇되게 하고 널리 알려진 여러분의 형제 사랑이 지닌 고귀함을 떨어뜨렸습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-5
+
+47.6
+사랑하는 여러분, 아주 견고하고 오래된 고린토 교회가 한두 사람 때문에 장로들에게 맞서 분쟁을 일으킨다는 소식이 들리니, 부끄럽고 참으로 부끄러운 일이며, 그리스도 안에서 살아가는 이들에게 어울리지 않는 일입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-6
+
+47.7
+이 소문은 우리에게만 이른 것이 아니라 우리와 다른 길을 따르는 이들에게도 퍼졌습니다. 여러분의 어리석음 때문에 주님의 이름이 모독을 당하고, 여러분 스스로 위험을 초래한 것입니다.
+
+번역 주석
+1. ἑτεροκλινεῖς는 다른 쪽으로 기울거나 다른 길을 따르는 이들을 가리킨다. 문맥에서는 교회 밖으로도 분쟁의 소문이 퍼졌다는 뜻으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-47-7
+
+48.1
+그러므로 이 일을 신속히 없앱시다. 주님 앞에 엎드리고, 그분께 간청하며 울읍시다. 자비를 베푸시어 우리와 화해하시고, 형제 사랑으로 고귀하고 순결하게 살던 생활로 우리를 돌아가게 해 주시기를 빕시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-48-1
+
+48.2
+이것이 바로 생명을 향해 열려 있는 의의 문입니다. 이렇게 기록되어 있습니다. “의의 문들을 내게 열어 주십시오. 그 문들로 들어가 주님께 감사드리겠습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-48-2
+
+48.3
+이것이 주님의 문이다. 의로운 이들이 그 문으로 들어갈 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-48-3
+
+48.4
+많은 문이 열려 있어도, 의의 문은 그리스도 안에 있는 문입니다. 이 문으로 들어가 거룩함과 의로움으로 자신의 길을 곧게 걸으며, 흔들림 없이 모든 일을 이루는 이들은 모두 복됩니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-48-4
+
+48.5
+어떤 이가 신실하고, 지식을 설명할 능력이 있으며, 말을 분별하는 데 지혜롭고, 행실이 순결하다고 합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-48-5
+
+48.6
+자신이 더 위대해 보일수록 더욱 겸손해야 합니다. 모든 사람에게 유익한 것을 구하고, 자기 이익을 구하지 말아야 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-48-6
+
+49.1
+그리스도 안에서 사랑을 품은 사람은 그리스도의 명령을 실행하십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-49-1
+
+49.2
+하나님의 사랑이 맺어 주는 유대를 누가 설명할 수 있겠습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-49-2
+
+49.3
+그 아름다움의 위대함을 누가 충분히 말할 수 있겠습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-49-3
+
+49.4
+사랑이 우리를 이끌어 올리는 높이는 말로 다 표현할 수 없습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-49-4
+
+49.5
+사랑은 우리를 하나님께 굳게 붙여 줍니다. 사랑은 많은 죄를 덮습니다. 사랑은 모든 것을 견디고, 모든 일에 오래 참습니다. 사랑에는 비열함이 없고, 교만도 없습니다. 사랑에는 분열이 없고, 사랑은 분쟁을 일으키지 않습니다. 사랑은 화합 가운데 모든 일을 합니다. 하나님께 선택받은 모든 사람은 사랑 안에서 완성되었습니다. 사랑이 없으면 하나님을 기쁘시게 하는 것이 하나도 없습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-49-5
+
+49.6
+주님께서는 사랑으로 우리를 받아 주셨습니다. 우리 주 예수 그리스도께서는 우리를 향한 사랑 때문에 하나님의 뜻에 따라 우리를 위하여 자신의 피를 주셨고, 우리의 육신을 위하여 자신의 육신을, 우리의 생명을 위하여 자신의 생명을 주셨습니다.
+
+번역 주석
+1. ψυχή는 생명과 영혼을 가리킬 수 있다. 피와 육신을 내주신 일에 이어지는 이 문맥에서는 ‘생명’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-49-6
+
+50.1
+사랑하는 여러분, 사랑이 얼마나 크고 놀라운지 보십시오. 그 완전함은 말로 다 표현할 수 없습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-1
+
+50.2
+하나님께서 합당하게 여겨 주신 사람이 아니라면, 누가 그 사랑 안에 있을 수 있겠습니까? 그러므로 그분의 자비에 의지하여 기도하며 구합시다. 사람의 편을 드는 일 없이 흠 없는 이들로 사랑 안에 있게 해 주시기를 빕시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-2
+
+50.3
+아담부터 오늘까지 모든 세대가 지나갔습니다. 그러나 사랑 안에서 완성된 이들은 하나님의 은혜를 따라 경건한 이들의 자리를 얻었으며, 그리스도의 나라가 찾아올 때 나타날 것입니다.
+
+번역 주석
+1. ἐπισκοπή는 찾아와 살피는 일을 뜻한다. 여기서는 그리스도의 나라가 드러나는 때와 연결하여 ‘그리스도의 나라가 찾아올 때’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-3
+
+50.4
+이렇게 기록되어 있습니다. “나의 진노와 분노가 지나갈 때까지 잠깐 동안 너희 방 안으로 들어가거라. 좋은 날을 내가 기억하고, 너희 무덤에서 너희를 일으키겠다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-4
+
+50.5
+사랑하는 여러분, 우리가 사랑으로 화합하여 하나님의 명령을 행한다면, 사랑을 통하여 우리의 죄를 용서받게 될 것이니, 우리는 복됩니다.
+
+번역 주석
+1. 채택 본문의 ἐποιοῦμεν은 과거형이다. 조건절 전체는 사랑으로 화합하여 계명을 행하는 삶을 권면하는 문맥에 따라 ‘행한다면’으로 옮겼다. Lake는 각주에서 이 동사 형태의 문제를 다룬다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-5
+
+50.6
+이렇게 기록되어 있습니다. “불법을 용서받고 죄가 덮인 이들은 복되다. 주님께서 죄를 따져 묻지 않으시고, 그 입에 속임이 없는 사람은 복되다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-6
+
+50.7
+우리 주 예수 그리스도를 통하여 하나님께 선택받은 이들에게 이 복이 주어졌습니다. 그분께 영광이 영원무궁하기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-50-7
+
+51.1
+그러므로 대적자가 틈타는 바람에 우리가 잘못하고 저지른 일들을 용서해 주시기를 청합시다. 분쟁과 분열을 앞장서 일으킨 이들은 우리가 함께 품은 소망을 생각해야 합니다.
+
+번역 주석
+1. παρεμπτώσεις는 끼어듦이나 침입을 뜻한다. 이곳에서는 대적자가 틈타서 잘못을 일으키는 일로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-51-1
+
+51.2
+경외와 사랑으로 살아가는 이들은 이웃이 고통을 당하기보다 자신이 고통을 당하기를 원합니다. 우리에게 선하고 의롭게 전해진 화합이 비난받기보다 자신이 비난을 감당하려 합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-51-2
+
+51.3
+사람에게는 자기 마음을 완고하게 하기보다 잘못을 고백하는 것이 좋기 때문입니다. 하나님의 종 모세에게 맞서 반란을 일으킨 이들의 마음이 완고해졌고, 그들이 받은 심판은 명백히 드러났습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-51-3
+
+51.4
+그들은 산 채로 지하 세계로 내려갔으며, 죽음이 그들을 다스릴 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-51-4
+
+51.5
+파라오와 그의 군대, 이집트의 모든 통치자, 병거와 그 위에 탄 이들이 홍해에 빠져 죽은 데는 다른 이유가 없었습니다. 하나님의 종 모세를 통하여 이집트 땅에서 표징과 기적이 일어난 뒤에도, 그들의 미련한 마음이 완고해졌기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-51-5
+
+52.1
+형제 여러분, 주님께서는 아무것도 부족함이 없으십니다. 그분께 감사드리는 것 외에는 누구에게서도 아무것도 필요로 하지 않으십니다.
+
+번역 주석
+1. ἐξομολογεῖσθαι는 고백과 감사, 찬양에 쓰이는 말이다. 이어지는 다윗의 노래와 찬양의 제사에 맞추어 여기서는 감사드림으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-52-1
+
+52.2
+선택받은 다윗이 이렇게 말합니다. “주님께 감사드리겠습니다. 뿔과 굽이 자라난 어린 수소보다 그것이 그분을 더 기쁘시게 할 것입니다. 가난한 이들은 이를 보고 기뻐하십시오.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-52-2
+
+52.3
+또 이렇게 말합니다. “하나님께 찬양의 제사를 바치고, 지극히 높으신 분께 네 서원을 갚아라. 네가 고난을 당하는 날에 나를 불러라. 내가 너를 구하겠고, 너는 나를 영화롭게 할 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-52-3
+
+52.4
+하나님께 드리는 제사는 깨어진 영입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-52-4
+
+53.1
+사랑하는 여러분, 여러분은 거룩한 성경을 알고 또 잘 알고 있으며, 하나님의 말씀을 깊이 살펴 왔습니다. 그러므로 여러분이 기억하도록 이것을 씁니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-53-1
+
+53.2
+모세가 산에 올라가 금식하며 자신을 낮추고 밤낮 사십 일을 보냈을 때, 하나님께서 그에게 말씀하셨습니다. “여기서 어서 내려가거라. 네가 이집트 땅에서 이끌어 낸 네 백성이 불법을 저질렀다. 네가 그들에게 명한 길에서 그들은 금세 벗어나 자기들을 위해 주조한 우상들을 만들었다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-53-2
+
+53.3
+주님께서 그에게 또 말씀하셨습니다. “내가 한 번 두 번 네게 말했다. 이 백성을 내가 보았다. 보아라, 목이 뻣뻣하다. 그들을 멸하도록 나를 내버려두어라. 하늘 아래에서 그들의 이름을 지워 버리고, 너를 이들보다 훨씬 큰 위대하고 놀라운 민족으로 만들겠다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-53-3
+
+53.4
+모세가 말했습니다. “주님, 결코 안 됩니다. 이 백성의 죄를 용서해 주십시오. 그러실 수 없다면 살아 있는 이들의 책에서 저도 지워 주십시오.”
+
+번역 주석
+1. 모세의 기도는 백성의 죄를 용서해 달라는 요청과, 그렇지 않으면 자신도 살아 있는 이들의 책에서 지워 달라는 요청을 잇는다. 백성을 위한 중재의 본보기로 제시된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-53-4
+
+53.5
+아, 위대한 사랑이여! 아, 더없이 완전함이여! 종이 주님께 담대히 말하고, 무리를 위해 용서를 청합니다. 그러실 수 없다면 그들과 함께 자신도 지워 달라고 요청합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-53-5
+
+54.1
+그러면 여러분 가운데 누가 고결합니까? 누가 자비로우며, 누가 사랑으로 가득 차 있습니까?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-54-1
+
+54.2
+그 사람은 이렇게 말하십시오. “나 때문에 분쟁과 다툼과 분열이 일어났다면, 나는 물러나겠습니다. 여러분이 원하는 곳으로 떠나고, 회중이 명하는 일을 하겠습니다. 오직 그리스도의 양 떼가 임명받은 장로들과 함께 평화를 누리게 하십시오.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-54-2
+
+54.3
+이렇게 하는 사람은 그리스도 안에서 큰 명예를 얻을 것이며, 어디서든 그를 받아 줄 것입니다. 땅과 그 안에 가득한 것이 주님의 것이기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-54-3
+
+54.4
+하나님께 속하여 후회할 것 없는 생활을 하는 이들은 이런 일을 해 왔고, 앞으로도 할 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-54-4
+
+55.1
+이방 민족의 본보기도 들어 봅시다. 많은 왕과 통치자들은 역병이 닥쳤을 때 신탁을 받고, 자기 피로 시민들을 구하려고 자신을 죽음에 내주었습니다. 많은 이들이 더는 분쟁을 일으키지 않으려고 자기 도시를 떠났습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-55-1
+
+55.2
+우리 가운데서도 다른 사람을 풀어 주려고 스스로 결박당한 많은 이들을 우리는 알고 있습니다. 많은 이들이 종으로 자신을 내주고, 그 몸값을 받아 다른 사람들을 먹였습니다.
+
+번역 주석
+1. 서신은 다른 이를 풀어 주기 위해 스스로 결박당한 이들과, 자신을 종으로 내주고 그 몸값으로 다른 이를 먹인 이들을 차례로 언급한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-55-2
+
+55.3
+많은 여성이 하나님의 은혜로 힘을 얻어 용감한 일들을 많이 이루었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-55-3
+
+55.4
+복된 유딧은 도시가 포위되었을 때, 이방인들의 진영으로 나가도록 허락해 달라고 장로들에게 청했습니다.
+
+번역 주석
+1. 유딧의 이야기는 공동체를 구하려고 위험을 감수한 여성의 본보기이다. 본문은 장로들의 허락을 구한 일과 적진으로 나아간 일을 연결한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-55-4
+
+55.5
+그리하여 조국과 포위당한 백성을 사랑하여, 위험에 자신을 내맡기고 나갔습니다. 주님께서는 홀로페르네스를 여자의 손에 넘기셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-55-5
+
+55.6
+마찬가지로 믿음이 온전한 에스테르도 멸망할 위기에 놓인 이스라엘 민족을 구하려고 자신을 위험에 내맡겼습니다. 그녀는 금식하며 자신을 낮추어 모든 것을 보시는 영원하신 주님께 간청했습니다. 그분께서는 그녀의 낮아진 마음을 보시고, 그녀가 목숨을 걸고 구하려 했던 백성을 건져 주셨습니다.
+
+번역 주석
+1. 에스테르의 금식과 겸비, 하나님을 향한 간청이 민족을 구한 일과 연결된다. ‘모든 것을 보시는 분’은 여기서 하나님을 가리키는 호칭이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-55-6
+
+56.1
+그러므로 우리도 어떤 잘못에 빠진 이들을 위하여 기도합시다. 온유함과 겸손이 그들에게 주어져, 우리에게가 아니라 하나님의 뜻에 따르게 해 주시기를 빕시다. 그러면 하나님과 성도들 앞에서 그들을 불쌍히 여겨 기억하는 일이 그들에게 알찬 열매를 맺고 완전해질 것입니다.
+
+번역 주석
+1. μνεία는 기억하거나 언급하는 일이다. 잘못에 빠진 이들을 위해 기도하라는 문맥을 따라, 하나님과 성도들 앞에서 그들을 불쌍히 여겨 기억하는 일로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-1
+
+56.2
+사랑하는 여러분, 훈계를 받아들입시다. 그 훈계를 두고 누구도 분개해서는 안 됩니다. 우리가 서로에게 하는 권면은 선하며 더없이 유익합니다. 하나님의 뜻에 우리를 굳게 붙여 주기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-2
+
+56.3
+거룩한 말씀은 이렇게 말합니다. “주님께서는 나를 거듭 훈계하셨으나, 죽음에 넘기지는 않으셨다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-3
+
+56.4
+주님께서는 사랑하는 이를 훈계하시며, 받아들이시는 모든 아들을 채찍질하십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-4
+
+56.5
+말씀은 또 이렇게 말합니다. “의로운 이가 자비로 나를 훈계하고 꾸짖게 하십시오. 죄인들의 기름이 내 머리를 윤택하게 하지 못하게 하십시오.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-5
+
+56.6
+또 이렇게 말합니다. “주님께서 꾸짖으신 사람은 복되다. 전능하신 분의 권면을 물리치지 말아라. 그분은 아프게도 하시고 다시 회복시키기도 하신다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-6
+
+56.7
+그분께서 치셨다가, 그 손으로 고치셨다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-7
+
+56.8
+여섯 번 곤경에서 너를 건지실 것이며, 일곱 번째에는 재앙이 너를 건드리지 못할 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-8
+
+56.9
+기근 때에는 죽음에서 너를 구하시고, 전쟁 때에는 칼의 손아귀에서 너를 빼내실 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-9
+
+56.10
+혀의 채찍에서 너를 숨겨 주실 것이며, 재앙이 닥쳐도 너는 두려워하지 않을 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-10
+
+56.11
+불의하고 무법한 이들을 비웃을 것이며, 들짐승들을 두려워하지 않을 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-11
+
+56.12
+들짐승들이 너와 평화롭게 지낼 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-12
+
+56.13
+그때 네 집이 평안하리라는 것을 알게 될 것이며, 네 장막에서 살아가는 데 부족함이 없을 것이다.
+
+번역 주석
+1. δίαιτα는 생활이나 거처의 형편을 가리킨다. 장막에서 살아가는 데 탈이나 부족함이 없다는 뜻으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-13
+
+56.14
+네 자손이 많아지고, 네 자녀들이 들의 온갖 풀과 같아지리라는 것을 알게 될 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-14
+
+56.15
+제때 거두어들이는 익은 곡식처럼, 철에 맞게 모아들이는 타작마당의 곡식 더미처럼, 너는 무덤에 들어갈 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-15
+
+56.16
+사랑하는 여러분, 주님께 훈계를 받는 이들에게 얼마나 큰 보호가 있는지 보십시오. 그분은 선한 아버지이시기에, 자신의 거룩한 훈계를 통하여 우리가 자비를 입도록 훈계하십니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-56-16
+
+57.1
+그러므로 이 분쟁의 토대를 놓은 여러분은 장로들에게 복종하고, 여러분 마음의 무릎을 꿇으며, 회개하도록 훈계를 받으십시오.
+
+번역 주석
+1. ‘마음의 무릎을 꿇다’는 속사람의 복종과 회개를 나타내는 비유이다. 앞장서 분쟁을 일으킨 이들을 직접 부르며 하는 권면이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-1
+
+57.2
+여러분의 혀에 담긴 허세와 교만한 고집을 버리고, 복종하기를 배우십시오. 뛰어난 사람으로 보이다가 그리스도께서 주시는 소망에서 쫓겨나기보다, 그리스도의 양 떼 가운데 작더라도 존중받는 사람이 되는 편이 여러분에게 더 낫습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-2
+
+57.3
+모든 덕을 갖춘 지혜가 이렇게 말합니다. “보아라, 내 숨결의 말을 너희에게 내보내고, 내 말을 너희에게 가르치겠다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-3
+
+57.4
+내가 불렀으나 너희는 듣지 않았고, 말을 펼쳐 놓았으나 귀를 기울이지 않았다. 내 조언을 무효로 만들고, 내 책망을 따르지 않았다. 그러므로 나도 너희가 멸망할 때 비웃고, 너희에게 파멸이 닥칠 때 즐거워하겠다. 갑자기 너희에게 소란이 닥치고, 폭풍처럼 재난이 몰려오거나, 너희에게 고난과 포위가 닥칠 때에 그러하겠다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-4
+
+57.5
+그때 너희가 나를 불러도 나는 너희에게 응답하지 않을 것이다. 악인들이 나를 찾아도 찾지 못할 것이다. 그들은 지혜를 미워하고, 주님을 경외하기를 택하지 않았으며, 내 조언에 귀 기울이기를 원하지 않고, 내 책망을 비웃었기 때문이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-5
+
+57.6
+그러므로 그들은 자기 길의 열매를 먹고, 자신의 불경함으로 배부를 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-6
+
+57.7
+어린 이들을 부당하게 대했기에 죽임을 당할 것이며, 심문이 불경한 이들을 멸할 것이다. 그러나 내 말을 듣는 이는 소망을 굳게 믿고 살 것이며, 어떤 재앙도 두려워하지 않고 평온히 지낼 것이다.”
+
+번역 주석
+1. νηπίους는 어린 이들이나 미숙한 이들을 뜻한다. 채택된 잠언 인용의 목적어를 따라 ‘어린 이들’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-57-7
+
+58.1
+그러므로 그분의 지극히 거룩하고 영광스러운 이름에 순종합시다. 지혜가 불순종하는 이들에게 미리 말한 경고를 피하고, 그분의 위엄을 드러내는 지극히 거룩한 이름을 굳게 믿으며 살아갑시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-58-1
+
+58.2
+우리의 권고를 받아들이십시오. 여러분은 후회하지 않을 것입니다. 선택받은 이들의 믿음과 소망이신 하나님과 주 예수 그리스도와 성령께서 살아 계심을 두고 말합니다. 하나님께서 주신 규례와 명령을 겸손하게, 진실한 온유함으로, 뉘우칠 일 없이 행하는 사람은 예수 그리스도를 통하여 구원받는 이들의 수에 포함되어 존중받을 것입니다. 그리스도를 통하여 하나님께 영광이 영원무궁하기를 빕니다. 아멘.
+
+번역 주석
+1. 하나님과 주 예수 그리스도와 성령의 살아 계심을 두고 확언하는 맹세 구문이다. 이어지는 ‘선택받은 이들의 믿음과 소망’은 이 호칭들을 설명하는 말로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-58-2
+
+59.1
+그분께서 우리를 통하여 하신 말씀에 어떤 이들이 불순종한다면, 스스로를 죄와 위험에 크게 얽어매게 되리라는 것을 알아 두십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-59-1
+
+59.2
+우리는 이 죄에 대하여 책임이 없을 것입니다. 간절히 기도하고 간구하며 청하겠습니다. 만물의 창조주께서 온 세상에서 선택하신 이들의 정해진 수를 사랑하시는 종 예수 그리스도를 통하여 온전히 지켜 주시기를 빕니다. 그분을 통하여 어둠에서 빛으로, 무지에서 하나님의 이름이 지닌 영광을 아는 데로 우리를 불러 주셨습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-59-2
+
+59.3
+... 모든 피조물의 근원이신 당신의 이름에 희망을 둡니다. 당신께서는 우리 마음의 눈을 열어 가장 높은 곳에 계시는 홀로 지극히 높으신 분, 거룩한 이들 가운데 쉬시는 거룩한 분이심을 알게 해 주셨습니다. 교만한 이들의 오만을 꺾으시고, 민족들의 계략을 무너뜨리시며, 낮은 이들을 높이 올리시고 높은 이들을 낮추십니다. 부유하게도 하시고 가난하게도 하시며, 죽이기도 하시고 살리기도 하시는 분, 영들의 유일한 창시자이시며 모든 육신의 하나님이십니다. 깊은 심연을 들여다보시고, 사람들의 행위를 살피시는 분, 위험에 처한 이들을 돕는 분이시며, 절망한 이들의 구원자이십니다. 모든 영의 창조주이자 감독이시며, 땅 위에서 민족들이 번성하게 하시고, 사랑하시는 종 예수 그리스도를 통하여 모든 사람 가운데서 당신을 사랑하는 이들을 선택하셨습니다. 그분을 통하여 우리를 가르치시고, 거룩하게 하시며, 존귀하게 하셨습니다.
+
+번역 주석
+1. 첫머리의 세 점은 Lake가 표시한 결락이다. 뒤에 남은 부정사 ἐλπίζειν은 한국어 문장의 흐름에 맞추어 ‘희망을 둡니다’로 옮겼다. 결락에 해당하는 말은 세 점으로 표시한다.
+2. εὑρέτης는 찾아내거나 창시하는 이를 뜻한다. 영들의 근원을 말하는 이 문맥에서는 ‘창시자’로 읽었다. 이어지는 ἐπίσκοπος는 모든 영을 살피고 돌보시는 하나님의 호칭이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-59-3
+
+59.4
+주님, 당신께 청합니다. 우리를 돕고 붙들어 주십시오. 우리 가운데 고난당하는 이들을 구하시고, 낮은 이들을 불쌍히 여기시며, 넘어진 이들을 일으키시고, 궁핍한 이들에게 나타나 주십시오. 병든 이들을 고치시고, 당신의 백성 가운데 길 잃은 이들을 돌아오게 해 주십시오. 굶주린 이들을 배불리시고, 우리 가운데 갇힌 이들을 풀어 주시며, 쇠약해진 이들을 일으키시고, 낙심한 이들을 위로해 주십시오. 모든 민족이 당신만이 홀로 하나님이시며, 예수 그리스도께서 당신의 종이시고, 우리는 당신의 백성이자 당신 목장의 양들임을 알게 해 주십시오.
+
+번역 주석
+1. παῖς는 아이나 종을 가리킬 수 있다. 예수 그리스도를 하나님의 구원 활동과 연결하는 이 기도에서는 ‘종’으로 옮겼으며, 59.2, 59.3에서도 같은 선택을 따랐다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-59-4
+
+60.1
+당신께서는 행하시는 일들을 통하여 세상의 영속하는 질서를 드러내셨습니다. 주님, 당신께서 온 세상을 창조하셨습니다. 모든 세대에 걸쳐 신실하시고, 심판하실 때 의로우시며, 능력과 위엄에서 놀라우신 분, 창조하실 때 지혜로우시고, 지으신 것들을 굳게 세우실 때 총명하신 분, 눈에 보이는 것들을 통하여 선하심을 드러내시고, 당신을 믿고 의지하는 이들에게 너그러우시며, 자비롭고 불쌍히 여기시는 분이여, 우리의 불법과 불의, 잘못과 허물을 용서해 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-60-1
+
+60.2
+당신의 남종들과 여종들의 모든 죄를 따져 묻지 마시고, 당신의 진리로 우리를 깨끗하게 해 주십시오. 거룩한 마음으로 걸으며, 당신 앞에서, 또 우리 통치자들 앞에서 선하고 기뻐하실 일을 행하도록 우리 발걸음을 곧게 인도해 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-60-2
+
+60.3
+참으로 주님, 평화 가운데 복을 내리시어 당신의 얼굴을 우리 위에 비추어 주십시오. 당신의 강한 손으로 우리를 보호해 주시고, 높이 드신 팔로 모든 죄에서 건져 주십시오. 우리를 부당하게 미워하는 이들에게서 우리를 구해 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-60-3
+
+60.4
+우리 조상들이 거룩하게, 믿음과 진실함으로 당신을 불렀을 때 그들에게 주셨듯이, 우리와 땅에 사는 모든 이에게 화합과 평화를 주십시오. 당신의 전능하고 영광스러운 이름과 이 땅에서 우리를 다스리고 이끄는 이들에게 우리가 순종하게 해 주십시오.
+
+번역 주석
+1. 조상들에게 주셨던 평화를 현재의 공동체와 온 땅의 사람들에게도 달라는 청원이다. 이어 하나님의 이름과 땅의 통치자들에게 순종하는 삶을 구한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-60-4
+
+61.1
+주님께서는 위대하고 말로 다 할 수 없는 권능으로 그들에게 통치 권한을 주셨습니다. 당신께서 그들에게 주신 영광과 존귀를 우리가 알고, 당신의 뜻을 조금도 거스르지 않으며, 그들에게 순종하게 하려는 것입니다. 주님, 건강과 평화와 화합과 안정을 그들에게 주시어, 당신께서 그들에게 주신 통치권을 거리낌 없이 수행하게 해 주십시오.
+
+번역 주석
+1. 기도는 하나님께서 통치자들에게 권한을 주셨다고 말하며, 그들이 이를 바르게 수행하도록 건강, 평화, 화합, 안정을 구한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-61-1
+
+61.2
+하늘에 계신 주님, 영원하신 왕이여, 당신께서 사람의 아들들에게 영광과 존귀와, 땅 위의 것들을 다스리는 권한을 주십니다. 주님께서는 그들의 뜻을 당신 앞에서 선하고 기뻐하실 방향으로 이끌어 주십시오. 평화롭고 온유하게, 경건함으로 당신께서 그들에게 주신 권한을 수행하여, 당신의 자비를 얻게 해 주십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-61-2
+
+61.3
+우리에게 이런 일들과 더 많은 좋은 일을 행하실 수 있는 유일한 분이여, 대제사장이시며 우리 영혼의 보호자이신 예수 그리스도를 통하여 당신께 감사드립니다. 그분을 통하여 당신께 영광과 위엄이 지금도 대대로 영원무궁하기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-61-3
+
+62.1
+형제 여러분, 우리의 신앙생활에 관한 일들과, 경건하고 의롭게 나아가기를 바라는 이들이 덕 있는 삶을 사는 데 가장 유익한 일들을 여러분에게 충분히 써 보냈습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-62-1
+
+62.2
+믿음과 회개, 진실한 사랑, 절제와 신중함, 인내에 관하여 모든 면을 살폈습니다. 의로움과 진실함과 오래 참음으로 전능하신 하나님을 거룩하게 기쁘시게 해야 한다고 여러분에게 일깨워 주었습니다. 원한을 품지 않고, 사랑과 평화 안에서 진실한 온유함으로 화합해야 합니다. 이것은 앞서 말한 우리 조상들이 아버지이자 창조주이신 하나님과 모든 사람을 향하여 겸손한 태도를 지녀 하나님을 기쁘시게 한 것과 같습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-62-2
+
+62.3
+우리는 이런 일들을 더욱 기쁜 마음으로 일깨웠습니다. 신실하고 깊이 존중받으며, 하나님의 가르침이 담긴 말씀을 깊이 살펴 온 사람들에게 우리가 편지를 쓰고 있음을 분명히 알았기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-62-3
+
+63.1
+그러므로 이토록 훌륭하고 많은 본보기를 대하며 목을 숙이고, 순종의 자리를 채우는 것이 마땅합니다. 헛된 분쟁을 그치고, 우리 앞에 놓인 목표에 진실하게, 아무 흠 없이 도달합시다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-63-1
+
+63.2
+성령을 통하여 우리가 쓴 것에 여러분이 순종하고, 이 편지에서 평화와 화합을 위하여 우리가 드린 간청을 따라, 여러분의 시기가 일으킨 부당한 분노를 잘라 낸다면, 우리에게 기쁨과 즐거움을 줄 것입니다.
+
+번역 주석
+1. 편지의 발신자들은 자신들이 성령을 통하여 썼다고 표현한다. διὰ τοῦ ἁγίου πνεύματος를 그 쓰는 행위에 연결해 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-63-2
+
+63.3
+젊을 때부터 노년에 이르기까지 우리 가운데서 흠 없이 살아온 신실하고 신중한 사람들을 보냈습니다. 그들은 또한 여러분과 우리 사이에서 증인이 될 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-63-3
+
+63.4
+여러분이 속히 평화를 되찾는 일에 우리가 온 관심을 기울여 왔고 지금도 기울이고 있음을 여러분이 알도록 이렇게 했습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-63-4
+
+64.1
+끝으로, 모든 것을 보시는 하나님, 영들의 주권자이시며 모든 육신의 주인이신 분, 주 예수 그리스도를 선택하시고 그분을 통하여 우리도 자신의 특별한 백성으로 삼으신 분께서, 그분의 위대하고 거룩한 이름을 부르는 모든 영혼에게 믿음과 경외와 평화, 인내와 오래 참음, 절제와 순결과 신중함을 주시기를 빕니다. 우리의 대제사장이자 보호자이신 예수 그리스도를 통하여 하나님의 이름을 기쁘시게 하려는 것입니다. 그리스도를 통하여 하나님께 영광과 위엄, 권능과 존귀가 지금도 영원무궁하기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-64-1
+
+65.1
+우리가 보낸 클라우디우스 에페부스와 발레리우스 비톤을 포르투나투스와 함께 평안히, 기쁜 마음으로, 속히 우리에게 돌려보내 주십시오. 우리가 기도하며 애타게 바라는 평화와 화합을 그들이 어서 알려 주고, 여러분의 안정된 모습을 두고 우리도 빨리 기뻐할 수 있게 해 주십시오.
+
+번역 주석
+1. 클라우디우스 에페부스와 발레리우스 비톤은 로마에서 보낸 사람들로 소개된다. 포르투나투스는 이들과 함께 돌아올 사람으로 언급된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-65-1
+
+65.2
+우리 주 예수 그리스도의 은혜가 여러분과, 어디서나 그분을 통하여 하나님께 부르심을 받은 모든 사람과 함께하기를 빕니다. 그리스도를 통하여 하나님께 영광과 존귀, 권능과 위엄, 영원한 왕좌가 태초부터 영원무궁하기를 빕니다. 아멘.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-65-2
+
+끝맺음 표제
+로마인들이 고린토인들에게 보낸 편지.
+
+번역 주석
+1. 인쇄본은 마지막 인사 뒤에 ‘로마인들이 고린토인들에게 보낸 편지’라는 표제를 둔다. 이 끝맺음 표제는 편지 본문 65.2와 구분해 별도의 위치로 제공한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/clement-1-corinthians/index.html#p-subscriptio-1
+
+출처·이용 조건
+
+이 저장소의 한국어 AI 번역 시제품; Codex AI 생성
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음
+
+Lake판을 근거로 한 Codex AI의 요약·메모
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위
+
+OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+First1KGreek에서 가공한 그리스어 자료

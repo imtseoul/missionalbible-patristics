@@ -1,0 +1,199 @@
+무라토리 단편
+익명
+
+자료 판본: alpha-0.24.4
+수록 범위: Westcott 1896의 현존 라틴어 단편 전체. §1-§22는 이 저장소의 단락 구분
+고정판: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html
+원자료 SHA-256: 6002c8181d0ea52e18d89eb8c2e68a7c527beaed6b2c3da536de27a61dca7efa
+
+형식: 한국어
+
+§1
+... 그는 그 일들에 함께 있었으며, 그렇게 기록했다.
+
+번역 주석
+1. 현존 단편은 앞 문장의 일부에서 시작한다. 이 단락의 ‘그’와 ‘그 일들’이 가리키는 대상은 앞부분의 결락 때문에 해석의 대상이다. Westcott는 마가가 베드로에게서 들은 일을 기록했다는 맥락으로 읽는다. 이 사이트의 1-22는 읽기와 인용을 위해 붙인 자체 단락 번호이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-1
+
+§2
+세 번째 복음서는 누가에 따른 것이다. 이 의사 누가는 그리스도께서 승천하신 뒤, 바울이 그를 법률에 힘쓰는 사람처럼 보조자로 삼았을 때, 전해 들은 바에 따라 자기 이름으로 기록했다. 그러나 그 자신도 육신으로 계신 주님을 보지는 못했다. 그는 알아낼 수 있었던 대로 요한의 탄생에서부터 이야기를 시작했다.
+
+번역 주석
+1. 본문의 †ut iuris studiosum secundum은 손상된 구절이다. 여기서는 남아 있는 iuris studiosum을 ‘법률에 힘쓰는 사람’, secundum을 ‘보조자’로 잠정적으로 읽었다. Westcott의 각주는 secum으로 고치는 안과, Hort의 ‘자신의 여행 동료’라는 교정안을 함께 제시한다.
+2. ex opinione는 전해 들은 바에 근거한다는 뜻으로 읽었다. 이 단편은 누가를 의사로 소개하고, 주님을 육신으로 직접 보지 못했다는 진술과 자료를 알아내어 기록했다는 진술을 함께 둔다. 여기서 탄생이 언급된 요한은 누가복음 첫머리의 세례 요한으로 읽힌다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-2
+
+§3
+네 번째 복음서는 제자들 가운데 한 사람인 요한의 것이다.
+
+번역 주석
+1. Westcott는 Quarti Euangeliorum을 단검표로 감싸 손상된 표제 구문으로 제시한다. 문맥을 따라 네 번째 복음서의 저자로 요한을 소개하는 말로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-3
+
+§4
+동료 제자들과 그의 감독들이 권하자, 그는 말했다. “오늘부터 사흘 동안 나와 함께 금식합시다. 각 사람에게 계시된 것을 서로 이야기합시다.” 그날 밤 사도들 가운데 한 사람인 안드레아에게 계시가 내렸다. 모두가 확인하는 가운데 요한이 자기 이름으로 모든 것을 기록하라는 것이었다. ...
+
+번역 주석
+1. 대괄호 속 [Is]는 Westcott가 보충한 주어이다. 본문은 동료 제자들과 감독들의 요청, 사흘간의 금식, 안드레아가 받은 계시, 요한의 기록이라는 순서로 저술 전승을 제시한다. 마지막 세 점은 Westcott의 별표 구분을 옮긴 것으로, 편집자가 판단한 문맥 단절을 표시한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-4
+
+§5
+그러므로 각 복음서에서 서로 다른 시작을 가르치더라도, 믿는 이들의 신앙에는 아무 차이가 없다. 하나이며 주권을 지닌 성령을 통하여 모든 복음서에 모든 일이 밝혀졌기 때문이다. 탄생과, 수난과, 부활과, 자신의 제자들과 함께 지내신 일,
+
+번역 주석
+1. principia는 시작이나 출발점을 뜻한다. 각 복음서의 서로 다른 시작과, 한 성령이 전하는 공통 내용을 연결한다. principali spiritu는 주권을 지니고 이끄는 영으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-5
+
+§6
+또 그분의 두 번의 오심에 관한 일이다. 첫 번째 오심은 낮아져 멸시를 받으신 것으로, 이미 이루어졌다. 두 번째 오심은 왕의 권능으로 영광스럽게 오시는 것으로, 앞으로 이루어질 것이다. ...
+
+번역 주석
+1. 앞 단락의 공통 내용 열거를 이어받는다. 첫 번째 오심은 이미 이루어진 낮아짐, 두 번째 오심은 앞으로 있을 왕의 영광으로 서술된다. 어형 aduento와 despectûs, 별표는 채택 본문에 따른 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-6
+
+§7
+그러므로 요한이 자신의 편지들에서도 그토록 일관되게 하나하나의 일을 제시하고, 자신에 관하여 말하기를, “우리 눈으로 보고, 귀로 듣고, 우리 손으로 만진 것들을 우리가 썼다”라고 한다고 해서, 무엇이 놀랍겠는가?
+
+번역 주석
+1. 요한의 편지에서 가져온 인용을 그 단편의 형태로 옮겼다. Westcott 본문은 haec scripsimus로 끝나며, Tregelles의 전사본은 그 뒤에 uobis도 싣는다. 두 판본의 차이를 원문 대조 정보로 구분한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-7
+
+§8
+이처럼 그는 목격자일 뿐 아니라 직접 들은 사람이며, 주님의 모든 놀라운 일을 차례대로 기록한 사람이라고 자신을 밝힌다.
+
+번역 주석
+1. 대괄호 속 [se]는 Westcott의 보충이다. 목격자, 청취자, 기록자라는 세 역할을 한 사람에게 연결한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-8
+
+§9
+모든 사도들의 행적은 한 책에 기록되어 있다. 누가는 테오필로를 위하여 아주 잘 묶어 기록했다. 그가 보는 앞에서 각각의 일이 벌어졌기 때문이다. 베드로의 수난과, 그 도시에서 스페인으로 향한 바울의 출발을 빼놓았다는 점도 이를 분명히 드러낸다. ...
+
+번역 주석
+1. †semote부터 문장 끝까지는 Westcott가 손상된 구문으로 표시한 범위이다. 여기서는 사도행전이 베드로의 수난과 바울의 스페인행을 생략했다는 뜻으로 잠정적으로 읽었다. Westcott는 격과 동사를 달리 고치는 해석도 비교한다.
+2. ab urbe는 ‘그 도시에서’이다. 구체적인 도시 이름은 이 구문에서 생략되어 있다. 스페인은 라틴어 Spaniam을 옮긴 것으로, 고대 이베리아 지역을 가리키는 표현이다. 페이지를 넘는 euidenter는 하나의 낱말로 결합했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-9
+
+§10
+바울의 편지들은 어떤 편지가, 어디에서, 무슨 이유로 보내졌는지 알고자 하는 사람들에게 스스로 설명해 준다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-10
+
+§11
+무엇보다 먼저 고린토인들에게 이단의 분열을 금하면서, 그다음 갈라디아인들에게 할례를 금하면서, 로마인들에게는 성경의 질서를 따라, 성경의 근원이 그리스도이심을 아울러 알리면서 길게 썼다.
+
+번역 주석
+1. 고린토, 갈라디아, 로마에 보낸 편지의 주제를 차례로 요약한다. schisma haeresis는 이단이 일으키는 분열로, ordine scripturarum은 성경의 질서나 전체 흐름에 따르는 것으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-11
+
+§12
+이 각각의 문제를 우리가 논의할 필요가 있다.
+
+번역 주석
+1. 채택 본문에는 ‘각각 논의할 필요가 있다’는 긍정 진술이 있다. 이는 단편이 속했던 더 큰 논의와 연결해 읽을 수 있는 말이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-12
+
+§13
+복된 사도 바울 자신은 자기보다 앞선 요한의 순서를 따라, 이름으로만 구별되는 일곱 교회에 썼으며, 그 순서는 이러하다. 첫째는 고린토인들에게, 둘째는 에베소인들에게, 셋째는 필리피인들에게, 넷째는 골로새인들에게, 다섯째는 갈라디아인들에게, 여섯째는 테살로니카인들에게, 일곱째는 로마인들에게 쓴 것이다.
+
+번역 주석
+1. nonnisi nominatim은 이름으로 구별되는 일곱 교회라는 뜻으로 읽었다. 뒤의 보편 교회와 일곱 교회의 관계를 고려한 선택이다. 요한을 바울의 prodecessor라 부르는 표현은 ‘자기보다 앞선 요한’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-13
+
+§14
+고린토인들과 테살로니카인들에게는 바로잡아 주기 위해 거듭 썼지만, 온 세상에 퍼져 있는 교회가 하나라는 것은 분명하다.
+
+번역 주석
+1. 고린토와 테살로니카에 두 차례씩 쓴 사실을 인정하면서, 온 세상에 퍼진 교회가 하나라는 논지를 이어 간다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-14
+
+§15
+요한도 묵시록에서 일곱 교회에 쓰지만, 모든 이에게 말한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-15
+
+§16
+필레몬에게는 한 통, 티토에게 한 통, 티모테오에게 두 통을 애정과 사랑으로 썼다. 이 편지들도 보편 교회의 영예를 위하여, 교회 규율을 정립하는 데 거룩한 것으로 받아들여졌다.
+
+번역 주석
+1. catholica는 전체에 걸쳐 있는 보편성을 나타내는 말로 ‘보편 교회’라고 옮겼다. 개인에게 보낸 편지들이 교회의 규율을 세우는 데 받아들여졌다고 설명한다. sanctificatae는 거룩한 것으로 구별되거나 인정되었다는 뜻으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-16
+
+§17
+라오디케아인들에게 보낸 편지와 알렉산드리아인들에게 보낸 또 다른 편지도 전해진다. 마르키온의 이단과 관련하여 바울의 이름으로 꾸며 낸 것들이다. 그 밖에도 많은 글이 있으나, 보편 교회 안에서 받아들일 수 없다. 쓸개즙을 꿀과 섞는 것은 어울리지 않기 때문이다.
+
+번역 주석
+1. 라오디케아와 알렉산드리아에 보낸 것으로 전해지는 편지들을 바울의 이름을 빌린 글로 분류한다. ad haeresim Marcionis는 마르키온의 이단과 관련된다는 범위로 옮겼다. 쓸개즙과 꿀의 비유는 이런 글들을 함께 받아들이는 문제에 붙는다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-17
+
+§18
+유다의 편지와 요한의 이름이 붙은 두 통의 편지는 보편 교회 안에서 받아들여진다. 또 『지혜서』는 솔로몬의 벗들이 그를 기리기 위해 쓴 것이다.
+
+번역 주석
+1. Westcott는 손상된 superscriptio를 superscriptae로 교정해 요한의 이름이 붙은 두 편지로 읽는다. 『지혜서』의 저술을 솔로몬의 벗들에게 귀속하는 것은 이 단편의 진술이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-18
+
+§19
+묵시록으로는 요한과 베드로의 묵시록만 우리가 받아들인다. 우리 가운데 어떤 이들은 후자를 교회에서 읽는 것을 원하지 않는다.
+
+번역 주석
+1. quam은 여성 단수형 관계대명사이다. 여기서는 가까이 놓인 베드로의 묵시록을 받아 ‘후자’로 옮겼다. 책을 받아들이는 태도와 교회에서 공적으로 읽기를 원하는 태도가 구분되어 나타난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-19
+
+§20
+헤르마스는 『목자』를 아주 최근, 우리 시대에, 로마에서 썼다. 그의 형제인 피우스 감독이 로마 교회의 좌에 앉아 있던 때였다. 그러므로 이 책은 읽어야 한다. 그러나 예언자들의 수는 이미 완성되었으므로 예언서들 가운데서, 또 사도들의 시대가 끝난 뒤에 쓰였으므로 사도들의 글 가운데서 교회의 백성 앞에 공적으로 읽힐 수는 없다.
+
+번역 주석
+1. ‘우리 시대’와 헤르마스의 형제 피우스에 관한 말은 이 문헌이 제시하는 시간 정보이다. 이를 역사적 작성 연대로 환산하는 과정에는 연구상 논쟁이 있다.
+2. †completum numero는 Westcott가 손상된 구절로 표시한다. 여기서는 예언자들의 수가 완성되었다는 뜻으로 읽었다. in finem temporum은 사도들의 시대가 끝난 뒤라는 뜻으로 읽어 문장을 풀었다. 공적 낭독의 두 제한을 설명하는 이 구문의 해석은 잠정적이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-20
+
+§21
+아르시노오스나 발렌티노스, 또는 메티아드의 글은 전혀, 아무것도 받아들이지 않는다.
+
+번역 주석
+1. †Metiad 뒤의 별표 두 개는 불확실한 인명의 나머지 부분을 표시한다. ‘메티아드’는 현재 남은 형태를 음역한 것이다. 다른 편집자의 인명 교정안은 별도의 독법이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-21
+
+§22
+그들은 또한 바실리데스와 함께 마르키온에게 새로운 시편집을 써 주었다. 아시아놈, 카타프리기아파의 창시자를 ...
+
+번역 주석
+1. Westcott는 Marcioni와 Assianom에 불확실성 표시를 붙인다. ‘마르키온에게’와 ‘아시아놈’은 그 채택 형태를 옮긴 잠정 번역이다. 마지막 목적격 구문의 앞 문장과의 연결이 손상되어, 한국어도 끝맺지 않은 구문으로 표시한다. Cataphrygum은 카타프리기아파를 가리키는 말로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.24.4/muratorian-fragment/index.html#p-22
+
+출처·이용 조건
+
+이 저장소의 한국어 AI 번역 시제품; Codex AI 생성
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음
+
+Westcott 1896과 Tregelles 1867을 대조한 Codex AI 메모
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+이 저장소의 번역 메모와 편집자 참조 요약에 보유할 수 있는 권리의 범위
+
+B. F. Westcott, A General Survey of the History of the Canon of the New Testament, 7th ed., 1896, pp. 543-547
+Public domain
+https://creativecommons.org/publicdomain/mark/1.0/
+Westcott 1896의 라틴어 편집 본문. 고대 본문과 보호기간이 지난 판본에 새 독점권을 주장하지 않음
