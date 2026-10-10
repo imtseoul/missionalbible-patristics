@@ -22,7 +22,7 @@ function installCorrections(page) {
   let state=correctionState(location.href),indexLoading=null,request=0;
   const workLoading=new Map();
   const fill=()=>{query.value=state.query;work.value=state.work;if(!work.value)state.work='';};fill();
-  const indexData=()=>indexLoading||(indexLoading=import('./archive-correction-index.mjs?v=3516b2e6acbf').then(module=>module.default).catch(error=>{indexLoading=null;throw error;}));
+  const indexData=()=>indexLoading||(indexLoading=import('./archive-correction-index.mjs?v=1cb7e243a5ea').then(module=>module.default).catch(error=>{indexLoading=null;throw error;}));
   const records=async(wid,index)=>{
     if(!workLoading.has(wid))workLoading.set(wid,(async()=>{
       const file=index.files[wid];if(!file)throw new Error('교정 자료의 문헌 정보를 확인해 주세요.');

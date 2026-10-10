@@ -31,7 +31,12 @@ export function installReaderToolbar(tools) {
   };
   const close = () => { if (media.matches) disclosure.open = false; };
   const adapt = () => {
-    disclosure.open = !media.matches || panel.contains(document.activeElement);
+    if (media.matches) {
+      if (!disclosure.isConnected) { panel.append(...tools.childNodes); tools.append(disclosure); }
+      disclosure.open = panel.contains(document.activeElement);
+    } else if (disclosure.isConnected) {
+      disclosure.replaceWith(...panel.childNodes);
+    }
     measure();
   };
   disclosure.addEventListener('toggle', measure);

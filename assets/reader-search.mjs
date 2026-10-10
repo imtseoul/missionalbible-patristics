@@ -3,9 +3,10 @@ import {matchRanges} from './text-matches.mjs?v=c9235b0b8b9b';
 
 export function selectedTextGroups(nodes,language='') {
   const groups=[];let current=[];
+  const normalized=value=>value==='la'?'lat':value;
   const flush=()=>{if(current.some(row=>row.text.trim()))groups.push(current);current=[];};
   for(const row of nodes) {
-    if(!language||row.language===language||!row.text.trim())current.push(row);
+    if(!language||normalized(row.language)===normalized(language)||!row.text.trim())current.push(row);
     else flush();
   }
   flush();return groups;
