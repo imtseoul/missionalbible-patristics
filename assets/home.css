@@ -66,7 +66,7 @@ button:hover { background: #16455f; }
   .author-nav { flex-direction: row; flex-wrap: wrap; gap: 4px 10px; }
   .author-nav h2 { display: none; }
   .author-nav a { font-size: 13px; padding: 7px 10px; min-height: 36px; gap: 9px; }
-  .author-nav .count { font-size: 11px; }
+  .author-nav .count { font-size: 13px; }
   .author-browse-toggle + .author-nav { max-height: 46dvh; overflow-y: auto; margin-top: 12px; }
   main { width: 100%; }
   .catalogue-header h1 { font-size: 26px; }
@@ -77,14 +77,14 @@ button:hover { background: #16455f; }
   .search-field { flex-basis: 100%; }
   select { flex: 1; width: 0; min-width: 0; }
   button { padding-inline: 25px; }
-  #search-status { font-size: 11px; }
+  #search-status { font-size: 13px; }
   .author-catalogue { grid-template-columns: 1fr; gap: 29px; }
   .author-ignatius .work-list { grid-template-columns: 1fr; }
   .author-heading h2 { font-size: 18px; }
   .author-heading > span { font-size: 13px; }
   .work-entry { padding: 15px 0; }
   .work-entry h3 { font-size: 17px; }
-  .site-footer { margin-top: 29px; font-size: 11px; }
+  .site-footer { margin-top: 29px; font-size: 13px; }
 }
 @media (prefers-reduced-motion: no-preference) {
   .author-nav a, button { transition: background-color .15s ease-out; }
@@ -180,3 +180,5 @@ button:hover { background: #16455f; }
 .search-result-actions .copy-fallback{width:100%}
 .search-result-actions textarea{width:100%;min-height:100px;font:inherit;padding:10px;box-sizing:border-box}
 @media(max-width:720px){.search-text-conditions input{font-size:16px}.search-result-actions button,.search-operations button{min-height:44px}}
+
+@media (max-width: 720px) { .work-extent, .work-description { font-size: 13px; } }

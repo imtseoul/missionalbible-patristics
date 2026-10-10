@@ -94,16 +94,16 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .chapter-menu summary { cursor: pointer; color: var(--blue); }
   .chapter-menu nav { display: flex; flex-wrap: wrap; gap: 5px; padding-top: 13px; max-height: 45vh; overflow: auto; }
   .chapter-menu nav a { padding: 5px 7px; min-width: 36px; text-align: center; border-radius: 3px; }
-  .passage { grid-template-columns: 27px minmax(0, 1fr); gap: 11px; margin-bottom: 27px; }
+  .passage { grid-template-columns: 34px minmax(0, 1fr); gap: 9px; margin-bottom: 27px; }
   .passage.chapter-start:not(:first-child) { margin-top: 33px; }
   .reader-tools + .passage.chapter-start { margin-top: 0; }
-  .passage-number { font-size: 11px; margin-top: 1px; }
+  .passage-number { font-size: 13px; margin-top: 1px; }
   .original { margin-top: 9px; }
   .witness-heading { margin: 29px 0 16px 38px; }
   .witness-heading h2 { font-size: 15px; }
   .witness-heading p { font-size: 12px; }
   .reader-notes { margin-left: 38px; font-size: 13px; }
-  .reader-footer { margin-left: 38px; gap: 10px 20px; font-size: 11px; }
+  .reader-footer { margin-left: 43px; gap: 10px 20px; font-size: 13px; }
 }
 @media print {
   .site-header, .reader-sidebar, .reader-tools, .reader-tools.has-font-controls, .reader-footer, .work-context { display: none; }
@@ -202,3 +202,5 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .reader-tools-panel .reader-current-title { flex-basis: 100%; }
   .has-compact-reader .reader-topic-inner { padding-block: 12px; }
 }
+
+@media (max-width: 720px) { .topic-return span, .reader-topic-outline small, .work-author, .witness-heading p { font-size: 13px; } .document-heading p { font-size: max(12px, calc(13px * var(--reader-text-scale, 1))); } }
