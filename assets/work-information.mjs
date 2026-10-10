@@ -56,9 +56,11 @@ if (typeof document !== 'undefined') {
         if(!corrections.open||ready||loading)return;loading=true;
         content.replaceChildren();const message=document.createElement('p');message.setAttribute('role','status');message.textContent='교정 기록을 불러오는 중입니다.';content.append(message);
         try {
-          const url=new URL('../../data/corrections.json',location.href);url.searchParams.set('v',corrections.dataset.correctionSha||'');
+          const index=(await import('./archive-correction-index.mjs?v=3516b2e6acbf')).default;
+          const file=index.files[page.dataset.workId];if(!file)throw new Error('교정 자료의 문헌 정보를 확인해 주세요.');
+          const url=new URL(file.path,location.origin+'/');url.searchParams.set('v',file.data_sha256);
           const response=await fetch(url,{cache:'no-cache'});if(!response.ok)throw new Error('교정 기록을 읽지 못했습니다. 연결을 확인한 뒤 다시 시도하세요.');
-          const raw=await unpackBytes(await response.arrayBuffer(),corrections.dataset.correctionSha||'');
+          const raw=await unpackBytes(await response.arrayBuffer(),file.data_sha256);
           const data=JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(raw));
           const records=data.filter(row=>row.work_id===page.dataset.workId).flatMap(row=>row.corrections.map(correction=>({location:row.location,...correction})));
           const list=document.createElement('ol');list.className='correction-records';let shown=0;

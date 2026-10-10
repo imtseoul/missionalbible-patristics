@@ -1,4 +1,4 @@
-import {foldSearch} from './archive-search-core.mjs?v=c183809f9954';
+import {foldSearch,pageSlice} from './archive-search-core.mjs?v=c183809f9954';
 
 export function matchesIndex(value,query) {
   const text=foldSearch(value);return foldSearch(query).split(' ').filter(Boolean).every(term=>text.includes(term));
@@ -31,4 +31,19 @@ export function correctionURL(base,state) {
 
 export function filterCorrections(rows,state) {
   return rows.filter(row=>(!state.work||row.work_id===state.work)&&matchesIndex(row.search,state.query));
+}
+
+export async function correctionPage(index,state,loadWork) {
+  const sequence=index.sequence.filter(group=>!state.work||group.work_id===state.work);
+  if(foldSearch(state.query).trim()) {
+    const works=[...new Set(sequence.map(group=>group.work_id))];
+    const loaded=new Map(await Promise.all(works.map(async wid=>[wid,await loadWork(wid)])));
+    const rows=sequence.flatMap(group=>loaded.get(group.work_id).slice(group.start,group.start+group.count));
+    return pageSlice(filterCorrections(rows,state),state.page);
+  }
+  const references=sequence.flatMap(group=>Array.from({length:group.count},(_,offset)=>({work:group.work_id,index:group.start+offset})));
+  const slice=pageSlice(references,state.page);
+  const needed=[...new Set(slice.rows.map(row=>row.work))];
+  const loaded=new Map(await Promise.all(needed.map(async wid=>[wid,await loadWork(wid)])));
+  return {...slice,rows:slice.rows.map(row=>loaded.get(row.work)[row.index])};
 }

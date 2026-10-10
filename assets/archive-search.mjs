@@ -5,7 +5,7 @@ import index from './archive-search-index.mjs?v=9d563b22713c';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=c9235b0b8b9b';
 import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=e127e538461b';
-import {workInformationURL} from './work-information.mjs?v=edc958e66257';
+import {workInformationURL} from './work-information.mjs?v=671504f740b3';
 import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=c183809f9954';
 
 const works=new Map(index.works.map(work=>[work.id,work]));
