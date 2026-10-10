@@ -37,6 +37,16 @@ async function installTopicContext() {
   const params = new URLSearchParams(location.search);
   const id = params.get('topic');
   if (!id) return;
+  const initialHash = location.hash;
+  let moved = false;
+  const readingIntent = event => {
+    if (event.type === 'keydown' && !['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key)) return;
+    moved = true;
+  };
+  for (const event of ['wheel','touchmove','keydown','pointerdown']) window.addEventListener(event, readingIntent, {passive:true});
+  const stopWatching = () => {
+    for (const event of ['wheel','touchmove','keydown','pointerdown']) window.removeEventListener(event, readingIntent);
+  };
   try {
     const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
       import('./topic-navigation.mjs?v=b8e400dcafb7'), import('./topics.mjs?v=69cbec60530e'),
@@ -150,7 +160,20 @@ async function installTopicContext() {
       });
     },{passive:true});
     update();
+    // The topic bar arrives after native fragment navigation. Settle the
+    // original target against the measured controls, unless the reader moved.
+    if (initialHash) {
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        if (!moved && location.hash === initialHash) {
+          let target;
+          try { target = document.getElementById(decodeURIComponent(initialHash.slice(1))); } catch {}
+          target?.scrollIntoView({block:'start'});
+        }
+        stopWatching();
+      }));
+    } else stopWatching();
   } catch {
+    stopWatching();
     const fallback=document.createElement('a');fallback.className='topic-context-fallback';fallback.textContent='주제별 탐색으로 돌아가기';
     const url=new URL('topics.html',location.origin+'/');url.hash='topic-'+id;for(const key of ['group','q','read','compare','pane','guide'])if(params.has(key))url.searchParams.set(key,params.get(key));fallback.href=url;
     document.querySelector('.work-context')?.prepend(fallback);
