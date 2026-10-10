@@ -7,7 +7,7 @@ if(archivedWork&&Object.hasOwn(knownWorks,archivedWork)&&!document.querySelector
 }
 const header = document.querySelector('.site-header');
 if (header) {
-  new ResizeObserver(()=>document.documentElement.style.setProperty('--site-header-height',header.getBoundingClientRect().height+'px')).observe(header);
+  new ResizeObserver(()=>document.documentElement.style.setProperty('--site-header-height',(getComputedStyle(header).position==='sticky'?header.getBoundingClientRect().height:0)+'px')).observe(header);
   header.id = 'page-top';
   header.tabIndex = -1;
   const top = document.createElement('button');

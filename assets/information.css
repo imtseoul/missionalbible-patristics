@@ -36,3 +36,10 @@
   .detail-layout { display: block; padding: 0; }
   .information { max-width: none; }
 }
+
+@media (max-width: 720px) {
+  .information-menu summary { min-height: 44px; padding-block: 10px; }
+  .information-menu nav a, .information-footer a { min-height: 44px; display: inline-flex; align-items: center; }
+}
+
+.prose p a, .prose li a, .work-information-page p a, .work-information-page [data-archive-format] { text-decoration: underline; text-underline-offset: .15em; text-decoration-thickness: 1px; }

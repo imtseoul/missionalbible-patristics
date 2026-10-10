@@ -69,6 +69,7 @@ async function loadCurrentReader() {
     if (config.required_anchors.some(id => !saved.getElementById(id))) throw new Error('Reader anchor mismatch');
     saved.getElementById('edition-information')?.remove();
     saved.querySelectorAll('script').forEach(script => script.remove());
+    saved.querySelectorAll('[lang="lat"]').forEach(element => { element.lang = 'la'; });
     for (const element of saved.body.querySelectorAll('[href],[src],[action],[poster],[data-source]')) {
       for (const name of ['href','src','action','poster','data-source']) {
         if (element.hasAttribute(name)) element.setAttribute(name, readerLink(element.getAttribute(name), source, current));

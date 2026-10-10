@@ -11,3 +11,7 @@ mark.search-match { color: #183f54; background: #d9e9f1; font-weight: 600; paddi
 .edition-anchor { position: absolute; width: 1px; height: 1px; overflow: hidden; pointer-events: none; }
 .passage > .edition-anchor { top: 0; left: 0; scroll-margin-top: 90px; }
 .book-directory > .edition-information { margin-left: 0; }
+
+@media (max-width: 720px) {
+  .has-compact-reader .back-to-top { position: static; margin: 0 20px 24px auto; display: flex; width: fit-content; }
+}

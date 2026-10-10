@@ -87,7 +87,7 @@ html { overflow-anchor: none; }
   .topic-disclosure > summary { column-gap: 12px; grid-template-columns: minmax(0, 1fr) 20px; padding-block: 20px; }
   .topic-disclosure > summary h3 { font-size: 16px; line-height: 1.65; }
   .topic-disclosure > summary .topic-chevron { grid-column: 2; grid-row: 1; }
-  .topic-size { grid-column: 1; grid-row: 3; padding-top: 0; font-size: 11px; }
+  .topic-size { grid-column: 1; grid-row: 3; padding-top: 0; font-size: 13px; }
   .topic-description { grid-column: 1 / -1; padding-right: 0; font-size: 13px; line-height: 1.8; }
   .topic-detail { padding: 0 16px 16px; }
   .topic-attribution { font-size: 12px; }

@@ -94,16 +94,16 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .chapter-menu summary { cursor: pointer; color: var(--blue); }
   .chapter-menu nav { display: flex; flex-wrap: wrap; gap: 5px; padding-top: 13px; max-height: 45vh; overflow: auto; }
   .chapter-menu nav a { padding: 5px 7px; min-width: 36px; text-align: center; border-radius: 3px; }
-  .passage { grid-template-columns: 27px minmax(0, 1fr); gap: 11px; margin-bottom: 27px; }
+  .passage { grid-template-columns: 34px minmax(0, 1fr); gap: 9px; margin-bottom: 27px; }
   .passage.chapter-start:not(:first-child) { margin-top: 33px; }
   .reader-tools + .passage.chapter-start { margin-top: 0; }
-  .passage-number { font-size: 11px; margin-top: 1px; }
+  .passage-number { font-size: 13px; margin-top: 1px; }
   .original { margin-top: 9px; }
   .witness-heading { margin: 29px 0 16px 38px; }
   .witness-heading h2 { font-size: 15px; }
   .witness-heading p { font-size: 12px; }
   .reader-notes { margin-left: 38px; font-size: 13px; }
-  .reader-footer { margin-left: 38px; gap: 10px 20px; font-size: 11px; }
+  .reader-footer { margin-left: 43px; gap: 10px 20px; font-size: 13px; }
 }
 @media print {
   .site-header, .reader-sidebar, .reader-tools, .reader-tools.has-font-controls, .reader-footer, .work-context { display: none; }
@@ -180,3 +180,37 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
 @media print{.reader-search-controls{display:none}}
 
 .reader-tools.has-search-controls{flex-wrap:wrap}
+
+/* Keep the desktop controls in their existing flex layout. */
+.reader-controls, .reader-tools-panel { display: contents; }
+.reader-controls-toggle { display: none; }
+@media (max-width: 720px) {
+  .has-compact-reader .site-header, .has-compact-reader .reader-topic-context { position: static; }
+  .reader-tools.reader-tools-compact { top: 0; padding: 0; display: block; }
+  .reader-controls { display: block; width: 100%; }
+  .reader-controls-toggle { display: flex; align-items: center; gap: 12px; min-height: 52px; padding: 4px 0; cursor: pointer; color: var(--blue); list-style: none; }
+  .reader-controls-toggle::-webkit-details-marker { display: none; }
+  .reader-controls-title { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 600; }
+  .reader-controls-action { display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; }
+  .reader-controls-action::after { content: ''; width: 7px; height: 7px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); margin: -4px 3px 0 0; }
+  .reader-controls[open] .reader-controls-action::after { transform: rotate(225deg); margin-top: 4px; }
+  .reader-controls:not([open]) > .reader-tools-panel { display: none; }
+  .reader-controls[open] > .reader-tools-panel { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; position: absolute; top: 100%; left: 0; right: 0; padding: 12px; max-height: calc(100dvh - var(--reader-panel-top, 54px) - 16px); overflow: auto; overscroll-behavior: contain; border: 1px solid var(--line); background: #fff; }
+  .reader-tools-panel .passage-source-content { position: static; width: 100%; max-height: none; padding: 12px 0; border: 0; }
+  .reader-tools-panel .reader-meta { flex-wrap: wrap; }
+  .reader-tools-panel .passage-source[open] { flex-basis: 100%; }
+  .reader-tools-panel .reader-current-title { flex-basis: 100%; }
+  .has-compact-reader .reader-topic-inner { padding-block: 12px; }
+}
+
+@media (max-width: 720px) { .topic-return span, .reader-topic-outline small, .work-author, .witness-heading p { font-size: 13px; } .document-heading p { font-size: max(12px, calc(13px * var(--reader-text-scale, 1))); } }
+
+@media (max-width: 720px) {
+  .work-context a, .reader-current-title, .reader-current-location, .reader-jumps > a, .reader-footer a { display: inline-flex; align-items: center; min-height: 44px; min-width: 24px; }
+  .reader-jumps { align-items: center; flex-wrap: wrap; }
+  .chapter-menu summary, .book-menu summary, .reader-notes summary { min-height: 44px; padding-block: 10px; }
+  .chapter-menu nav a, .book-contents nav a, .book-index a { min-height: 44px; min-width: 44px; display: inline-flex; align-items: center; justify-content: center; }
+  .font-controls button { min-width: 44px; height: 44px; }
+  .passage-number a { min-width: 24px; min-height: 32px; text-align: right; }
+  .reader-notes li > a { min-height: 32px; min-width: 24px; }
+}

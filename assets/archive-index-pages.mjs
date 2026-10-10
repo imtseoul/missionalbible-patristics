@@ -1,5 +1,4 @@
-import {matchesIndex,correctionRecords,correctionState,correctionURL,filterCorrections} from './archive-index-core.mjs?v=4cd857c27807';
-import {pageSlice} from './archive-search-core.mjs?v=c183809f9954';
+import {matchesIndex,correctionRecords,correctionState,correctionURL,correctionPage} from './archive-index-core.mjs?v=9682a3d38231';
 import {unpackBytes,dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 
 function installIndexFilter(page) {
@@ -20,18 +19,19 @@ function installCorrections(page) {
   const form=page.querySelector('#correction-search');if(!form)return;
   const status=page.querySelector('#correction-status'),list=page.querySelector('#correction-results'),pager=page.querySelector('#correction-pagination'),retry=page.querySelector('#correction-retry');
   const query=form.elements.namedItem('query'),work=form.elements.namedItem('work');
-  let state=correctionState(location.href),loading=null,rows=null,request=0;
+  let state=correctionState(location.href),indexLoading=null,request=0;
+  const workLoading=new Map();
   const fill=()=>{query.value=state.query;work.value=state.work;if(!work.value)state.work='';};fill();
-  const records=async()=>{
-    if(rows)return rows;
-    if(!loading)loading=(async()=>{
-      const index=(await import('./archive-correction-index.mjs?v=2090c74ca3d3')).default;
-      const url=new URL('data/corrections.json',location.href);url.searchParams.set('v',index.data_sha256);
+  const indexData=()=>indexLoading||(indexLoading=import('./archive-correction-index.mjs?v=1cb7e243a5ea').then(module=>module.default).catch(error=>{indexLoading=null;throw error;}));
+  const records=async(wid,index)=>{
+    if(!workLoading.has(wid))workLoading.set(wid,(async()=>{
+      const file=index.files[wid];if(!file)throw new Error('교정 자료의 문헌 정보를 확인해 주세요.');
+      const url=new URL(file.path,location.origin+'/');url.searchParams.set('v',file.data_sha256);
       const response=await fetch(url,{cache:'no-cache'});if(!response.ok)throw new Error('교정 기록을 불러오지 못했습니다. 연결을 확인한 뒤 다시 시도하세요.');
-      const raw=await unpackBytes(await response.arrayBuffer(),index.data_sha256);
-      rows=correctionRecords(JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(raw)),index);return rows;
-    })().catch(error=>{loading=null;throw error;});
-    return loading;
+      const raw=await unpackBytes(await response.arrayBuffer(),file.data_sha256);
+      return correctionRecords(JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(raw)),index);
+    })().catch(error=>{workLoading.delete(wid);throw error;}));
+    return workLoading.get(wid);
   };
   const link=(url,label)=>{const anchor=document.createElement('a');anchor.href=url;anchor.textContent=label;return anchor;};
   const go=async pageNumber=>{state.page=pageNumber;await run();status.tabIndex=-1;status.focus({preventScroll:true});status.scrollIntoView({block:'start'});};
@@ -39,8 +39,9 @@ function installCorrections(page) {
     const id=++request;retry.hidden=true;pager.hidden=true;list.replaceChildren();list.setAttribute('aria-busy','true');status.textContent='교정 기록을 불러오고 있습니다.';
     if(persist)history.pushState(history.state,'',correctionURL(location.href,state));
     try {
-      const data=await records();if(id!==request)return;
-      const filtered=filterCorrections(data,state),slice=pageSlice(filtered,state.page);state.page=slice.page;
+      const requested={...state};
+      const index=await indexData();if(id!==request)return;
+      const slice=await correctionPage(index,requested,wid=>records(wid,index));if(id!==request)return;state.page=slice.page;
       history.replaceState(history.state,'',correctionURL(location.href,state));
       status.textContent=slice.total?(slice.pages>1?slice.total.toLocaleString('ko-KR')+'개 교정 중 '+(slice.start+1===slice.end?slice.end+'번째':(slice.start+1)+'-'+slice.end+'개')+' · '+slice.page+'/'+slice.pages+'쪽':slice.total+'개 교정'):'조건에 맞는 교정 기록이 없습니다. 문헌과 검색어를 확인하세요.';
       list.start=slice.start+1;
@@ -49,7 +50,7 @@ function installCorrections(page) {
         for(const [key,label] of [['reason',''],['before','이전 표기: '],['after','교정 표기: ']])if(typeof record[key]==='string') {
           const paragraph=document.createElement('p');paragraph.textContent=label+record[key];if(key!=='reason')paragraph.className='correction-wording';item.append(paragraph);
         }
-        const actions=document.createElement('nav');actions.setAttribute('aria-label','교정 근거와 본문');
+        const actions=document.createElement('div');actions.className='correction-actions';
         if(record.path)actions.append(link(record.path,'해당 본문'));
         actions.append(link('works/'+record.work_id+'/information.html#history','판본·교정 이력'));
         if(record.evidence_url){let url;try{url=new URL(record.evidence_url);}catch{}if(url&&['http:','https:'].includes(url.protocol)){const anchor=link(url.href,'원문 근거');anchor.target='_blank';anchor.rel='noopener';actions.append(anchor);}}

@@ -1,5 +1,6 @@
-import {installReaderFeatures} from './reader-features.mjs?v=342d9c9ee5cb';
-import {installReaderSearch} from './reader-search.mjs?v=2cadbac4529c';
+import {installReaderToolbar} from './reader-toolbar.mjs?v=c58caaa1e294';
+import {installReaderFeatures} from './reader-features.mjs?v=082cc627f77c';
+import {installReaderSearch} from './reader-search.mjs?v=f3bd50f09359';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => { chapterMenu.open = false; });
@@ -38,7 +39,7 @@ async function installTopicContext() {
   if (!id) return;
   try {
     const [{default:navigation},{topicBrowseURL,topicReaderURL,topicReadingPosition}] = await Promise.all([
-      import('./topic-navigation.mjs?v=b8e400dcafb7'), import('./topics.mjs?v=28e828b8a052'),
+      import('./topic-navigation.mjs?v=b8e400dcafb7'), import('./topics.mjs?v=69cbec60530e'),
     ]);
     const topic = navigation.topics.find(t=>t.id===id);
     if (!topic?.passages.length) return;
@@ -126,7 +127,7 @@ async function installTopicContext() {
     });
     inner.append(back,count,steps);bar.append(inner);document.querySelector('.site-header').after(bar);
     document.body.classList.add('has-topic-context');
-    new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',bar.getBoundingClientRect().height+'px')).observe(bar);
+    new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',(getComputedStyle(bar).position==='sticky'?bar.getBoundingClientRect().height:0)+'px')).observe(bar);
     window.addEventListener('hashchange',()=>update(topicReadingPosition(topic.passages,location.href,selected.work_passage_id)));
     const inDocument=topic.passages.map((p,i)=>({i,node:document.querySelector('[data-passage-id="'+CSS.escape(p.work_passage_id)+'"]')})).filter(p=>p.node);
     let scrollIntentUntil=0;
@@ -163,4 +164,5 @@ if(readerTools){
   new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
 }
 installReaderFeatures();
+installReaderToolbar(readerTools);
 installReaderSearch();

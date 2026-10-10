@@ -1,7 +1,7 @@
 import {markedText} from './text-matches.mjs?v=c9235b0b8b9b';
 import {installPhraseHover} from './phrase-hover.mjs?v=4f4926fe87ad';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-import {passageTools} from './archive-tools.mjs?v=34434736ec6a';
+import {passageTools} from './archive-tools.mjs?v=dffc5a00dd0d';
 import {preserveGuide,installGuideContext,guideReadingControls} from './reading-guides.mjs?v=3195acedeec2';
 import {installTopicComparison,comparisonPair} from './topic-comparison.mjs?v=eb4889bb8be8';
 import {parseScriptureQuery,topicScriptureMatches,scriptureReferenceLabel,scriptureReferenceSummary} from './scripture-search.mjs?v=e127e538461b';
@@ -47,7 +47,7 @@ export function topicReadingPosition(passages, base, savedPassage) {
 
 function alignedText(text, groups, side, language) {
   const p = document.createElement('p');
-  p.className = side === 'ko' ? 'translation' : 'original'; p.lang = language;
+  p.className = side === 'ko' ? 'translation' : 'original'; p.lang = language === 'lat' ? 'la' : language;
   const tokens = [...text.matchAll(/\S+/g)];
   const keys = new Map();
   for (const group of groups) for (const i of group[side + '_token_indexes']) keys.set(i, group.id);

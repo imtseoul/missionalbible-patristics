@@ -101,3 +101,10 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
 
 .passage-source button, .passage-reference-tools > .copy-control { color: var(--blue); font: 13px/1.6 var(--font); min-height: 44px; padding: 7px 10px; background: #fff; border: 1px solid var(--line); border-radius: 3px; cursor: pointer; }
 .passage-source button:hover, .passage-reference-tools > .copy-control:hover { background: var(--wash); }
+
+@media (max-width: 720px) {
+  .header-inner nav { gap: 8px; }
+  .header-inner nav a { min-width: 44px; justify-content: center; }
+  .brand { min-height: 44px; display: inline-flex; align-items: center; }
+  .guide-context nav a, .passage-source-content a { min-height: 44px; }
+}
