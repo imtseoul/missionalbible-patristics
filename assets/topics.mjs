@@ -47,7 +47,7 @@ export function topicReadingPosition(passages, base, savedPassage) {
 
 function alignedText(text, groups, side, language) {
   const p = document.createElement('p');
-  p.className = side === 'ko' ? 'translation' : 'original'; p.lang = language;
+  p.className = side === 'ko' ? 'translation' : 'original'; p.lang = language === 'lat' ? 'la' : language;
   const tokens = [...text.matchAll(/\S+/g)];
   const keys = new Map();
   for (const group of groups) for (const i of group[side + '_token_indexes']) keys.set(i, group.id);

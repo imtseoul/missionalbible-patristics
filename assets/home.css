@@ -145,7 +145,7 @@ button:hover { background: #16455f; }
 .search-passages > li { padding-block: 16px; }
 .search-passages h4 { font-size: 16px; font-weight: 600; }
 .search-excerpt { font-size: 16px; line-height: 1.85; overflow-wrap: anywhere; }
-.search-excerpt[lang="grc"], .search-excerpt[lang="lat"], .evidence-original { font-family: Georgia, serif; font-size: 18px; }
+.search-excerpt[lang="grc"], .search-excerpt[lang="lat"], .search-excerpt[lang="la"], .evidence-original { font-family: Georgia, serif; font-size: 18px; }
 .reference-numbering { font-size: 14px; color: var(--muted); }
 .scripture-evidence { margin-top: 10px; font-size: 14px; }
 .scripture-evidence > summary { cursor: pointer; color: var(--blue); min-height: 44px; padding-block: 8px; }

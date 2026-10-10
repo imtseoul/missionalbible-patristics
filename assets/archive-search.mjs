@@ -15,7 +15,7 @@ function referenceEvidence(item,reference) {
   const summary=document.createElement('summary');summary.textContent=(reference.reading?.reference_label||scriptureReferenceLabel(reference))+' · '+useLabels[reference.use]+' · '+originLabels[reference.origin];details.append(summary);
   if(reference.reading) {
     const attribution=document.createElement('p');attribution.className='scripture-attribution';attribution.textContent=[speakerLabels[reference.reading.speaker],compositionLabels[reference.reading.composition]].filter(Boolean).join(' · ');if(attribution.textContent)details.append(attribution);
-    const source=document.createElement('p');source.className='evidence-original';source.lang=item.row.languages[0];source.textContent=reference.reading.source_excerpt;
+    const source=document.createElement('p');source.className='evidence-original';source.lang=item.row.languages[0]==='lat'?'la':item.row.languages[0];source.textContent=reference.reading.source_excerpt;
     const translation=document.createElement('p');translation.textContent=reference.reading.korean_excerpt;
     const reason=document.createElement('p');reason.textContent=reference.reading.reason;details.append(source,translation,reason);
   }
@@ -86,7 +86,7 @@ export function installArchiveSearch() {
         }
         const body=document.createElement('p');body.className='search-excerpt';
         if(found.kind==='text') {
-          body.lang=['ko','notes'].includes(state.mode)?'ko':state.mode;
+          body.lang=['ko','notes'].includes(state.mode)?'ko':state.mode==='lat'?'la':state.mode;
           const options={ignoreMarks:true,caseSensitive:false,collapseWhitespace:true,exact:state.exact};
           const excerpts=matchExcerpts(item.text,state.query,options);
           if(excerpts[0].start>0)body.append('… ');
