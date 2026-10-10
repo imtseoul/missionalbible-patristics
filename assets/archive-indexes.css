@@ -45,3 +45,7 @@
 @media (max-width: 720px) {
   .scripture-chapters a, .bibliography-entry li > a, .index-downloads a, .correction-actions a { min-width: 24px; min-height: 44px; display: inline-flex; align-items: center; }
 }
+
+@media (scripting: enabled) {
+  .correction-results[aria-busy="true"] { min-height: 60vh; }
+}

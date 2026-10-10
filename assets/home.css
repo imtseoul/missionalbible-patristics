@@ -188,3 +188,12 @@ button:hover { background: #16455f; }
 }
 
 @media (max-width: 720px) { .archive-index-links { margin-top: 12px; } }
+
+/* Reserve the enhanced controls while the catalogue module loads. */
+@media (scripting: enabled) {
+  .catalogue-filter[hidden] { display: flex !important; visibility: hidden; }
+}
+@media (scripting: enabled) and (max-width: 720px) {
+  .author-browse-toggle[hidden] { display: flex !important; visibility: hidden; }
+  .author-browse-toggle[hidden] + .author-nav { display: none; }
+}

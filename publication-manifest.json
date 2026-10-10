@@ -12577,7 +12577,7 @@
     "assets/archive-history.mjs": "5b7903cff68ae17bc6781cd02c0faac5a926bdcbfd0e7becc85a7aa36eda4250",
     "assets/archive-index-core.mjs": "9682a3d38231727668ca9036cf2858c2388fd3940d24c01367d360919a8d8afa",
     "assets/archive-index-pages.mjs": "3ccbe49b3e517197ea1293b2edb755f8807a6b4021af76c74be08a5042b53e4c",
-    "assets/archive-indexes.css": "87ad5ea70878d200c4a7c8ed679ac981da187b8943eb7d23c98563c17c38bdb3",
+    "assets/archive-indexes.css": "82515a0ff04e372989d1746bd7a6ff9244769866aca5d2427b1b33b57a38dc18",
     "assets/archive-products.mjs": "10a1ac277cfb31fb1648c1175048598f5ccb0de5d0f23e391e3eddd90b856730",
     "assets/archive-readings/arius-eusebius-letter.mjs": "34e40b2d6c0e99802ff38b5ee5f70014c77f0004262e656bffa23defb87118a2",
     "assets/archive-readings/athanasius-antiochenes.mjs": "e76bf75a8f287e4273e8f586c0b1d36b7ba2279b28111615c28ae771d00e8713",
@@ -12647,7 +12647,7 @@
     "assets/fonts/noto-sans-kr-600.ttf": "adccd5d782a44b91d7342fe0a282c0ffffbc7cf4df7c6744b42452036eb7be68",
     "assets/fonts/noto-sans-kr-ui-400.ttf": "b8ad6b8e2ae2e9c96ebfcb3111e373ad1bbb6a174fcf1e33ba89f1b185d0a6ae",
     "assets/fonts/noto-sans-kr-ui-600.ttf": "5613378a4d544016eaa5056372841dde86f86b803ee60cf71b1d4c39394cc1fa",
-    "assets/home.css": "d4e74f92b543b171f121b0b7ad66c8377655b8e6033625748590a98fa50e6adb",
+    "assets/home.css": "9ecf8a85ad7c8459321a574e2f90730449e0cdf875c332e0541a4c66b64c8c00",
     "assets/information.css": "914784e66ed047ccbcbf2337577d769b15306192b4a2f461ac0cbbccc570bc46",
     "assets/packed-data.mjs": "1a75398990a66fee1f03b0f36df4af6e881df56363723357555073a647f9608d",
     "assets/page-tools.css": "f0046d28d67864d7743df049ab67fdfe007c541beef1096f83a39d22de1c5b85",
@@ -12816,9 +12816,9 @@
     "assets/topics.mjs": "69cbec60530e601f35fa8c9b85151eb7d54b3110ee4743ad5fd1c518ad7267ba",
     "assets/work-information.css": "63a660aac931afa49bca9d88f5551faded8a5f33e776a59dbd3fc051c05f4734",
     "assets/work-information.mjs": "696d772deacc1e84a67ea07b10bfd236b2e36c146838baa9d998d4c7f96ffe64",
-    "bibliography.html": "d2d766e2c0d74bd459d9576e0d08cf143d57e58671b725aa240346ab708a1a9e",
+    "bibliography.html": "b0c6e199b040c8480b4c5b704cbadb847e8ac8c952c47864efe68b1e79595453",
     "catalog.json": "7ca0d804477a0d44bf99a9c542c794a2a87e615854b08970a5adc05b62170ce5",
-    "corrections.html": "f3a301118e5bee4c3a7d42a041c6c09653d385c66e53436facbd2657274b74ec",
+    "corrections.html": "97823cbff281a5fe472ae527754b92978fd7f31a03f05223d07f83f20632d6f0",
     "data/bibliography-alpha-0.28-v1.csv": "e2e9ff82d7dbb0c56090572fd0e382d8ecf3b6c399fd31f5195a913a612b5b93",
     "data/bibliography-alpha-0.28-v1.ris": "e677be026b83bbd2772cde12870703d83be8d5d3581d9b32b966ade4a2965ea0",
     "data/corrections-view/arius-eusebius-letter.json": "0c1bb456e92368c39f0ba254f3a0c0a0fea647e05ad7836870aeb37e2da9e087",
@@ -12859,7 +12859,7 @@
     "data/corrections-view/theophilus-autolycus.json": "54aaa5edd086a040162ebf04e5239804a777a4989e8b73c90bd5703b0e759c7c",
     "data/corrections.json": "52f582c76dbd2eeafa531381f0e5df1f260a0f25b08cd6e37711c0a218a7aa6a",
     "data/phrase-alignments.json": "7c0037c2c818bb1400212f4439959183a6b49f0fefc0971ccc1f9c9af2f12d49",
-    "index.html": "85f667525b4668a855190ac0b1b4e7b0bf6761fdcb49efe68520d9560e477e16",
+    "index.html": "538387ba42aad4be66d3097e9150a1cbaa4e8b2e8b284c80b67fb8faf5809702",
     "patristics-archive-mapping.json": "f78a4cbbd039eabfc4c81abe8a4cc962bd9971559f7aa4c54cbe3177fe24db30",
     "releases/alpha-0.1/didache/checksums.json": "706dfee7f3e1bcb4d59ea96374fd035d28e62db1c25ca5743d2acf3bcf4e4fcd",
     "releases/alpha-0.1/didache/index.html": "63001c52e8dfcc59c9a8b05a5acb143f30e7e6de9746ade8c46a6ad23c2c42b9",
@@ -14987,7 +14987,7 @@
     "releases/alpha-0.9/polycarp-philippians/passages.json": "6c295dc25de178dfa6ae6acc767202fb56c28b98fb6680814806e67db1ff3f0d",
     "rights.html": "7ea9c33b0b8864ed214cc2231a57a7b187d14f3454282cb6554278b290af71a1",
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
-    "scripture.html": "81c1c96c7d7731db4674f197f5320043ceb9efcfb6faebfa6caa921e2f1fac77",
+    "scripture.html": "7674e9cd6b3343bef6e45166ad3e0db7a4c339d9656ae0f6bd7e19097e2e7f2d",
     "search-index.json": "205ab10f031b5e711885c3a835328151d3bd4fafe08d25c7fdff6011f4cfc1a3",
     "sitemap.xml": "cbbb67a41e08f6bdf7902905ee7946a4ca0999cebb2781b2aad9f13036026482",
     "topics.html": "ce11999252fa090f03f7cc772c9f3080bb701abddc5f85e95db1d2f8787224d6",
@@ -15328,7 +15328,7 @@
       },
       "remaining_bytes": 2904478
     },
-    "bytes": 899294693,
+    "bytes": 899296129,
     "catalogue_hashes_verified": 42,
     "current_reader_delivery": {
       "bytes_saved": 27494937,
@@ -15858,13 +15858,56 @@
     "edition_checksums_verified": 2210,
     "edition_data_files_unchanged": 1236,
     "html_pages": 1083,
+    "loading_layout": {
+      "correctionInitialResponseBytes": 201364,
+      "delayed_responses_ms": 500,
+      "scriptlessAuthorNavigation": true,
+      "viewport_cases": [
+        {
+          "cls": 0,
+          "overflow": false,
+          "route": "/",
+          "width": 390
+        },
+        {
+          "cls": 0,
+          "overflow": false,
+          "route": "/corrections.html",
+          "width": 390
+        },
+        {
+          "cls": 0,
+          "overflow": false,
+          "route": "/",
+          "width": 393
+        },
+        {
+          "cls": 0,
+          "overflow": false,
+          "route": "/corrections.html",
+          "width": 393
+        },
+        {
+          "cls": 0,
+          "overflow": false,
+          "route": "/",
+          "width": 1440
+        },
+        {
+          "cls": 0,
+          "overflow": false,
+          "route": "/corrections.html",
+          "width": 1440
+        }
+      ]
+    },
     "missing_internal_links": 0,
     "mobile_ui": {
       "axe_violations": 0,
       "browser_errors": 0,
       "correction_query_cases": 860,
       "correction_records_verified": 4070,
-      "corrections_initial_response_bytes": 201252,
+      "corrections_initial_response_bytes": 201364,
       "pages_per_viewport": 10,
       "sticky_reader_height_mobile": 54,
       "viewports": [
