@@ -1,0 +1,146 @@
+# 한국어 교부 문헌
+
+> 교부 문헌의 한국어 번역, 원어 본문, 번역 주석을 읽는 공개 서가입니다.
+
+## 이용 안내
+
+- [번역·판본 안내](https://patristics.missionalbible.org/about.html): 번역과 자료 판본 안내.
+- [출처·이용 조건](https://patristics.missionalbible.org/rights.html): 자료별 출처와 이용 조건.
+- [사이트맵](https://patristics.missionalbible.org/sitemap.xml): 현재 읽기 페이지와 자료 정보.
+
+인용 대목은 읽기 페이지의 장절 앵커로 연결할 수 있습니다. 고정판 인용 주소와 자료 판본은 각 문헌의 TXT와 자료 정보에 기록되어 있습니다.
+
+## 문헌 읽기
+
+- [로마인들에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-romans/): 이그나티우스. 서두와 1-10장, 일곱 서신 전승형의 채택 본문 전체
+- [디다케](https://patristics.missionalbible.org/works/didache/): 익명. Lake가 채택한 그리스어 본문의 1-16장 전체. 현존 판본의 끝을 넘어 결말을 복원하지 않음
+- [필리피인들에게 보낸 편지](https://patristics.missionalbible.org/works/polycarp-philippians/): 폴리카르포스. 서두와 1-14장, 그리스어 전승과 라틴어 고대 역본을 구분한 채택 본문 전체
+- [필라델피아인들에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-philadelphians/): 이그나티우스. 서두와 1-11장, 일곱 서신 전승형의 채택 본문 전체
+- [폴리카르포스에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-polycarp/): 이그나티우스. 서두와 1-8장, 일곱 서신 전승형의 채택 본문 전체
+- [에베소인들에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-ephesians/): 이그나티우스. 서두와 1-21장, 일곱 서신 전승형의 채택 본문 전체
+- [마그네시아인들에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-magnesians/): 이그나티우스. 서두와 1-15장, 일곱 서신 전승형의 채택 본문 전체
+- [트랄레스인들에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-trallians/): 이그나티우스. 서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체
+- [스미르나인들에게 보낸 편지](https://patristics.missionalbible.org/works/ignatius-smyrnaeans/): 이그나티우스. 서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체
+- [클레멘스 1서](https://patristics.missionalbible.org/works/clement-1-corinthians/): 로마의 클레멘스 (전승상 귀속). 서두와 1-65장 전문, 끝맺음 표제 별도 수록. 채택 판본의 결락 표시 보존
+- [무라토리 단편](https://patristics.missionalbible.org/works/muratorian-fragment/): 익명. Westcott 1896의 현존 라틴어 단편 전체. §1-§22는 이 저장소의 단락 구분
+- [파피아스 단편과 증언](https://patristics.missionalbible.org/works/papias-fragments/): 파피아스와 전승자들. Funk 1901의 I-XX 단편·증언 전체와 서문 표제. 후기 증언과 XX의 근대 라틴어 중역 구분
+- [이단 논박](https://patristics.missionalbible.org/works/irenaeus-against-heresies/): 이레네우스. Harvey 1857의 1-5권 서문과 본문 전체. 라틴어 고대 역본 대본과 그리스어 병렬문, 통상 장절 대응 포함
+- [교회사](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/): 유세비우스. Perseus Loeb판의 1-10권 전문, 권별 장 목록과 8권 부록. 그리스어 편집 본문에서 번역
+- [제1변증서](https://patristics.missionalbible.org/works/justin-first-apology/): 유스티노스. Rauschen 1911 제2판의 1-68장과 끝에 실린 하드리아누스의 답신 전체. 장 단위 번역과 별도 답신 표제·본문
+- [바르나바 서신](https://patristics.missionalbible.org/works/barnabas/): 익명 (바르나바에게 전승상 귀속). Lake 1914 재쇄본의 1-21장 194절 전문과 별도 끝맺음 표제
+- [클레멘스 2서](https://patristics.missionalbible.org/works/clement-2-corinthians/): 익명 (클레멘스에게 전승상 귀속). Lake 1914 재쇄본의 1-20장 118절 전문과 별도 끝맺음 표제
+- [폴리카르포스의 순교](https://patristics.missionalbible.org/works/polycarp-martyrdom/): 스미르나 교회. Lake 1917 제2권의 서두와 1-22장 전체, 모스크바 사본의 다른 맺음말 2-6절. 20.2 뒤의 후기와 대체 맺음말을 구별
+- [디오그네토스에게 보낸 편지](https://patristics.missionalbible.org/works/diognetus/): 익명. Lake 1917 제2권 350-378쪽의 1-12장 100절 전체. 편집자가 구별한 마지막 두 장과 본문 결락을 표시
+- [제2변증서](https://patristics.missionalbible.org/works/justin-second-apology/): 유스티노스. Rauschen 1911 제2판의 제2변증서 1-15장 전체. 채택 판본의 배열과 ANF 장 번호 대응을 별도로 기록
+- [그리스도인들을 위한 청원](https://patristics.missionalbible.org/works/athenagoras-plea/): 아테나고라스. March·Owen 1876년판 9-52쪽의 헌사와 1-37장 전문. 절 번호 1-173은 작품 전체에서 연속되는 판본 번호
+- [아우톨리코스에게](https://patristics.missionalbible.org/works/theophilus-autolycus/): 안티오키아의 테오필로스. Humphry 1852년판의 세 권 전문: 1권 1-14장, 2권 1-38장, 3권 1-30장. 각 읽기 단위는 장 전체
+- [그리스인들에게](https://patristics.missionalbible.org/works/tatian-greeks/): 타티아노스. Otto 1851년판의 1-42장 전문. 각 읽기 단위는 장 전체이며 8장의 두 XML 문단도 모두 포함
+- [니케아 신조 (325년)](https://patristics.missionalbible.org/works/nicene-creed-325/): 니케아 공의회. 니케아 공의회가 채택한 신조와 배척 선언 전문, Schaff 1878년판 60쪽
+- [니케아·콘스탄티노폴리스 신조](https://patristics.missionalbible.org/works/niceno-constantinopolitan-creed/): 콘스탄티노폴리스 공의회 전승. Schaff 1878년판 57-58쪽의 그리스어 신조 전문
+- [니코메디아의 유세비우스에게 보낸 편지](https://patristics.missionalbible.org/works/arius-eusebius-letter/): 아리우스. 테오도레토스 교회사 Schulze·Migne판 I.4의 서신 전문, XML p[2]-p[5]
+- [니케아 공의회에 관하여 자기 교회에 보낸 편지](https://patristics.missionalbible.org/works/eusebius-nicene-letter/): 카이사레아의 유세비우스. 테오도레토스 교회사 Schulze·Migne판 I.11의 서신 전문, XML p[4]-p[15]
+- [안티오키아인들에게 보낸 서한](https://patristics.missionalbible.org/works/athanasius-antiochenes/): 아타나시우스와 알렉산드리아 회의. PTA의 Athanasius Werke II/8 채택 본문 전체, 서두와 1-11장, 서명·추가 고백 포함
+- [아블라비오스에게: 세 하나님이라 하지 않는 까닭](https://patristics.missionalbible.org/works/gregory-nyssa-ablabius/): 니사의 그레고리오스. PG 45 (1863), 116-136열의 그리스어 전문, 이 저장소의 읽기 단락 §1-12
+- [제1신학강론 (제27강론)](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-27/): 나지안조스의 그레고리오스. Mason 1899년판 1-20쪽, 제27강론(제1신학강론) 1-10장 전문. XML에 합쳐진 9-10장은 인쇄본의 번호로 복원.
+- [성령에 관하여](https://patristics.missionalbible.org/works/basil-holy-spirit/): 카이사레아의 바실리오스. Johnston 1892년판 13-157쪽, 1-30장 1-79절 전문. 장·절 경계와 독법은 채택 인쇄본을 따른다.
+- [제2신학강론 (제28강론)](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-28/): 나지안조스의 그레고리오스. Mason 1899년판 21-72쪽, 제28강론(제2신학강론) 1-31장 전문.
+- [제3신학강론 (제29강론)](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-29/): 나지안조스의 그레고리오스. Mason 1899년판 73-107쪽, 제29강론(제3신학강론) 1-21장 전문.
+- [제4신학강론 (제30강론)](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-30/): 나지안조스의 그레고리오스. Mason 1899년판 108-144쪽, 제30강론(제4신학강론) 1-21장 전문.
+- [제5신학강론 (제31강론)](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/): 나지안조스의 그레고리오스. Mason 1899년판 145-190쪽, 제31강론(제5신학강론) 1-33장 전문.
+- [세라피온에게 보낸 제1서신](https://patristics.missionalbible.org/works/athanasius-serapion-1/): 아타나시우스. Migne PG 26(1857), 529-608단 중 제1서신 1-33절 전문.
+- [세라피온에게 보낸 제2서신](https://patristics.missionalbible.org/works/athanasius-serapion-2/): 아타나시우스. Migne PG 26(1857), 608-624단 중 제2서신 1-9절 전문.
+- [세라피온에게 보낸 제3서신](https://patristics.missionalbible.org/works/athanasius-serapion-3/): 아타나시우스. Migne PG 26(1857), 624-637단 중 제3서신 1-7절 전문.
+- [세라피온에게 보낸 제4서신](https://patristics.missionalbible.org/works/athanasius-serapion-4/): 아타나시우스. Migne PG 26(1857), 637-676단 중 제4서신 1-23절 전문.
+- [부활에 관하여](https://patristics.missionalbible.org/works/athenagoras-resurrection/): 아테나고라스 (전승상 귀속). March·Owen 1876년판 53-86쪽의 1-25장 전문. 절 번호1-126은 작품 전체의 연속 번호
+- [말씀의 성육신에 관하여](https://patristics.missionalbible.org/works/athanasius-incarnation/): 아타나시우스. Robertson 1893년 제2판 1-86쪽의1-57장 전문. 번호 있는331절과 번호 없는10장 서두1개. 인쇄39.5의 경계를 복원함
+- [이방인 논박](https://patristics.missionalbible.org/works/athanasius-gentes/): 아타나시우스. PTA Savvidis 예비 교감 전자판의 1-47장 전체. 기록한 전자 중복·삽입 오류를 PG 25의 해당 인쇄면으로 확인하여 교정.
+
+## 한국어 전문 TXT
+
+- [로마인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-romans/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [디다케 TXT](https://patristics.missionalbible.org/works/didache/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [필리피인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/polycarp-philippians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [필라델피아인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-philadelphians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [폴리카르포스에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-polycarp/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [에베소인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-ephesians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [마그네시아인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-magnesians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [트랄레스인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-trallians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [스미르나인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-smyrnaeans/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [클레멘스 1서 TXT](https://patristics.missionalbible.org/works/clement-1-corinthians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [무라토리 단편 TXT](https://patristics.missionalbible.org/works/muratorian-fragment/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [파피아스 단편과 증언 TXT](https://patristics.missionalbible.org/works/papias-fragments/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [이단 논박 TXT](https://patristics.missionalbible.org/works/irenaeus-against-heresies/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [교회사 TXT](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제1변증서 TXT](https://patristics.missionalbible.org/works/justin-first-apology/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [바르나바 서신 TXT](https://patristics.missionalbible.org/works/barnabas/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [클레멘스 2서 TXT](https://patristics.missionalbible.org/works/clement-2-corinthians/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [폴리카르포스의 순교 TXT](https://patristics.missionalbible.org/works/polycarp-martyrdom/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [디오그네토스에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/diognetus/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제2변증서 TXT](https://patristics.missionalbible.org/works/justin-second-apology/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [그리스도인들을 위한 청원 TXT](https://patristics.missionalbible.org/works/athenagoras-plea/text-ko-alpha-0.27-v1.txt): alpha-0.27
+- [아우톨리코스에게 TXT](https://patristics.missionalbible.org/works/theophilus-autolycus/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [그리스인들에게 TXT](https://patristics.missionalbible.org/works/tatian-greeks/text-ko-alpha-0.27-v1.txt): alpha-0.27
+- [니케아 신조 (325년) TXT](https://patristics.missionalbible.org/works/nicene-creed-325/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [니케아·콘스탄티노폴리스 신조 TXT](https://patristics.missionalbible.org/works/niceno-constantinopolitan-creed/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [니코메디아의 유세비우스에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/arius-eusebius-letter/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [니케아 공의회에 관하여 자기 교회에 보낸 편지 TXT](https://patristics.missionalbible.org/works/eusebius-nicene-letter/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [안티오키아인들에게 보낸 서한 TXT](https://patristics.missionalbible.org/works/athanasius-antiochenes/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [아블라비오스에게: 세 하나님이라 하지 않는 까닭 TXT](https://patristics.missionalbible.org/works/gregory-nyssa-ablabius/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제1신학강론 (제27강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-27/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [성령에 관하여 TXT](https://patristics.missionalbible.org/works/basil-holy-spirit/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제2신학강론 (제28강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-28/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제3신학강론 (제29강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-29/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제4신학강론 (제30강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-30/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제5신학강론 (제31강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [세라피온에게 보낸 제1서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-1/text-ko-alpha-0.24.6-v1.txt): alpha-0.24.6
+- [세라피온에게 보낸 제2서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-2/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [세라피온에게 보낸 제3서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-3/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [세라피온에게 보낸 제4서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-4/text-ko-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [부활에 관하여 TXT](https://patristics.missionalbible.org/works/athenagoras-resurrection/text-ko-alpha-0.27-v1.txt): alpha-0.27
+- [말씀의 성육신에 관하여 TXT](https://patristics.missionalbible.org/works/athanasius-incarnation/text-ko-alpha-0.26.2-v1.txt): alpha-0.26.2
+- [이방인 논박 TXT](https://patristics.missionalbible.org/works/athanasius-gentes/text-ko-alpha-0.28-v1.txt): alpha-0.28
+
+## 한국어·원어 전문 TXT
+
+- [로마인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-romans/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [디다케 한국어·원어 TXT](https://patristics.missionalbible.org/works/didache/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [필리피인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/polycarp-philippians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [필라델피아인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-philadelphians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [폴리카르포스에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-polycarp/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [에베소인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-ephesians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [마그네시아인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-magnesians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [트랄레스인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-trallians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [스미르나인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-smyrnaeans/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [클레멘스 1서 한국어·원어 TXT](https://patristics.missionalbible.org/works/clement-1-corinthians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [무라토리 단편 한국어·원어 TXT](https://patristics.missionalbible.org/works/muratorian-fragment/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [파피아스 단편과 증언 한국어·원어 TXT](https://patristics.missionalbible.org/works/papias-fragments/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [이단 논박 한국어·원어 TXT](https://patristics.missionalbible.org/works/irenaeus-against-heresies/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [교회사 한국어·원어 TXT](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제1변증서 한국어·원어 TXT](https://patristics.missionalbible.org/works/justin-first-apology/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [바르나바 서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/barnabas/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [클레멘스 2서 한국어·원어 TXT](https://patristics.missionalbible.org/works/clement-2-corinthians/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [폴리카르포스의 순교 한국어·원어 TXT](https://patristics.missionalbible.org/works/polycarp-martyrdom/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [디오그네토스에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/diognetus/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제2변증서 한국어·원어 TXT](https://patristics.missionalbible.org/works/justin-second-apology/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [그리스도인들을 위한 청원 한국어·원어 TXT](https://patristics.missionalbible.org/works/athenagoras-plea/text-bilingual-alpha-0.27-v1.txt): alpha-0.27
+- [아우톨리코스에게 한국어·원어 TXT](https://patristics.missionalbible.org/works/theophilus-autolycus/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [그리스인들에게 한국어·원어 TXT](https://patristics.missionalbible.org/works/tatian-greeks/text-bilingual-alpha-0.27-v1.txt): alpha-0.27
+- [니케아 신조 (325년) 한국어·원어 TXT](https://patristics.missionalbible.org/works/nicene-creed-325/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [니케아·콘스탄티노폴리스 신조 한국어·원어 TXT](https://patristics.missionalbible.org/works/niceno-constantinopolitan-creed/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [니코메디아의 유세비우스에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/arius-eusebius-letter/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [니케아 공의회에 관하여 자기 교회에 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/eusebius-nicene-letter/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [안티오키아인들에게 보낸 서한 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-antiochenes/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [아블라비오스에게: 세 하나님이라 하지 않는 까닭 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nyssa-ablabius/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제1신학강론 (제27강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-27/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [성령에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/basil-holy-spirit/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제2신학강론 (제28강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-28/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제3신학강론 (제29강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-29/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제4신학강론 (제30강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-30/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [제5신학강론 (제31강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [세라피온에게 보낸 제1서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-1/text-bilingual-alpha-0.24.6-v1.txt): alpha-0.24.6
+- [세라피온에게 보낸 제2서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-2/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [세라피온에게 보낸 제3서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-3/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [세라피온에게 보낸 제4서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-4/text-bilingual-alpha-0.24.4-v1.txt): alpha-0.24.4
+- [부활에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/athenagoras-resurrection/text-bilingual-alpha-0.27-v1.txt): alpha-0.27
+- [말씀의 성육신에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-incarnation/text-bilingual-alpha-0.26.2-v1.txt): alpha-0.26.2
+- [이방인 논박 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-gentes/text-bilingual-alpha-0.28-v1.txt): alpha-0.28
