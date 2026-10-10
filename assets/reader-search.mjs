@@ -42,7 +42,7 @@ export function installReaderSearch() {
   const previous=document.createElement('button'),next=document.createElement('button');
   previous.type=next.type='button';previous.textContent='이전 일치';next.textContent='다음 일치';
   const toggle=document.createElement('label');toggle.className='reader-search-toggle';const checkbox=document.createElement('input');checkbox.type='checkbox';checkbox.checked=true;toggle.append(checkbox,'검색어 표시');
-  controls.append(label,count,previous,next,toggle);tools.classList.add('has-search-controls');tools.append(controls);
+  controls.append(label,count,previous,next,toggle);tools.classList.add('has-search-controls');(tools.querySelector('.reader-tools-panel')||tools).append(controls);
   const highlights=typeof Highlight!=='undefined'&&CSS.highlights;
   let selected=Math.max(0,matches.findIndex(row=>'#'+row.unit?.id===location.hash));
   const paint=()=>{

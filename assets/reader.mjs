@@ -1,5 +1,6 @@
+import {installReaderToolbar} from './reader-toolbar.mjs?v=0ade55c5c101';
 import {installReaderFeatures} from './reader-features.mjs?v=342d9c9ee5cb';
-import {installReaderSearch} from './reader-search.mjs?v=2cadbac4529c';
+import {installReaderSearch} from './reader-search.mjs?v=9f15588c1b64';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {
   link.addEventListener('click', () => { chapterMenu.open = false; });
@@ -126,7 +127,7 @@ async function installTopicContext() {
     });
     inner.append(back,count,steps);bar.append(inner);document.querySelector('.site-header').after(bar);
     document.body.classList.add('has-topic-context');
-    new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',bar.getBoundingClientRect().height+'px')).observe(bar);
+    new ResizeObserver(()=>document.documentElement.style.setProperty('--topic-context-height',(getComputedStyle(bar).position==='sticky'?bar.getBoundingClientRect().height:0)+'px')).observe(bar);
     window.addEventListener('hashchange',()=>update(topicReadingPosition(topic.passages,location.href,selected.work_passage_id)));
     const inDocument=topic.passages.map((p,i)=>({i,node:document.querySelector('[data-passage-id="'+CSS.escape(p.work_passage_id)+'"]')})).filter(p=>p.node);
     let scrollIntentUntil=0;
@@ -163,4 +164,5 @@ if(readerTools){
   new ResizeObserver(()=>document.documentElement.style.setProperty('--reader-tools-height',readerTools.getBoundingClientRect().height+'px')).observe(readerTools);
 }
 installReaderFeatures();
+installReaderToolbar(readerTools);
 installReaderSearch();

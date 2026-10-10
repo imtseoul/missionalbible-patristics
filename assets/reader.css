@@ -180,3 +180,25 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
 @media print{.reader-search-controls{display:none}}
 
 .reader-tools.has-search-controls{flex-wrap:wrap}
+
+/* Keep the desktop controls in their existing flex layout. */
+.reader-controls, .reader-tools-panel { display: contents; }
+.reader-controls-toggle { display: none; }
+@media (max-width: 720px) {
+  .has-compact-reader .site-header, .has-compact-reader .reader-topic-context { position: static; }
+  .reader-tools.reader-tools-compact { top: 0; padding: 0; display: block; }
+  .reader-controls { display: block; width: 100%; }
+  .reader-controls-toggle { display: flex; align-items: center; gap: 12px; min-height: 52px; padding: 4px 0; cursor: pointer; color: var(--blue); list-style: none; }
+  .reader-controls-toggle::-webkit-details-marker { display: none; }
+  .reader-controls-title { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 600; }
+  .reader-controls-action { display: inline-flex; align-items: center; gap: 8px; white-space: nowrap; }
+  .reader-controls-action::after { content: ''; width: 7px; height: 7px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); margin: -4px 3px 0 0; }
+  .reader-controls[open] .reader-controls-action::after { transform: rotate(225deg); margin-top: 4px; }
+  .reader-controls:not([open]) > .reader-tools-panel { display: none; }
+  .reader-controls[open] > .reader-tools-panel { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; position: absolute; top: 100%; left: 0; right: 0; padding: 12px; max-height: calc(100dvh - var(--reader-panel-top, 54px) - 16px); overflow: auto; overscroll-behavior: contain; border: 1px solid var(--line); background: #fff; }
+  .reader-tools-panel .passage-source-content { position: static; width: 100%; max-height: none; padding: 12px 0; border: 0; }
+  .reader-tools-panel .reader-meta { flex-wrap: wrap; }
+  .reader-tools-panel .passage-source[open] { flex-basis: 100%; }
+  .reader-tools-panel .reader-current-title { flex-basis: 100%; }
+  .has-compact-reader .reader-topic-inner { padding-block: 12px; }
+}
