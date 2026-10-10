@@ -204,3 +204,13 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
 }
 
 @media (max-width: 720px) { .topic-return span, .reader-topic-outline small, .work-author, .witness-heading p { font-size: 13px; } .document-heading p { font-size: max(12px, calc(13px * var(--reader-text-scale, 1))); } }
+
+@media (max-width: 720px) {
+  .work-context a, .reader-current-title, .reader-current-location, .reader-jumps > a, .reader-footer a { display: inline-flex; align-items: center; min-height: 44px; min-width: 24px; }
+  .reader-jumps { align-items: center; flex-wrap: wrap; }
+  .chapter-menu summary, .book-menu summary, .reader-notes summary { min-height: 44px; padding-block: 10px; }
+  .chapter-menu nav a, .book-contents nav a, .book-index a { min-height: 44px; min-width: 44px; display: inline-flex; align-items: center; justify-content: center; }
+  .font-controls button { min-width: 44px; height: 44px; }
+  .passage-number a { min-width: 24px; min-height: 32px; text-align: right; }
+  .reader-notes li > a { min-height: 32px; min-width: 24px; }
+}

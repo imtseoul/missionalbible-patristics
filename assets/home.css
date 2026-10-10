@@ -182,3 +182,7 @@ button:hover { background: #16455f; }
 @media(max-width:720px){.search-text-conditions input{font-size:16px}.search-result-actions button,.search-operations button{min-height:44px}}
 
 @media (max-width: 720px) { .work-extent, .work-description { font-size: 13px; } }
+
+@media (max-width: 720px) {
+  .archive-index-links a, .site-footer a { min-height: 44px; display: inline-flex; align-items: center; }
+}

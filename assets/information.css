@@ -36,3 +36,8 @@
   .detail-layout { display: block; padding: 0; }
   .information { max-width: none; }
 }
+
+@media (max-width: 720px) {
+  .information-menu summary { min-height: 44px; padding-block: 10px; }
+  .information-menu nav a, .information-footer a { min-height: 44px; display: inline-flex; align-items: center; }
+}
