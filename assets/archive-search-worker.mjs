@@ -3,7 +3,7 @@ let engine;
 self.addEventListener('message',async event=>{
   const {id,state}=event.data;
   try {
-    engine??=import('./archive-search-engine.mjs?v=2527f9032497');
+    engine??=import('./archive-search-engine.mjs?v=68b44e74a47b');
     const {archiveResults}=await engine;
     const result=await archiveResults(state,{onProgress:progress=>self.postMessage({id,type:'progress',progress})});
     self.postMessage({id,type:'result',result});

@@ -55,6 +55,7 @@
 - [말씀의 성육신에 관하여](https://patristics.missionalbible.org/works/athanasius-incarnation/): 아타나시우스. Robertson 1893년 제2판 1-86쪽의1-57장 전문. 번호 있는331절과 번호 없는10장 서두1개. 인쇄39.5의 경계를 복원함
 - [이방인 논박](https://patristics.missionalbible.org/works/athanasius-gentes/): 아타나시우스. PTA Savvidis 예비 교감 전자판의 1-47장 전체. 기록한 전자 중복·삽입 오류를 PG 25의 해당 인쇄면으로 확인하여 교정.
 - [마르키온 반박 1권](https://patristics.missionalbible.org/works/tertullian-marcion-1/): 테르툴리아누스. Kroymann 1906, CSEL 47의 마르키온 반박 1권 1-29장. 전체 5권 가운데 1권이다. 고정 전자 원문을 290-333쪽 인쇄면과 대조해 교정.
+- [마르키온 반박 2권](https://patristics.missionalbible.org/works/tertullian-marcion-2/): 테르툴리아누스. Kroymann 1906, CSEL 47의 마르키온 반박 2권 1-29장. 전체 5권 가운데 2권이다. 고정 전자 원문을 333-377쪽 인쇄면과 대조해 교정.
 
 ## 한국어 전문 TXT
 
@@ -101,6 +102,7 @@
 - [말씀의 성육신에 관하여 TXT](https://patristics.missionalbible.org/works/athanasius-incarnation/text-ko-alpha-0.26.2-v1.txt): alpha-0.26.2
 - [이방인 논박 TXT](https://patristics.missionalbible.org/works/athanasius-gentes/text-ko-alpha-0.28-v1.txt): alpha-0.28
 - [마르키온 반박 1권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-1/text-ko-alpha-0.29-v1.txt): alpha-0.29
+- [마르키온 반박 2권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-2/text-ko-alpha-0.30-v1.txt): alpha-0.30
 
 ## 한국어·원어 전문 TXT
 
@@ -147,3 +149,4 @@
 - [말씀의 성육신에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-incarnation/text-bilingual-alpha-0.26.2-v1.txt): alpha-0.26.2
 - [이방인 논박 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-gentes/text-bilingual-alpha-0.28-v1.txt): alpha-0.28
 - [마르키온 반박 1권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-1/text-bilingual-alpha-0.29-v1.txt): alpha-0.29
+- [마르키온 반박 2권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-2/text-bilingual-alpha-0.30-v1.txt): alpha-0.30
