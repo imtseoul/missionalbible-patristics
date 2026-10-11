@@ -11,6 +11,20 @@
   }
   apply();
 
+  // 원어 표시는 기본으로 켜 두고, 끈 상태만 저장한다. 원어 검색에서 들어오면 저장값과 관계없이 보인다.
+  const originalKey = 'patristics-ko-reader-original-v1';
+  let showOriginal = true;
+  try { showOriginal = localStorage.getItem(originalKey) !== 'hidden'; } catch { /* Storage may be blocked. */ }
+  try {
+    const search = new URL(location.href).searchParams.get('search');
+    const mode = search ? new URL(search, location.href).searchParams.get('mode') : '';
+    if (mode === 'grc' || mode === 'lat') showOriginal = true;
+  } catch { /* Keep the stored preference. */ }
+  function applyOriginal() {
+    document.documentElement.classList?.toggle('hide-original', !showOriginal);
+  }
+  applyOriginal();
+
   function setup() {
     const controls = document.querySelector('.font-controls');
     if (!controls) return;
@@ -45,11 +59,46 @@
       }
     }
 
+    if (document.querySelector('.passage .original') && !controls.querySelector('.original-toggle')) {
+      const toggle = document.createElement('button');
+      toggle.type = 'button';
+      toggle.className = 'original-toggle';
+      toggle.textContent = '원어';
+      const sync = () => {
+        toggle.setAttribute('aria-pressed', String(showOriginal));
+        toggle.setAttribute('aria-label', showOriginal ? '원어 숨기기' : '원어 보이기');
+      };
+      toggle.addEventListener('click', () => {
+        const top = Math.max(0, toolbar.getBoundingClientRect().bottom);
+        const visible = [...document.querySelectorAll('.passage')].filter(element => {
+          const rect = element.getBoundingClientRect();
+          return rect.bottom > top && rect.top < window.innerHeight;
+        });
+        const anchor = visible.find(element => element.getBoundingClientRect().top >= top) || visible[0];
+        const before = anchor?.getBoundingClientRect().top;
+        showOriginal = !showOriginal;
+        applyOriginal();
+        sync();
+        if (anchor) window.scrollBy(0, anchor.getBoundingClientRect().top - before);
+        try {
+          if (showOriginal) localStorage.removeItem(originalKey);
+          else localStorage.setItem(originalKey, 'hidden');
+        } catch { /* Keep the choice for this page only. */ }
+      });
+      sync();
+      controls.prepend(toggle);
+    }
     smaller.addEventListener('click', () => change(Math.max(sizes[0], size - 10)));
     larger.addEventListener('click', () => change(Math.min(sizes[sizes.length - 1], size + 10)));
     reset.addEventListener('click', () => change(100));
     window.addEventListener('storage', event => {
       if (event.key === key || event.key === null) change(event.newValue, false);
+      if (event.key === originalKey || event.key === null) {
+        showOriginal = event.newValue !== 'hidden';
+        applyOriginal();
+        const toggle = controls.querySelector('.original-toggle');
+        if (toggle) toggle.setAttribute('aria-pressed', String(showOriginal));
+      }
     });
     display();
     controls.hidden = false;
