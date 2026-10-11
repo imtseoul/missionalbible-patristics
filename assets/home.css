@@ -28,7 +28,7 @@ button:hover { background: #333333; }
 .results li { border-bottom: 1px solid var(--line); padding: 20px 0; }
 .results h3 { font-size: 16px; }
 .results p { max-width: 75ch; margin-top: 8px; }
-.author-catalogue { display: grid; gap: 56px; margin-top: 8px; }
+.author-catalogue { display: grid; gap: 56px; margin-top: 36px; }
 .era-heading { display: flex; align-items: baseline; gap: 12px; padding-bottom: 12px; margin-bottom: 4px; border-bottom: 1px solid var(--ink); }
 .era-heading h2 { font-size: 22px; letter-spacing: -.03em; }
 .era-heading span { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
@@ -239,3 +239,4 @@ button:hover { background: #333333; }
   .author-nav-era:first-of-type { margin-top: 0; }
 }
 .library-paths + .recent-reading { border-top: 0; margin-top: 0; }
+@media (max-width: 720px) { .author-catalogue { margin-top: 28px; } .work-entry { padding: 12px 0 8px; } }

@@ -12661,7 +12661,7 @@
     "assets/fonts/noto-sans-kr-600.ttf": "adccd5d782a44b91d7342fe0a282c0ffffbc7cf4df7c6744b42452036eb7be68",
     "assets/fonts/noto-sans-kr-ui-400.ttf": "b8ad6b8e2ae2e9c96ebfcb3111e373ad1bbb6a174fcf1e33ba89f1b185d0a6ae",
     "assets/fonts/noto-sans-kr-ui-600.ttf": "5613378a4d544016eaa5056372841dde86f86b803ee60cf71b1d4c39394cc1fa",
-    "assets/home.css": "70294f0b86c0c19f14353b3154751abcfe398a32bd2f46d18b599be682dcbd3e",
+    "assets/home.css": "977f605a28a5711f3891d3b87256519f95d1697891fa8e04d17ccf6d7cdacdd9",
     "assets/information.css": "199220223694fabd5f9f8c5a140dd7454c5becf0151a108debcf8c20ed91b692",
     "assets/packed-data.mjs": "1a75398990a66fee1f03b0f36df4af6e881df56363723357555073a647f9608d",
     "assets/page-tools.css": "84d5d58d3ce51028de235fb515cd22b22ec664c2e305b4c20f738d566ae4869d",
@@ -12879,7 +12879,7 @@
     "data/corrections-view/theophilus-autolycus.json": "54aaa5edd086a040162ebf04e5239804a777a4989e8b73c90bd5703b0e759c7c",
     "data/corrections.json": "caff3b23aaaaf1c0f5d1df008dc5485b8e1a23c2e2ce78cf97a13545921f5720",
     "data/phrase-alignments.json": "6e2b7ad32dfceeef547834833532c146e81cd0a94d4d50e7afcc50f591d2561d",
-    "index.html": "477a85ebc14c69d28f51f17ea64d80eae69ceb98c3bff07b47657255824dd0f3",
+    "index.html": "a756372b501e095aeb31af66a2ca5cb322fdfba2b616e8518133df627dd17f65",
     "llms.txt": "022378057eb31b2358d3217c75efe9baea51494fe2de51f19bb003d2accb2c4a",
     "patristics-archive-mapping.json": "ff015a745ef901397f95461cc9e26042393d07de46b2e2888e22df1a86d2780b",
     "releases/alpha-0.1/didache/checksums.json": "706dfee7f3e1bcb4d59ea96374fd035d28e62db1c25ca5743d2acf3bcf4e4fcd",
@@ -15474,8 +15474,8 @@
     },
     "archive_expansion": {
       "budget": 950000000,
-      "bytes_after": 934433317,
-      "bytes_before": 934421672,
+      "bytes_after": 934433422,
+      "bytes_before": 934433314,
       "exploration": {
         "by_use": {
           "exposition": 3,
@@ -15528,7 +15528,7 @@
         "works": 43
       },
       "public_status_cleaned": 43,
-      "remaining_bytes": 15566683,
+      "remaining_bytes": 15566578,
       "static_discovery": {
         "bilingual_plain_text_bytes": 11274951,
         "delivery": {
@@ -16745,7 +16745,7 @@
         "works": 43
       }
     },
-    "bytes": 934433317,
+    "bytes": 934433422,
     "catalogue_hashes_verified": 43,
     "current_reader_delivery": {
       "book_directories": 3,
