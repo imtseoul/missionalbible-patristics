@@ -1,4 +1,4 @@
-import index from './archive-search-index.mjs?v=29179172b293';
+import index from './archive-search-index.mjs?v=934db7cd3221';
 import {parseScriptureQuery,scriptureIntersects} from './scripture-search.mjs?v=e127e538461b';
 import {passageSearchText,textMatches,workReference,referenceMatches} from './archive-search-core.mjs?v=c183809f9954';
 const works=new Map(index.works.map(work=>[work.id,work]));
