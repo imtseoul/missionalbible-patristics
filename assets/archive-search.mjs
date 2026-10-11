@@ -1,11 +1,11 @@
-import {createArchiveSearchClient} from './archive-search-client.mjs?v=d1570746f8a7';
+import {createArchiveSearchClient} from './archive-search-client.mjs?v=968bf622e1dd';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-export {archiveResults} from './archive-search-engine.mjs?v=824d96d5bb7a';
-import index from './archive-search-index.mjs?v=9d563b22713c';
+export {archiveResults} from './archive-search-engine.mjs?v=7bff77b5d373';
+import index from './archive-search-index.mjs?v=29179172b293';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=c9235b0b8b9b';
 import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=e127e538461b';
-import {workInformationURL} from './work-information.mjs?v=696d772deacc';
+import {workInformationURL} from './work-information.mjs?v=403dc4ff06f3';
 import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=c183809f9954';
 
 const works=new Map(index.works.map(work=>[work.id,work]));

@@ -1,4 +1,4 @@
-import versions from './reader-metadata-index.mjs?v=52805ad10444';
+import versions from './reader-metadata-index.mjs?v=36dd89fbd307';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {readSaved,saveReadings,mergeSaved,removeSaved,readRemoved,storageProblem} from './saved-readings.mjs?v=cc89cfac9055';
 

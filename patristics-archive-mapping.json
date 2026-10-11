@@ -4,12 +4,14 @@
   "current_jsonl_policy": "new_JSONL_pinned_to_immutable_archive_existing_public_routes_retained",
   "download_compatibility": {
     "policy": "published-raw-bytes-retained-1",
-    "restored_routes": 113,
-    "retained_routes": 531
+    "restored_routes": 114,
+    "retained_routes": 532
   },
-  "external_current_json_data": [],
+  "external_current_json_data": [
+    "releases/alpha-0.29/tertullian-marcion-1/passages.json"
+  ],
   "external_current_jsonl_data": [
-    "releases/alpha-0.28/athanasius-gentes/passages.jsonl"
+    "releases/alpha-0.29/tertullian-marcion-1/passages.jsonl"
   ],
   "external_historical_data": [
     "releases/alpha-0.1/didache/passages.jsonl",
@@ -634,6 +636,8 @@
     "releases/alpha-0.27/athenagoras-resurrection/passages.jsonl",
     "releases/alpha-0.27/tatian-greeks/passages.jsonl",
     "releases/alpha-0.28/athanasius-gentes/passages.jsonl",
+    "releases/alpha-0.29/tertullian-marcion-1/passages.json",
+    "releases/alpha-0.29/tertullian-marcion-1/passages.jsonl",
     "releases/alpha-0.3/didache/passages.jsonl",
     "releases/alpha-0.3/ignatius-philadelphians/passages.jsonl",
     "releases/alpha-0.3/ignatius-polycarp/passages.jsonl",
@@ -3828,6 +3832,16 @@
       "sha256": "d709c08ae900e0069af32bf447897945804863f08e8ec169e66a97d4cd1b9202",
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/25872c200fbd5b7555354259330da39c19f5045f/releases/alpha-0.28/athanasius-gentes/passages.jsonl"
     },
+    "releases/alpha-0.29/tertullian-marcion-1/passages.json": {
+      "git_blob": "bb0aacfbd546d268cc743fd0f12ea28254cfca8a",
+      "sha256": "041bbb670c92081622ad6bef0db50d68750df604d640d7231aacc8551bfe9076",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/44833e39bc0588e8363c55283c2ae9256749dc2d/releases/alpha-0.29/tertullian-marcion-1/passages.json"
+    },
+    "releases/alpha-0.29/tertullian-marcion-1/passages.jsonl": {
+      "git_blob": "ace11de12a1d2b785230192175338a6bde40555b",
+      "sha256": "b97dd8c5afb64a8b5df7456fdcd73dd920a3f8538b285ce39ea86588e796aa02",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/44833e39bc0588e8363c55283c2ae9256749dc2d/releases/alpha-0.29/tertullian-marcion-1/passages.jsonl"
+    },
     "releases/alpha-0.3/didache/passages.jsonl": {
       "git_blob": "a6cc4805e0a2a855677fcb0fb6364f85e85d4b1c",
       "sha256": "0dd2968eb4744d88c4e072e5a17ba7eb96b91f8e9aecb538f68a4de311531c9c",
@@ -4245,7 +4259,7 @@
     "latest_release_data": "local",
     "size_limit_bytes": 900000000
   },
-  "latest_release": "alpha-0.28",
+  "latest_release": "alpha-0.29",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/25872c200fbd5b7555354259330da39c19f5045f/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/44833e39bc0588e8363c55283c2ae9256749dc2d/"
 }

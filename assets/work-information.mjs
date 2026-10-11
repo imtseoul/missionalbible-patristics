@@ -56,7 +56,7 @@ if (typeof document !== 'undefined') {
         if(!corrections.open||ready||loading)return;loading=true;
         content.replaceChildren();const message=document.createElement('p');message.setAttribute('role','status');message.textContent='교정 기록을 불러오는 중입니다.';content.append(message);
         try {
-          const index=(await import('./archive-correction-index.mjs?v=1cb7e243a5ea')).default;
+          const index=(await import('./archive-correction-index.mjs?v=682492cf919f')).default;
           const file=index.files[page.dataset.workId];if(!file)throw new Error('교정 자료의 문헌 정보를 확인해 주세요.');
           const url=new URL(file.path,location.origin+'/');url.searchParams.set('v',file.data_sha256);
           const response=await fetch(url,{cache:'no-cache'});if(!response.ok)throw new Error('교정 기록을 읽지 못했습니다. 연결을 확인한 뒤 다시 시도하세요.');
