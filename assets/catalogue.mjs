@@ -1,5 +1,5 @@
 // Native anchors still reach every author when JavaScript is unavailable.
-import {installRecentReading} from './reading-progress.mjs?v=56a23c1dd8f1';
+import {installRecentReading} from './reading-progress.mjs?v=291a7b63c18d';
 import {catalogueMatch} from './catalogue-search.mjs?v=71d83a0edc6e';
 const catalogue = document.getElementById('author-catalogue');
 const sections = [...document.querySelectorAll('[data-author]')];
@@ -66,6 +66,13 @@ function showAuthor() {
   }
   updateAuthorMenu();
 }
+
+// 본문 검색은 첫 화면에서 접어 두고, 바닥글의 '본문 검색'이나 #body-search 주소로 열린다.
+function openBodySearch(){
+  const details=document.getElementById('body-search');
+  if(location.hash==='#body-search'&&details&&!details.open){details.open=true;details.scrollIntoView({block:'start'});details.querySelector('input')?.focus({preventScroll:true});}
+}
+openBodySearch();window.addEventListener('hashchange',openBodySearch);
 
 if (catalogue && counter) {
   installRecentReading();

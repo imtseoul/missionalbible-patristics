@@ -1,5 +1,5 @@
 import {installReaderToolbar} from './reader-toolbar.mjs?v=c58caaa1e294';
-import {installReaderFeatures} from './reader-features.mjs?v=e35879ee5fe0';
+import {installReaderFeatures} from './reader-features.mjs?v=6e90b2cb0641';
 import {installReaderSearch} from './reader-search.mjs?v=f3bd50f09359';
 const chapterMenu = document.querySelector('.chapter-menu');
 chapterMenu?.querySelectorAll('a').forEach(link => {

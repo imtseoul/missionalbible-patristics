@@ -46,7 +46,6 @@ button:hover { background: #333333; }
 .work-entry h4 { font-size: 17px; line-height: 1.6; font-weight: 600; letter-spacing: -.02em; }
 .work-entry h4 a { display: inline-block; color: var(--ink); }
 .work-entry h4 a:hover { text-decoration-color: var(--accent); text-decoration-thickness: 2px; }
-.work-original { font: 11.5px/1.7 Georgia, 'Times New Roman', serif; color: #8a8a8a; letter-spacing: .03em; margin-top: 4px; overflow-wrap: anywhere; }
 .work-description { font-size: 14px; line-height: 1.7; color: #333333; margin-top: 4px; word-break: keep-all; }
 .work-extent { font-size: 12px; line-height: 1.7; color: var(--muted); margin-top: 6px; font-variant-numeric: tabular-nums; }
 .author-catalogue.is-filtered .author-section { grid-column: 1 / -1; }
@@ -127,15 +126,6 @@ button:hover { background: #333333; }
 .body-search > summary:hover { border-color: var(--ink); color: var(--ink); }
 .body-search[open] > summary { border-color: var(--ink); color: var(--ink); font-weight: 600; }
 .body-search[open] > summary { margin-bottom: 10px; }
-.work-information { margin-top: 7px; font-size: 13px; }
-.work-information > summary { min-height: 44px; padding-block: 10px; cursor: pointer; color: var(--muted); font-size: 12px; }
-.work-information > summary:hover { color: var(--ink); }
-.work-information dl { margin: 4px 0 12px; }
-.work-information dt { color: var(--muted); font-size: 12px; margin-top: 12px; }
-.work-information dd { margin: 3px 0 0; overflow-wrap: anywhere; line-height: 1.8; }
-.work-information ul { margin: 0; padding-left: 18px; }
-.work-information nav { display: flex; gap: 8px 16px; flex-wrap: wrap; }
-.work-information nav a { display: inline-block; min-height: 44px; padding-block: 10px; }
 @media (max-width: 720px) {
   .catalogue-filter input { flex-basis: 100%; }
   .catalogue-filter select { flex: 1; width: auto; font-size: 16px; }
@@ -179,8 +169,6 @@ button:hover { background: #333333; }
   .search-entry-row button { padding-inline: 16px; }
   #search-pagination { gap: 10px; }
 }
-.archive-index-links{display:flex;flex-wrap:wrap;gap:10px 24px;margin:0 0 24px;font-size:14px}
-.archive-index-links a{text-underline-offset:4px}
 .search-text-conditions{margin:20px 0 8px;border-top:1px solid var(--line);padding-top:12px}
 .search-text-conditions summary{width:fit-content;color:var(--blue);cursor:pointer;font-size:14px;padding:8px 0}
 .search-text-conditions .archive-search-options{margin-top:12px}
@@ -199,10 +187,8 @@ button:hover { background: #333333; }
 @media (max-width: 720px) { .work-extent, .work-description { font-size: 13px; } }
 
 @media (max-width: 720px) {
-  .archive-index-links a, .site-footer a { min-height: 44px; display: inline-flex; align-items: center; }
 }
 
-@media (max-width: 720px) { .archive-index-links { margin-top: 12px; } }
 
 /* Reserve the enhanced controls while the catalogue module loads. */
 @media (scripting: enabled) {
@@ -214,29 +200,53 @@ button:hover { background: #333333; }
 }
 
 /* 2026-10-12 첫 화면: 소개, 들어가는 길, 시대 묶음. */
-.library-paths { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; margin: 28px 0 8px; border-block: 1px solid var(--line); }
-.library-paths a { display: grid; align-content: start; gap: 6px; padding: 18px 20px 20px 0; color: var(--ink); min-height: 44px; }
-.library-paths a + a { padding-left: 20px; border-left: 1px solid var(--line); }
-.library-paths a:hover { text-decoration: none; }
-.library-paths strong { font-size: 16px; font-weight: 600; }
-.library-paths strong::after { content: ' →'; color: var(--accent); }
-.library-paths a:hover strong { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: .25em; }
-.library-paths span { font-size: 13px; line-height: 1.7; color: var(--muted); word-break: keep-all; }
-.library-paths .archive-search-shortcut { margin: 0; padding-block: 18px 20px; font-size: inherit; }
 .author-nav-era { margin: 18px 12px 6px; color: var(--muted); font-size: 11px; letter-spacing: .02em; }
 .author-nav-era:first-of-type { margin-top: 8px; }
-.archive-index-links { margin-top: 16px; }
 @media (max-width: 1000px) {
-  .library-paths a { padding-right: 14px; }
-  .library-paths a + a { padding-left: 14px; }
 }
 @media (max-width: 720px) {
   .library-sidebar .browse-switch { display: none; }
-  .library-paths { grid-template-columns: minmax(0, 1fr); margin-top: 20px; }
-  .library-paths a, .library-paths .archive-search-shortcut { padding: 14px 0; }
-  .library-paths a + a { padding-left: 0; border-left: 0; border-top: 1px solid var(--line); }
   .author-nav-era { flex-basis: 100%; margin: 10px 0 2px; font-size: 12px; }
   .author-nav-era:first-of-type { margin-top: 0; }
 }
-.library-paths + .recent-reading { border-top: 0; margin-top: 0; }
 @media (max-width: 720px) { .author-catalogue { margin-top: 28px; } .work-entry { padding: 12px 0 8px; } }
+
+/* 2026-10-12 첫 화면 정리: 제목 다음에 바로 목록. 시대 > 저자 > 문헌의 세 단계를 한 열의 색인으로 구분한다. */
+.catalogue-header { padding-bottom: 20px; border-bottom: 1px solid var(--ink); }
+.catalogue-header .catalogue-lead { font-size: 14px; color: var(--muted); }
+.search-section:not(:has(.body-search[open])):not(:has(:target)) { display: none; }
+.recent-reading { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; margin: 0; padding: 12px 0; border-block: 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.recent-reading h2 { font-size: 13px; font-weight: 400; color: var(--muted); }
+.recent-reading ul { display: contents; }
+.recent-reading li { display: contents; }
+.recent-reading a { padding: 10px 0; font-size: 14px; font-weight: 600; }
+.recent-reading button { order: 9; margin-left: auto; min-height: 44px; padding: 6px 0; border: 0; background: transparent; color: var(--muted); font-size: 13px; }
+.recent-reading button:hover { background: transparent; color: var(--ink); text-decoration: underline; }
+.author-catalogue { gap: 48px; margin-top: 40px; }
+.era-heading { padding-bottom: 10px; margin-bottom: 0; border-bottom: 2px solid var(--ink); }
+.era-heading h2 { font-size: 20px; }
+.era-authors, .author-catalogue.is-filtered .era-authors { display: block; }
+.author-section { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 0 32px; padding: 22px 0 18px; border-bottom: 1px solid #cfcfcf; }
+.author-heading { display: block; padding: 4px 0 0; }
+.author-heading h3 { font-size: 16px; line-height: 1.5; }
+.author-heading > span { display: block; margin-top: 2px; font-size: 12.5px; }
+.author-ignatius .work-list, .author-athanasius .work-list, .author-anonymous .work-list { display: block; }
+.work-entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 24px; padding: 10px 0 12px; border-top: 1px solid var(--line); }
+.work-entry:first-child { border-top: 0; padding-top: 4px; }
+.work-entry h4 { grid-column: 1; margin: 0; font-size: 16px; line-height: 1.55; }
+.work-entry .work-extent { grid-column: 2; grid-row: 1; align-self: baseline; margin: 0; font-size: 12.5px; white-space: nowrap; }
+.work-entry .work-description { grid-column: 1 / -1; margin: 0; font-size: 13.5px; line-height: 1.65; color: var(--muted); }
+.site-footer nav + nav { margin-top: 4px; }
+@media (max-width: 1000px) {
+  .author-section { grid-template-columns: 150px minmax(0, 1fr); gap: 0 20px; }
+}
+@media (max-width: 720px) {
+  .catalogue-header { padding-bottom: 16px; }
+  .author-catalogue { gap: 36px; margin-top: 28px; }
+  .author-section { display: block; padding: 18px 0 12px; }
+  .author-heading { display: flex; align-items: baseline; gap: 10px; padding: 0 0 6px; }
+  .author-heading > span { margin: 0; }
+  .work-entry { grid-template-columns: minmax(0, 1fr); padding: 12px 0; }
+  .work-entry:first-child { border-top: 1px solid var(--line); padding-top: 12px; }
+  .work-entry .work-extent { grid-column: 1; grid-row: auto; white-space: normal; }
+}

@@ -20,7 +20,8 @@ export function rememberRecent(entry) {try{localStorage.setItem(STORAGE,JSON.str
 export function installRecentReading() {
   const search=document.querySelector('.search-section');if(!search)return;
   const works=new Set([...document.querySelectorAll('[data-work-id]')].map(x=>x.dataset.workId));
-  const list=readRecent().filter(x=>works.has(x.work));if(!list.length)return;
+  // 첫 화면에는 가장 최근 한 곳만 보인다.
+  const list=readRecent().filter(x=>works.has(x.work)).slice(0,1);if(!list.length)return;
   const section=document.createElement('section');section.className='recent-reading';section.setAttribute('aria-label','최근 읽은 문헌');
   const heading=document.createElement('h2');heading.textContent='이어서 읽기';
   const clear=document.createElement('button');clear.type='button';clear.textContent='비우기';clear.setAttribute('aria-label','최근 읽기 기록 비우기');
