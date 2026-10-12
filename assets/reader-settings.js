@@ -102,6 +102,19 @@
     });
     display();
     controls.hidden = false;
+    // 원어 표시와 글자 크기를 '보기' 메뉴 하나로 접는다. 도구 줄에는 현재 장, 인용, 출처, 보기만 남는다.
+    const view = document.createElement('details');
+    view.className = 'view-settings';
+    const viewToggle = document.createElement('summary');
+    viewToggle.textContent = '보기';
+    viewToggle.setAttribute('aria-label', '보기 설정: 원어 표시와 글자 크기');
+    const viewPanel = document.createElement('div');
+    viewPanel.className = 'view-settings-panel';
+    controls.replaceWith(view);
+    viewPanel.append(controls);
+    view.append(viewToggle, viewPanel);
+    document.addEventListener('pointerdown', event => { if (view.open && !view.contains(event.target)) view.open = false; }, {passive: true});
+    view.addEventListener('keydown', event => { if (event.key === 'Escape' && view.open) { view.open = false; viewToggle.focus(); event.stopPropagation(); } });
     toolbar.classList.add('has-font-controls');
   }
 

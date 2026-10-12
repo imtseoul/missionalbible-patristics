@@ -236,3 +236,23 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .work-heading h1 { font-size: 25px; }
 }
 @media print { .original-toggle { display: none; } .hide-original .original { display: block; } }
+
+/* 2026-10-12 도구 줄 정리: 원어 표시와 글자 크기는 '보기' 메뉴 안에 둔다. 여러 권 문헌의 권 이동은 제목 아래 한 곳에만 둔다. */
+.view-settings { position: relative; flex: none; font: 13px/1.6 var(--font); }
+.view-settings > summary { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 3px; color: var(--ink); cursor: pointer; list-style: none; white-space: nowrap; }
+.view-settings > summary::-webkit-details-marker { display: none; }
+.view-settings > summary::after { content: ''; width: 6px; height: 6px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); margin: -3px 2px 0 0; }
+.view-settings[open] > summary::after { transform: rotate(225deg); margin-top: 3px; }
+.view-settings > summary:hover { background: var(--wash); }
+.view-settings-panel { position: absolute; right: 0; top: calc(100% + 6px); z-index: 5; padding: 14px 16px; background: #fff; border: 1px solid var(--ink); }
+.view-settings-panel .font-controls { display: grid; grid-template-columns: auto auto auto auto auto; align-items: center; gap: 12px 2px; white-space: nowrap; }
+.view-settings-panel .original-toggle { grid-column: 1 / -1; margin: 0; justify-content: flex-start; min-height: 40px; }
+.view-settings-panel .font-controls-label { margin-right: 10px; }
+@media (min-width: 721px) {
+  .reader-sidebar > h2:has(+ .book-index), .reader-sidebar > .book-index { display: none; }
+}
+@media (max-width: 720px) {
+  .view-settings { flex-basis: 100%; }
+  .view-settings > summary { width: 100%; justify-content: space-between; }
+  .view-settings-panel { position: static; margin-top: 8px; border-color: var(--line); }
+}
