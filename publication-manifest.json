@@ -12689,7 +12689,7 @@
     "assets/fonts/noto-sans-kr-600.ttf": "adccd5d782a44b91d7342fe0a282c0ffffbc7cf4df7c6744b42452036eb7be68",
     "assets/fonts/noto-sans-kr-ui-400.ttf": "b8ad6b8e2ae2e9c96ebfcb3111e373ad1bbb6a174fcf1e33ba89f1b185d0a6ae",
     "assets/fonts/noto-sans-kr-ui-600.ttf": "5613378a4d544016eaa5056372841dde86f86b803ee60cf71b1d4c39394cc1fa",
-    "assets/home.css": "2fe37cb29abf169533b62e8236ebf7fd71cc281945f98019f608160cb99c48f7",
+    "assets/home.css": "af21aacb7a553e9e39eb0dadd422ed2536d43b17974b17a3a86d54797a90cfe8",
     "assets/information.css": "199220223694fabd5f9f8c5a140dd7454c5becf0151a108debcf8c20ed91b692",
     "assets/packed-data.mjs": "1a75398990a66fee1f03b0f36df4af6e881df56363723357555073a647f9608d",
     "assets/page-tools.css": "84d5d58d3ce51028de235fb515cd22b22ec664c2e305b4c20f738d566ae4869d",
@@ -12915,7 +12915,7 @@
     "data/corrections-view/theophilus-autolycus.json": "54aaa5edd086a040162ebf04e5239804a777a4989e8b73c90bd5703b0e759c7c",
     "data/corrections.json": "bc15987e388bf820c78e2be72eb97133eab2f4a8066bb06052ed89697150d0fe",
     "data/phrase-alignments.json": "98843f27b5914b17faebfc4a0851f39307e1b0edbe9e57aad254f8373450facb",
-    "index.html": "a075dfb0d53428668b23b62252ad69cf15f5c23c137bde93baaf0cf67851c6ce",
+    "index.html": "283df62980df7d969ea160848b6fc4d2a470804d8c888c505207d3c2f1bf6a3a",
     "llms.txt": "f1133180dab4dab7bcc3e332b5e6ecb35170bc2759feac307a955d47c9f65428",
     "patristics-archive-mapping.json": "c3ff193c457fad25bdc039464d3c1cee68859cc0444e952e2d74e16cea26f410",
     "releases/alpha-0.1/didache/checksums.json": "706dfee7f3e1bcb4d59ea96374fd035d28e62db1c25ca5743d2acf3bcf4e4fcd",
@@ -15052,7 +15052,7 @@
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
     "scripture.html": "eb82912961fcc1735dc86a19113c30a4ddaf557ef44354e01ace1bc4a3c514f0",
     "search-index.json": "6e93e7b4e6cf981efeccaf21a21cc42dc0746dd8bc63ad4dd01ef2b1a5a60c08",
-    "sitemap.xml": "8db4638affb38f9f2afd712095572f8748c0e8769d13aec12d4ba2e1be992bdf",
+    "sitemap.xml": "fa702786841b1730c7eb95f97961460177b51b3d010b480f2261c08c8e875cf0",
     "topics.html": "72d24e116238adc4a1eaf0d702b6457556d9de8a74b72ff6261ff3924013972b",
     "topics.json": "eb39d0a984927bcd3436c0a10941f04efa7066e2f2ed31819091a4ce5ebf1f7b",
     "works/arius-eusebius-letter/bibliography-alpha-0.24.4-v1.csv": "6f1299a3bc84c718b4200c075fabbea4b4d1cf543ee3e3c258eb3b6c28f3318b",
@@ -15530,8 +15530,8 @@
     },
     "archive_expansion": {
       "budget": 950000000,
-      "bytes_after": 938280526,
-      "bytes_before": 938277817,
+      "bytes_after": 938281564,
+      "bytes_before": 938280526,
       "exploration": {
         "by_use": {
           "exposition": 3,
@@ -15584,7 +15584,7 @@
         "works": 45
       },
       "public_status_cleaned": 45,
-      "remaining_bytes": 11719474,
+      "remaining_bytes": 11718436,
       "static_discovery": {
         "bilingual_plain_text_bytes": 11803489,
         "delivery": {
@@ -16728,7 +16728,7 @@
         ],
         "schema_version": "patristics-static-discovery-1",
         "sitemap_dates": {
-          "https://patristics.missionalbible.org/": "2026-10-12",
+          "https://patristics.missionalbible.org/": "2026-10-14",
           "https://patristics.missionalbible.org/about.html": "2026-10-12",
           "https://patristics.missionalbible.org/bibliography.html": "2026-10-12",
           "https://patristics.missionalbible.org/corrections.html": "2026-10-12",
@@ -16847,7 +16847,7 @@
         "works": 45
       }
     },
-    "bytes": 938280526,
+    "bytes": 938281564,
     "catalogue_hashes_verified": 45,
     "current_reader_delivery": {
       "book_directories": 3,

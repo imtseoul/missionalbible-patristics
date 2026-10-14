@@ -250,3 +250,21 @@ button:hover { background: #333333; }
   .work-entry:first-child { border-top: 1px solid var(--line); padding-top: 12px; }
   .work-entry .work-extent { grid-column: 1; grid-row: auto; white-space: normal; }
 }
+
+/* 2026-10-14 저자와 문헌 구분: 저자는 크고 굵게, 문헌 제목은 보통 굵기로 한 단계 낮춘다. */
+.era-heading h2 { font-size: 22px; }
+.author-section { grid-template-columns: 220px minmax(0, 1fr); padding: 26px 0 22px; border-bottom: 1px solid var(--line); }
+.author-heading h3 { font-size: 19px; font-weight: 600; line-height: 1.45; letter-spacing: -.02em; }
+.author-heading > span { margin-top: 4px; font-size: 13px; }
+.work-entry h4 { font-size: 16px; font-weight: 400; }
+.work-entry h4 a { color: var(--ink); }
+.work-entry h4 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--accent); }
+.work-entry .work-description { font-size: 13px; }
+@media (max-width: 720px) {
+  .author-section { padding: 22px 0 14px; }
+  .author-heading { display: block; padding-bottom: 8px; }
+  .author-heading h3 { font-size: 19px; }
+  .author-heading > span { display: block; margin-top: 2px; }
+  .work-entry:first-child { border-top: 0; }
+  .work-entry h4 { font-size: 16px; }
+}
