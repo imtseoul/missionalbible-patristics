@@ -1,0 +1,610 @@
+디다케
+익명
+
+자료 판본: alpha-0.32
+수록 범위: Lake가 채택한 그리스어 본문의 1-16장 전체. 현존 판본의 끝을 넘어 결말을 복원하지 않음
+고정판: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html
+원자료 SHA-256: 168302778c59f9f19dbf3ff6e50a09fb563c68e182c3af4604e92dccaf7dc1fe
+
+형식: 한국어
+
+1.1
+길은 둘이다. 하나는 생명의 길이고 하나는 죽음의 길이며, 두 길 사이에는 큰 차이가 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-1-1
+
+1.2
+생명의 길은 이러하다. 첫째, 너를 만드신 하나님을 사랑하라. 둘째, 네 이웃을 네 자신처럼 사랑하라. 네게 일어나기를 바라지 않는 모든 일을 너도 다른 사람에게 하지 말라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-1-2
+
+1.3
+이 말들의 가르침은 이러하다. 너희를 저주하는 이들을 축복하고 너희 원수들을 위해 기도하며, 너희를 박해하는 이들을 위해 금식하라. 너희를 사랑하는 이들만 사랑한다면 무슨 은혜가 있겠느냐? 이방인들도 똑같이 하지 않느냐? 너희는 너희를 미워하는 이들을 사랑하라. 그러면 너희에게 원수가 없을 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-1-3
+
+1.4
+육신과 몸의 욕망을 멀리하라. 누가 네 오른뺨을 때리면 다른 뺨도 그에게 돌려 대라. 그러면 너는 완전해질 것이다. 누가 너를 억지로 한 밀리온 가게 하면 그와 함께 두 밀리온을 가라. 누가 네 겉옷을 가져가면 속옷도 그에게 주라. 누가 네 것을 가져가면 돌려 달라고 요구하지 말라. 너는 그렇게 할 수도 없기 때문이다.
+
+번역 주석
+1. μίλιον은 고대 거리 단위인 ‘밀리온’으로 음역했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-1-4
+
+1.5
+네게 구하는 모든 이에게 주고 돌려 달라고 요구하지 말라. 아버지께서는 자신의 선물들을 모든 이에게 나누어 주기를 바라신다. 계명에 따라 주는 사람은 복되다. 그는 죄가 없기 때문이다. 그러나 받는 사람에게는 화가 있다. 필요한 것이 있어서 받는다면 죄가 없겠지만, 필요도 없이 받은 사람은 왜, 무엇을 위해 받았는지 벌을 받을 것이다. 붙잡히면 자신이 한 일에 대해 심문을 받고 마지막 코드란트까지 갚기 전에는 거기서 나오지 못할 것이다.
+
+번역 주석
+1. 받는 사람에게 필요가 있는지를 묻는 조건문이다. κοδράντης는 화폐명인 ‘코드란트’로 음역했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-1-5
+
+1.6
+또 이것에 대해서도 이렇게 말한 바 있다. “누구에게 줄지 알 때까지 네 자선이 네 손 안에서 땀을 흘리게 하라.”
+
+번역 주석
+1. 자선이 손에서 땀을 흘린다는 비유로, 줄 대상을 살피며 기다리는 태도를 말한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-1-6
+
+2.1
+가르침의 둘째 계명은 이러하다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-1
+
+2.2
+살인하지 말라. 간음하지 말라. 소년을 성적으로 착취하지 말라. 음행하지 말라. 도둑질하지 말라. 마술을 행하지 말라. 주술을 부리지 말라. 낙태로 아이를 죽이지 말고, 태어난 아이도 죽이지 말라. 이웃의 것을 탐내지 말라.
+
+번역 주석
+1. παιδοφθορέω는 소년에 대한 성적 착취로 옮겼다. φαρμακεύω는 약물·독약과도 관련된 말이며 여기서는 ‘주술’로 잠정 번역했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-2
+
+2.3
+거짓 맹세를 하지 말라. 거짓 증언을 하지 말라. 험담하지 말라. 원한을 품지 말라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-3
+
+2.4
+두 마음을 품거나 두 혀로 말하지 말라. 두 혀로 말하는 것은 죽음의 덫이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-4
+
+2.5
+네 말은 거짓되거나 공허해서는 안 되며, 실천으로 가득해야 한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-5
+
+2.6
+탐욕스러운 자나 약탈자, 위선자, 악의를 품은 자, 교만한 자가 되지 말라. 네 이웃을 해칠 악한 계획을 세우지 말라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-6
+
+2.7
+어떤 사람도 미워하지 말라. 어떤 이들은 타이르고, 어떤 이들을 위해서는 기도하며, 어떤 이들은 네 목숨보다 더 사랑하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-2-7
+
+3.1
+내 아이야, 모든 악과 그와 닮은 모든 것을 피하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-1
+
+3.2
+화를 잘 내는 사람이 되지 말라. 분노는 살인으로 이끈다. 시기하거나 다투거나 성급히 분을 터뜨리지 말라. 이 모든 것에서 살인이 생겨난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-2
+
+3.3
+내 아이야, 욕망에 사로잡힌 사람이 되지 말라. 욕망은 음행으로 이끈다. 음란한 말을 하거나 눈을 치켜뜨는 사람이 되지 말라. 이 모든 것에서 간음이 생겨난다.
+
+번역 주석
+1. ὑψηλόφθαλμος는 ‘눈을 치켜뜨다’로 옮겼다. 시선과 욕망의 관계를 여러 방식으로 해석할 수 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-3
+
+3.4
+내 아이야, 새의 징조를 읽는 점쟁이가 되지 말라. 그것은 우상숭배로 이끈다. 주문을 외우는 자, 점성술사, 정화 주술을 행하는 자가 되지 말고 그런 것을 보려 하지도 말라. 이 모든 것에서 우상숭배가 생겨난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-4
+
+3.5
+내 아이야, 거짓말쟁이가 되지 말라. 거짓말은 도둑질로 이끈다. 돈을 사랑하거나 헛된 명예를 탐하지 말라. 이 모든 것에서 도둑질이 생겨난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-5
+
+3.6
+내 아이야, 불평하는 사람이 되지 말라. 그것은 신성모독으로 이끈다. 제 고집을 부리거나 악한 생각을 품지 말라. 이 모든 것에서 신성모독이 생겨난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-6
+
+3.7
+온유한 사람이 되어라. 온유한 이들이 땅을 물려받을 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-7
+
+3.8
+오래 참고 자비로우며, 악의가 없고 조용하며 선한 사람이 되어라. 네가 들은 말들을 언제나 두려움으로 받아들여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-8
+
+3.9
+네 자신을 높이거나 네 영혼을 오만하게 하지 말라. 네 영혼이 높은 사람들에게 들러붙지 않게 하고, 의롭고 낮은 이들과 어울려라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-9
+
+3.10
+네게 일어나는 일들을 좋은 일로 받아들여라. 하나님 없이 일어나는 일은 없음을 알아라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-3-10
+
+4.1
+내 아이야, 하나님의 말씀을 네게 전하는 이를 밤낮으로 기억하고 주님처럼 존중하라. 주님의 다스림이 선포되는 곳에는 주님이 계시기 때문이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-1
+
+4.2
+날마다 성도들의 얼굴을 찾아라. 그들의 말에서 쉼을 얻기 위해서다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-2
+
+4.3
+분열을 바라지 말고 다투는 이들을 화해시켜라. 의롭게 판단하며, 잘못을 책망할 때 사람의 얼굴을 보아 치우치지 말라.
+
+번역 주석
+1. 채택 본문 ποθήσεις는 ‘바라다’를 뜻한다. 각주는 다른 편집자들이 제안한 ποιήσεις를 소개한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-3
+
+4.4
+될지 안 될지 두 마음을 품지 말라.
+
+번역 주석
+1. 여부를 묻는 대상은 주변 문맥과 함께 해석할 수 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-4
+
+4.5
+받을 때에는 손을 뻗고 줄 때에는 움츠리는 사람이 되지 말라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-5
+
+4.6
+네 손으로 마련한 것이 있다면 네 죄를 속량하는 값으로 주어라.
+
+번역 주석
+1. λύτρωσις ἁμαρτιῶν은 ‘죄의 속량’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-6
+
+4.7
+주기를 망설이지 말고 주면서 불평하지 말라. 보상을 선하게 갚아 주시는 분이 누구인지 알게 될 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-7
+
+4.8
+궁핍한 이를 외면하지 말고 형제와 모든 것을 함께 나누며 네 것이라고 말하지 말라. 너희가 죽지 않는 것에 함께 참여한다면, 죽을 것들은 얼마나 더 함께 나누어야 하겠느냐?
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-8
+
+4.9
+아들이나 딸에게서 네 손을 거두지 말고, 어려서부터 하나님을 경외하도록 가르쳐라.
+
+번역 주석
+1. ‘손을 거두다’는 자녀를 훈육하는 문맥에 쓰인 표현이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-9
+
+4.10
+같은 하나님께 소망을 둔 네 남종이나 여종에게 격한 마음으로 명령하지 말라. 그러다가 그들이 너희 모두 위에 계신 하나님을 두려워하지 않게 될 수 있다. 그분은 사람의 얼굴을 보고 부르러 오시는 것이 아니라 성령께서 준비하신 이들에게 오신다.
+
+번역 주석
+1. 고대의 종과 주인에게 하는 명령이다. 성령께서 준비하신 이들을 하나님이 부르신다는 설명이 이어진다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-10
+
+4.11
+종인 너희는 부끄러움과 두려움으로, 하나님의 모상처럼 여기는 너희 주인들에게 복종하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-11
+
+4.12
+모든 위선과 주님을 기쁘시게 하지 않는 모든 것을 미워하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-12
+
+4.13
+주님의 계명들을 결코 저버리지 말고, 네가 받은 것을 더하지도 빼지도 않은 채 지켜라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-13
+
+4.14
+교회 안에서 네 잘못을 고백하고 악한 양심을 품고 기도하러 나아가지 말라. 이것이 생명의 길이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-4-14
+
+5.1
+죽음의 길은 이러하다. 무엇보다 악하고 저주로 가득하다. 살인, 간음, 욕망, 음행, 도둑질, 우상숭배, 마술, 주술, 약탈, 거짓 증언, 위선, 두 마음, 속임수, 교만, 악의, 고집, 탐욕, 음란한 말, 질투, 오만함, 자기를 높임, 허풍이 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-5-1
+
+5.2
+선한 이들을 박해하고, 진리를 미워하며 거짓을 사랑하고, 의로움의 보상을 모르며, 선이나 바른 판단에 가까이하지 않는 자들이다. 선을 위해서가 아니라 악을 위해 깨어 있고, 온유와 인내는 그들에게서 멀리 있다. 헛된 것을 사랑하며 보답만 좇고, 가난한 이를 불쌍히 여기지 않으며 고통받는 이와 함께 아파하지 않고, 자신들을 만드신 분을 알지 못한다. 아이들을 죽이고 하나님의 피조물을 파괴하며, 궁핍한 이를 외면하고 고난받는 이를 억누른다. 부자들의 대변자이며 가난한 이들의 불의한 재판관이고, 온갖 죄를 짓는 자들이다. 아이들아, 이 모든 것에서 건짐받기를 바란다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-5-2
+
+6.1
+누가 너를 이 가르침의 길에서 벗어나게 하지 않도록 주의하라. 그는 하나님을 떠나서 너를 가르치는 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-6-1
+
+6.2
+네가 주님의 멍에를 온전히 질 수 있다면 완전해질 것이다. 할 수 없다면 네가 할 수 있는 것을 하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-6-2
+
+6.3
+음식에 관해서는 네가 감당할 수 있는 것을 감당하라. 그러나 우상에게 바친 음식은 몹시 경계하라. 그것은 죽은 신들을 섬기는 일이기 때문이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-6-3
+
+7.1
+세례에 관해서는 이렇게 세례를 주어라. 앞서 말한 모든 것을 전한 뒤, 아버지와 아들과 성령의 이름으로 흐르는 물에서 세례를 주어라.
+
+번역 주석
+1. ὕδωρ ζῶν은 문자대로 ‘살아 있는 물’이며 여기서는 ‘흐르는 물’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-7-1
+
+7.2
+흐르는 물이 없으면 다른 물에서 세례를 주어라. 찬물로 할 수 없으면 따뜻한 물로 하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-7-2
+
+7.3
+둘 다 없다면 아버지와 아들과 성령의 이름으로 머리에 물을 세 번 부어라.
+
+번역 주석
+1. 아버지·아들·성령의 이름으로 물을 세 번 붓도록 지시한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-7-3
+
+7.4
+세례 전에 세례를 주는 이와 받는 이, 그리고 할 수 있는 다른 이들도 금식하게 하라. 세례받는 이에게는 하루나 이틀 전부터 금식하도록 명하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-7-4
+
+8.1
+너희의 금식은 위선자들과 함께 해서는 안 된다. 그들은 주간의 둘째 날과 다섯째 날에 금식하지만, 너희는 넷째 날과 준비일에 금식하라.
+
+번역 주석
+1. 둘째·다섯째 날은 월요일·목요일, 넷째 날·준비일은 수요일·금요일에 해당한다. 본문은 원래의 날짜 호칭을 따른다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-8-1
+
+8.2
+위선자들처럼 기도하지 말고 주님께서 자신의 복음에서 명하신 대로 이렇게 기도하라. “하늘에 계신 우리 아버지, 아버지의 이름이 거룩히 여김을 받게 하시고, 아버지의 나라가 오게 하시며, 아버지의 뜻이 하늘에서와 같이 땅에서도 이루어지게 하십시오. 우리에게 필요한 빵을 오늘 주시고, 우리도 우리에게 빚진 이들을 놓아주듯 우리의 빚을 놓아주십시오. 우리를 시험에 들게 하지 마시고 악에서 건져 주십시오. 능력과 영광이 영원히 아버지의 것이기 때문입니다.”
+
+번역 주석
+1. ἐπιούσιον은 ‘필요한’으로 잠정 번역했다. ‘우리의 빚’은 단수형이며 마지막 찬양은 능력과 영광을 말한다. πονηροῦ는 악과 악한 자로 해석할 수 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-8-2
+
+8.3
+하루에 세 번 이렇게 기도하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-8-3
+
+9.1
+감사 예식에 관해서는 이렇게 감사하라.
+
+번역 주석
+1. εὐχαριστία는 감사와 감사 예식을 가리키며 여기서는 ‘감사 예식’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-9-1
+
+9.2
+먼저 잔에 관하여 기도하라. “우리 아버지, 아버지의 종 예수를 통해 우리에게 알려 주신, 아버지의 종 다윗의 거룩한 포도나무로 인해 아버지께 감사합니다. 영광이 영원히 아버지께 있습니다.”
+
+번역 주석
+1. 다윗과 예수에게 쓰인 παῖς를 모두 ‘종’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-9-2
+
+9.3
+떼어낸 빵에 관해서는 이렇게 기도하라. “우리 아버지, 아버지의 종 예수를 통해 우리에게 알려 주신 생명과 지식으로 인해 아버지께 감사합니다. 영광이 영원히 아버지께 있습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-9-3
+
+9.4
+“이 떼어낸 빵이 산들 위에 흩어져 있다가 모여 하나가 된 것처럼, 아버지의 교회도 땅끝에서 아버지의 나라로 모이게 하십시오. 영광과 능력이 예수 그리스도를 통해 영원히 아버지의 것이기 때문입니다.”
+
+번역 주석
+1. 떼어낸 빵이 산들에 흩어졌다가 하나로 모이는 비유를 교회의 모임과 연결한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-9-4
+
+9.5
+주님의 이름으로 세례받은 이들 외에는 아무도 너희의 감사 예식에서 먹거나 마시지 못하게 하라. 주님께서 이것에 관해 “거룩한 것을 개들에게 주지 말라”고 말씀하셨기 때문이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-9-5
+
+10.1
+배불리 먹은 뒤에는 이렇게 감사하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-1
+
+10.2
+“거룩하신 아버지, 우리 마음에 머물게 하신 아버지의 거룩한 이름과, 아버지의 종 예수를 통해 우리에게 알려 주신 지식과 믿음과 불멸로 인해 감사합니다. 영광이 영원히 아버지께 있습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-2
+
+10.3
+“전능하신 주인이여, 아버지께서는 아버지의 이름을 위해 만물을 창조하셨고 사람들이 누리도록 음식과 마실 것을 주셔서 아버지께 감사하게 하셨습니다. 우리에게는 아버지의 종을 통해 영적인 음식과 마실 것과 영원한 생명을 은혜로 주셨습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-3
+
+10.4
+“무엇보다 아버지께서 능력 있는 분이시기에 감사합니다. 영광이 영원히 아버지께 있습니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-4
+
+10.5
+“주님, 주님의 교회를 기억하여 모든 악에서 건지시고 주님의 사랑 안에서 완전하게 하십시오. 거룩해진 그 교회를 네 바람으로부터 모아, 그 교회를 위해 준비하신 주님의 나라에 들게 하십시오. 능력과 영광이 영원히 주님의 것이기 때문입니다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-5
+
+10.6
+“은혜가 오고 이 세상은 지나가게 하십시오. 다윗의 하나님께 호산나. 거룩한 이는 오고, 그렇지 않은 이는 회개하십시오. 마란 아타. 아멘.”
+
+번역 주석
+1. 채택 본문은 ‘다윗의 하나님께 호산나’이다. ‘마란 아타’는 아람어 문구를 음역했으며 그 해석에는 여러 가능성이 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-6
+
+10.7
+예언자들에게는 그들이 원하는 만큼 감사하도록 허락하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-10-7
+
+11.1
+누구든 와서 앞서 말한 이 모든 것을 너희에게 가르치면 받아들여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-1
+
+11.2
+그러나 가르치는 이가 돌아서서 이를 무너뜨리는 다른 가르침을 가르치면 듣지 말라. 의로움과 주님을 아는 지식을 더하려는 것이라면 그를 주님처럼 받아들여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-2
+
+11.3
+사도들과 예언자들에 관해서는 복음의 규정에 따라 이렇게 하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-3
+
+11.4
+너희에게 오는 모든 사도를 주님처럼 받아들여라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-4
+
+11.5
+그는 하루만 머물러야 한다. 필요하다면 다음 날도 머물 수 있지만, 사흘을 머물면 거짓 예언자이다.
+
+번역 주석
+1. Lake는 사본에서 빠진 εἰ μὴ를 보충했다고 각주에 밝힌다. 번역은 이 편집 본문을 따른다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-5
+
+11.6
+사도가 떠날 때는 묵을 곳에 이를 때까지 필요한 빵 외에는 아무것도 받지 않게 하라. 돈을 요구하면 거짓 예언자이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-6
+
+11.7
+영으로 말하는 어떤 예언자도 시험하거나 판단하지 말라. 모든 죄는 용서받겠지만 이 죄는 용서받지 못할 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-7
+
+11.8
+영으로 말한다고 모두 예언자는 아니다. 주님의 행실을 지녀야 한다. 그러므로 행실을 보고 거짓 예언자와 예언자를 알게 될 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-8
+
+11.9
+영으로 식탁을 마련하도록 명하는 예언자는 누구든 그 식탁에서 먹지 않아야 한다. 그렇지 않으면 거짓 예언자이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-9
+
+11.10
+진리를 가르치는 예언자라도 자신이 가르치는 것을 행하지 않으면 거짓 예언자이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-10
+
+11.11
+검증받은 참된 예언자가 교회의 세상에 관한 신비를 위해 행동하면서도, 자신이 하는 일을 다른 이들에게 하라고 가르치지 않는다면 너희가 그를 판단해서는 안 된다. 그의 심판은 하나님께 달려 있다. 옛 예언자들도 그렇게 행동했다.
+
+번역 주석
+1. μυστήριον κοσμικὸν ἐκκλησίας는 ‘교회의 세상에 관한 신비’로 잠정 번역했다. 어떤 행위나 의례를 가리키는지 여러 해석이 가능하다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-11
+
+11.12
+누가 영으로 말하기를 “내게 돈이나 다른 것을 달라”고 하면 그의 말을 듣지 말라. 그러나 다른 궁핍한 이들에게 주라고 말하면 아무도 그를 판단하지 말라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-11-12
+
+12.1
+주님의 이름으로 오는 사람은 누구든 받아들여라. 그 후에 살펴보면 그를 알게 될 것이다. 너희에게는 오른쪽과 왼쪽을 가릴 분별력이 있을 것이다.
+
+번역 주석
+1. 오른쪽과 왼쪽은 분별을 나타내는 표현으로 읽었다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-12-1
+
+12.2
+오는 이가 지나가는 나그네라면 할 수 있는 만큼 도와라. 그러나 필요하다면 너희 곁에서 이틀이나 사흘까지 머물 수 있으나, 그 이상 머물러서는 안 된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-12-2
+
+12.3
+그가 너희 곁에 자리 잡기를 원하고 기술이 있다면 일하여 먹고살게 하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-12-3
+
+12.4
+기술이 없다면 너희의 분별력에 따라, 그리스도인이 너희와 함께 게으르게 살지 않을 방도를 마련하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-12-4
+
+12.5
+그렇게 하기를 원하지 않는다면 그는 그리스도를 팔아 이익을 얻는 자이다. 그런 이들을 조심하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-12-5
+
+13.1
+너희 곁에 자리 잡기를 원하는 참된 예언자는 자신의 음식을 받을 자격이 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-1
+
+13.2
+마찬가지로 참된 교사도 일꾼처럼 자신의 음식을 받을 자격이 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-2
+
+13.3
+그러므로 포도주틀과 타작마당의 모든 소산, 소와 양에서 첫 열매를 떼어 예언자들에게 주어라. 그들이 너희의 대제사장들이기 때문이다.
+
+번역 주석
+1. 본문은 예언자들을 ‘너희의 대제사장들’이라고 부른다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-3
+
+13.4
+예언자가 없다면 가난한 이들에게 주어라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-4
+
+13.5
+음식을 만들면 첫 몫을 떼어 계명에 따라 주어라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-5
+
+13.6
+마찬가지로 포도주나 기름 항아리를 열면 첫 몫을 떼어 예언자들에게 주어라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-6
+
+13.7
+돈과 옷과 모든 소유에서도 네가 좋다고 생각하는 만큼 첫 몫을 떼어 계명에 따라 주어라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-13-7
+
+14.1
+주님의 날에 모여 빵을 떼고 감사하라. 먼저 너희의 잘못을 고백하여 너희의 제물이 깨끗하게 하라.
+
+번역 주석
+1. ‘주님의 날’에 모여 빵을 떼고 감사하기 전에 먼저 잘못을 고백하도록 지시한다. 제물을 가리키는 채택 본문의 인칭은 ‘너희’이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-14-1
+
+14.2
+벗과 다툼이 있는 사람은 화해할 때까지 너희 모임에 함께하지 못하게 하라. 너희의 제물이 더럽혀지지 않도록 하려는 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-14-2
+
+14.3
+이것이 주님께서 말씀하신 것이다. “모든 장소와 모든 때에 깨끗한 제물을 내게 바쳐라. 나는 위대한 왕이며 내 이름은 민족들 가운데 놀라운 이름이기 때문이다. 주님께서 말씀하신다.”
+
+번역 주석
+1. 인쇄면의 편집자 참조는 말라기 1:11, 14이다. 번역은 이 문헌에 실린 인용 형태를 따른다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-14-3
+
+15.1
+그러므로 주님께 합당하고 온유하며 돈을 사랑하지 않고 진실하며 검증받은 남자들을 너희의 감독과 집사로 세워라. 그들도 너희를 위해 예언자들과 교사들의 봉사를 수행하기 때문이다.
+
+번역 주석
+1. χειροτονήσατε는 감독과 집사를 ‘세우다’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-15-1
+
+15.2
+그러므로 그들을 업신여기지 말라. 그들은 예언자들과 교사들과 함께 너희 가운데 존중받는 이들이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-15-2
+
+15.3
+너희가 복음에서 받은 대로, 분노가 아니라 평화 가운데 서로를 책망하라. 이웃에게 잘못한 사람에게는 그가 회개할 때까지 아무도 말을 걸지 말고, 그도 너희에게서 말을 듣지 못하게 하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-15-3
+
+15.4
+너희의 기도와 자선과 모든 행위를 우리 주님의 복음에서 받은 대로 행하라.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-15-4
+
+16.1
+너희의 생명을 위해 깨어 있어라. 너희 등불이 꺼지지 않게 하고 허리띠가 풀리지 않게 하며 준비되어 있어라. 우리 주님께서 오시는 때를 너희는 알지 못하기 때문이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-1
+
+16.2
+자주 모여 너희 영혼에 필요한 것을 구하라. 마지막 때에 완전해지지 못하면 너희가 믿음을 지켜 온 모든 시간도 유익이 없을 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-2
+
+16.3
+마지막 날들에는 거짓 예언자들과 타락시키는 자들이 많아지고, 양들이 늑대로 바뀌며 사랑이 미움으로 바뀔 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-3
+
+16.4
+불법이 늘어나 사람들이 서로 미워하고 박해하며 넘겨줄 것이다. 그때 세상을 미혹하는 자가 하나님의 아들처럼 나타나 표징과 이적을 행할 것이며, 땅이 그의 손에 넘겨질 것이다. 그는 세상이 시작된 이래 한 번도 없었던 불법적인 일들을 행할 것이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-4
+
+16.5
+그때 인류는 시험의 불길 속으로 들어가고 많은 이가 넘어져 멸망할 것이다. 그러나 믿음을 지키며 견딘 이들은 그 저주 자체를 통해 구원받을 것이다.
+
+번역 주석
+1. κατάθεμα는 ‘저주 자체’로 잠정 번역했다. 그리스도와 시험을 가리키는 해석 등이 제시될 수 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-5
+
+16.6
+그때 진리의 표징들이 나타날 것이다. 첫째는 하늘에 펼쳐지는 표징이고, 다음은 나팔 소리의 표징이며, 셋째는 죽은 이들의 부활이다.
+
+번역 주석
+1. ἐκπέτασις는 ‘펼쳐짐’으로 옮겼다. 표징의 구체적 모습은 문맥에 따라 해석할 수 있다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-6
+
+16.7
+그러나 모든 이의 부활은 아니다. 이렇게 말한 대로다. “주님께서 오시고 모든 성도가 그분과 함께 올 것이다.”
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-7
+
+16.8
+그때 세상은 주님께서 하늘 구름 위로 오시는 것을 볼 것이다.
+
+번역 주석
+1. 채택 판본의 현존 본문은 이 구절에서 끝난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.32/didache/index.html#p-16-8
+
+출처·이용 조건
+
+이 저장소의 한국어 AI 번역 시제품; Codex AI 생성
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음
+
+Lake판을 근거로 한 Codex AI의 요약·메모
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위
+
+OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+First1KGreek에서 가공한 그리스어 자료
