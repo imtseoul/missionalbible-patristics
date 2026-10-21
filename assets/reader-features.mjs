@@ -1,7 +1,7 @@
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=291a7b63c18d';
-import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=e78166be3720';
-import {workInformationURL} from './work-information.mjs?v=b1738ff5db5a';
+import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=fabf46501dcb';
+import {workInformationURL} from './work-information.mjs?v=3f8e81d9a371';
 import {searchReturnURL} from './archive-search-core.mjs?v=c183809f9954';
 
 export function installReaderFeatures() {

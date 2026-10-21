@@ -8,10 +8,10 @@
     "retained_routes": 532
   },
   "external_current_json_data": [
-    "releases/alpha-0.33/tertullian-marcion-4/passages.json"
+    "releases/alpha-0.34/tertullian-marcion-5/passages.json"
   ],
   "external_current_jsonl_data": [
-    "releases/alpha-0.33/tertullian-marcion-4/passages.jsonl"
+    "releases/alpha-0.34/tertullian-marcion-5/passages.jsonl"
   ],
   "external_historical_data": [
     "releases/alpha-0.1/didache/passages.jsonl",
@@ -721,6 +721,8 @@
     "releases/alpha-0.32/theophilus-autolycus/passages.jsonl",
     "releases/alpha-0.33/tertullian-marcion-4/passages.json",
     "releases/alpha-0.33/tertullian-marcion-4/passages.jsonl",
+    "releases/alpha-0.34/tertullian-marcion-5/passages.json",
+    "releases/alpha-0.34/tertullian-marcion-5/passages.jsonl",
     "releases/alpha-0.4/didache/passages.jsonl",
     "releases/alpha-0.4/ignatius-ephesians/passages.jsonl",
     "releases/alpha-0.4/ignatius-magnesians/passages.jsonl",
@@ -4335,6 +4337,16 @@
       "sha256": "80fdf80add5a6cb0af1b3931fb0ec08e9e9411dfac692ca49214ff04e410f5a0",
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/8f2ee7305cb108afe4baa2afb44ec6bbb3b5f588/releases/alpha-0.33/tertullian-marcion-4/passages.jsonl"
     },
+    "releases/alpha-0.34/tertullian-marcion-5/passages.json": {
+      "git_blob": "ac09ebfdc4108d4da1feaf2bb0e92185a0eff122",
+      "sha256": "b4b31dfb75a80de35ef4dd42da3ace06693effa5a51b57967b654d2350a7d83c",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/0332507536dd079b461273fe10e55c9d48fd047f/releases/alpha-0.34/tertullian-marcion-5/passages.json"
+    },
+    "releases/alpha-0.34/tertullian-marcion-5/passages.jsonl": {
+      "git_blob": "b4a780826786cd996573a283f3faed0e2230744c",
+      "sha256": "f543011add7f7e309d269fc55729e07f8e44dcbb07d6ace3c3e67c3792deb932",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/0332507536dd079b461273fe10e55c9d48fd047f/releases/alpha-0.34/tertullian-marcion-5/passages.jsonl"
+    },
     "releases/alpha-0.4/didache/passages.jsonl": {
       "git_blob": "6e0e8ed4c2caf0b272634439ce4b89707c8330f0",
       "sha256": "6a9125582f74ffa70ac1f855a96782c84e86f38d82cb02f7b5e16dcd4bea720e",
@@ -4727,7 +4739,7 @@
     "latest_release_data": "local",
     "size_limit_bytes": 900000000
   },
-  "latest_release": "alpha-0.33",
+  "latest_release": "alpha-0.34",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/8f2ee7305cb108afe4baa2afb44ec6bbb3b5f588/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/0332507536dd079b461273fe10e55c9d48fd047f/"
 }
