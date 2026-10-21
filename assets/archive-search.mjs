@@ -1,10 +1,10 @@
-import {createArchiveSearchClient} from './archive-search-client.mjs?v=d53e07976839';
+import {createArchiveSearchClient} from './archive-search-client.mjs?v=969fc4c7a3a3';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-export {archiveResults} from './archive-search-engine.mjs?v=da015f2cd038';
-import index from './archive-search-index.mjs?v=3375bed1a118';
+export {archiveResults} from './archive-search-engine.mjs?v=2f514dd9def8';
+import index from './archive-search-index.mjs?v=01ce33f19c1c';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=c9235b0b8b9b';
-import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=6c2c1ae164f1';
+import {parseScriptureQuery,scriptureIntersects,scriptureReferenceLabel} from './scripture-search.mjs?v=c07a136d5057';
 import {workInformationURL} from './work-information.mjs?v=3f8e81d9a371';
 import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=c183809f9954';
 

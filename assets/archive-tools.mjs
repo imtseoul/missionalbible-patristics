@@ -1,4 +1,4 @@
-import versions from './reader-metadata-index.mjs?v=058de0297db1';
+import versions from './reader-metadata-index.mjs?v=31a95477592b';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {workInformationURL} from './work-information.mjs?v=3f8e81d9a371';
 

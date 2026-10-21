@@ -1,0 +1,233 @@
+트랄레스인들에게 보낸 편지
+이그나티우스
+
+자료 판본: alpha-0.35
+수록 범위: 서두와 1-13장, 일곱 서신 전승형의 채택 본문 전체
+고정판: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html
+원자료 SHA-256: 7d372a4938da972d1e005d3b30cda134107f255d8e1dcad5a38f9ff5f7c09dbe
+
+형식: 한국어
+
+서두
+테오포로스라고도 불리는 이그나티우스가 예수 그리스도의 아버지이신 하나님의 사랑을 받는, 아시아의 트랄레스에 있는 거룩한 교회에 문안합니다. 여러분은 선택받아 하나님께 합당하며, 예수 그리스도의 수난으로 육신과 영에 평화를 누립니다. 그분을 향한 부활 가운데 그분은 우리의 소망이십니다. 충만함 안에서 사도들의 방식으로 여러분에게 문안하며, 큰 기쁨을 빕니다.
+
+번역 주석
+1. ἐν ἀποστολικῷ χαρακτῆρι는 ‘사도들의 방식으로’로 옮겼다. 인사하는 방식과 권위의 성격을 나타내는 표현이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-praef-1
+
+1.1
+여러분이 흠 없고 흔들리지 않는 마음으로 인내한다는 것을 알게 되었습니다. 습관으로 그러는 것이 아니라, 본성에서 우러나오는 일입니다. 여러분의 감독 폴리비오스가 제게 알려 주었습니다. 그는 하나님과 예수 그리스도의 뜻에 따라 스미르나에 와서, 그리스도 예수 안에서 결박된 저와 크게 기쁨을 나누었습니다. 그래서 저는 그를 통해 여러분 모두를 본 셈입니다.
+
+번역 주석
+1. κατὰ χρῆσιν과 κατὰ φύσιν은 습관과 본성을 대조한다. 감독 폴리비오스가 교회 전체를 대표하는 인물로 등장한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-1-1
+
+1.2
+그를 통해 하나님을 따르는 여러분의 호의를 받아들이고 하나님께 영광을 돌렸습니다. 듣던 대로 하나님을 본받는 여러분의 모습을 확인했기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-1-2
+
+2.1
+예수 그리스도께 하듯 감독에게 순종할 때, 제가 보기에 여러분은 인간을 따라 살지 않고, 예수 그리스도를 따라 사는 사람들입니다. 그분은 우리를 위해 죽으셨습니다. 여러분이 그분의 죽음을 믿어 죽음에서 벗어나게 하시려는 것입니다.
+
+번역 주석
+1. 그리스도의 죽음을 믿어 죽음에서 벗어난다는 역설을 그대로 옮겼다. 감독에게 순종하는 일을 그리스도를 따르는 삶과 연결한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-2-1
+
+2.2
+그러므로 여러분이 지금 하듯, 감독을 떠나서는 아무것도 하지 말아야 합니다. 우리의 소망이신 예수 그리스도의 사도들에게 하듯 장로단에게도 순종해야 합니다. 그분 안에 살아갈 때 우리가 발견될 것입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-2-2
+
+2.3
+예수 그리스도의 신비를 섬기는 집사들도 모든 방식으로 모든 사람을 기쁘게 해야 합니다. 그들은 음식과 음료를 나르는 이들이 아니라, 하나님의 교회를 섬기는 사람들이기 때문입니다. 비난받을 일을 불처럼 삼가야 합니다.
+
+번역 주석
+1. διάκονος는 교회 직무를 가리킬 때 ‘집사’, 식탁에서 음식을 나르는 문맥에서는 그 기능을 풀어 옮겼다. 같은 낱말의 두 쓰임을 대조한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-2-3
+
+3.1
+마찬가지로 모두 집사들을 예수 그리스도처럼 존중하고, 감독을 아버지의 모상으로 존중하며, 장로들을 하나님의 회의이며 사도들의 모임으로 존중하십시오. 이들 없이는 교회라고 부를 수 없습니다.
+
+번역 주석
+1. τύπος는 ‘모상’, συνέδριον은 ‘회의’, σύνδεσμος는 ‘모임’으로 옮겼다. 교회의 직무와 하나님·사도들의 관계를 비유한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-3-1
+
+3.2
+여러분이 이 문제를 이렇게 받아들인다고 확신합니다. 여러분의 감독을 통해 여러분의 사랑을 보여 주는 본보기를 받았고, 지금도 제 곁에 두고 있기 때문입니다. 그의 태도 자체가 큰 가르침이며, 그의 온유함은 힘입니다. 하나님을 모르는 이들도 그를 존중하리라고 생각합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-3-2
+
+3.3
+여러분을 사랑하기에 말을 아낍니다. 이 일에 관해 더 엄격하게 쓸 수도 있습니다. 그러나 그렇게 할 생각은 없었습니다. 유죄판결을 받은 제가 사도처럼 여러분에게 명령하려는 것은 아닙니다.
+
+번역 주석
+1. οὐκ εἰς τοῦτο ᾠήθην은 문맥에 따라 ‘그렇게 할 생각은 없었습니다’로 잠정 번역했다. Lake의 편집주도 이 부분의 본문 문제를 다룬다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-3-3
+
+4.1
+하나님 안에서 많은 생각을 하지만, 제 분수를 헤아립니다. 자랑하다가 멸망하지 않으려는 것입니다. 지금 저는 더욱 두려워해야 하며, 저를 우쭐하게 하는 사람들에게 귀를 기울이지 말아야 합니다. 제게 그런 말을 하는 사람들이 저를 채찍질하기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-4-1
+
+4.2
+저는 고난받기를 바라지만, 그럴 자격이 있는지는 모르겠습니다. 시기는 많은 사람에게는 드러나지 않아도, 저를 더욱 거세게 공격합니다. 그러므로 제게는 온유함이 필요합니다. 이 시대의 지배자는 온유함으로 무너지기 때문입니다.
+
+번역 주석
+1. ζῆλος는 이 문맥에서 ‘시기’로 옮겼다. 누가 시기하는지의 지시 대상에는 해석의 여지가 있어 원문의 열린 표현을 유지했다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-4-2
+
+5.1
+하늘의 일들을 여러분에게 써 보낼 능력이 제게 없겠습니까? 그러나 아직 어린아이인 여러분에게 해를 입힐까 두렵습니다. 저를 이해해 주십시오. 여러분이 삼키지 못하여 목이 막힐까 염려됩니다.
+
+번역 주석
+1. 어린아이에게 감당하기 어려운 음식을 주는 비유로 하늘의 일에 관한 설명을 유보한다. στραγγαλόω는 목이 막히거나 질식하는 것을 뜻한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-5-1
+
+5.2
+저 역시 사슬에 묶여 있고, 하늘의 일들과 천사들의 자리, 권세들의 배열, 보이는 것들과 보이지 않는 것들을 이해할 수 있다고 해서, 그 때문에 이미 제자가 된 것은 아닙니다. 하나님께 미치지 못하는 일이 없으려면 우리에게는 아직 부족한 것이 많습니다.
+
+번역 주석
+1. 천사들의 자리와 권세들의 배열은 하늘의 질서에 관한 지식을 가리킨다. 이런 지식과 결박의 경험을 온전한 제자가 되는 일과 함께 논한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-5-2
+
+6.1
+그러므로 여러분에게 권합니다. 제가 아니라, 예수 그리스도의 사랑이 권하는 것입니다. 그리스도인의 음식만 먹고, 낯선 풀은 멀리하십시오. 이 풀은 분파의 가르침입니다.
+
+번역 주석
+1. ‘낯선 풀’은 공동체를 해치는 분파의 가르침을 음식에 견준 표현이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-6-1
+
+6.2
+그들은 신뢰를 얻으려고 자기들 가운데 예수 그리스도를 끼워 넣습니다. 꿀 탄 포도주에 치명적인 독약을 섞어 주는 것과 같습니다. 이를 모르는 사람은 해로운 즐거움 속에서 기꺼이 마시며, 죽음을 받아들입니다.
+
+번역 주석
+1. ‘자기들 가운데 예수 그리스도를 끼워 넣는다’는 채택 본문의 문장 구조를 따라 잠정 번역했다. 그리스도의 이름으로 신뢰를 얻는 일을 꿀 탄 포도주에 독약을 섞는 비유로 설명한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-6-2
+
+7.1
+그러므로 그런 이들을 경계하십시오. 우쭐해하지 않고, 하나님이신 예수 그리스도와 감독과 사도들의 명령에서 떨어지지 않을 때, 여러분은 그렇게 할 수 있습니다.
+
+번역 주석
+1. θεοῦ Ἰησοῦ Χριστοῦ는 Lake의 채택 본문에 따라 ‘하나님이신 예수 그리스도’로 옮겼다. 하나님·그리스도·감독의 관계를 읽을 때 중요한 본문이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-7-1
+
+7.2
+제단 안에 있는 사람은 깨끗하고, 제단 밖에 있는 사람은 깨끗하지 않습니다. 다시 말해, 감독과 장로단과 집사들을 떠나 무슨 일이든 하는 사람은 양심이 깨끗하지 않습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-7-2
+
+8.1
+여러분 가운데 그런 일이 있음을 알아서 하는 말이 아닙니다. 악마의 매복을 미리 보고, 제가 사랑하는 여러분을 미리 지키려는 것입니다. 그러므로 여러분은 온유함을 품고, 믿음, 곧 주님의 살과, 사랑, 곧 예수 그리스도의 피 안에서 자신을 새롭게 하십시오.
+
+번역 주석
+1. 믿음을 주님의 살, 사랑을 예수 그리스도의 피와 연결하는 본문의 표현을 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-8-1
+
+8.2
+여러분 가운데 아무도 이웃에게 원한을 품지 마십시오. 이방인들에게 구실을 주지 마십시오. 몇몇 어리석은 사람 때문에 하나님 안에 있는 온 공동체가 모독당하지 않게 하십시오. “화가 있다, 내 이름이 헛되이 어떤 이들 가운데서 모독당하게 하는 그 사람에게.”라고 했기 때문입니다.
+
+번역 주석
+1. 인용문의 어순과 ‘헛되이’라는 표현을 이 문헌의 형태대로 옮겼다. Lake는 이사야 52:5를 여백 참조로 제시한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-8-2
+
+9.1
+누군가 여러분에게 예수 그리스도를 떠나 말한다면, 귀를 닫으십시오. 그분은 다윗의 가문에서, 마리아에게서 나셨으며, 참으로 태어나셨고, 먹고 마셨습니다. 본디오 빌라도 치하에서 참으로 박해받으셨으며, 하늘과 땅과 땅 아래 있는 이들이 보는 앞에서 참으로 십자가에 달려 죽으셨습니다.
+
+번역 주석
+1. ἀληθῶς가 탄생·박해·십자가의 죽음 앞에서 반복된다. ‘참으로’를 반복하여 사건의 실제성을 강조하는 흐름을 살렸다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-9-1
+
+9.2
+그분은 참으로 죽은 이들 가운데서 일어나셨습니다. 그분의 아버지께서 그분을 일으키셨습니다. 그분의 아버지께서는 그와 마찬가지로 그분을 믿는 우리도 그리스도 예수 안에서 일으키실 것입니다. 그분 없이는 우리에게 참된 생명이 없습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-9-2
+
+10.1
+하나님을 모르는 어떤 사람들, 곧 믿지 않는 사람들이 말하듯, 그분이 겉으로만 고난을 받으셨다면, 저는 왜 결박되어 있으며, 왜 맹수와 싸우기를 바랍니까? 실상 겉모습뿐인 것은 그들 자신입니다. 그렇다면 저는 헛되이 죽는 것입니다. 또 주님에 관해 거짓 증언을 하는 셈입니다.
+
+번역 주석
+1. τὸ δοκεῖν은 겉으로 그렇게 보인다는 뜻이다. 그리스도의 고난과 이그나티우스 자신의 결박을 같은 표현으로 연결한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-10-1
+
+11.1
+죽음을 가져오는 열매를 맺는 나쁜 곁가지는 피하십시오. 누구든 그 열매를 맛보면 곧바로 죽습니다. 그들은 아버지께서 심으신 나무가 아니기 때문입니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-11-1
+
+11.2
+그랬다면, 십자가의 가지로 드러났을 것이고, 그 열매도 썩지 않았을 것입니다. 이 십자가를 통하여 그분은 수난 가운데서 자신의 지체인 여러분을 부르십니다. 그러므로 머리가 지체 없이 따로 태어날 수는 없습니다. 하나님께서 일치를 약속하시며, 그분 자신이 그 일치이시기 때문입니다.
+
+번역 주석
+1. 이 절은 입력 XML의 11.1에 합쳐져 있어 인쇄본의 절 경계에 따라 분리했다. 십자가의 가지와 열매 비유에서 머리와 지체의 일치로 이어진다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-11-2
+
+12.1
+스미르나에서 저와 함께 있는 하나님의 교회들과 함께 여러분에게 문안합니다. 이들은 육신과 영으로, 모든 면에서 제게 안식을 주었습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-12-1
+
+12.2
+예수 그리스도 때문에 제가 지고 다니는 사슬이 여러분에게 권합니다. 저는 하나님께 이르기를 간구합니다. 여러분의 일치와 함께 드리는 기도에 꾸준히 머무르십시오. 여러분 한 사람 한 사람, 특히 장로들은 아버지와 예수 그리스도와 사도들을 공경하는 뜻에서 감독에게 힘을 드리는 것이 마땅합니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-12-2
+
+12.3
+사랑으로 제 말을 들어 주기를 바랍니다. 제가 쓴 글이 여러분에게 불리한 증언이 되지 않게 하십시오. 저를 위해서도 기도해 주십시오. 하나님의 자비 안에서 여러분의 사랑이 제게 필요합니다. 제가 얻으려고 매여 있는 몫에 이를 자격을 얻고, 부적격한 사람으로 드러나지 않도록 기도해 주십시오.
+
+번역 주석
+1. 이그나티우스가 얻고자 하는 ‘몫’은 결박과 하나님께 이르려는 소망에 연결된다. ἀδόκιμος는 심사에서 인정받지 못하는 사람을 뜻한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-12-3
+
+13.1
+스미르나와 에베소 사람들의 사랑이 여러분에게 문안합니다. 기도할 때 시리아에 있는 교회를 기억해 주십시오. 저는 그들 가운데 가장 보잘것없는 사람으로, 그 교회 출신이라고 불릴 자격도 없습니다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-13-1
+
+13.2
+예수 그리스도 안에서 평안하십시오. 명령에 순종하듯 감독에게 순종하고, 장로단에게도 그렇게 하십시오. 여러분 각자는 갈라지지 않는 마음으로 서로 사랑하십시오.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-13-2
+
+13.3
+제 영을 여러분을 위해 봉헌합니다. 지금뿐 아니라, 제가 하나님께 이를 때에도 그렇게 하겠습니다. 저는 아직 위험 아래 있습니다. 그러나 아버지께서는 신실하시니, 예수 그리스도 안에서 저와 여러분의 간구를 이루어 주실 것입니다. 그분 안에서 여러분이 흠 없는 사람으로 드러나기 바랍니다.
+
+번역 주석
+1. ἁγνίζεται는 자신을 상대를 위해 봉헌하는 헌신의 표현으로 옮겼다. 편지는 아버지의 신실하심과 공동체의 간구로 끝난다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/ignatius-trallians/index.html#p-13-3
+
+출처·이용 조건
+
+이 저장소의 한국어 AI 번역 시제품; Codex AI 생성
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음
+
+Lake판을 근거로 한 Codex AI의 요약·메모
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+편집자 이문·참조를 요약한 주석과 자체 번역 메모에 보유할 수 있는 권리의 범위
+
+OpenGreekAndLatin/First1KGreek; Perseus Project; Trustees of Tufts University; Kirsopp Lake 편집
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+First1KGreek에서 가공한 그리스어 자료

@@ -256,3 +256,28 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .view-settings > summary { width: 100%; justify-content: space-between; }
   .view-settings-panel { position: static; margin-top: 8px; border-color: var(--line); }
 }
+
+/* Work introduction and chapter summaries (work_guides.py) */
+.work-guide { margin: 0 0 30px 54px; max-width: 680px; padding: 16px 0 18px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-size: 15px; line-height: 1.75; }
+.work-guide h2 { margin: 0 0 8px; font: 600 15px/1.5 var(--font); color: var(--ink); }
+.work-guide-facts { display: flex; flex-wrap: wrap; gap: 4px 28px; margin: 0 0 10px; font-size: 14px; }
+.work-guide-facts div { display: flex; gap: 8px; }
+.work-guide-facts dt { color: var(--muted); }
+.work-guide-facts dd { margin: 0; }
+.work-guide-summary { margin: 0; word-break: keep-all; overflow-wrap: anywhere; }
+.work-guide-start { margin-top: 14px; }
+.work-guide-start h3, .chapter-guide summary { margin: 0 0 4px; font: 600 14px/1.6 var(--font); }
+.work-guide-start ul, .chapter-guide ol { list-style: none; padding: 0; margin: 0; }
+.work-guide-start li, .chapter-guide li { display: grid; grid-template-columns: 56px 1fr; gap: 10px; padding: 5px 0; font-size: 14px; }
+.work-guide-start li > span, .chapter-guide li > span { word-break: keep-all; overflow-wrap: anywhere; }
+.chapter-guide { margin-top: 14px; }
+.chapter-guide summary { display: flex; align-items: center; min-height: 44px; cursor: pointer; }
+.chapter-guide ol { border-top: 1px solid var(--line); }
+.chapter-guide li { border-bottom: 1px solid var(--line); }
+.book-directory .work-guide { margin: 22px 0 30px; max-width: 760px; }
+@media (max-width: 1000px) { .work-guide { margin-left: 44px; } }
+@media (max-width: 720px) {
+  .work-guide { margin-left: 0; font-size: 14.5px; }
+  .work-guide-start li, .chapter-guide li { grid-template-columns: 48px 1fr; gap: 8px; }
+}
+@media print { .chapter-guide { display: none; } }

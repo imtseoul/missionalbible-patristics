@@ -1,5 +1,5 @@
 // Preserve the earlier public helper; the archive controller owns the current UI.
-import './archive-search.mjs?v=65a5402fb9fa';
+import './archive-search.mjs?v=e96275902516';
 
 export function findPassages(rows,query,work='') {
   const terms=query.normalize('NFC').trim().split(/\s+/).filter(Boolean);

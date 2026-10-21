@@ -1,10 +1,10 @@
-import index from './archive-search-index.mjs?v=3375bed1a118';
-import {parseScriptureQuery,scriptureIntersects} from './scripture-search.mjs?v=6c2c1ae164f1';
+import index from './archive-search-index.mjs?v=01ce33f19c1c';
+import {parseScriptureQuery,scriptureIntersects} from './scripture-search.mjs?v=c07a136d5057';
 import {passageSearchText,textMatches,workReference,referenceMatches} from './archive-search-core.mjs?v=c183809f9954';
 const works=new Map(index.works.map(work=>[work.id,work]));
 const loaded=new Map(),attempts=new Map();
 let scripture,scriptureAttempts=0;
-const scriptureModule='./archive-scripture.mjs?v=fd771e8be869';
+const scriptureModule='./archive-scripture.mjs?v=c650c840ebcf';
 async function loadWork(work) {
   if(!loaded.has(work.id)) {
     const attempt=attempts.get(work.id)||0;

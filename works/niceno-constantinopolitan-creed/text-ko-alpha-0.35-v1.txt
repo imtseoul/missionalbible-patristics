@@ -1,0 +1,123 @@
+니케아·콘스탄티노폴리스 신조
+콘스탄티노폴리스 공의회 전승
+
+자료 판본: alpha-0.35
+수록 범위: Schaff 1878년판 57-58쪽의 그리스어 신조 전문
+고정판: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html
+원자료 SHA-256: 869d5dd2d2098781335c1040cc9cbcf1294a4a1eab497029238b980e550ad15b
+
+형식: 한국어
+
+§1
+하늘과 땅, 보이는 것과 보이지 않는 모든 것의 창조주이신, 전능하신 한 분 하나님 아버지를 우리는 믿습니다.
+
+번역 주석
+1. 381년 공의회와 연결되는 신조의 그리스어 전승이다. 채택 대본은 Schaff 1878년판 57-58쪽이며, §1-12는 이 저장소의 읽기 구분이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-1
+
+§2
+또 한 분 주 예수 그리스도를 믿습니다. 그분은 하나님의 외아들이시며, 모든 시대에 앞서 아버지에게서 나셨습니다. 빛에서 나신 빛, 참 하나님에게서 나신 참 하나님이시며, 지음을 받지 않고 나셨고, 아버지와 동일본질이십니다. 그분을 통해 만물이 생겨났습니다.
+
+번역 주석
+1. ‘모든 시대에 앞서’는 아들의 나심을 시간적 시작보다 앞서 고백하는 표현이다. ‘동일본질’은 ὁμοούσιος에 해당한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-2
+
+§3
+그분은 우리 인간과 우리의 구원을 위해 하늘에서 내려오셔서, 성령과 동정녀 마리아에게서 육신을 취하고 사람이 되셨습니다.
+
+번역 주석
+1. ἐκ Πνεύματος Ἁγίου καὶ Μαρίας τῆς παρθένου를 ‘성령과 동정녀 마리아에게서’로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-3
+
+§4
+우리를 위해 본디오 빌라도 때에 십자가에 못 박히시고, 고난받고 묻히셨으며,
+
+번역 주석
+1. 본디오 빌라도의 이름은 수난을 역사적 인물과 연결한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-4
+
+§5
+성경대로 셋째 날에 다시 살아나셨습니다.
+
+번역 주석
+1. ‘성경에 따라’는 부활에 붙는 고백이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-5
+
+§6
+하늘로 올라가셔서 아버지의 오른편에 앉아 계시며,
+
+번역 주석
+1. ‘오른편’은 아버지와의 관계를 표현하는 신조의 자리 표현이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-6
+
+§7
+산 자와 죽은 자를 심판하러 영광 가운데 다시 오십니다. 그분의 나라에는 끝이 없을 것입니다.
+
+번역 주석
+1. ‘그 나라에는 끝이 없을 것이다’는 누가복음 1:33과 연결된다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-7
+
+§8
+또 성령을 믿습니다. 그분은 주님이시며, (또한) 생명을 주시는 분이시고, 아버지에게서 나오시며, 아버지와 아들과 함께 경배와 영광을 받으시고, 예언자들을 통해 말씀하셨습니다.
+
+번역 주석
+1. ἐκ τοῦ Πατρὸς ἐκπορευόμενον은 ‘아버지에게서 나오시는’으로 옮겼다. 이 그리스어 전승이 고백하는 성령의 관계를 그대로 따른다.
+2. 대본의 (καὶ)는 괄호에 든 접속사이며 번역의 ‘(또한)’에 대응한다. ‘예언자들을 통하여 말씀하신’의 주어는 성령이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-8
+
+§9
+하나이며 거룩하고 보편적이며 사도적인 교회를 믿습니다.
+
+번역 주석
+1. καθολική는 교회의 보편성을 가리켜 ‘보편적’으로 옮겼다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-9
+
+§10
+죄의 용서를 위한 하나의 세례를 고백합니다.
+
+번역 주석
+1. ὁμολογοῦμεν은 복수형으로 ‘우리는 고백합니다’라는 뜻이다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-10
+
+§11
+죽은 이들의 부활과
+
+번역 주석
+1. νεκρῶν은 죽은 이들을 뜻하며, 그들의 부활을 기다린다고 고백한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-11
+
+§12
+다가올 시대의 생명을 기다립니다. 아멘.
+
+번역 주석
+1. ‘다가올 시대’는 αἰών μέλλων에 해당한다.
+
+인용 주소: https://patristics.missionalbible.org/releases/alpha-0.35/niceno-constantinopolitan-creed/index.html#p-12
+
+출처·이용 조건
+
+이 저장소의 한국어 AI 번역 시제품; Codex AI 생성
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+AI 한국어 번역에 프로젝트가 보유할 수 있는 권리의 범위. 저작권 성립을 단정하지 않음
+
+Codex AI 번역·메모
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+프로젝트가 작성한 한국어 메모에 보유 가능한 권리
+
+고대 신조; Philip Schaff 편집; 프로젝트의 인쇄면 전사.
+Public-Domain
+https://creativecommons.org/publicdomain/mark/1.0/
+지정된 그리스어 편집 본문과 프로젝트 전사·가공물
