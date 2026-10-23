@@ -1,4 +1,4 @@
-import scriptureIndex from './scripture-index.mjs?v=4545f1d77d89';
+import scriptureIndex from './scripture-index.mjs?v=a3b099271f0b';
 
 if (scriptureIndex.schema_version !== 'patristics-topic-scripture-index-1') {
   throw new Error('성경 구절 색인의 자료 형식을 읽을 수 없습니다.');
