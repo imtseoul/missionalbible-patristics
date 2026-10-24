@@ -73,18 +73,18 @@
 - [스미르나인들에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/ignatius-smyrnaeans/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [클레멘스 1서 TXT](https://patristics.missionalbible.org/works/clement-1-corinthians/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [무라토리 단편 TXT](https://patristics.missionalbible.org/works/muratorian-fragment/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [파피아스 단편과 증언 TXT](https://patristics.missionalbible.org/works/papias-fragments/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [이단 논박 TXT](https://patristics.missionalbible.org/works/irenaeus-against-heresies/text-ko-alpha-0.36-v1.txt): alpha-0.36
-- [교회사 TXT](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/text-ko-alpha-0.36-v1.txt): alpha-0.36
-- [제1변증서 TXT](https://patristics.missionalbible.org/works/justin-first-apology/text-ko-alpha-0.35-v1.txt): alpha-0.35
+- [파피아스 단편과 증언 TXT](https://patristics.missionalbible.org/works/papias-fragments/text-ko-alpha-0.37-v1.txt): alpha-0.37
+- [이단 논박 TXT](https://patristics.missionalbible.org/works/irenaeus-against-heresies/text-ko-alpha-0.37-v1.txt): alpha-0.37
+- [교회사 TXT](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/text-ko-alpha-0.37-v1.txt): alpha-0.37
+- [제1변증서 TXT](https://patristics.missionalbible.org/works/justin-first-apology/text-ko-alpha-0.37-v1.txt): alpha-0.37
 - [바르나바 서신 TXT](https://patristics.missionalbible.org/works/barnabas/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [클레멘스 2서 TXT](https://patristics.missionalbible.org/works/clement-2-corinthians/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [폴리카르포스의 순교 TXT](https://patristics.missionalbible.org/works/polycarp-martyrdom/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [디오그네토스에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/diognetus/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [제2변증서 TXT](https://patristics.missionalbible.org/works/justin-second-apology/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [그리스도인들을 위한 청원 TXT](https://patristics.missionalbible.org/works/athenagoras-plea/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [아우톨리코스에게 TXT](https://patristics.missionalbible.org/works/theophilus-autolycus/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [그리스인들에게 TXT](https://patristics.missionalbible.org/works/tatian-greeks/text-ko-alpha-0.35-v1.txt): alpha-0.35
+- [그리스도인들을 위한 청원 TXT](https://patristics.missionalbible.org/works/athenagoras-plea/text-ko-alpha-0.37-v1.txt): alpha-0.37
+- [아우톨리코스에게 TXT](https://patristics.missionalbible.org/works/theophilus-autolycus/text-ko-alpha-0.37-v1.txt): alpha-0.37
+- [그리스인들에게 TXT](https://patristics.missionalbible.org/works/tatian-greeks/text-ko-alpha-0.37-v1.txt): alpha-0.37
 - [니케아 신조 (325년) TXT](https://patristics.missionalbible.org/works/nicene-creed-325/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [니케아·콘스탄티노폴리스 신조 TXT](https://patristics.missionalbible.org/works/niceno-constantinopolitan-creed/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [니코메디아의 유세비우스에게 보낸 편지 TXT](https://patristics.missionalbible.org/works/arius-eusebius-letter/text-ko-alpha-0.35-v1.txt): alpha-0.35
@@ -92,19 +92,19 @@
 - [안티오키아인들에게 보낸 서한 TXT](https://patristics.missionalbible.org/works/athanasius-antiochenes/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [아블라비오스에게: 세 하나님이라 하지 않는 까닭 TXT](https://patristics.missionalbible.org/works/gregory-nyssa-ablabius/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [제1신학강론 (제27강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-27/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [성령에 관하여 TXT](https://patristics.missionalbible.org/works/basil-holy-spirit/text-ko-alpha-0.35-v1.txt): alpha-0.35
+- [성령에 관하여 TXT](https://patristics.missionalbible.org/works/basil-holy-spirit/text-ko-alpha-0.37-v1.txt): alpha-0.37
 - [제2신학강론 (제28강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-28/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [제3신학강론 (제29강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-29/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [제4신학강론 (제30강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-30/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [제5신학강론 (제31강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/text-ko-alpha-0.35-v1.txt): alpha-0.35
+- [제5신학강론 (제31강론) TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/text-ko-alpha-0.37-v1.txt): alpha-0.37
 - [세라피온에게 보낸 제1서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-1/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [세라피온에게 보낸 제2서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-2/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [세라피온에게 보낸 제3서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-3/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [세라피온에게 보낸 제4서신 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-4/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [부활에 관하여 TXT](https://patristics.missionalbible.org/works/athenagoras-resurrection/text-ko-alpha-0.36-v1.txt): alpha-0.36
+- [부활에 관하여 TXT](https://patristics.missionalbible.org/works/athenagoras-resurrection/text-ko-alpha-0.37-v1.txt): alpha-0.37
 - [말씀의 성육신에 관하여 TXT](https://patristics.missionalbible.org/works/athanasius-incarnation/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [이방인 논박 TXT](https://patristics.missionalbible.org/works/athanasius-gentes/text-ko-alpha-0.35-v1.txt): alpha-0.35
-- [마르키온 반박 1권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-1/text-ko-alpha-0.35-v1.txt): alpha-0.35
+- [마르키온 반박 1권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-1/text-ko-alpha-0.37-v1.txt): alpha-0.37
 - [마르키온 반박 2권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-2/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [마르키온 반박 3권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-3/text-ko-alpha-0.35-v1.txt): alpha-0.35
 - [마르키온 반박 4권 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-4/text-ko-alpha-0.33-v1.txt): alpha-0.33
@@ -123,18 +123,18 @@
 - [스미르나인들에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/ignatius-smyrnaeans/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [클레멘스 1서 한국어·원어 TXT](https://patristics.missionalbible.org/works/clement-1-corinthians/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [무라토리 단편 한국어·원어 TXT](https://patristics.missionalbible.org/works/muratorian-fragment/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [파피아스 단편과 증언 한국어·원어 TXT](https://patristics.missionalbible.org/works/papias-fragments/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [이단 논박 한국어·원어 TXT](https://patristics.missionalbible.org/works/irenaeus-against-heresies/text-bilingual-alpha-0.36-v1.txt): alpha-0.36
-- [교회사 한국어·원어 TXT](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/text-bilingual-alpha-0.36-v1.txt): alpha-0.36
-- [제1변증서 한국어·원어 TXT](https://patristics.missionalbible.org/works/justin-first-apology/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
+- [파피아스 단편과 증언 한국어·원어 TXT](https://patristics.missionalbible.org/works/papias-fragments/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
+- [이단 논박 한국어·원어 TXT](https://patristics.missionalbible.org/works/irenaeus-against-heresies/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
+- [교회사 한국어·원어 TXT](https://patristics.missionalbible.org/works/eusebius-ecclesiastical-history/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
+- [제1변증서 한국어·원어 TXT](https://patristics.missionalbible.org/works/justin-first-apology/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
 - [바르나바 서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/barnabas/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [클레멘스 2서 한국어·원어 TXT](https://patristics.missionalbible.org/works/clement-2-corinthians/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [폴리카르포스의 순교 한국어·원어 TXT](https://patristics.missionalbible.org/works/polycarp-martyrdom/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [디오그네토스에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/diognetus/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [제2변증서 한국어·원어 TXT](https://patristics.missionalbible.org/works/justin-second-apology/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [그리스도인들을 위한 청원 한국어·원어 TXT](https://patristics.missionalbible.org/works/athenagoras-plea/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [아우톨리코스에게 한국어·원어 TXT](https://patristics.missionalbible.org/works/theophilus-autolycus/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [그리스인들에게 한국어·원어 TXT](https://patristics.missionalbible.org/works/tatian-greeks/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
+- [그리스도인들을 위한 청원 한국어·원어 TXT](https://patristics.missionalbible.org/works/athenagoras-plea/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
+- [아우톨리코스에게 한국어·원어 TXT](https://patristics.missionalbible.org/works/theophilus-autolycus/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
+- [그리스인들에게 한국어·원어 TXT](https://patristics.missionalbible.org/works/tatian-greeks/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
 - [니케아 신조 (325년) 한국어·원어 TXT](https://patristics.missionalbible.org/works/nicene-creed-325/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [니케아·콘스탄티노폴리스 신조 한국어·원어 TXT](https://patristics.missionalbible.org/works/niceno-constantinopolitan-creed/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [니코메디아의 유세비우스에게 보낸 편지 한국어·원어 TXT](https://patristics.missionalbible.org/works/arius-eusebius-letter/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
@@ -142,19 +142,19 @@
 - [안티오키아인들에게 보낸 서한 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-antiochenes/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [아블라비오스에게: 세 하나님이라 하지 않는 까닭 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nyssa-ablabius/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [제1신학강론 (제27강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-27/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [성령에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/basil-holy-spirit/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
+- [성령에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/basil-holy-spirit/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
 - [제2신학강론 (제28강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-28/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [제3신학강론 (제29강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-29/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [제4신학강론 (제30강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-30/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [제5신학강론 (제31강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
+- [제5신학강론 (제31강론) 한국어·원어 TXT](https://patristics.missionalbible.org/works/gregory-nazianzus-oration-31/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
 - [세라피온에게 보낸 제1서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-1/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [세라피온에게 보낸 제2서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-2/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [세라피온에게 보낸 제3서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-3/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [세라피온에게 보낸 제4서신 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-serapion-4/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [부활에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/athenagoras-resurrection/text-bilingual-alpha-0.36-v1.txt): alpha-0.36
+- [부활에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/athenagoras-resurrection/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
 - [말씀의 성육신에 관하여 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-incarnation/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [이방인 논박 한국어·원어 TXT](https://patristics.missionalbible.org/works/athanasius-gentes/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
-- [마르키온 반박 1권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-1/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
+- [마르키온 반박 1권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-1/text-bilingual-alpha-0.37-v1.txt): alpha-0.37
 - [마르키온 반박 2권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-2/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [마르키온 반박 3권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-3/text-bilingual-alpha-0.35-v1.txt): alpha-0.35
 - [마르키온 반박 4권 한국어·원어 TXT](https://patristics.missionalbible.org/works/tertullian-marcion-4/text-bilingual-alpha-0.33-v1.txt): alpha-0.33
