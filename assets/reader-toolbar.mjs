@@ -8,10 +8,14 @@ export function installReaderToolbar(tools) {
   const title = document.createElement('span');
   title.className = 'reader-controls-title';
   title.textContent = document.querySelector('.work-heading h1')?.textContent || '본문 읽기';
+  // The collapsed bar keeps the current chapter in view; reader-features updates it while reading.
+  const place = document.createElement('span');
+  place.className = 'reader-controls-location';
+  place.textContent = tools.querySelector('.reader-current-location')?.textContent || '';
   const action = document.createElement('span');
   action.className = 'reader-controls-action';
   action.textContent = '읽기 도구';
-  toggle.append(title, action);
+  toggle.append(title, place, action);
   const panel = document.createElement('div');
   panel.className = 'reader-tools-panel';
   panel.append(...tools.childNodes);

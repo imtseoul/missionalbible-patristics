@@ -29,6 +29,7 @@ export function installReaderFeatures() {
     for(const link of chapterLinks){if(link.dataset.chapterLink===chapter)link.setAttribute('aria-current','location');else link.removeAttribute('aria-current');}
     locationLink.textContent=chapterLinks.find(x=>x.dataset.chapterLink===chapter)?.textContent || current.querySelector('h2')?.textContent || '';
     locationLink.href='#'+current.id;
+    const bar=document.querySelector('.reader-controls-location');if(bar)bar.textContent=locationLink.textContent;
     const url=new URL(location.href);url.hash=current.id;
     information.href=workInformationURL(work,url.href,location.href).href;
     rememberRecent({title:name,label:locationLink.textContent,url:url.href});

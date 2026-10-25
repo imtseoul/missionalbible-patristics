@@ -266,27 +266,56 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .view-settings-panel { position: static; margin-top: 8px; border-color: var(--line); }
 }
 
-/* Work introduction and chapter summaries (work_guides.py) */
-.work-guide { margin: 0 0 30px 54px; max-width: 680px; padding: 16px 0 18px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-size: 15px; line-height: 1.75; }
-.work-guide h2 { margin: 0 0 8px; font: 600 15px/1.5 var(--font); color: var(--ink); }
-.work-guide-facts { display: flex; flex-wrap: wrap; gap: 4px 28px; margin: 0 0 10px; font-size: 14px; }
-.work-guide-facts div { display: flex; gap: 8px; }
-.work-guide-facts dt { color: var(--muted); }
-.work-guide-facts dd { margin: 0; }
+/* Work introduction and chapter summaries (work_guides.py): one closed disclosure above the text. */
+.work-guide { margin: 0 0 26px 54px; max-width: 680px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); font-size: 15px; line-height: 1.75; }
+.work-guide-details > summary { position: relative; display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 14px; min-height: 48px; padding: 12px 28px 12px 0; cursor: pointer; list-style: none; }
+.work-guide-details > summary::-webkit-details-marker, .chapter-guide > summary::-webkit-details-marker { display: none; }
+.work-guide-details > summary::after { content: ''; position: absolute; right: 6px; top: 20px; width: 7px; height: 7px; border-right: 1.5px solid var(--ink); border-bottom: 1.5px solid var(--ink); transform: rotate(45deg); }
+.work-guide-details[open] > summary::after { transform: rotate(225deg); top: 24px; }
+.work-guide-title { font: 600 14px/1.6 var(--font); color: var(--ink); }
+.work-guide-details > summary:hover .work-guide-title { text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--accent); text-underline-offset: .22em; }
+.work-guide-when { color: var(--muted); font-size: 13px; }
+.work-guide-body { padding: 0 0 18px; }
 .work-guide-summary { margin: 0; word-break: keep-all; overflow-wrap: anywhere; }
 .work-guide-start { margin-top: 14px; }
-.work-guide-start h3, .chapter-guide summary { margin: 0 0 4px; font: 600 14px/1.6 var(--font); }
+.work-guide-start h2 { margin: 0 0 4px; font: 600 14px/1.6 var(--font); }
 .work-guide-start ul, .chapter-guide ol { list-style: none; padding: 0; margin: 0; }
 .work-guide-start li, .chapter-guide li { display: grid; grid-template-columns: 56px 1fr; gap: 10px; padding: 5px 0; font-size: 14px; }
 .work-guide-start li > span, .chapter-guide li > span { word-break: keep-all; overflow-wrap: anywhere; }
-.chapter-guide { margin-top: 14px; }
-.chapter-guide summary { display: flex; align-items: center; min-height: 44px; cursor: pointer; }
+.chapter-guide { margin-top: 10px; }
+.chapter-guide > summary { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; cursor: pointer; list-style: none; font: 600 14px/1.6 var(--font); }
+.chapter-guide > summary::after { content: ''; width: 6px; height: 6px; margin-top: -3px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); }
+.chapter-guide[open] > summary::after { transform: rotate(225deg); margin-top: 3px; }
 .chapter-guide ol { border-top: 1px solid var(--line); }
 .chapter-guide li { border-bottom: 1px solid var(--line); }
 .book-directory .work-guide { margin: 22px 0 30px; max-width: 760px; }
 @media (max-width: 1000px) { .work-guide { margin-left: 44px; } }
 @media (max-width: 720px) {
-  .work-guide { margin-left: 0; font-size: 14.5px; }
+  .work-guide { margin: 0 0 22px; font-size: 14.5px; }
   .work-guide-start li, .chapter-guide li { grid-template-columns: 48px 1fr; gap: 8px; }
 }
 @media print { .chapter-guide { display: none; } }
+
+/* 2026-10-25 읽기 도구: 인용·출처·보기·장 이동은 같은 모양의 조용한 조작이다. */
+.reader-tools .copy-control,
+.reader-tools .passage-source > summary,
+.reader-tools .view-settings > summary,
+.reader-tools .chapter-menu > summary { display: inline-flex; align-items: center; gap: 7px; min-height: 40px; padding: 6px 10px; border: 0; border-radius: 3px; background: transparent; color: var(--ink); font: 13px/1.5 var(--font); cursor: pointer; list-style: none; white-space: nowrap; }
+.reader-tools .passage-source > summary::-webkit-details-marker, .reader-tools .chapter-menu > summary::-webkit-details-marker { display: none; }
+.reader-tools .passage-source > summary::after, .reader-tools .chapter-menu > summary::after { content: ''; width: 6px; height: 6px; margin: -3px 2px 0 0; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); }
+.reader-tools .passage-source[open] > summary::after, .reader-tools .chapter-menu[open] > summary::after { transform: rotate(225deg); margin-top: 3px; }
+.reader-tools .copy-control:hover, .reader-tools details:not(.reader-controls) > summary:hover { background: var(--wash); text-decoration: none; }
+.reader-tools details:not(.reader-controls)[open] > summary { background: var(--selected); }
+.reader-tools .copy-control[data-copy-state="copied"] { background: var(--selected); }
+.reader-tools .reader-current-location { padding: 0 4px; color: var(--muted); }
+@media (max-width: 720px) {
+  .reader-controls-title { flex: 0 1 auto; }
+  .reader-controls-location { flex: none; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .reader-controls-location:empty { display: none; }
+  .reader-controls-action { margin-left: auto; }
+  .reader-tools-panel .reader-current-title, .reader-tools-panel .reader-current-location { display: none; }
+  .reader-tools .copy-control, .reader-tools .passage-source > summary, .reader-tools .view-settings > summary, .reader-tools .chapter-menu > summary { min-height: 44px; }
+  .view-settings { flex-basis: auto; }
+  .view-settings[open] { flex-basis: 100%; }
+  .reader-tools .view-settings > summary { width: auto; justify-content: flex-start; }
+}
