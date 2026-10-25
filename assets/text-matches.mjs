@@ -50,13 +50,14 @@ export function markedText(document, text, query, options = {}) {
 }
 
 export function matchExcerpts(text, query, options = {}) {
-  if (text.length <= 360) return [{text, start: 0, end: text.length}];
+  const {before = 80, after = 120, limit = 360} = options;
+  if (text.length <= limit) return [{text, start: 0, end: text.length}];
   // Include the first occurrence of every query term, even when they are far apart.
   const seeds = queryTerms(query, options).map(term => matchRanges(text, term, options)[0]).filter(Boolean);
   if (!seeds.length) return [{text, start: 0, end: text.length}];
   const boundaries = [...segmenter.segment(text)].map(item => item.index).concat(text.length);
   const windows = seeds.map(([start, end]) => {
-    start = Math.max(0, start - 80); end = Math.min(text.length, end + 120);
+    start = Math.max(0, start - before); end = Math.min(text.length, end + after);
     // Include whole words near each context edge, without splitting graphemes.
     for (let n = 0; start > 0 && n < 20 && !/\s/.test(text[start - 1]); n++) start--;
     for (let n = 0; end < text.length && n < 20 && !/\s/.test(text[end]); n++) end++;

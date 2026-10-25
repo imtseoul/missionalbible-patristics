@@ -1,4 +1,4 @@
-import {matchesIndex,correctionRecords,correctionState,correctionURL,correctionPage} from './archive-index-core.mjs?v=9682a3d38231';
+import {matchesIndex,correctionRecords,correctionState,correctionURL,correctionPage} from './archive-index-core.mjs?v=bb2e4d527dd6';
 import {unpackBytes,dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 
 function installIndexFilter(page) {

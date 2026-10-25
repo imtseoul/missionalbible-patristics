@@ -16,27 +16,40 @@ export function searchState(value) {
     match:params.get('match')==='any'?'any':'all',exclude:cut(params.get('exclude'))};
 }
 
+export const SEARCH_PARAMS=['text','work','mode','exact','page','relation','numbering','match','exclude'];
+
 export function searchURL(base,state) {
-  const current=new URL(base),url=new URL('/index.html',current);
-  if(['/', '/index.html'].includes(current.pathname))for(const key of ['find','lang'])if(current.searchParams.has(key))url.searchParams.set(key,current.searchParams.get(key));
+  const url=new URL('/search.html',new URL(base));
   const values={text:cut(state.query).trim(),work:state.work||'',mode:state.mode!=='ko'?state.mode:'',exact:state.exact?'1':'',
     page:state.page>1?String(state.page):'',relation:state.relation||'',numbering:state.numbering==='conventional'?'conventional':'',
     match:state.match==='any'?'any':'',exclude:cut(state.exclude).trim()};
-  for(const [key,value] of Object.entries(values))if(value)url.searchParams.set(key,value);else url.searchParams.delete(key);
-  url.hash='body-search';return url;
+  for(const [key,value] of Object.entries(values))if(value)url.searchParams.set(key,value);
+  return url;
 }
 
-export function searchReaderURL(path,base,state) {
+// Earlier search addresses lived on the library page as /index.html?text=...#body-search.
+export function legacySearchURL(current) {
+  const url=new URL(current);
+  if(!['/','/index.html'].includes(url.pathname))return null;
+  if(url.hash!=='#body-search'&&!SEARCH_PARAMS.some(key=>url.searchParams.has(key)))return null;
+  return searchURL(url.href,searchState(url.href));
+}
+
+// The clicked result travels with the return address, so the page number and the result anchor stay together.
+export function searchReaderURL(path,base,state,result='') {
   const reader=new URL(path,base),back=searchURL(base,state);
   if(reader.origin!==back.origin||!/^\/works\/[a-z0-9-]+\/(?:index|book-\d+)\.html$/.test(reader.pathname))throw new Error('본문 주소를 확인해 주세요.');
+  if(result)back.hash='result-'+result;
   reader.searchParams.set('search',back.pathname+back.search+back.hash);return reader;
 }
 
 export function searchReturnURL(current) {
   const url=new URL(current);const value=url.searchParams.get('search');if(!value)return null;
   let back;try{back=new URL(value,url);}catch{return null;}
-  if(back.origin!==url.origin||back.username||back.password||back.pathname!=='/index.html')return null;
-  return searchURL(back.href,searchState(back.href));
+  if(back.origin!==url.origin||back.username||back.password||!['/index.html','/search.html'].includes(back.pathname))return null;
+  const restored=searchURL(back.href,searchState(back.href));
+  if(back.pathname==='/search.html'&&/^#result-[^#\s]+$/.test(back.hash))restored.hash=back.hash;
+  return restored;
 }
 
 export function foldSearch(text) {

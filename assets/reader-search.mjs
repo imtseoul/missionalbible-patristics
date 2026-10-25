@@ -1,5 +1,5 @@
-import {searchReturnURL,searchState,textMatches} from './archive-search-core.mjs?v=c183809f9954';
-import {matchRanges} from './text-matches.mjs?v=c9235b0b8b9b';
+import {searchReturnURL,searchState,textMatches} from './archive-search-core.mjs?v=81ebd941d0ad';
+import {matchRanges} from './text-matches.mjs?v=149147752b85';
 
 export function selectedTextGroups(nodes,language='') {
   const groups=[];let current=[];
@@ -12,9 +12,43 @@ export function selectedTextGroups(nodes,language='') {
   flush();return groups;
 }
 
+// Search results return to the result that was opened, on the results page it came from.
+// Addresses written before the result id was recorded fall back to the passage the reader first landed on.
+export function searchBackURL(current,landing='') {
+  const back=searchReturnURL(current);if(!back)return null;
+  if(!back.hash&&landing)back.hash='result-'+landing;
+  return back;
+}
+
+function landingPassage() {
+  let id='';try{id=decodeURIComponent(location.hash.slice(1));}catch{}
+  const node=id?document.getElementById(id):null;
+  const passage=node?.closest('article.passage')||(id.startsWith('note-')?document.getElementById(id.replace(/^note-/,'p-'))?.closest('article.passage'):null);
+  return passage?.dataset.passageId||'';
+}
+
+function installSearchReturn(tools) {
+  const back=searchBackURL(location.href,landingPassage());
+  if(!back||tools.querySelector('.reader-search-return'))return null;
+  const link=document.createElement('a');link.className='reader-search-return';link.href=back.href;link.textContent='검색 결과';
+  const query=searchState(back.href).query.trim();
+  link.setAttribute('aria-label',query?'‘'+query+'’ 검색 결과로 돌아가기':'검색 결과로 돌아가기');
+  const media=matchMedia('(max-width: 720px)');
+  const place=()=>{
+    const panel=tools.querySelector('.reader-controls');
+    if(media.matches&&panel)tools.insertBefore(link,panel);else (tools.querySelector('.reader-tools-panel')||tools).prepend(link);
+    tools.classList.toggle('has-search-return',true);
+  };
+  media.addEventListener('change',()=>requestAnimationFrame(place));
+  place();
+  return link;
+}
+
 export function installReaderSearch() {
-  const back=searchReturnURL(location.href),tools=document.querySelector('.reader-tools');
-  if(!back||!tools||!/^\/works\//.test(location.pathname)||document.querySelector('.reader-search-controls'))return;
+  const tools=document.querySelector('.reader-tools');
+  if(!tools||!/^\/works\//.test(location.pathname)||document.querySelector('.reader-search-controls'))return;
+  const back=searchReturnURL(location.href);if(!back)return;
+  installSearchReturn(tools);
   const state=searchState(back.href);if(state.mode==='scripture'||!state.query.trim())return;
   const selector=state.mode==='notes'?'.reader-notes li[id] > p':state.mode==='ko'?'article.passage .translation':'article.passage .original';
   const matches=[];

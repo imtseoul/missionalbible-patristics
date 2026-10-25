@@ -43,7 +43,8 @@ h1, h2, h3 { font-weight: 600; word-break: keep-all; }
   .header-inner { padding: 0 20px; min-height: 70px; gap: 18px; justify-content: space-between; }
   .brand { font-size: 18px; }
   .header-inner nav { font-size: 12px; gap: 16px; }
-  .header-inner nav a:last-child { display: none; }
+  .header-inner nav a:nth-child(n+4) { display: none; }
+  .header-inner nav a { white-space: nowrap; }
 }
 
 /* Author and topic discovery share the same entry points. */

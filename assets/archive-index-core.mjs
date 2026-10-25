@@ -1,4 +1,4 @@
-import {foldSearch,pageSlice} from './archive-search-core.mjs?v=c183809f9954';
+import {foldSearch,pageSlice} from './archive-search-core.mjs?v=81ebd941d0ad';
 
 export function matchesIndex(value,query) {
   const text=foldSearch(value);return foldSearch(query).split(' ').filter(Boolean).every(term=>text.includes(term));

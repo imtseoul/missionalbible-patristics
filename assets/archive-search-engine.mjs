@@ -1,6 +1,6 @@
 import index from './archive-search-index.mjs?v=600e1afc6884';
 import {parseScriptureQuery,scriptureIntersects} from './scripture-search.mjs?v=944aed4c0321';
-import {passageSearchText,textMatches,workReference,referenceMatches} from './archive-search-core.mjs?v=c183809f9954';
+import {passageSearchText,textMatches,workReference,referenceMatches} from './archive-search-core.mjs?v=81ebd941d0ad';
 const works=new Map(index.works.map(work=>[work.id,work]));
 const loaded=new Map(),attempts=new Map();
 let scripture,scriptureAttempts=0;

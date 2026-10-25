@@ -67,12 +67,6 @@ function showAuthor() {
   updateAuthorMenu();
 }
 
-// 본문 검색은 첫 화면에서 접어 두고, 바닥글의 '본문 검색'이나 #body-search 주소로 열린다.
-function openBodySearch(){
-  const details=document.getElementById('body-search');
-  if(location.hash==='#body-search'&&details&&!details.open){details.open=true;details.scrollIntoView({block:'start'});details.querySelector('input')?.focus({preventScroll:true});}
-}
-openBodySearch();window.addEventListener('hashchange',openBodySearch);
 
 if (catalogue && counter) {
   installRecentReading();

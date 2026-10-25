@@ -170,11 +170,20 @@ html { scroll-padding-top: calc(var(--sticky-top) + var(--reader-tools-height) +
   .topic-context-choice { font-size: 16px; }
 }
 @media print { .reader-topic-context { display: none; } }
-.reader-search-context { display: inline-flex; align-items: center; min-height: 44px; margin-bottom: 10px; font: 14px/1.7 var(--font); }
+.reader-search-return { display: inline-flex; flex: none; align-items: center; gap: 7px; min-height: 44px; padding-right: 2px; color: var(--ink); font: 600 13px/1.4 var(--font); white-space: nowrap; }
+.reader-search-return::before { content: ''; width: 6px; height: 6px; margin-left: 2px; border-left: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: rotate(45deg); }
+.reader-search-return + .reader-meta { padding-left: 12px; border-left: 1px solid var(--line); }
+@media (max-width: 720px) {
+  .reader-tools.reader-tools-compact.has-search-return { display: flex; align-items: center; gap: 12px; }
+  .reader-tools-compact.has-search-return > .reader-controls { flex: 1; min-width: 0; width: auto; }
+  .reader-tools-compact.has-search-return > .reader-search-return { padding-right: 12px; border-right: 1px solid var(--line); }
+}
+@media print { .reader-search-return { display: none; } }
 .reader-search-controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;width:100%;padding-top:8px;border-top:1px solid var(--line);font:13px/1.6 var(--font-ui,"Library Sans",sans-serif)}
 .reader-search-label{max-width:24ch;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:var(--blue);font-weight:600}
 .reader-search-count{font-variant-numeric:tabular-nums;white-space:nowrap}
-.reader-search-controls button{font:inherit;min-height:36px;padding:4px 10px;cursor:pointer}
+.reader-search-controls button{font:inherit;min-height:36px;padding:4px 10px;cursor:pointer;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:3px}
+.reader-search-controls button:hover:not(:disabled){background:var(--wash)}
 .reader-search-controls button:disabled{opacity:.5;cursor:default}
 .reader-search-toggle{display:flex;align-items:center;gap:6px;white-space:nowrap;margin-inline-start:auto}
 .reader-search-toggle input{width:18px;height:18px;padding:0;margin:0;accent-color:var(--blue)}
