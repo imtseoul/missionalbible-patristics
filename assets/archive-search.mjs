@@ -1,11 +1,11 @@
-import {createArchiveSearchClient} from './archive-search-client.mjs?v=4838be3f334e';
+import {createArchiveSearchClient} from './archive-search-client.mjs?v=6beb8cb96eec';
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
-export {archiveResults} from './archive-search-engine.mjs?v=75d58ab8c498';
-import index from './archive-search-index.mjs?v=600e1afc6884';
+export {archiveResults} from './archive-search-engine.mjs?v=00ad1ab1568f';
+import index from './archive-search-index.mjs?v=13e83985aa07';
 import {dataErrorMessage} from './packed-data.mjs?v=1a75398990a6';
 import {markedText,matchExcerpts} from './text-matches.mjs?v=149147752b85';
 import {parseScriptureQuery,scriptureReferenceLabel} from './scripture-search.mjs?v=944aed4c0321';
-import {workInformationURL} from './work-information.mjs?v=3f8e81d9a371';
+import {workInformationURL} from './work-information.mjs?v=98fed932c545';
 import {searchState,searchURL,searchReaderURL,workReference,pageSlice,plainExcerpt,useLabels,originLabels,speakerLabels,compositionLabels,resultCitation,resultCSV} from './archive-search-core.mjs?v=81ebd941d0ad';
 import {workShortcuts,relatedTopics,facetCounts,searchKind,appliedConditions} from './search-results.mjs?v=a3d05daa3f04';
 

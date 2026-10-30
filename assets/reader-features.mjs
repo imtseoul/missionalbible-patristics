@@ -1,7 +1,7 @@
 import {copyControl} from './copy-control.mjs?v=1b32deb2f89c';
 import {rememberRecent} from './reading-progress.mjs?v=291a7b63c18d';
-import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=1c827d6e9236';
-import {workInformationURL} from './work-information.mjs?v=3f8e81d9a371';
+import {passageMetadata,sourceDetails} from './archive-tools.mjs?v=55ff3141b2d7';
+import {workInformationURL} from './work-information.mjs?v=98fed932c545';
 
 export function installReaderFeatures() {
   if(!/^\/works\/[a-z0-9-]+\/(?:(?:index|book-\d+)\.html)?$/.test(location.pathname))return;

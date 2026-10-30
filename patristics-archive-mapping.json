@@ -8,30 +8,10 @@
     "retained_routes": 532
   },
   "external_current_json_data": [
-    "releases/alpha-0.37/athenagoras-plea/passages.json",
-    "releases/alpha-0.37/athenagoras-resurrection/passages.json",
-    "releases/alpha-0.37/basil-holy-spirit/passages.json",
-    "releases/alpha-0.37/eusebius-ecclesiastical-history/passages.json",
-    "releases/alpha-0.37/gregory-nazianzus-oration-31/passages.json",
-    "releases/alpha-0.37/irenaeus-against-heresies/passages.json",
-    "releases/alpha-0.37/justin-first-apology/passages.json",
-    "releases/alpha-0.37/papias-fragments/passages.json",
-    "releases/alpha-0.37/tatian-greeks/passages.json",
-    "releases/alpha-0.37/tertullian-marcion-1/passages.json",
-    "releases/alpha-0.37/theophilus-autolycus/passages.json"
+    "releases/alpha-0.37.1/tertullian-apology/passages.json"
   ],
   "external_current_jsonl_data": [
-    "releases/alpha-0.37/athenagoras-plea/passages.jsonl",
-    "releases/alpha-0.37/athenagoras-resurrection/passages.jsonl",
-    "releases/alpha-0.37/basil-holy-spirit/passages.jsonl",
-    "releases/alpha-0.37/eusebius-ecclesiastical-history/passages.jsonl",
-    "releases/alpha-0.37/gregory-nazianzus-oration-31/passages.jsonl",
-    "releases/alpha-0.37/irenaeus-against-heresies/passages.jsonl",
-    "releases/alpha-0.37/justin-first-apology/passages.jsonl",
-    "releases/alpha-0.37/papias-fragments/passages.jsonl",
-    "releases/alpha-0.37/tatian-greeks/passages.jsonl",
-    "releases/alpha-0.37/tertullian-marcion-1/passages.jsonl",
-    "releases/alpha-0.37/theophilus-autolycus/passages.jsonl"
+    "releases/alpha-0.37.1/tertullian-apology/passages.jsonl"
   ],
   "external_historical_data": [
     "releases/alpha-0.1/didache/passages.jsonl",
@@ -841,6 +821,8 @@
     "releases/alpha-0.36/eusebius-ecclesiastical-history/passages.jsonl",
     "releases/alpha-0.36/irenaeus-against-heresies/passages.json",
     "releases/alpha-0.36/irenaeus-against-heresies/passages.jsonl",
+    "releases/alpha-0.37.1/tertullian-apology/passages.json",
+    "releases/alpha-0.37.1/tertullian-apology/passages.jsonl",
     "releases/alpha-0.37/athenagoras-plea/passages.json",
     "releases/alpha-0.37/athenagoras-plea/passages.jsonl",
     "releases/alpha-0.37/athenagoras-resurrection/passages.json",
@@ -4977,6 +4959,16 @@
       "sha256": "123f5baf938665e1730cdc50deadec256b87762b0a808c30eb86e1904b4a3d5c",
       "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/f5642c0a645f252fcc342001154633d309ebd552/releases/alpha-0.36/irenaeus-against-heresies/passages.jsonl"
     },
+    "releases/alpha-0.37.1/tertullian-apology/passages.json": {
+      "git_blob": "6c8281addbb0de256b45028c6cf828cfe4c41a61",
+      "sha256": "a3360ac2917206fca87e7f30464b428a22a2f5b404bed07c51ebf5c521b2725d",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/ba4a5cceb22ae252c4e1356a2471249a319a5b73/releases/alpha-0.37.1/tertullian-apology/passages.json"
+    },
+    "releases/alpha-0.37.1/tertullian-apology/passages.jsonl": {
+      "git_blob": "76caee650f10c06a94eee9ba342ce966bd64d719",
+      "sha256": "7f4f42cb346d06573ab30cf978c6df02501ccab13f42a6787e08073451150382",
+      "url": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/ba4a5cceb22ae252c4e1356a2471249a319a5b73/releases/alpha-0.37.1/tertullian-apology/passages.jsonl"
+    },
     "releases/alpha-0.37/athenagoras-plea/passages.json": {
       "git_blob": "e1967662fecd154b7b19f89c4fa8b0c098c26295",
       "sha256": "abf7945d9ec20f946638ef8e8f5c1873d7aeda9221d06490b182a405cce9279d",
@@ -5479,7 +5471,7 @@
     "latest_release_data": "local",
     "size_limit_bytes": 900000000
   },
-  "latest_release": "alpha-0.37",
+  "latest_release": "alpha-0.37.1",
   "raw_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/9565e831ba9dfa544946315a47df4abc0a826114/",
-  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/6a2814972239ec324a5ed3e2a01d5fa622c0ab07/"
+  "source_checksums_base": "https://raw.githubusercontent.com/imtseoul/patristics-ko-reference/ba4a5cceb22ae252c4e1356a2471249a319a5b73/"
 }

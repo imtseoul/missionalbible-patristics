@@ -1,5 +1,5 @@
 {
-  "archive_commit": "6a2814972239ec324a5ed3e2a01d5fa622c0ab07",
+  "archive_commit": "ba4a5cceb22ae252c4e1356a2471249a319a5b73",
   "edition_readers": [
     {
       "alignment": {
@@ -842,7 +842,7 @@
     },
     {
       "alignment": {
-        "identical_text": 174
+        "saved": 174
       },
       "anchor_aliases": 348,
       "edition_json_sha256": "abf7945d9ec20f946638ef8e8f5c1873d7aeda9221d06490b182a405cce9279d",
@@ -855,7 +855,7 @@
     },
     {
       "alignment": {
-        "identical_text": 126
+        "saved": 126
       },
       "anchor_aliases": 252,
       "edition_json_sha256": "5b813f8d09d3c2053266f5e670c3bc95a9bfb0c4edb24c41acc6cac7a8be38ec",
@@ -868,7 +868,7 @@
     },
     {
       "alignment": {
-        "identical_text": 79
+        "saved": 79
       },
       "anchor_aliases": 158,
       "edition_json_sha256": "19ee4ab24c0fa1f9555dd65695690892717149a923bc001789ccb3965180139c",
@@ -1022,7 +1022,7 @@
     },
     {
       "alignment": {
-        "identical_text": 33
+        "saved": 33
       },
       "anchor_aliases": 66,
       "edition_json_sha256": "419a8aef5c7dc8268cb1de884cd1765964251c94bf4a95107ad081226edced5a",
@@ -1111,7 +1111,7 @@
     },
     {
       "alignment": {
-        "identical_text": 70
+        "saved": 70
       },
       "anchor_aliases": 140,
       "edition_json_sha256": "7c2a45e644471bc9c2cdd70b0017499c8f98d8f58ef425a869e15be9d1cdf365",
@@ -1124,7 +1124,7 @@
     },
     {
       "alignment": {
-        "identical_text": 48
+        "saved": 48
       },
       "anchor_aliases": 96,
       "edition_json_sha256": "19efcca57499f9ccfcd2b74109a27bd4e4b5612af5ce206cebe0b0218c4e75c5",
@@ -1137,7 +1137,7 @@
     },
     {
       "alignment": {
-        "identical_text": 42
+        "saved": 42
       },
       "anchor_aliases": 84,
       "edition_json_sha256": "036769531c2b02b5a9ca16dd851ec9ac61b2c84ae3188612f7b853c809a3a383",
@@ -1150,7 +1150,7 @@
     },
     {
       "alignment": {
-        "identical_text": 29
+        "saved": 29
       },
       "anchor_aliases": 58,
       "edition_json_sha256": "ac2e0a01420294a7f6c1117b9cb060578555303dae8a560959cc97d6bd2da834",
@@ -1210,22 +1210,35 @@
       "preserved_anchor_count": 1,
       "release_id": "alpha-0.37",
       "work_id": "theophilus-autolycus"
+    },
+    {
+      "alignment": {
+        "identical_text": 505
+      },
+      "anchor_aliases": 1010,
+      "edition_json_sha256": "a3360ac2917206fca87e7f30464b428a22a2f5b404bed07c51ebf5c521b2725d",
+      "kind": "reader",
+      "passages_verified": 505,
+      "path": "releases/alpha-0.37.1/tertullian-apology/index.html",
+      "preserved_anchor_count": 1516,
+      "release_id": "alpha-0.37.1",
+      "work_id": "tertullian-apology"
     }
   ],
-  "external_historical_files": 906,
+  "external_historical_files": 908,
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "CNAME": "7215d7dbc92177d63632f4d01e33a47e991d145727f42421aaf6ee14a5f261cb",
-    "README.md": "b40dac9b931dca906aabc10b594f4b39caf38f77c6eb8d5c6a2646a46b70845e",
-    "about.html": "6d264ad689f4062fed5cbc97b9b682d0fbad9899a8d2f5ab729dd3da3c00d34a",
+    "README.md": "56ce225fc5da14a4ef9b5dc83e16b3908b8b0552ce62199694cc651c6c9536c9",
+    "about.html": "0fd7498ac9ac87837914ce1d627d02c3e247231d5786182a3fa7165f3f4d24ec",
     "assets/app.mjs": "7ce8b7eb6e46939330f67e23383c77474a7964a15dbb738264b2c0ea575eb58e",
     "assets/apple-touch-icon.png": "e7cda279fc19dbde3f0cf09a254be4c99ce6b6c3bb84e59ae4c4adb1f8280c4e",
-    "assets/archive-correction-index.mjs": "f7eda45ec183beb541016849fdd19f52e80d2aa83c6130638afdde1700e6f38f",
-    "assets/archive-history.mjs": "89f5434a5ffed20faacfd710ea2b158d977c118273a97b4b844e0f60de3beaad",
+    "assets/archive-correction-index.mjs": "99430ecf24c475c12a0c14ce7a12655120840297b25bedc9004c2f98337ba0bc",
+    "assets/archive-history.mjs": "0b731212342fb35344fa433fa2d2362d60f562a509cff7c2cdb4154949a166fe",
     "assets/archive-index-core.mjs": "bb2e4d527dd6f32be85249c9343db487d86f5840069bbeb33605a6ac9d1df983",
-    "assets/archive-index-pages.mjs": "dddf3a4c0868e1434ad2d39d67fd132ae31a7b62349b876bc610b72ce4bede78",
+    "assets/archive-index-pages.mjs": "2742bff2aaa9cab789764a64447fb6a61786755a147b8efa6df7cd270476f4e4",
     "assets/archive-indexes.css": "f833eab24a3a67a9af46b51d641f91a1c2742404bc76e4d21a210c3739044b02",
-    "assets/archive-products.mjs": "d4a4f6b2650c98b8f37502d6de01bac0b305fca520a4229156a5e984ac256d3e",
+    "assets/archive-products.mjs": "d29a2752a37a990762e6653538621e55a1793326f215c5aae3d21d7d89594ab8",
     "assets/archive-readings/arius-eusebius-letter.mjs": "7792b6af5a43ef987d92104def93157e7631799152611b5c58fd25bf75b6e60e",
     "assets/archive-readings/athanasius-antiochenes.mjs": "16c354ee89955fbc96eabb2e70bd90fa1b5d7842aafc4e9c23ebd92fbd2a3c7b",
     "assets/archive-readings/athanasius-gentes.mjs": "3d4a5ff1a498bdbfaf579ea3883ac307d72e528bf702b6b967cf856d80c30574",
@@ -1267,20 +1280,21 @@
     "assets/archive-readings/polycarp-martyrdom.mjs": "b6af528a16b70e34b24fd375594d2536d7f07537e83d5d11d444b1569d41b10e",
     "assets/archive-readings/polycarp-philippians.mjs": "cda5c1c85ac15aa298ef6562d69297ebcd20e13718c850c8082a3ce3cd2ba19b",
     "assets/archive-readings/tatian-greeks.mjs": "acb7699ca48d0f64a210b5241c623217c4b6dae5be586fe3b5dee365e7b733d5",
+    "assets/archive-readings/tertullian-apology.mjs": "d4458e49d934c75bd6ded5bbe9dc9e9ab3487ad61eb180a3d5a9186f54493891",
     "assets/archive-readings/tertullian-marcion-1.mjs": "8d368d1473882bf2aaf48c489ea37dc6fa64284453bea578fe5a37fc3fe6bfb3",
     "assets/archive-readings/tertullian-marcion-2.mjs": "8b77279adacb3867fb6b275091e5550cda2fb08a5b077e26dd73d0cf24074f75",
     "assets/archive-readings/tertullian-marcion-3.mjs": "d7dbfb45c1bf36cec73fec76122911af1235bfa22d2a7fd61f82ea37f67ba735",
     "assets/archive-readings/tertullian-marcion-4.mjs": "a4b9ceab63e344d4529910e9c47cfa9cf645816ec050300e09dbd8f3bbce8fbd",
     "assets/archive-readings/tertullian-marcion-5.mjs": "dd5e008f687b5478ff13abe82ab62099e9702621fa94be8f4536d7b83d9b0999",
     "assets/archive-readings/theophilus-autolycus.mjs": "02261916b39d884703d07bffd0c1bf78229645f038c0f8706cf39cc89a6c9346",
-    "assets/archive-scripture.mjs": "8a3f56f3959e3307cbdcf3a221379daa8cd22a7e50aa5526e363a287aac9c838",
-    "assets/archive-search-client.mjs": "4838be3f334e5f5a6859aecfe00c59bce06eba0002767115e9451e6e521678ea",
+    "assets/archive-scripture.mjs": "f7db82863f5abc246ee2ad3bfb88c26e20c0e41877bad035b4d72f6cf7859ca1",
+    "assets/archive-search-client.mjs": "6beb8cb96eec190e3d124b2d8a458f958494bfe3efff6a4d8736339d98d6fa25",
     "assets/archive-search-core.mjs": "81ebd941d0ad05587c9b48be53fda801ffa1f43a77afc86f639975c13be964af",
-    "assets/archive-search-engine.mjs": "75d58ab8c498df3ec7a29f9a27599dd29bff1039ffeceb8513c3c48759f049e8",
-    "assets/archive-search-index.mjs": "600e1afc6884eea4534b3517ce4a754433a39fbab13a5e316c2d20b3594582c6",
-    "assets/archive-search-worker.mjs": "4520aee30b81cabdf87ed482471489f68670dd148b38df8ad324cc213c71ac1f",
-    "assets/archive-search.mjs": "1c455ac9eeaabe1de37ae4c5487aedfd6cf822f085a818eadb536bc0e32beaaa",
-    "assets/archive-tools.mjs": "1c827d6e9236e0b801709e7c3ff0f13de23ee6dab3de409a4b35cb4a62ca8f6d",
+    "assets/archive-search-engine.mjs": "00ad1ab1568f6bc82d28961208a3100fb6084f659bfcb8db41d9b5b26d5bb070",
+    "assets/archive-search-index.mjs": "13e83985aa0725a0faee791ffe62cc753ff410211102cf292d6688f9ce211a8c",
+    "assets/archive-search-worker.mjs": "0fd8e86abb2948e5de39de0c832242aadf06d6dd5913f35762b2ac2781d0efc6",
+    "assets/archive-search.mjs": "bd72fd5d445e6fdff7c663d2ac6fe03df941879caf9702e51a820befa815fa1a",
+    "assets/archive-tools.mjs": "55ff3141b2d741a406e75ce2eb9259cfc713d212636a6d186c787d8157b23b07",
     "assets/catalogue-search.mjs": "71d83a0edc6ede2c4c5b97ec6a71e9fd795d383f25f928b9a6118c5f086b8dd4",
     "assets/catalogue.mjs": "e8e891c9cca8de5fe4ad6fd293ffb0e8de95b81f6f4de7fb5d6dd7b6b9f7dec6",
     "assets/copy-control.mjs": "1b32deb2f89caa1c6c928657f2acbf45e85998cadd4f40c86d2be96fe0122b1e",
@@ -1303,12 +1317,12 @@
     "assets/information.css": "199220223694fabd5f9f8c5a140dd7454c5becf0151a108debcf8c20ed91b692",
     "assets/packed-data.mjs": "1a75398990a66fee1f03b0f36df4af6e881df56363723357555073a647f9608d",
     "assets/page-tools.css": "84d5d58d3ce51028de235fb515cd22b22ec664c2e305b4c20f738d566ae4869d",
-    "assets/page-tools.mjs": "3cf06d197fa83f9f07566f5deaa5a5d166391d21b98423aa4068c4065ce9678c",
+    "assets/page-tools.mjs": "13c4e92b358d964a7b2c8a5e24d3dd0aa2f422715133f422a064bbf5cab37474",
     "assets/passage-jump.mjs": "e9831b8b0ca5cc1b9215bd4dbac49754f56b4f00bdcd3a010211feab1867c83a",
-    "assets/passage-tools.mjs": "a0515e055f491ad9cf8ef9c29328d466f6c47fb3294056e9e99c513b26c7f23f",
+    "assets/passage-tools.mjs": "a2fa2d88b8b9692f18c7da7e632ca075ef5ce9ca161b540bcfe5cf595b18e4c0",
     "assets/phrase-hover.mjs": "4f4926fe87ad90dac717c133334001e4d66a4e6706a41cbba8a89e7bc1da9cf5",
-    "assets/reader-features.mjs": "e50a195e5cfcd05abe18f8211301c15fc7d095572bb9c6e5b351c44b5b06affd",
-    "assets/reader-metadata-index.mjs": "3e9b9723ed853969052e6706407ab2a881e0d4eff4b8ede8339ca240b76f3c59",
+    "assets/reader-features.mjs": "26eef6005417fa9299b4dbe57d15dd448f39d59c62eb4933f0b3853347d989c6",
+    "assets/reader-metadata-index.mjs": "cf4483584839c554c4e990f6c25176549d92b29f858a82d6d4283dbe41643fc1",
     "assets/reader-metadata/arius-eusebius-letter.mjs": "e8c044c05f13265db86c4bb53411024f0dbfb0803b79b52f0003765da6f76f4c",
     "assets/reader-metadata/athanasius-antiochenes.mjs": "3dadda295f81f333d6b1b18b228955fce524c4c675c00cc6c5a17eac2117bdbf",
     "assets/reader-metadata/athanasius-gentes.mjs": "82a404f5b75eca92a8c6d7630b41d2d82e989e6b85c2a6072e08f113c36594cd",
@@ -1350,6 +1364,7 @@
     "assets/reader-metadata/polycarp-martyrdom.mjs": "fe654dd465d2b7899c734ba5dc2de8fef0e9ea231657d44850e000cef54a1115",
     "assets/reader-metadata/polycarp-philippians.mjs": "878b311f04e9cfb8e9fd9e289bc9e07368d8866dea45e31ca5bf7161b275fa11",
     "assets/reader-metadata/tatian-greeks.mjs": "3cfe0ce8e008a5ec09b7fb5d77ae719f9e6f4c958fa131ac12c728817c7874c8",
+    "assets/reader-metadata/tertullian-apology.mjs": "efe7dcad951a2edfd4bc33d76c0a7b47e7bf2ea4a54e19b6c9c2d3a9bc46045b",
     "assets/reader-metadata/tertullian-marcion-1.mjs": "c07c0776d2a89977aabb4e9dc5c16b7984e850e3193f69ed5d4bef885427ddb7",
     "assets/reader-metadata/tertullian-marcion-2.mjs": "eb4db47b8f79ba53e346b75f51d290d6005be75330c6653ac48c30b6bf3321c7",
     "assets/reader-metadata/tertullian-marcion-3.mjs": "735f7751738103b9153593b85315087cd00e05039cd64203caafaa17d1de2bae",
@@ -1360,18 +1375,18 @@
     "assets/reader-settings.js": "b33c7222eb09e022d671d4795b4d6d1cf94b818f6044cdb66d48034e7c315999",
     "assets/reader-toolbar.mjs": "dd5cd401afb9791e0ab53fca355e52aefb2117b194a5d2dab0929a6fbd76ba90",
     "assets/reader.css": "310831eb47c386d0a3b9d9a05dd64f7b392addb56b0f4e32cc29545400363d93",
-    "assets/reader.mjs": "9d4a9ed050dc02d635e31a8dfaf9b84ff7045340c7b7bcb520037b2e79c75db6",
-    "assets/reading-collection.mjs": "b3f10129ec81bbda1d224d436fc995283fa846b06eb73be8107bb5cdda5a06a4",
+    "assets/reader.mjs": "37e310318713b51d149c8149cde4207ac96e4b1cc2c1ba5cf69adfe08489e6cc",
+    "assets/reading-collection.mjs": "1b987def875c9e67f3025901bbb12be6a5b9d790e8ff6857c5f2269a5be0c4ba",
     "assets/reading-guides-data.mjs": "d93089faedf2d90f822634e5863954cd3adef6edf5ade479ffe0e0b4bbcf2da4",
     "assets/reading-guides.mjs": "3195acedeec26c61839f5e6f717abf9cbd4b5583e1f1d1822fb8353ffa39cdf3",
-    "assets/reading-locations.mjs": "886f02170194faa672c2c524d3b29e0a0774f0b3f54d5669281ee4a66811894c",
+    "assets/reading-locations.mjs": "be9fe3ec9c5c6380793084fdf2f6370bfdee6f606df0c6173df34035a4a48c60",
     "assets/reading-progress.mjs": "291a7b63c18db019a3b3d8c2e5418e29e41280ac442deb245233c89b5eda413f",
     "assets/saved-readings.mjs": "cc89cfac9055c5e2e15b30278abf8408bad1dfc05d7b100ad2a2abf548ec9404",
     "assets/scripture-index.mjs": "edeb7d1c607c4043eed0fdea75063064185368ddb52bb237934737ebe6c6fe66",
     "assets/scripture-search.mjs": "944aed4c032168b0490a657e1a239665083c0f7a72c61f61425d7ac61c7aa8db",
     "assets/search-results.mjs": "a3d05daa3f04984fad86806b672c60fb7c22e98765f4bc327c8ee96db22dee56",
     "assets/search.css": "633c0d2c4470cffaa31aac5b4ce458c2b8c9aee9c90aa4d5ba38b939ca91c026",
-    "assets/search.mjs": "784e1607a70b992dc277c5738c2df0aef7685695eaad20a0cd565b8bee60c8cf",
+    "assets/search.mjs": "784a276c99e21ce5423b90cdaec10ba7d40d35309814d1608c6adcb9cade5617",
     "assets/site.css": "0bf061b1517238519a1f778e4692465fa419701c54f53df4aaecf073f23f7ccb",
     "assets/style.css": "b0bde6051296db7b188e6170659fb3a771f71000f13a47aa56a135de4f254b69",
     "assets/text-matches.mjs": "149147752b85fa39a5f2e7c26a5b7cc0042d29a5370edcb1be1d6703dbd51da5",
@@ -1472,12 +1487,12 @@
     "assets/topic-readings/trinity-theological-discourse.mjs": "78da221281eeebf758083337c52964727c12ede22dd2da05898ddd42a7af378e",
     "assets/topic-readings/two-johns.mjs": "be1f020628c3c33de982ac234f02edcf895f1a170e0601a5b0f624b972f1cdb6",
     "assets/topics.css": "e70a390f77e05f9ff523306ab55c8ba6a386192c708dcaa541fd03094b674cc4",
-    "assets/topics.mjs": "83b415a2fcedf0880b7df59605d888addd37631e7729403d551f6e008d1dff9d",
+    "assets/topics.mjs": "d3ebcf4a71f099a97b19dd1a91ad62aeb8a540d019075bea10992e2b8884f11f",
     "assets/work-information.css": "63a660aac931afa49bca9d88f5551faded8a5f33e776a59dbd3fc051c05f4734",
-    "assets/work-information.mjs": "3f8e81d9a371bec35d8c1e1dbff0daa7ee0f01f579f59bee90e2423bfed45aaf",
-    "bibliography.html": "e45335fa3f37a5e096f4071ac2a7926e0e1bacb6626e34c4e64e71a086814e39",
-    "catalog.json": "7507b6d272a5294ad8e4788fd99b8fc50cf2e98243c35fe0b321b4e999ba0f24",
-    "corrections.html": "2aa82c2807b93a67036ed9f34104ebb56fa5da68ed488dcbbb81312b3f638133",
+    "assets/work-information.mjs": "98fed932c545c8504422ee18416b83c4d4b843229454981ba7c49faddf4d166d",
+    "bibliography.html": "525f4c100f463480b775786c8da2670c22f089fd7908f3e92b4c306ff206c08a",
+    "catalog.json": "591e5c6c3153e3587c828ec9d30ac4cbb92849ad43493e2dcea6609b6b014281",
+    "corrections.html": "c01453fd4ea5a53de3650ab5e387a5272f8a13e0e6e78ee8f15a938eec4aa247",
     "data/bibliography-alpha-0.28-v1.csv": "e2e9ff82d7dbb0c56090572fd0e382d8ecf3b6c399fd31f5195a913a612b5b93",
     "data/bibliography-alpha-0.28-v1.ris": "e677be026b83bbd2772cde12870703d83be8d5d3581d9b32b966ade4a2965ea0",
     "data/bibliography-alpha-0.29-v1.csv": "d60b0bb240848b917ac444629fa334f169bcae4ca61e6ba1f2f00ae5a2097cf8",
@@ -1500,6 +1515,8 @@
     "data/bibliography-alpha-0.36-v2.ris": "79854f5a4fa5ca3108c7a0a2c4548c59943a1d1d5edd6b8689857fee5512af83",
     "data/bibliography-alpha-0.37-v2.csv": "d08389be25ed593160a88f8a2230e3aa81e8dacc2924b2dc20949f7cde005ca3",
     "data/bibliography-alpha-0.37-v2.ris": "79854f5a4fa5ca3108c7a0a2c4548c59943a1d1d5edd6b8689857fee5512af83",
+    "data/bibliography-alpha-0.37.1-v2.csv": "7a3161e2b5df1554cb61caa679b1a93a5eebccef60fcaad83f8dde898f0c889e",
+    "data/bibliography-alpha-0.37.1-v2.ris": "35d5e8bc00d36e8117d9c7a86a7741ed96728e32de1dce0d650f4f5f22cbf3ee",
     "data/corrections-view/arius-eusebius-letter.json": "0c1bb456e92368c39f0ba254f3a0c0a0fea647e05ad7836870aeb37e2da9e087",
     "data/corrections-view/athanasius-gentes.json": "2e3da8ee7f3e1e3ea55f27a67c65eb179b4e7f066e5afe434dbe1e00bdc2438e",
     "data/corrections-view/athanasius-incarnation.json": "83c83a390621df5a890b8182020632a32036a3081685532c93638c84dbda99dc",
@@ -1535,18 +1552,19 @@
     "data/corrections-view/polycarp-martyrdom.json": "199a3ce830bb03a87295fa944e217c10c994e6fb3c4f3cda18d3ba35733c3b3a",
     "data/corrections-view/polycarp-philippians.json": "96592280d03f7ba8967d8467ad4d778ded270ea6af49af4777284cfd56088797",
     "data/corrections-view/tatian-greeks.json": "5ff458132c8aa36249a5b12aa5d751f5b9bb3e47e72f9ba5b6849eb7bafb787c",
+    "data/corrections-view/tertullian-apology.json": "80aa10e052bdcb5d9035a0204506a97f3649f21d5510e6234a531caabcc509fd",
     "data/corrections-view/tertullian-marcion-1.json": "7dba6527015f8763ee643e5c724262351a5c5798c014f0eea5effa557f2ac783",
     "data/corrections-view/tertullian-marcion-2.json": "dc94f4c2ca7d2144c904955174a8347ba127846664ea3c03cb901341015b4095",
     "data/corrections-view/tertullian-marcion-3.json": "68d3be7f418304d2a624050a8a19b12c32c70f6197276ce0915dfea0d4d9a92c",
     "data/corrections-view/tertullian-marcion-4.json": "f183b55e2976a14b3edde809acd3ae51df1e0855323254650e58141f15d70ba0",
     "data/corrections-view/tertullian-marcion-5.json": "2aabddd8cdda98eee01f440c66e4cac97857d159a169bd20523bdddc61df034a",
     "data/corrections-view/theophilus-autolycus.json": "54aaa5edd086a040162ebf04e5239804a777a4989e8b73c90bd5703b0e759c7c",
-    "data/corrections.json": "9477898ededb4d072ac7581dbc69be9ecafb4dda840446f69b59a8434bad4975",
-    "data/phrase-alignments.json": "48951eea332644f8f4260ef5f03e05e09b3574ca520e777cd4a01096bc8db92b",
-    "index.html": "9f840338ec8b1206e38d3d8f2a2932fffc3169ac0e87d1c8aba407df6527f179",
+    "data/corrections.json": "5e61912e993d3574e091d3786963d957cede209be23407a84927c361ad198b55",
+    "data/phrase-alignments.json": "10e548ed66f7723bca157220462a3512ace4caffd7cc77a606bff6b3eff620f3",
+    "index.html": "86a8f145db7ce60d9be51027a64c5cdb816afca693f34e54848dcc8c5fe04683",
     "indexnow-key.txt": "9a105e8235e2364e0e325ced77227cc974ea14549fa62cb4248d93df41ec4bfd",
-    "llms.txt": "cdd55651be658c802c7829c3c8351ef47f4f5a12179d60573a4f4a3659b6591f",
-    "patristics-archive-mapping.json": "88fdf71b93c26a18846d47fe99cb2082c7467184b7198df03ce1626b6c0f3868",
+    "llms.txt": "f1bd5fd4d45853be78aab48b8d43c85d6f6aba20698fcf682670b2e4889302a3",
+    "patristics-archive-mapping.json": "f97ed586d9f1716be64c2d8ee224f56033bf7cba74bb65a8c553d5cf4161f740",
     "releases/alpha-0.1/didache/checksums.json": "85f1f93dbbf6c5eaf56ded85d4b96c0149ed3628969632c59f858b515d6a8677",
     "releases/alpha-0.1/didache/index.html": "fe0bcf4ffcb8fe660406f118009ab84627d9e53b3d972920574dfb353ebd815b",
     "releases/alpha-0.1/didache/passages.json": "e688c4d8a449b93988580f59bfc19e960bf2b4ebdc453bc10525007f6c084957",
@@ -3683,6 +3701,8 @@
     "releases/alpha-0.36/irenaeus-against-heresies/book-5.html": "55e93105013a2dcb73914e3d38ddf8c699de9fcf609eac3f421b3e5846c0b86b",
     "releases/alpha-0.36/irenaeus-against-heresies/checksums.json": "f030da78ebaf610842b3048879382a7ef356bb8290fb1c5da5244a6b0cc8f204",
     "releases/alpha-0.36/irenaeus-against-heresies/index.html": "4985ed27e10e2bbce3b081cc549558fad7a2c389afcdf504dde813c95ff02e73",
+    "releases/alpha-0.37.1/tertullian-apology/checksums.json": "3b196f00220e6771f340b0921c034713a9feec06a2eb464ad938719902b86a89",
+    "releases/alpha-0.37.1/tertullian-apology/index.html": "0ecc493c5f428e1a750ffc653ab0d9cd08bd87bbfadefa454090ddef817661e8",
     "releases/alpha-0.37/athenagoras-plea/checksums.json": "c490e8037ee5bb68c72c15fd9d824049cbb996a30075e40824c1e0e44113019e",
     "releases/alpha-0.37/athenagoras-plea/index.html": "b2b9cca0a2f1af6c7c6b88872ac3207ae66fa681330aa0d786797203d39bec87",
     "releases/alpha-0.37/athenagoras-resurrection/checksums.json": "736a4283f6cb93521c69f70f75d6ae7cacafd99a4c624d0cb0bbfc86581fa4c4",
@@ -3942,14 +3962,14 @@
     "releases/alpha-0.9/polycarp-philippians/checksums.json": "2c7809b75c623fb6de7efc626aeafb20f915a6bb9af53d4e26415adf62e6c138",
     "releases/alpha-0.9/polycarp-philippians/index.html": "3db8f068d3f90fc7a8347b90ea51c47ccfd1516650345f7583f0f99d36aa6a7c",
     "releases/alpha-0.9/polycarp-philippians/passages.json": "6c295dc25de178dfa6ae6acc767202fb56c28b98fb6680814806e67db1ff3f0d",
-    "rights.html": "2871e2daf9a4e0ccc1c9b7cfcd3006e2023cc62e15b87595faa2b26ee18efa52",
+    "rights.html": "9b431c9d07c13ed3342ff3cbf64c357b372ffcf04f6e8f7263338c0ec6004a40",
     "robots.txt": "cbb9bcb0b104a82e691aea3f8d1652e2377497803adb647d1b59e01892dddb58",
-    "scripture.html": "789799bd71a9c9c7a1c06784d95c3f1a2dd92c1aa028d3093c58c06ed1a65d1b",
-    "search-index.json": "0a62a9147b0808a978e2a856f8d4f01e6eb9e37c010d0619e6ded9008e9d085e",
-    "search.html": "149d3bd601e864c54c5c6123c07f2a9a8fb653cec2cc730614ca10b2b846062c",
-    "sitemap.xml": "3bd4c06e5b6de8909c343b6c2ce53bc1a8bf89a9bd5452de4206003c99e4ef79",
-    "topics.html": "d496a89e9110f79e2a85c679db303048c1fd26fdbf130e569670ce42779ee8dd",
-    "topics.json": "1799bcb772d2f13de00c3c2204aba16e0f9096e33b5ae6d0fe012838fcd1b27e",
+    "scripture.html": "f8006da1b4b2e6dbac178fe0c11efd5b73c0a00aef1fe423f46a5af04265da45",
+    "search-index.json": "390ee5dbfef99c619d41d775e2dd3b5ab630d9fe64aba95c08c193ce370e03cd",
+    "search.html": "c6f2f4041e780ceb1773b2434bae18150e14bd425fb67678a0fa2b1924341fa8",
+    "sitemap.xml": "bc674ec7a71bc2ea099472b03bd6c57040b51f251d74fd6b395746e6d969d5a8",
+    "topics.html": "0f52fe7c59234e7680d79cc700c79faea9f4230373c6ccce15779da668b0df11",
+    "topics.json": "fde25a835d0d9c7def25144c4c158dfa25c737dd79a858bf29fb25114c1afa92",
     "works/arius-eusebius-letter/bibliography-alpha-0.24.4-v1.csv": "6f1299a3bc84c718b4200c075fabbea4b4d1cf543ee3e3c258eb3b6c28f3318b",
     "works/arius-eusebius-letter/bibliography-alpha-0.24.4-v1.ris": "ea67ef10664d49bad44b55e44f679419158c9f7a87d501bf93b5a722c4f024bc",
     "works/arius-eusebius-letter/bibliography-alpha-0.24.4-v2.csv": "6f1299a3bc84c718b4200c075fabbea4b4d1cf543ee3e3c258eb3b6c28f3318b",
@@ -3958,8 +3978,8 @@
     "works/arius-eusebius-letter/bibliography-alpha-0.32-v2.ris": "ea67ef10664d49bad44b55e44f679419158c9f7a87d501bf93b5a722c4f024bc",
     "works/arius-eusebius-letter/bibliography-alpha-0.35-v2.csv": "6f1299a3bc84c718b4200c075fabbea4b4d1cf543ee3e3c258eb3b6c28f3318b",
     "works/arius-eusebius-letter/bibliography-alpha-0.35-v2.ris": "ea67ef10664d49bad44b55e44f679419158c9f7a87d501bf93b5a722c4f024bc",
-    "works/arius-eusebius-letter/index.html": "2c1809688a6f434ed5b0c8814a07a7ac8fab11cf81f8a3c88d53565a20feda94",
-    "works/arius-eusebius-letter/information.html": "9bbd6598521f7540a7cfb5b9420a20c37269b4c9728ab4c2c6b907161ee97f89",
+    "works/arius-eusebius-letter/index.html": "73ef2308f3cff9e76a8af40dc8e8da1f7aa4743b140f74a52651014550b04063",
+    "works/arius-eusebius-letter/information.html": "06704aefa1cb81ac72b83ea37cd8edc5ec78ce9785ec0c4684a6e8f5f82903f7",
     "works/arius-eusebius-letter/text-bilingual-alpha-0.24.4-v1.txt": "e57b1e0ab94c816d4151b0b0b5bb6e6c1af35f87964ea53ded75315b949b534f",
     "works/arius-eusebius-letter/text-bilingual-alpha-0.24.4-v1.txt.gz": "546b781a7309e3765cc717462669108fb5e76b0b0b1cbc7c8f694aaae9e37114",
     "works/arius-eusebius-letter/text-bilingual-alpha-0.32-v1.txt": "80527ff64822333100b55ed7ee8a3c036ac734444f98453439f93986b0f8c135",
@@ -3980,8 +4000,8 @@
     "works/athanasius-antiochenes/bibliography-alpha-0.32-v2.ris": "9f724c623c89d92cb9f88e61293cd0eeec1e39f89dde9a3eed3eaec76ae980ae",
     "works/athanasius-antiochenes/bibliography-alpha-0.35-v2.csv": "9ebac46103ec149ae25704f393de12c5a7aa78b4450d4700395a1471cad805ac",
     "works/athanasius-antiochenes/bibliography-alpha-0.35-v2.ris": "9f724c623c89d92cb9f88e61293cd0eeec1e39f89dde9a3eed3eaec76ae980ae",
-    "works/athanasius-antiochenes/index.html": "8d0c0e6ab5306c2e7ff87d80c7ba6f7515e01139a955fcad2c9ff784d8e715bd",
-    "works/athanasius-antiochenes/information.html": "6f1b7f9f57b1efb6b3561377c84ec638fcf9b4e332582a510f99b31d47f00392",
+    "works/athanasius-antiochenes/index.html": "2c5c9da2a819f08ed8dbeee029f2c350622d4d803b0a66791254790bf1c949fb",
+    "works/athanasius-antiochenes/information.html": "2d4c22b7409b11d00910046a8bef56c72bfc8c724bf10a7efbfb83e359dcacf6",
     "works/athanasius-antiochenes/text-bilingual-alpha-0.24.4-v1.txt": "ecfdf212b63c2b9bc17af1766f915df7915dd66efd532a4c1fc380e31341673e",
     "works/athanasius-antiochenes/text-bilingual-alpha-0.24.4-v1.txt.gz": "863b2e0c5f7b100d6e117e4959955667c9dabae5d0d6409dc7a41f8285397faf",
     "works/athanasius-antiochenes/text-bilingual-alpha-0.32-v1.txt": "2d4ca90e83daea9c564d949963312e8ec10a56d605c0076363b5c8bee874ae0a",
@@ -4002,8 +4022,8 @@
     "works/athanasius-gentes/bibliography-alpha-0.32-v2.ris": "1038da29f82fd78a7f0a3c7b14bbaeafdcf1576fef97d25164f5b8f0a23cb2fb",
     "works/athanasius-gentes/bibliography-alpha-0.35-v2.csv": "8361c0d35c2a62df234915e7430d3b5548cb079f333d8110429318901c6ee6e2",
     "works/athanasius-gentes/bibliography-alpha-0.35-v2.ris": "1038da29f82fd78a7f0a3c7b14bbaeafdcf1576fef97d25164f5b8f0a23cb2fb",
-    "works/athanasius-gentes/index.html": "adbfeb36696e5e1272b8a1e1fa58b578fd217cb3a088757bf49ec70ef2484285",
-    "works/athanasius-gentes/information.html": "5dd5f52e80a2eb18c8f5517a529de2cddb78afa0993b4c07e01abae7b060cb75",
+    "works/athanasius-gentes/index.html": "3626149b5e233073cb9e0df5c5cb662a213ba3327bc37bc9b2c79821b4af4c82",
+    "works/athanasius-gentes/information.html": "5b4e3d8ee229abb3922dc0b5da7eaa8a8457855a4627baacb110bff54c1a834b",
     "works/athanasius-gentes/text-bilingual-alpha-0.28-v1.txt": "33eed6f284dfd40c8da3fd829814b5a58f13aa073529d40faf1248e86bc98de0",
     "works/athanasius-gentes/text-bilingual-alpha-0.28-v1.txt.gz": "1ad3ebb2f3c6f2ce2f16248269299d41e96580e5e73240005c3a7f0a76f8d3a9",
     "works/athanasius-gentes/text-bilingual-alpha-0.32-v1.txt": "30d690cae7e6977c3ba3a9801c01cd7a2a02a8810471b5a643af19693169a57e",
@@ -4024,8 +4044,8 @@
     "works/athanasius-incarnation/bibliography-alpha-0.32-v2.ris": "2b9abec9735af19f5fb7132caa3b86c9b54ceb734b1f282cdd5da3ce94009392",
     "works/athanasius-incarnation/bibliography-alpha-0.35-v2.csv": "ddf53f7020fc9f642944ed1c0caba883e2573b1dca7e1d0ccd5e14df8d45be41",
     "works/athanasius-incarnation/bibliography-alpha-0.35-v2.ris": "2b9abec9735af19f5fb7132caa3b86c9b54ceb734b1f282cdd5da3ce94009392",
-    "works/athanasius-incarnation/index.html": "041945e18b2e6af468ab39e125881dd6f3d654000c714cd30587a55921795b67",
-    "works/athanasius-incarnation/information.html": "68a8c25529cefcb2e9761bf3ae0d340c1a89c606527384466b672fa4b5059b4a",
+    "works/athanasius-incarnation/index.html": "d46aea26fa7b6fbf4f5de625da3e17a37c037ea25bc9f5077b6f3c6478f3cf7c",
+    "works/athanasius-incarnation/information.html": "674426b4965314fbfcfa1e099b2f8b54f284bea228bbdf6536dd84e24b8dfd25",
     "works/athanasius-incarnation/text-bilingual-alpha-0.26.2-v1.txt": "83ad88216711593032fabc894f5ae401e5eda03f9913b9a845348d288852f0ec",
     "works/athanasius-incarnation/text-bilingual-alpha-0.26.2-v1.txt.gz": "2eda494278fdf354b38033bbc5a0f7fea269e566052864d5fd9f414c9ea2862b",
     "works/athanasius-incarnation/text-bilingual-alpha-0.32-v1.txt": "63c99ba29592ecfa9e426e3590e43f539c4156f739760f61832a69ff19baf23d",
@@ -4046,8 +4066,8 @@
     "works/athanasius-serapion-1/bibliography-alpha-0.32-v2.ris": "1ec0f36627306bde2bef4fe32f4a4616d210f4194b62d359635f04811c83a7cd",
     "works/athanasius-serapion-1/bibliography-alpha-0.35-v2.csv": "f634f67197f54b2f4b1877404b3024fffbde8490dc8b0b1f22cd0227d1627424",
     "works/athanasius-serapion-1/bibliography-alpha-0.35-v2.ris": "1ec0f36627306bde2bef4fe32f4a4616d210f4194b62d359635f04811c83a7cd",
-    "works/athanasius-serapion-1/index.html": "6c91f309b4ff523293f2f3ae6d5ab3e8f57c0105c9ef8eea2c8ed177f3354fb4",
-    "works/athanasius-serapion-1/information.html": "719c95cb4caa60d53725e0f046b2108e0263add2676a59898a9d2437bd4d0588",
+    "works/athanasius-serapion-1/index.html": "4944ecbac44b56f23743b60622bf358a723f3e27b2d0baa628065436bef3b707",
+    "works/athanasius-serapion-1/information.html": "9e677fb4818905cdcc646dfb8715d3dcb174df8b74d54c6241e4891ea54c0722",
     "works/athanasius-serapion-1/text-bilingual-alpha-0.24.6-v1.txt": "03cf7fb51f94c1c1171a46f281dd8b31f85ff7ee77504f275ee3e2477b1348a8",
     "works/athanasius-serapion-1/text-bilingual-alpha-0.24.6-v1.txt.gz": "2e895577d22127facb22e998a0dcd2503a01687b5685988e71ff49bd4f0656f0",
     "works/athanasius-serapion-1/text-bilingual-alpha-0.32-v1.txt": "0ce3d574f6e8d439bd480a83deb7c8850d4b1f70ff29545858f5f6c0300302b4",
@@ -4068,8 +4088,8 @@
     "works/athanasius-serapion-2/bibliography-alpha-0.32-v2.ris": "e07bfcc180649ee83b256155730724b80d89ba470f89eb875e8d486486943701",
     "works/athanasius-serapion-2/bibliography-alpha-0.35-v2.csv": "86f6441c48c2a7c234085686c2b2e7a90d0d713a48da2a010e1d3c8ae13f2950",
     "works/athanasius-serapion-2/bibliography-alpha-0.35-v2.ris": "e07bfcc180649ee83b256155730724b80d89ba470f89eb875e8d486486943701",
-    "works/athanasius-serapion-2/index.html": "d41ad60e973f5f8de23c623c6b134c3d76ed4a7f8bed0940a2f1aa74d79b4624",
-    "works/athanasius-serapion-2/information.html": "53d86dbbedf34c159d33c67dd6dcaaad863d787aa7b433402e6579e2be354740",
+    "works/athanasius-serapion-2/index.html": "d35bac21cb9fc8080f59c3e0504ab55d3cb28fb1704f17a2e0c24a33b2eb57c0",
+    "works/athanasius-serapion-2/information.html": "b4bba9067998cefa66b261aa2e5bf26079522f6534e3ee48bc934d00457dabd7",
     "works/athanasius-serapion-2/text-bilingual-alpha-0.24.4-v1.txt": "26f3f4da05e6bdb7ced3b799a57def896003869bcbe08f3cb9134ad167d13207",
     "works/athanasius-serapion-2/text-bilingual-alpha-0.24.4-v1.txt.gz": "e5b1658be4ecf912991ae2de223d3bcee240aa28e536c8f56a233323b9b9d2cc",
     "works/athanasius-serapion-2/text-bilingual-alpha-0.32-v1.txt": "0f83d265dd6b8c5b50c96114cda3cdffd4c35826e44b2ddeebb823dadeb89ce5",
@@ -4090,8 +4110,8 @@
     "works/athanasius-serapion-3/bibliography-alpha-0.32-v2.ris": "01b9b3e24c94cb974549039059df280a55ffa11acb056cc7ed07c4777ee40bd4",
     "works/athanasius-serapion-3/bibliography-alpha-0.35-v2.csv": "1a4434511c4d2ec1f136b53985ca81dcfb342313cec0748ceaae18436d9bd3ee",
     "works/athanasius-serapion-3/bibliography-alpha-0.35-v2.ris": "01b9b3e24c94cb974549039059df280a55ffa11acb056cc7ed07c4777ee40bd4",
-    "works/athanasius-serapion-3/index.html": "9333daa600eacb2fa8a9379408829f9877a70ba273e4fc4a6f9ecde867ce6ac1",
-    "works/athanasius-serapion-3/information.html": "82bb395aee9c9b515cac58c15e205c7502bfa33b96d1aa66eb81150045cccdcf",
+    "works/athanasius-serapion-3/index.html": "67ce07ae5ac822d068873e34feb414a04ab7c529f3339f88019811faacda91db",
+    "works/athanasius-serapion-3/information.html": "f6dbe229aa65b6a62a54e0b7a67b66ab9fef44eb117091d47699122c832bafc7",
     "works/athanasius-serapion-3/text-bilingual-alpha-0.24.4-v1.txt": "5e7108e400fb8e328b34c8754ce14658d259f85a5bc94d31f94db82f00de7366",
     "works/athanasius-serapion-3/text-bilingual-alpha-0.24.4-v1.txt.gz": "54d26cc38348e2c2e7101a3f69bc058a7f99fe9ad780b2b96f1b025708675229",
     "works/athanasius-serapion-3/text-bilingual-alpha-0.32-v1.txt": "9379374c49cd943114ba3d8376d7875f56f02b536fbe64a298f99bb6a5479162",
@@ -4112,8 +4132,8 @@
     "works/athanasius-serapion-4/bibliography-alpha-0.32-v2.ris": "f2673d54e92241ce501d0f5d90374272408c8ac455c960c1cb85c900b35a5688",
     "works/athanasius-serapion-4/bibliography-alpha-0.35-v2.csv": "d7495efb29b3ed63c2df4acc05373751685b0dc7e3aadef3334f49a38bb7e263",
     "works/athanasius-serapion-4/bibliography-alpha-0.35-v2.ris": "f2673d54e92241ce501d0f5d90374272408c8ac455c960c1cb85c900b35a5688",
-    "works/athanasius-serapion-4/index.html": "f053e12b1494fbebd3539b073e34075745adc373f3e491fda1194982662fb03a",
-    "works/athanasius-serapion-4/information.html": "fc0659d687f3abe121edfd28421440369e5d97b9117623b7ea35254caa10f6f3",
+    "works/athanasius-serapion-4/index.html": "4ca844cdd59b6f6676667eb5e7094106b4d51833880c7f184ea84ccff9eb1626",
+    "works/athanasius-serapion-4/information.html": "3d05a32a8562a29526995445d7b65314c71846cde1452a0427742c48f0fa9198",
     "works/athanasius-serapion-4/text-bilingual-alpha-0.24.4-v1.txt": "740871b1f10a3540571e5cc534309f964b1c60ed5ae7f3703e83a9034fa48a8e",
     "works/athanasius-serapion-4/text-bilingual-alpha-0.24.4-v1.txt.gz": "805b251948f1ea2e3108a7d763c4494c08009136fa63266e713c9c11ae96fd45",
     "works/athanasius-serapion-4/text-bilingual-alpha-0.32-v1.txt": "3865fd6a7130d93effc6d7f3ee75b4ff6bff68f93b76996fca00453568c3508b",
@@ -4136,8 +4156,8 @@
     "works/athenagoras-plea/bibliography-alpha-0.35-v2.ris": "b50de5011c2b1d025e567342b59b16521f2cb979069aff3c27be4264f3e0e266",
     "works/athenagoras-plea/bibliography-alpha-0.37-v2.csv": "50f5f63f718070a6ee58eae9087db6909300adf42351ec9e968c0016e22dfc86",
     "works/athenagoras-plea/bibliography-alpha-0.37-v2.ris": "b50de5011c2b1d025e567342b59b16521f2cb979069aff3c27be4264f3e0e266",
-    "works/athenagoras-plea/index.html": "9f1a94940f35b1ab96a9a0de513b94e8b5bc60944b55c864b7b3a2d81e6f0452",
-    "works/athenagoras-plea/information.html": "4b96c44f79e80fa13de48ad4eb8c012d572e5fa69b3a003d05bf753ad2c8e9e0",
+    "works/athenagoras-plea/index.html": "31692495568e0b059c8fce603f629301ef51c6b7b5eb168e8d4032f21c9ae977",
+    "works/athenagoras-plea/information.html": "b411c502d64ed7ff05ff9d7076d8ecef97c2dd931d498afe7bc5b5953253d5f9",
     "works/athenagoras-plea/text-bilingual-alpha-0.27-v1.txt": "9d3f110328ae657e254aeb2fb6a81fcecfe538ff90e84256d427b13b0dcb9a06",
     "works/athenagoras-plea/text-bilingual-alpha-0.27-v1.txt.gz": "3c0eac3456a29255479f172f9006b92a41df8e650dad5afbdcac4fcf31218423",
     "works/athenagoras-plea/text-bilingual-alpha-0.32-v1.txt": "e341a202885d7f3ab59816915a42ff04c5c8b5c272d4d8f5e79093f40618af5d",
@@ -4164,8 +4184,8 @@
     "works/athenagoras-resurrection/bibliography-alpha-0.36-v2.ris": "fb9f240d0df22de64de267ad3d0bf2176f27bc712b258d2bc06ada758bfef7ae",
     "works/athenagoras-resurrection/bibliography-alpha-0.37-v2.csv": "90540a7f735ea73265031da1dced2768cc9a8ada52e0359e5a03b4d3751e7b4f",
     "works/athenagoras-resurrection/bibliography-alpha-0.37-v2.ris": "fb9f240d0df22de64de267ad3d0bf2176f27bc712b258d2bc06ada758bfef7ae",
-    "works/athenagoras-resurrection/index.html": "1be209ad9b9083a4844c44c1779a332a474d52d529fd84e3bd17663024597cc8",
-    "works/athenagoras-resurrection/information.html": "233242a063636e7ad5e1843132d9a7007435f40cb015cf1b9c6a47125227e0de",
+    "works/athenagoras-resurrection/index.html": "1968b4fc9069aa03041181b4fb47219364ef319149f08bc59d33eebb2fa70713",
+    "works/athenagoras-resurrection/information.html": "9c343e1e3a12a3eeaf5199ed2afeef71dc49c4ced37e77ff5c56b45312a73413",
     "works/athenagoras-resurrection/text-bilingual-alpha-0.27-v1.txt": "c18a0a06f7f118ae8143bb2baa69286a14a20984903789efc27c2b64759e7701",
     "works/athenagoras-resurrection/text-bilingual-alpha-0.27-v1.txt.gz": "8f7425e30978abf444b3d6e34314d357ea29b00612a1437eb9ba1509b5ea7e00",
     "works/athenagoras-resurrection/text-bilingual-alpha-0.35-v1.txt": "b79da9168f52c881d96f0207ce19f9c381f3122cdf0052aeee5b6c2a4a449ba7",
@@ -4190,8 +4210,8 @@
     "works/barnabas/bibliography-alpha-0.32-v2.ris": "89649b5a8b81078961ca80a97a2fb68a7d79dc10cd5935a7ff977d09e7e28cb0",
     "works/barnabas/bibliography-alpha-0.35-v2.csv": "47098b814f4edda7416e19428c7974b35e88662a826b5a5c9b68949f6d9b20ea",
     "works/barnabas/bibliography-alpha-0.35-v2.ris": "89649b5a8b81078961ca80a97a2fb68a7d79dc10cd5935a7ff977d09e7e28cb0",
-    "works/barnabas/index.html": "643f65cbb843bb9ad2c95535c832e2dcb6dfa5401c33bad2227ec0768c1130c8",
-    "works/barnabas/information.html": "3573939ae44eeb2202a889fe82696f36c9ab8faf7026d6fd16ba4e1d06c666cd",
+    "works/barnabas/index.html": "2a16b9e0ce267db92cba58acbb1a5dcdafee0d7012300c387b7a92aa71423525",
+    "works/barnabas/information.html": "2c1afa2b6ed44a424310b0e1ab30c8b12ecf651d402b5a4de5942e53abad4c3e",
     "works/barnabas/text-bilingual-alpha-0.24.4-v1.txt": "4288cd1be590f740234d8d414e982edc5e2e90db882d402449b07089afd1fde6",
     "works/barnabas/text-bilingual-alpha-0.24.4-v1.txt.gz": "58c5b195e854cfc37b716591a822ec893cbf333b5da124c7090db5a2ebfc96ba",
     "works/barnabas/text-bilingual-alpha-0.32-v1.txt": "9f3008e09637dacc754ac6bbcca5b2395d192c00ae63003479c25bb25cf7bc35",
@@ -4214,8 +4234,8 @@
     "works/basil-holy-spirit/bibliography-alpha-0.35-v2.ris": "8156cb469176ccacaf7273b85bcc1469cad19d8280e1067aac2099641b8623ed",
     "works/basil-holy-spirit/bibliography-alpha-0.37-v2.csv": "91f8357ce87d90019e68ff77922b5571b835d8299a3d1c0b86ba50dba7e57dc8",
     "works/basil-holy-spirit/bibliography-alpha-0.37-v2.ris": "8156cb469176ccacaf7273b85bcc1469cad19d8280e1067aac2099641b8623ed",
-    "works/basil-holy-spirit/index.html": "21b4f08b359c0011b05d08988a8b6aeb3cbae83550ed11911c5a54c2dab3e2d4",
-    "works/basil-holy-spirit/information.html": "5226cfa09eaa6a86953d97fc13466dffba059d0056a9914e83cc086ae8743de3",
+    "works/basil-holy-spirit/index.html": "98b9d3391331ab2553a98fa8449b86a046c33ffeac732269a86a442cdf615513",
+    "works/basil-holy-spirit/information.html": "11e90959b7699156a9d307b33f5b8d9223570abf7443d7bca9c0e667267af574",
     "works/basil-holy-spirit/text-bilingual-alpha-0.24.4-v1.txt": "efad96cefac9c759bbb61699ff24959441400108ae83c3655e473245ef4b62f1",
     "works/basil-holy-spirit/text-bilingual-alpha-0.24.4-v1.txt.gz": "94849d3ab2f3afa7355e8f1066387c16da553e5d606fbb1d2ff55ef4f8d0ad1d",
     "works/basil-holy-spirit/text-bilingual-alpha-0.32-v1.txt": "9524fb40ba47d9a85118168eeaba38d16277040cb385718adcfbd0d57b5809d0",
@@ -4240,8 +4260,8 @@
     "works/clement-1-corinthians/bibliography-alpha-0.32-v2.ris": "86cb57579ed327a1423d9846e1027e8c5b63ae4ffbb06d98c953091905a3b443",
     "works/clement-1-corinthians/bibliography-alpha-0.35-v2.csv": "b792633f17c0dbad39b5988fbbebbe51ecef4e87286e797a8f5be0b7f618906e",
     "works/clement-1-corinthians/bibliography-alpha-0.35-v2.ris": "86cb57579ed327a1423d9846e1027e8c5b63ae4ffbb06d98c953091905a3b443",
-    "works/clement-1-corinthians/index.html": "ea92bd7e98243839cecd836c9096a30c4a01b997a734de50b025de9b8c633f48",
-    "works/clement-1-corinthians/information.html": "157c126321a8b6b7e945223dda14aa2cb2f3c608d05126fbc295b3630ea060da",
+    "works/clement-1-corinthians/index.html": "10a52b89b26dde9105232dbb512d31db7974f0d5046545fb15624429f8736fa3",
+    "works/clement-1-corinthians/information.html": "a16ceb57f0c3003c7add2e34aeeb2e905f7b602c85ae6cbba9fb4df6fdc9522a",
     "works/clement-1-corinthians/text-bilingual-alpha-0.24.4-v1.txt": "f56ae267a541c8c68ab1daba40e474efba1b77680f0a7c0bce8b1091a191ad74",
     "works/clement-1-corinthians/text-bilingual-alpha-0.24.4-v1.txt.gz": "bed75f06f70859b6921cf705319ece6637a0aff721dfeb8e6fd3f0970b7938c9",
     "works/clement-1-corinthians/text-bilingual-alpha-0.32-v1.txt": "fe0d2ef8971bf0199f115ebf9909d93f0db8a8d8ef1c729dc5ca37dde0ab91ff",
@@ -4262,8 +4282,8 @@
     "works/clement-2-corinthians/bibliography-alpha-0.32-v2.ris": "bb6591ca574ca1525090abbe6039f6085bc6c72b13fbef4f7a8fc46576a15bec",
     "works/clement-2-corinthians/bibliography-alpha-0.35-v2.csv": "7320c58199d409851d9702b41ece5b78726ea9ea8302a13e0bfaa09af76ec34f",
     "works/clement-2-corinthians/bibliography-alpha-0.35-v2.ris": "bb6591ca574ca1525090abbe6039f6085bc6c72b13fbef4f7a8fc46576a15bec",
-    "works/clement-2-corinthians/index.html": "c92fe13a0b073159bc7ffd027148220420f920915b6711da48f121c3f724d0be",
-    "works/clement-2-corinthians/information.html": "0740098cde931a33f836d7657837e8919ddd844e1829894de796043d3c3f90e3",
+    "works/clement-2-corinthians/index.html": "d7f22fd02dafae99758113679ef7e2d50abf6060a4ced1abb94c2380c04584df",
+    "works/clement-2-corinthians/information.html": "2383bc8c77a691ad224255bef898fcba75ef61c7c4f2193f7ae184cf1d920d18",
     "works/clement-2-corinthians/text-bilingual-alpha-0.24.4-v1.txt": "63fed356161b069cabfd693b74b58c55f60ce62f546c76977b1b55a70a25a70c",
     "works/clement-2-corinthians/text-bilingual-alpha-0.24.4-v1.txt.gz": "52a0179912e6abb206178ba0096aadf0fac97ade6f4b1c1e2f5690cd77eca8be",
     "works/clement-2-corinthians/text-bilingual-alpha-0.32-v1.txt": "f4892b92d97fbf7cf99c87507dcdaad6a1de70fc7728bf007b8a5ef34f8368ed",
@@ -4284,8 +4304,8 @@
     "works/didache/bibliography-alpha-0.32-v2.ris": "138a9fe28022c7884723a3682ca71f8a7826d7eaeb4fe90efe663778069bc0fc",
     "works/didache/bibliography-alpha-0.35-v2.csv": "dd2c0dfc49e9091d4b87a0068a8e95a69290912744a559f504d67cfb536e9f3d",
     "works/didache/bibliography-alpha-0.35-v2.ris": "138a9fe28022c7884723a3682ca71f8a7826d7eaeb4fe90efe663778069bc0fc",
-    "works/didache/index.html": "68e3877fb7ec1154c13fe45eb23b9a5fc4c933d001a277f8f4f0a0f6aed92762",
-    "works/didache/information.html": "0cf5557961c68585187118acbf7111007769c98aa614dec1692103ce0d06d061",
+    "works/didache/index.html": "937f2340b6f44ebff263e0fd990c25fd0afa0ee19bc656fe072c8f7636c42c98",
+    "works/didache/information.html": "81669275dc8ab8268dd4cbb6d64c60bbd713a7b111e507275522413118dfc3e8",
     "works/didache/text-bilingual-alpha-0.24.4-v1.txt": "2a30578e6925cae86232f61b6d923dec23a522a9211104a1eea6f5d5474d9ae6",
     "works/didache/text-bilingual-alpha-0.24.4-v1.txt.gz": "f83c6708b1a6e5d9e154e220e32e0ff486e31902687ee6fa9797588be9820b9f",
     "works/didache/text-bilingual-alpha-0.32-v1.txt": "bbbbe6f489e52bd9b01844961ea67597396af04428199f04639c068a815d0d07",
@@ -4306,8 +4326,8 @@
     "works/diognetus/bibliography-alpha-0.32-v2.ris": "d53347de5a9499e174ecd53a7f51bfbfb3f8f05929615791baaeb48d5d3a00da",
     "works/diognetus/bibliography-alpha-0.35-v2.csv": "3374e454fe4476c4f023be6818ab958b7550be8d85fc0daaef5b53b76dfaf31a",
     "works/diognetus/bibliography-alpha-0.35-v2.ris": "d53347de5a9499e174ecd53a7f51bfbfb3f8f05929615791baaeb48d5d3a00da",
-    "works/diognetus/index.html": "0e20b64ef4891846c8a233c62ccfe3ab1edc872562fafd3f76076e710ecd5ba8",
-    "works/diognetus/information.html": "0a91da8fdd1f1767adaa8c552e455a6e9e5cdefe25f0c14a65c94f52da376271",
+    "works/diognetus/index.html": "6392b77706ba0015bbfd285fbe3021721783090b64c4c2b5047968d7cc440b3e",
+    "works/diognetus/information.html": "2421f157c9c82c1b0b38cfe4a738d25ed08ec719eec30f7becba87454a21dc0b",
     "works/diognetus/text-bilingual-alpha-0.24.4-v1.txt": "25826747a16d8ad3c195f8d0b153bb51b167dda282e75fe3a8e6eb3f1cc35f7d",
     "works/diognetus/text-bilingual-alpha-0.24.4-v1.txt.gz": "812154b5f77d41c35504f8236ab2b287faf4f248b34bed340ee406ba0cee93c7",
     "works/diognetus/text-bilingual-alpha-0.32-v1.txt": "65237356515ed609ae03515c7a6d08de8feefc7605490ee2a7ab4fec8b3c3465",
@@ -4332,18 +4352,18 @@
     "works/eusebius-ecclesiastical-history/bibliography-alpha-0.36-v2.ris": "2b2a13f7d1903d3a417f7f63c3acaa033ffbf7b0a274c3939dbb28574c5aad35",
     "works/eusebius-ecclesiastical-history/bibliography-alpha-0.37-v2.csv": "48237551ec593a991c66ce10bd25180a3f4589601d1f3c5fbb37bacce93b5191",
     "works/eusebius-ecclesiastical-history/bibliography-alpha-0.37-v2.ris": "2b2a13f7d1903d3a417f7f63c3acaa033ffbf7b0a274c3939dbb28574c5aad35",
-    "works/eusebius-ecclesiastical-history/book-1.html": "e2745c5452765db3779a22fbe11a3089c0a09f8424a824ca923aff8fc748e437",
-    "works/eusebius-ecclesiastical-history/book-10.html": "ef24391ac11c996a8b897988fddf8102bf93f54784827239482bc8f3aadfb18f",
-    "works/eusebius-ecclesiastical-history/book-2.html": "0da0b520a32342413462c7933e48f4f62b9541a266342717fb601dc16eb4bcb0",
-    "works/eusebius-ecclesiastical-history/book-3.html": "b8a2b450878e50ec9e95720abefe99063fcde7dc6092ab1484a4c043f774715e",
-    "works/eusebius-ecclesiastical-history/book-4.html": "829a29adf985dc8e7fdae151e060de587a60184b333f6cddb3fb4a7278f5a174",
-    "works/eusebius-ecclesiastical-history/book-5.html": "2d197ce653a5bcd5460e68bff58d242c3d6fd5c625d46bae87b0218b1a681623",
-    "works/eusebius-ecclesiastical-history/book-6.html": "ddb7455022e6ae6955986df6f036080fc8bd4c83f6b6e9557cc63528eca4a837",
-    "works/eusebius-ecclesiastical-history/book-7.html": "53de8a32af432f6f50bdb98b70dc9d7fbebf15b63c0dacde1267e23230d8195a",
-    "works/eusebius-ecclesiastical-history/book-8.html": "67faf059920168d645307161cf9314b3bd2fa2fb7db4bfd19e8ba36c0cda1fbd",
-    "works/eusebius-ecclesiastical-history/book-9.html": "7d07cf8af7d22391bc2acad37bc333d4d1d0dc29bf670eb9f5a919181aa1e2ae",
-    "works/eusebius-ecclesiastical-history/index.html": "ebb8c3484461c1a38e06552a68f0c1a0c3e22cba38c1a3aa2f02cdc5f7d9a0f6",
-    "works/eusebius-ecclesiastical-history/information.html": "1252829b6ca3b20c286be1b96bfae2a2ccc128a9c24fec703dc2da2feca40b01",
+    "works/eusebius-ecclesiastical-history/book-1.html": "4f109ca7c9a2fa9ac7f07dbbcfb43386afeea391539370e3ba60a4900046c40a",
+    "works/eusebius-ecclesiastical-history/book-10.html": "f637ddfd5c453ebfbc710dd7e53d150629d0b57154323a61a3e01b789d84c031",
+    "works/eusebius-ecclesiastical-history/book-2.html": "ef950b0c6947d47e2a7c676fded60e2ce6fab8d0a1515afb1a71bc26631914f8",
+    "works/eusebius-ecclesiastical-history/book-3.html": "5506da4de96a758848043625bbd9a9f48d288366d841993565c1c4333076e548",
+    "works/eusebius-ecclesiastical-history/book-4.html": "f24582c5c06e3a147d857b52cbb3758ba3bb83840c34a22f41416fcc072ad082",
+    "works/eusebius-ecclesiastical-history/book-5.html": "0cb55b7f87c586a22522e40c615b82fe805adfa3ca0ed83226611ed9a004877c",
+    "works/eusebius-ecclesiastical-history/book-6.html": "e5ac2a260ed13d29f14a40978e90dee4e397cdf35c1757c6eb0ae61f94b3c1fc",
+    "works/eusebius-ecclesiastical-history/book-7.html": "49928f3a8684f7b75d4c8d9a10bf64b842cb53e94131fbde94eff7ce281ca7dc",
+    "works/eusebius-ecclesiastical-history/book-8.html": "f5ccd85f7ae104b64cb345ac2c0a5b2b6e270852a764179c0d2ff00bd1cb546e",
+    "works/eusebius-ecclesiastical-history/book-9.html": "813555c8cae3203b03f8477978ab9e60cff20991c28c89ca0bbb58a271d23f47",
+    "works/eusebius-ecclesiastical-history/index.html": "ef21d13e7ae8845e3e81b217fcf0fe577b7c31e24b9d16a0d486fdb624a85334",
+    "works/eusebius-ecclesiastical-history/information.html": "e6593f23ba09ce9ead03d8e5201906fc872d0abafbe177a48829c44f06f8652d",
     "works/eusebius-ecclesiastical-history/text-bilingual-alpha-0.24.4-v1.txt": "84e0c473a007f9fcc178c90ff07acafc6612dc155d0fa1459b3022f7dae383d9",
     "works/eusebius-ecclesiastical-history/text-bilingual-alpha-0.24.4-v1.txt.gz": "2a9a6f6cb7edf80209a3b3334360da2266e8777e951662cca8612faac5786d38",
     "works/eusebius-ecclesiastical-history/text-bilingual-alpha-0.32-v1.txt": "919928576cef939971ee4c2c1199481b6944ad1b0e22ae375bc1bfab90ed768f",
@@ -4372,8 +4392,8 @@
     "works/eusebius-nicene-letter/bibliography-alpha-0.32-v2.ris": "642bc09aa72fc6858d827f22b15d69abf3766a6f7cf01fe1cde9e3e0a2cf8c0b",
     "works/eusebius-nicene-letter/bibliography-alpha-0.35-v2.csv": "65ef1ae7be2eaf8cc72c2b0df907b11bde1c9b394920fca5baa82d1425149b19",
     "works/eusebius-nicene-letter/bibliography-alpha-0.35-v2.ris": "642bc09aa72fc6858d827f22b15d69abf3766a6f7cf01fe1cde9e3e0a2cf8c0b",
-    "works/eusebius-nicene-letter/index.html": "8703cca4d7730bc25f880a2af85eda9adf253edda0f450e24f7493408ac5c768",
-    "works/eusebius-nicene-letter/information.html": "6cfb37593413e3d497ddab862440cb7a2d05ee590216a03559c8ca5c823253b6",
+    "works/eusebius-nicene-letter/index.html": "4f97ab4d831875d62dffe3da35eb0f7714c527c4f273a8f321be7ed459f730cc",
+    "works/eusebius-nicene-letter/information.html": "551781a568b06e784d7bb587c2030062b800527d8a2169ecb8bd1eb30a71e6bf",
     "works/eusebius-nicene-letter/text-bilingual-alpha-0.24.4-v1.txt": "533923b7a2a74342443ae5468f62a58c7cc38e8c19134c87988a06dd5d376511",
     "works/eusebius-nicene-letter/text-bilingual-alpha-0.24.4-v1.txt.gz": "21eaf93e1fd994ab02d85ce062bfd0e5128d595bf4fb3c5109cce56a4c71f7e5",
     "works/eusebius-nicene-letter/text-bilingual-alpha-0.32-v1.txt": "a70558dc95ebcba019edf9427ca2f7bcd5945e462cc4a9564ae4e83672658c2d",
@@ -4392,8 +4412,8 @@
     "works/gregory-nazianzus-oration-27/bibliography-alpha-0.24.4-v2.ris": "4756cd42cc9414f526fd905624ca6dd92be81c5192d96148f3ec7745e06a35d6",
     "works/gregory-nazianzus-oration-27/bibliography-alpha-0.35-v2.csv": "77524c92a2d179801cee1e03f8fd4279a170d78b77a0e3102f4a2ae48a6ca47a",
     "works/gregory-nazianzus-oration-27/bibliography-alpha-0.35-v2.ris": "4756cd42cc9414f526fd905624ca6dd92be81c5192d96148f3ec7745e06a35d6",
-    "works/gregory-nazianzus-oration-27/index.html": "003247698e30b123512c6bcd57fdf17267526ae4b7d7500f2505e8af49d09d9e",
-    "works/gregory-nazianzus-oration-27/information.html": "515c0056b00037ef07ab2d1797664792b770bded2f5ee11a137ab9bc94bdac8c",
+    "works/gregory-nazianzus-oration-27/index.html": "df51acd28aa96dbb4229793f1ceff330997eb32b83fa5d8e2f795155269be1db",
+    "works/gregory-nazianzus-oration-27/information.html": "01212bc88cb594089ed637e89be277d5048344fe1193cf03fbef0876e067b78b",
     "works/gregory-nazianzus-oration-27/text-bilingual-alpha-0.24.4-v1.txt": "0d02b9f970fa32d52b4962646930392f8cb17bc22ae26d0312c3cb29f1232aa9",
     "works/gregory-nazianzus-oration-27/text-bilingual-alpha-0.24.4-v1.txt.gz": "20d9c8012a019fe50abd517d92d4244fbd3bd5ea4237eda334697275015d0795",
     "works/gregory-nazianzus-oration-27/text-bilingual-alpha-0.35-v1.txt": "3b8ac624f92a8663fc1722e11d71c7e72171a833cd469b0a15c605b0ac095a41",
@@ -4410,8 +4430,8 @@
     "works/gregory-nazianzus-oration-28/bibliography-alpha-0.32-v2.ris": "fdf39868e146040861a7c6612a19467382a4addf2e6bca13d49c86426ba4b921",
     "works/gregory-nazianzus-oration-28/bibliography-alpha-0.35-v2.csv": "fd7573e27fe489930d7f5af05e0d4aadc3ea7ab135fdddeeeb0057146dc0072d",
     "works/gregory-nazianzus-oration-28/bibliography-alpha-0.35-v2.ris": "fdf39868e146040861a7c6612a19467382a4addf2e6bca13d49c86426ba4b921",
-    "works/gregory-nazianzus-oration-28/index.html": "074c3c906f42cbb850e93052e00e8a866e66804fdbb96d3834102646694286d5",
-    "works/gregory-nazianzus-oration-28/information.html": "b531ede72d592bfe473871fbb4036fd11d20b3d4df216f38600598980192e4b2",
+    "works/gregory-nazianzus-oration-28/index.html": "b8c062f9d9a47eaf8821a899274483ccad858076dd9f7ff992f82edc73b9c1e1",
+    "works/gregory-nazianzus-oration-28/information.html": "676a821540051f15779788a5319c45804cee4e18e92bf387e96f99405d812c1d",
     "works/gregory-nazianzus-oration-28/text-bilingual-alpha-0.24.4-v1.txt": "d995146077c337764db44b720a74e66dcada1fb75d1ff877d4ccad3602557518",
     "works/gregory-nazianzus-oration-28/text-bilingual-alpha-0.24.4-v1.txt.gz": "ad0bfc5d411bec5614a48b73c5d165cc9e2034f12db71d1509facf22eefa01c6",
     "works/gregory-nazianzus-oration-28/text-bilingual-alpha-0.32-v1.txt": "b0458149f0f198581afc4a470af5ba8c1d85d037aad93d09b9e5a46bbc469967",
@@ -4432,8 +4452,8 @@
     "works/gregory-nazianzus-oration-29/bibliography-alpha-0.32-v2.ris": "c63835aaa2bfd5f1929cebd6a37780abb96c5901fe67cf492e79d7ca2cac6d1b",
     "works/gregory-nazianzus-oration-29/bibliography-alpha-0.35-v2.csv": "d69f1868b49919f0bbbde946b5f1acbcf7443fed83c606e2b98ad0f97fe0e2d2",
     "works/gregory-nazianzus-oration-29/bibliography-alpha-0.35-v2.ris": "c63835aaa2bfd5f1929cebd6a37780abb96c5901fe67cf492e79d7ca2cac6d1b",
-    "works/gregory-nazianzus-oration-29/index.html": "2bccc05bf473534735af100b832c31bce875c535838d213a1c142c48c941c51c",
-    "works/gregory-nazianzus-oration-29/information.html": "2ec76417ba58d055fd47212be0e49ad328a65ce4e417795fde3a837ace7f58e0",
+    "works/gregory-nazianzus-oration-29/index.html": "5439037a8ca533057fc9e28d37f39a87ce44c00953f1f0126abd8f5c067db6da",
+    "works/gregory-nazianzus-oration-29/information.html": "9d7ffa0fb7dfcfdf23111535d2ac1bf1f9982ffe53bdc46f062f906b3bee6e29",
     "works/gregory-nazianzus-oration-29/text-bilingual-alpha-0.24.4-v1.txt": "9eacb7760e48398e7a2c4e095fbeebceeb85011fa41c4537245bffcad50eac85",
     "works/gregory-nazianzus-oration-29/text-bilingual-alpha-0.24.4-v1.txt.gz": "6ddf0800125da4dae451702c4f23a1f926479d27be954b6c5866e0daa59e8166",
     "works/gregory-nazianzus-oration-29/text-bilingual-alpha-0.32-v1.txt": "322347a3cfb2dad2fd954264a2e1e567c52aa245f43fc190f328f3134790682a",
@@ -4454,8 +4474,8 @@
     "works/gregory-nazianzus-oration-30/bibliography-alpha-0.32-v2.ris": "e6dda790637c796579fc8609649bfda379181d79af279d7e8ed6c4a2f87a715e",
     "works/gregory-nazianzus-oration-30/bibliography-alpha-0.35-v2.csv": "e50c92c1ef848593215b182fc50af76d03d1ecb2ff40082140e54ef908b643a5",
     "works/gregory-nazianzus-oration-30/bibliography-alpha-0.35-v2.ris": "e6dda790637c796579fc8609649bfda379181d79af279d7e8ed6c4a2f87a715e",
-    "works/gregory-nazianzus-oration-30/index.html": "ac4bb6d16916cdad603389e4dbf8e9892817007a6ce544190cb6cdf4b34a97af",
-    "works/gregory-nazianzus-oration-30/information.html": "c986db7091459d45e5aef0177a36ce0255dcdb3416b1ab3459a4ea90682365c6",
+    "works/gregory-nazianzus-oration-30/index.html": "a2fe47b229e09a6875f8ae3c314eebbddbb8e080d1237b6c94f3bffa29c79e00",
+    "works/gregory-nazianzus-oration-30/information.html": "b66eaeacdf5f44bd4e0cfd434f54d968ab3eb14a7d3f49d121c8174317287ff8",
     "works/gregory-nazianzus-oration-30/text-bilingual-alpha-0.24.4-v1.txt": "bc31ec60dd2583b03e21c1324b91f1cd5bcc1f5cb431b484d8f0ff0636b0bec8",
     "works/gregory-nazianzus-oration-30/text-bilingual-alpha-0.24.4-v1.txt.gz": "3e7866c91db069aaf4f4d3bab2bfecbc90722bdd6270735daca2c4f288245bac",
     "works/gregory-nazianzus-oration-30/text-bilingual-alpha-0.32-v1.txt": "ce0cb30d7e4423b66d31ea4b2aa4f0815b531bc6e24292df8fb267b9210c7b9c",
@@ -4478,8 +4498,8 @@
     "works/gregory-nazianzus-oration-31/bibliography-alpha-0.35-v2.ris": "8c9f85324c0a6dbba1d3e83e7224696047c2250571d725546731b290e70e9717",
     "works/gregory-nazianzus-oration-31/bibliography-alpha-0.37-v2.csv": "4dfbe33569d32abbe3849100b250fc8b724ad4b4b23824f92435ed9023fa83a8",
     "works/gregory-nazianzus-oration-31/bibliography-alpha-0.37-v2.ris": "8c9f85324c0a6dbba1d3e83e7224696047c2250571d725546731b290e70e9717",
-    "works/gregory-nazianzus-oration-31/index.html": "e2de5cd76032f0888ab5353502e1138f84b57d090b09a5c809351bcee54e8c54",
-    "works/gregory-nazianzus-oration-31/information.html": "f9451d506a764b9a0b004b42d4bbdbac954c615d183d57a94c4de782b4904a07",
+    "works/gregory-nazianzus-oration-31/index.html": "b5e0a7f7994098d67925c05e09f7be040467d78773cd3935332f0e5fecf3ea77",
+    "works/gregory-nazianzus-oration-31/information.html": "5498cee69f1d3d5566af5aadf5229420385ec7ca445411c09971a65e158b6cff",
     "works/gregory-nazianzus-oration-31/text-bilingual-alpha-0.24.4-v1.txt": "e85a8e74428cb8f15d703822141c572f4305c8fdf7e04cdf64090887b1d412ea",
     "works/gregory-nazianzus-oration-31/text-bilingual-alpha-0.24.4-v1.txt.gz": "dfd241685cc675b65f7aa801f00fe873eef2afde6b27d5fa4002af614b46b16b",
     "works/gregory-nazianzus-oration-31/text-bilingual-alpha-0.32-v1.txt": "5f7e031b5bc25fc32c676a0a46d336d151ded8733d7e6f4fecfcd74b6b821479",
@@ -4502,8 +4522,8 @@
     "works/gregory-nyssa-ablabius/bibliography-alpha-0.24.4-v2.ris": "10b27f713edb9f68df9933c517210d717861deb1902734041860c83ee1cbc85a",
     "works/gregory-nyssa-ablabius/bibliography-alpha-0.35-v2.csv": "c465d025bcfdd74f5d453c003eb7c62c9566ade40b992f046bf4865392968f05",
     "works/gregory-nyssa-ablabius/bibliography-alpha-0.35-v2.ris": "10b27f713edb9f68df9933c517210d717861deb1902734041860c83ee1cbc85a",
-    "works/gregory-nyssa-ablabius/index.html": "700dade31e80c63ba7b33b3f34b6ad4ac6dd689f7df6481a3ab1aab15815697c",
-    "works/gregory-nyssa-ablabius/information.html": "00da325d2c8a6f3daac6f9c86cd063073a96254add833063cedd5689a485839a",
+    "works/gregory-nyssa-ablabius/index.html": "b491679318a5f177fa167a08bc4a0ebb7f9dff57e7d14d7455a5dae81eb36bef",
+    "works/gregory-nyssa-ablabius/information.html": "52739bd73b641e8ac6ce048e83d7bcbe2512f84f4d0c37ae791edb2153164ed0",
     "works/gregory-nyssa-ablabius/text-bilingual-alpha-0.24.4-v1.txt": "230a290c378c3cf7dc6b87756d307ae5de3a11b6946ae5ad61277548e5ec97e1",
     "works/gregory-nyssa-ablabius/text-bilingual-alpha-0.24.4-v1.txt.gz": "3488e84c07cd48afa248138886f995e0bc7879a7594fd23ffd57fcaad4857937",
     "works/gregory-nyssa-ablabius/text-bilingual-alpha-0.35-v1.txt": "0433f699e238163f061351b802e30417ae4a1a016cda4e5b64afdadebc5d3d12",
@@ -4520,8 +4540,8 @@
     "works/ignatius-ephesians/bibliography-alpha-0.32-v2.ris": "3531bfce6f9a497439658b0fbe28620d26ceb84018e21d995394d8296645db17",
     "works/ignatius-ephesians/bibliography-alpha-0.35-v2.csv": "2c07c0da5ab38a976bba85a466039005d5b1cd7deeb8b990faf5f2b0c2b662a7",
     "works/ignatius-ephesians/bibliography-alpha-0.35-v2.ris": "3531bfce6f9a497439658b0fbe28620d26ceb84018e21d995394d8296645db17",
-    "works/ignatius-ephesians/index.html": "0957d8f359347d575db70bbd63c1f0cbd1f96a4549470eaf87f35ce30358de9e",
-    "works/ignatius-ephesians/information.html": "750b5675619f4f07f773eff5556835cff44d791d23c52fbec8b142b1cb839bdd",
+    "works/ignatius-ephesians/index.html": "e05558ab8902fadc425694c70a3871af694ead5db7576aea57e7243f54c19b31",
+    "works/ignatius-ephesians/information.html": "d13e44cb07c0527d0762e1b37a0b7fa87ad7a5773993cee1cc7f762eebe470a6",
     "works/ignatius-ephesians/text-bilingual-alpha-0.24.4-v1.txt": "8d25fee31c39208f7e6055ae979f65735f7a42651239460c82b1d93598fe4df3",
     "works/ignatius-ephesians/text-bilingual-alpha-0.24.4-v1.txt.gz": "6c0de289727393ee6d520ef174ab887c73f1147e7269bbaf0cac9849f47c5567",
     "works/ignatius-ephesians/text-bilingual-alpha-0.32-v1.txt": "d5237bdc09192c1c9ec132c1d68072cca40c882c5fbdd224b8a97e979814a47f",
@@ -4542,8 +4562,8 @@
     "works/ignatius-magnesians/bibliography-alpha-0.32-v2.ris": "576226551d7881af2c6de29412c4c81f578e0140a5689902e39ccc706bc52afc",
     "works/ignatius-magnesians/bibliography-alpha-0.35-v2.csv": "322e4b9c43fc89599a65f66e682d7580e020cf957a7dcf438ffce05dda54c191",
     "works/ignatius-magnesians/bibliography-alpha-0.35-v2.ris": "576226551d7881af2c6de29412c4c81f578e0140a5689902e39ccc706bc52afc",
-    "works/ignatius-magnesians/index.html": "9ee02b3742fb839549353e429843f181266969ba172e38504890436a5cdd0d26",
-    "works/ignatius-magnesians/information.html": "f14e0e7f33f59244ee1d135bbf96653464124a1bc42ddab0435ce6e2ea85d73d",
+    "works/ignatius-magnesians/index.html": "2cc2c293024727805136828d480261a91a1b7c6df6181e0b3ffc5e2f4d69fb41",
+    "works/ignatius-magnesians/information.html": "531cfe5c97fc2826e1d52f70ad0ad0555b2c75236cf89c3c637f88345dcb2884",
     "works/ignatius-magnesians/text-bilingual-alpha-0.24.4-v1.txt": "d782e50f20bfdf93a092ed3bc43375bf4355d807743ec1e1590cc74221c8c299",
     "works/ignatius-magnesians/text-bilingual-alpha-0.24.4-v1.txt.gz": "96d184cde4ae5427683dab2053910e0455cf8aa43cb6a0055aac15b40670b512",
     "works/ignatius-magnesians/text-bilingual-alpha-0.32-v1.txt": "ba81e30eb8a7f479ba749ef6822163cfa4d3026e650b3705d09f8c18db8a04e9",
@@ -4564,8 +4584,8 @@
     "works/ignatius-philadelphians/bibliography-alpha-0.32-v2.ris": "5d7c5be7b5cf8bfa1afb6d0ff08230f1f3ebea831ecefa8bff68c809b076fd73",
     "works/ignatius-philadelphians/bibliography-alpha-0.35-v2.csv": "0426629dfc34bf9dc2528a030107f043cb83d53a67dd42a4743d53b0e878b85a",
     "works/ignatius-philadelphians/bibliography-alpha-0.35-v2.ris": "5d7c5be7b5cf8bfa1afb6d0ff08230f1f3ebea831ecefa8bff68c809b076fd73",
-    "works/ignatius-philadelphians/index.html": "e1a376fa26cc77bf32b54eb22ef893f491622a0727d5efe0e2e65b99557f5c54",
-    "works/ignatius-philadelphians/information.html": "53024712b93e1edffd3dba2c6a03413b29f7e08d5afd3715bb7216856c4a7384",
+    "works/ignatius-philadelphians/index.html": "50b479907451e9bfe5ab9f3951f06b1da28fdd5b5a777d681360290093dbd72d",
+    "works/ignatius-philadelphians/information.html": "9662f25f1f08347e427ddb458098fdc17e75ca0404a729986d725831ede4559a",
     "works/ignatius-philadelphians/text-bilingual-alpha-0.24.4-v1.txt": "bee5237ba3f06bd8b7c6c4091926d2435ad7637ccb946345535b0636e3ca5ea4",
     "works/ignatius-philadelphians/text-bilingual-alpha-0.24.4-v1.txt.gz": "8b360f01d8acacf2a002a451b94c1e886a6b6b5742a24bb057b9134ae808452e",
     "works/ignatius-philadelphians/text-bilingual-alpha-0.32-v1.txt": "a31071663f345cee33a77be76b50bda939e14a4fae1d670d91c9b602785629e0",
@@ -4584,8 +4604,8 @@
     "works/ignatius-polycarp/bibliography-alpha-0.24.4-v2.ris": "a881c6f5bab1e91b7a96418a47e5f2f93b2b160c439d3bb0f994ac1ccec4418e",
     "works/ignatius-polycarp/bibliography-alpha-0.35-v2.csv": "ec276c70644289120eac8d9db56f15c3eb6fdc0061a0ada9d8796d7be0903726",
     "works/ignatius-polycarp/bibliography-alpha-0.35-v2.ris": "a881c6f5bab1e91b7a96418a47e5f2f93b2b160c439d3bb0f994ac1ccec4418e",
-    "works/ignatius-polycarp/index.html": "47adf8a9b113dd70b636de4b2d973f8754f069ec80b7f313e81dbeba47969f11",
-    "works/ignatius-polycarp/information.html": "96afc78f25918b63ec8835d939a78f26e8787db3bd92801f0ce0d243afe87357",
+    "works/ignatius-polycarp/index.html": "8cec352a4b993390481f4b4bb95f2feebaded3c36b8132506dc16517f7175c34",
+    "works/ignatius-polycarp/information.html": "1e3a6d578ba1c1a13558f9a53eaa4ebad5c78e6801bc8eac993865d95752c386",
     "works/ignatius-polycarp/text-bilingual-alpha-0.24.4-v1.txt": "03dfc909d5dbc0d65ffaf29923c68fdbf673b6c07e341bd62216c2cdf609acbe",
     "works/ignatius-polycarp/text-bilingual-alpha-0.24.4-v1.txt.gz": "6d8fd963d65b8cc6971fccb462deed3100c0bc696c402ae95e6d709d6d4f8ef4",
     "works/ignatius-polycarp/text-bilingual-alpha-0.35-v1.txt": "7b3b57b557b42353c813c78bca801bc61ff0c1e5b5063e582285cc5202e6a534",
@@ -4600,8 +4620,8 @@
     "works/ignatius-romans/bibliography-alpha-0.24.4-v2.ris": "f6dfc1fcf79513c0887f7aaad89688d350aa4f30a51d77f55b45e41115feb7f0",
     "works/ignatius-romans/bibliography-alpha-0.35-v2.csv": "ea037463b0acf9f00fc6e61e21e0b0bd13de037edf94ce7cb5438603fe7c0cd1",
     "works/ignatius-romans/bibliography-alpha-0.35-v2.ris": "f6dfc1fcf79513c0887f7aaad89688d350aa4f30a51d77f55b45e41115feb7f0",
-    "works/ignatius-romans/index.html": "898317d682c07d1634a2c129387b3994bf345d60abca3695b1226c6bf5ab4185",
-    "works/ignatius-romans/information.html": "740bd94f38ea04550d7ee62705ebf929db8a7b92bba7fbb574a5316b0456d32c",
+    "works/ignatius-romans/index.html": "3e5d8bb67153606eb7d5b5ecd2460702a87501493dbe9bffe10b23a077482c7c",
+    "works/ignatius-romans/information.html": "38f3d7c877b3518b3e799475b7a2ec41cfcb67d30d3f23ce06ab0a384f4358bc",
     "works/ignatius-romans/text-bilingual-alpha-0.24.4-v1.txt": "b8df7658d55ca4b54967311a2f07a5f0bcc2464b11bab0a5ca664e6e489ea97d",
     "works/ignatius-romans/text-bilingual-alpha-0.24.4-v1.txt.gz": "dd87eedf64de93b899c3449e0cdf52b23c9d8e3ed3ff3b02896db0f164e4fc7b",
     "works/ignatius-romans/text-bilingual-alpha-0.35-v1.txt": "4ebb7559468e5c24a7ad7bfc998b9def71411ca6ee273aa2978959d64af377a4",
@@ -4618,8 +4638,8 @@
     "works/ignatius-smyrnaeans/bibliography-alpha-0.32-v2.ris": "727e9c7065f052f48b54a4a3540620c795d20834b5d0b94eaa239cc7cce2b78b",
     "works/ignatius-smyrnaeans/bibliography-alpha-0.35-v2.csv": "44772d1f3835e3d2816c79fcbda9c0157f36183db44e9dee79e062c680aac3b5",
     "works/ignatius-smyrnaeans/bibliography-alpha-0.35-v2.ris": "727e9c7065f052f48b54a4a3540620c795d20834b5d0b94eaa239cc7cce2b78b",
-    "works/ignatius-smyrnaeans/index.html": "6ff6f8756b0d63cf23876bf29ad6221e7986c81fd2a4f2a5e75831d5f285b2bf",
-    "works/ignatius-smyrnaeans/information.html": "537b0070669aa4346c241eafe41921d77fbe108a81006b2d91ce0f4bfde42a13",
+    "works/ignatius-smyrnaeans/index.html": "d917b760f1d957eb4fc2f5efdb6cc0149287207604eb7ee53cac3a1e7ccbc279",
+    "works/ignatius-smyrnaeans/information.html": "c03f3c27855a099d00d2f1b9510255c9b08a608c500eb8d8232aebc6ae534245",
     "works/ignatius-smyrnaeans/text-bilingual-alpha-0.24.4-v1.txt": "aeff4f7ef59594359d186a7f6be78008fec34c57f09c55a21c42b63623d04e67",
     "works/ignatius-smyrnaeans/text-bilingual-alpha-0.24.4-v1.txt.gz": "be3167d4269ee998ffd5fc5609a49463fef68d58dae14e5bd2618dfb2be4b52d",
     "works/ignatius-smyrnaeans/text-bilingual-alpha-0.32-v1.txt": "147ba6a58503a8a7b6aaf2399c7c98239f0d39cb7adc64020b56d82b765f5bed",
@@ -4638,8 +4658,8 @@
     "works/ignatius-trallians/bibliography-alpha-0.24.4-v2.ris": "e3f91c492ebdf7aeec14995dc6b420c1e6a9d457d613f234f433d0ea641d48fc",
     "works/ignatius-trallians/bibliography-alpha-0.35-v2.csv": "3e91fcbcf436a4d69e83a3b355256f1ea97d3d128bc1e1e0a469d916c2e74933",
     "works/ignatius-trallians/bibliography-alpha-0.35-v2.ris": "e3f91c492ebdf7aeec14995dc6b420c1e6a9d457d613f234f433d0ea641d48fc",
-    "works/ignatius-trallians/index.html": "e5b340a5ae876a7a15686efedf41c5faf0a3df83f6e33a0d0c49b651b7476918",
-    "works/ignatius-trallians/information.html": "74e1f7ded4536cbc8b7ec06753698298e2e61b3430d24b0a2e6d9ef2c572ae7a",
+    "works/ignatius-trallians/index.html": "198a155540b316baaf8fd5d0e8b84add1d6a999238c7ed752d38031a486f415e",
+    "works/ignatius-trallians/information.html": "bd2709ddd1ed35df8f56c2f881545bc5a8343fee9fe58ec291cae5c6f2795da0",
     "works/ignatius-trallians/text-bilingual-alpha-0.24.4-v1.txt": "0c5851eaacb44642f15583d321ec06853bb588e95ad8776bfebc6610b121da66",
     "works/ignatius-trallians/text-bilingual-alpha-0.24.4-v1.txt.gz": "8c6a41150467ebc60f4a77be54e09996f8532f41a2efd4652e6b8938c756972c",
     "works/ignatius-trallians/text-bilingual-alpha-0.35-v1.txt": "c362725630dc5dc11a321d3c898b8f2cc5a076a861abc6125470382dbb4d04e8",
@@ -4660,13 +4680,13 @@
     "works/irenaeus-against-heresies/bibliography-alpha-0.36-v2.ris": "a953dc3c6e949165a5e1545ef628a6b53db6e1cc15a9b96485342a1769f195f2",
     "works/irenaeus-against-heresies/bibliography-alpha-0.37-v2.csv": "69303729c6e6a624648c132c15fc235bfa4088740e62fc5e15824ba2b34eaccc",
     "works/irenaeus-against-heresies/bibliography-alpha-0.37-v2.ris": "a953dc3c6e949165a5e1545ef628a6b53db6e1cc15a9b96485342a1769f195f2",
-    "works/irenaeus-against-heresies/book-1.html": "d6d01d901a15ee5fde26bdf8d3ed31716ccf3a76a2780caa43ad85605dced458",
-    "works/irenaeus-against-heresies/book-2.html": "652390d593cbfc7236b72ab52c62095a15adb75cb68fec75d13cbddab03b19a7",
-    "works/irenaeus-against-heresies/book-3.html": "2fb84a163ddc005d6922ddb15042dac5f6eb75e3101cc030e0080055f95486b1",
-    "works/irenaeus-against-heresies/book-4.html": "0cbaf3d2e4d3b65fdd0291113e053a9248bdff51387d32888c683a525ad39ab7",
-    "works/irenaeus-against-heresies/book-5.html": "2293fd026c001f307bd6f5e070a147b56612ae56fee2de96c709e4ebd09ba4a8",
-    "works/irenaeus-against-heresies/index.html": "28d5c0c5fbc9a89b20d359885ca6c5a0c4d4b8b2eb180dad8fb8ee6e95ded4c0",
-    "works/irenaeus-against-heresies/information.html": "3072f5ff75fdf10942187f8e24f57edc0b14960d63a06a0f283bea34672f40a5",
+    "works/irenaeus-against-heresies/book-1.html": "d068f7d1124bdee69068befbddbab7ebf7fe4a5fb388ffe9dc9508e30f4d05d0",
+    "works/irenaeus-against-heresies/book-2.html": "b6309c94ab43159077b32004666f545d2edfa26b4f820f496e3e0c0fc61723ce",
+    "works/irenaeus-against-heresies/book-3.html": "987146a18a3af7b3d81280bef8513d68d6d9d20a2ad616874b29c446d1d524e7",
+    "works/irenaeus-against-heresies/book-4.html": "b5dc9ea29a44b4a89f65ed708aa41ec0a299bb1833e1b24bd1a24c610f968535",
+    "works/irenaeus-against-heresies/book-5.html": "c477ab11a86155aef5b558fbeca2b4193e72da9971e797ea31580b92cf1b0fff",
+    "works/irenaeus-against-heresies/index.html": "43f754de9e2acf342cd3e5bf6c13209237c714f72b9624281f09c515a9749da0",
+    "works/irenaeus-against-heresies/information.html": "abc57cffa2d6ee032e463c51a032dfb6df47394c755934ddd84241f143a03719",
     "works/irenaeus-against-heresies/text-bilingual-alpha-0.24.4-v1.txt": "328c568f339b21027f28c276a5cccabc7b1f1f4011be9491a95ae891593d38aa",
     "works/irenaeus-against-heresies/text-bilingual-alpha-0.24.4-v1.txt.gz": "e2d8b28bb3cf13152910ed4fb89690ccb9fefe5972fa5d31420d681f0fe5f4bc",
     "works/irenaeus-against-heresies/text-bilingual-alpha-0.32-v1.txt": "5f9ea7bbc2f1a9dd98a3f7f5c4abb1273b4fb38892fc4c4ed3de2c0de4b3fbf4",
@@ -4697,8 +4717,8 @@
     "works/justin-first-apology/bibliography-alpha-0.35-v2.ris": "867b9421ac77d202eed5c928390ef0744d0a8fd66d788400b87de29c9603e4e0",
     "works/justin-first-apology/bibliography-alpha-0.37-v2.csv": "5910cd207d358fe14e48cb72c4e0d8900782b5e370ec4afbc3d2e9d8af60e059",
     "works/justin-first-apology/bibliography-alpha-0.37-v2.ris": "867b9421ac77d202eed5c928390ef0744d0a8fd66d788400b87de29c9603e4e0",
-    "works/justin-first-apology/index.html": "547da1eda47ee00195c6dc8dbb60973e5cf12dbdf9440f01b2cd85767221b427",
-    "works/justin-first-apology/information.html": "dc1630a9c9026e0339d56171cfd5c91efdb3cd07fe7041e99eab3fe542cba143",
+    "works/justin-first-apology/index.html": "da6e91a896c4dac0f1d7c49e595424671276379aad201e2f3ea3ba39cd0c565e",
+    "works/justin-first-apology/information.html": "db6a20491429e6079c6b646f382d05350eda6eafeba4eb24d2ffaec8bdf455c4",
     "works/justin-first-apology/text-bilingual-alpha-0.24.4-v1.txt": "cd4f5d05cc5b34b89f8cc8e1048f6f7404eacd02e4507277d03b833e211f2276",
     "works/justin-first-apology/text-bilingual-alpha-0.24.4-v1.txt.gz": "dc187c8ef22d30e2ab41c469d3a4c94adc3caac6500a9209cef9a9ee52a63e5b",
     "works/justin-first-apology/text-bilingual-alpha-0.32-v1.txt": "b4e95aa4e8edb72e1a2a89c4174de2fb71efec7334f3a14224da8c603b00cf0d",
@@ -4723,8 +4743,8 @@
     "works/justin-second-apology/bibliography-alpha-0.32-v2.ris": "e8fe1a5ff8ec4afcf433c123c63617fbd4f4b211346d954e276208cee3903e94",
     "works/justin-second-apology/bibliography-alpha-0.35-v2.csv": "ad35c6b35bc13984f9d6aea217b448c0efea82a6a53f8f61a9223b42e292cf28",
     "works/justin-second-apology/bibliography-alpha-0.35-v2.ris": "e8fe1a5ff8ec4afcf433c123c63617fbd4f4b211346d954e276208cee3903e94",
-    "works/justin-second-apology/index.html": "a9f8a5fd79b11417ed4c2bd20d4b6287aff175fe79069357d9713cfdc26c96c5",
-    "works/justin-second-apology/information.html": "f0555d056698d085b4a6f63478089e9185b5c811f32a0ace3ba36459911ea3e3",
+    "works/justin-second-apology/index.html": "588b9310e4fe0370d37fcad7ed4e00856cafcd9cd637678ac8602d28b61dcd13",
+    "works/justin-second-apology/information.html": "199a39cd289dfee908537c51628a96047a16f46b7e7964218868d21596e79044",
     "works/justin-second-apology/text-bilingual-alpha-0.24.4-v1.txt": "580e5fc7e1b2617373bb689971ae42c5eb4e251d730be4fb85b512157b943f52",
     "works/justin-second-apology/text-bilingual-alpha-0.24.4-v1.txt.gz": "ccf5c6eeb00d0ea1c9e9a25406a0a6148c55409e79298e10e7f6c4bc59c3d929",
     "works/justin-second-apology/text-bilingual-alpha-0.32-v1.txt": "3cf2dff7019528891cfda688791e95e9a203c158b1b2ce7c9d60586153dc947d",
@@ -4743,8 +4763,8 @@
     "works/muratorian-fragment/bibliography-alpha-0.24.4-v2.ris": "ca70b7a08900e8323a9605d8642d3b720660a7c7d12bf3f65d89bd2cd3691d88",
     "works/muratorian-fragment/bibliography-alpha-0.35-v2.csv": "68915c96a8853aa79425d2ba4c272f4649a1c66858d6852e43d761e780595fd4",
     "works/muratorian-fragment/bibliography-alpha-0.35-v2.ris": "ca70b7a08900e8323a9605d8642d3b720660a7c7d12bf3f65d89bd2cd3691d88",
-    "works/muratorian-fragment/index.html": "744c253b96265c6b0e8b1276942a527ce0cfd56630c333c02d67f90a33d3e0a5",
-    "works/muratorian-fragment/information.html": "4e2fc69066481cb3fc007bbe69b53ce180b5e13bf3615a5ca97408de971d2ca4",
+    "works/muratorian-fragment/index.html": "090f73fb411c4f63dea3c7ea4d7f4cc3cf9ab95408937363aab0164c16506cfc",
+    "works/muratorian-fragment/information.html": "0fa79f3e5e845500b9c32b617c2b66d1dd684db456c94bd8d294bafc6d85f052",
     "works/muratorian-fragment/text-bilingual-alpha-0.24.4-v1.txt": "d96bb3e88d863d8b0951ff58527e627dd061a0b5ec86e60441065a0822ae1040",
     "works/muratorian-fragment/text-bilingual-alpha-0.24.4-v1.txt.gz": "4d0f1a380e6f3e38c3659c78316ac16fc8f348b4a712904a3e6713bd4c90ce5a",
     "works/muratorian-fragment/text-bilingual-alpha-0.35-v1.txt": "ddce75676e51653660fd04af3320f17c81cb582f1f05ec5090afc3f61013b869",
@@ -4761,8 +4781,8 @@
     "works/nicene-creed-325/bibliography-alpha-0.32-v2.ris": "1c64c7506da047dc932526bfbac4881b095e7c1dfa673e9bc2a3746c7fd95bd3",
     "works/nicene-creed-325/bibliography-alpha-0.35-v2.csv": "e55b1562abde85e83eea50bee617ef06298e5b37ebb85c72826d6d307909e063",
     "works/nicene-creed-325/bibliography-alpha-0.35-v2.ris": "1c64c7506da047dc932526bfbac4881b095e7c1dfa673e9bc2a3746c7fd95bd3",
-    "works/nicene-creed-325/index.html": "74bedec66a9a3433f2d2fcce46d76dcbc3adf2317af86d6e63a1d4d8b5bcc94d",
-    "works/nicene-creed-325/information.html": "73aac59eb5ea8f0d06b197235094eb9da926d02de3e6f6d2fe80daffb7c3a1e2",
+    "works/nicene-creed-325/index.html": "8bc2566c19960db2add7f40a547b379c16cbec2e8608585aeb57ce229db275fd",
+    "works/nicene-creed-325/information.html": "d086f3020881df7ea23ef358b02212391a8cdc680372033c80805cb8b3613ed6",
     "works/nicene-creed-325/text-bilingual-alpha-0.24.4-v1.txt": "b0ad10599d064337bb198a653963a85ef3cdc9f45b18c53f83e3766c86b32b2c",
     "works/nicene-creed-325/text-bilingual-alpha-0.24.4-v1.txt.gz": "43c701b0dcb8b1f2b5bf1a955ba15f2791b68b97afc940d6ea102eaac8e15789",
     "works/nicene-creed-325/text-bilingual-alpha-0.32-v1.txt": "8812bd3ee579c52b650368bffd32e3cdb13305f8083011eaae5e3eb00a37fb44",
@@ -4783,8 +4803,8 @@
     "works/niceno-constantinopolitan-creed/bibliography-alpha-0.32-v2.ris": "c3f69101acba1d390b23e41e265a7c50e3d639ef83513aa80f794a1856e1ed74",
     "works/niceno-constantinopolitan-creed/bibliography-alpha-0.35-v2.csv": "e1479f54bff82b9d64c5f7ddc8326b41f60e548ba1624f7e242f3db4742a6dec",
     "works/niceno-constantinopolitan-creed/bibliography-alpha-0.35-v2.ris": "c3f69101acba1d390b23e41e265a7c50e3d639ef83513aa80f794a1856e1ed74",
-    "works/niceno-constantinopolitan-creed/index.html": "a83a38cf074ab7223ea919a6aa9704bd774bcdecf6908bb45fd59c0093487343",
-    "works/niceno-constantinopolitan-creed/information.html": "4f4709d531dbd1bd1f832983c9ad0012d51a895a7ea8de4733fae6585ac5a2c0",
+    "works/niceno-constantinopolitan-creed/index.html": "892d44f0d327c9accb90039f74387f91de89069282362ed551e3c73f17c747d7",
+    "works/niceno-constantinopolitan-creed/information.html": "7bc4eeae17eacc4486523a0309feff4c2dc344690053d84f20f6defc845d27a0",
     "works/niceno-constantinopolitan-creed/text-bilingual-alpha-0.24.4-v1.txt": "d63d2a254c1633c90eb749746fea20307276f7939e85c14f5ca8b0d42234cb28",
     "works/niceno-constantinopolitan-creed/text-bilingual-alpha-0.24.4-v1.txt.gz": "afaf2fa36584944ede14403f4970c7dae7e0dec9893cded9b2aa9281df85f001",
     "works/niceno-constantinopolitan-creed/text-bilingual-alpha-0.32-v1.txt": "56d153445b4953fd09f9b7b2a6fab540e09a89e5862d80e6d8c4835f9f1ea3f7",
@@ -4807,8 +4827,8 @@
     "works/papias-fragments/bibliography-alpha-0.35-v2.ris": "5ff295d9e864116c0405b060769bb8a284501a00f329db41b04264ae701185de",
     "works/papias-fragments/bibliography-alpha-0.37-v2.csv": "5636da0617b4bf8125f6ac76048233b27556b1162d9b76dec9fef98e33d78ddc",
     "works/papias-fragments/bibliography-alpha-0.37-v2.ris": "5ff295d9e864116c0405b060769bb8a284501a00f329db41b04264ae701185de",
-    "works/papias-fragments/index.html": "9313218f1a1f6734a17cf9dece2d16ee1a054c953cecc4c305ba01a160ed8c50",
-    "works/papias-fragments/information.html": "5ea77942a60bddab48230f17567dd0ab607c59e5a89b17f1712fdc039d22fcb1",
+    "works/papias-fragments/index.html": "5e2ac9b7ec6ed1660025a5c25d8013208cca760d9b206dfb0eff381c1e433308",
+    "works/papias-fragments/information.html": "73a1add962b3fa1233115a55c4fafb9d3ce26e2aa3d95beebef24a055ad4bff3",
     "works/papias-fragments/text-bilingual-alpha-0.24.4-v1.txt": "ead851e745e3449ca83c655b25c9491e2f5a745edec5f2997a02a197a15d215f",
     "works/papias-fragments/text-bilingual-alpha-0.24.4-v1.txt.gz": "e2f64626c0469b4b8d20f37ad92490d8df1bcd6da238d13731823f35f8818338",
     "works/papias-fragments/text-bilingual-alpha-0.32-v1.txt": "80bdec164502cc903b5b4c5530bfa1f87a4d1b3974ad9c49db60e9b433a3514a",
@@ -4833,8 +4853,8 @@
     "works/polycarp-martyrdom/bibliography-alpha-0.32-v2.ris": "bfd64e7165e19462d51c03e28c3914a8b64f87e5220d9cbf0ab84fe5e07a3d15",
     "works/polycarp-martyrdom/bibliography-alpha-0.35-v2.csv": "0c047c003fc5321da3698302f1bd136a4588ee3f541e0ba9d3d95e4782147396",
     "works/polycarp-martyrdom/bibliography-alpha-0.35-v2.ris": "bfd64e7165e19462d51c03e28c3914a8b64f87e5220d9cbf0ab84fe5e07a3d15",
-    "works/polycarp-martyrdom/index.html": "8682cda9bee21341a1c2a6328de1c7c396381e00f209488051121c222d5ee6db",
-    "works/polycarp-martyrdom/information.html": "6e8a46ae2079b9c496e867f17308928e9bf3063e25ad63ec98e698144e54fd93",
+    "works/polycarp-martyrdom/index.html": "0684a7fe4d98a234a0cac39ca5cabdfe0d9c477e812d19b4b39ca9e576a00974",
+    "works/polycarp-martyrdom/information.html": "4872153c3ab9fa3554a4a2f2d58f309e821e972da2052819bad4896fd4d1eec7",
     "works/polycarp-martyrdom/text-bilingual-alpha-0.24.4-v1.txt": "25ff1e821387006356217a422075da0ce7c3f98b170d71929c69569cb623b5a2",
     "works/polycarp-martyrdom/text-bilingual-alpha-0.24.4-v1.txt.gz": "f04ceeebdc595d5d53a9aba122d8bc5a4ba9e04b0feef6c486d8bc35f310334f",
     "works/polycarp-martyrdom/text-bilingual-alpha-0.32-v1.txt": "2a91ff27e3d97d7a379660f4ca22ce45ed76f96763b299a278c61ae7c93dc4e4",
@@ -4853,8 +4873,8 @@
     "works/polycarp-philippians/bibliography-alpha-0.24.4-v2.ris": "40f32a79424b569505a8fd69fd8a18b0d076a198325381fa6d3c96f5229252a1",
     "works/polycarp-philippians/bibliography-alpha-0.35-v2.csv": "dd5b44d75cc24dfd5b754b44986afd033930298e7ad3df3c46a19b965c2e2e16",
     "works/polycarp-philippians/bibliography-alpha-0.35-v2.ris": "40f32a79424b569505a8fd69fd8a18b0d076a198325381fa6d3c96f5229252a1",
-    "works/polycarp-philippians/index.html": "b0a4c77257ec52b32e2fe3d4fae48f018b481d6c9d1191e7d3edfb6ee1b26927",
-    "works/polycarp-philippians/information.html": "48da88891e2992a60cf626196032c8d98844bfd2f54218937c9cade11a37d4c0",
+    "works/polycarp-philippians/index.html": "d34027f528b54f3ad4496bee50c9c7096490bd7372599eab41cc456970b06f72",
+    "works/polycarp-philippians/information.html": "4afef402035a6e98d91f12aeeba67ea7706ac0aedcc671ca20aa9eba14fbd650",
     "works/polycarp-philippians/text-bilingual-alpha-0.24.4-v1.txt": "86f7421d69bbbe018fcc9f8e2ea6e46b0d3077d1cefab00ae7cfd8e6450bac48",
     "works/polycarp-philippians/text-bilingual-alpha-0.24.4-v1.txt.gz": "2a29678f5c98489fa6b6359b7f46c135eca94b57c5c3b140c36acbdba7866ad6",
     "works/polycarp-philippians/text-bilingual-alpha-0.35-v1.txt": "232eb93770388cdece595b6bdd3a715e661351a34f65f733e377981a51ec97de",
@@ -4873,8 +4893,8 @@
     "works/tatian-greeks/bibliography-alpha-0.35-v2.ris": "09b0214d07388506e225e50bafe708cc129f31a417d59a11209554153fadadf2",
     "works/tatian-greeks/bibliography-alpha-0.37-v2.csv": "855fd5fe5375e41dd1054bee8b8657602282218c99d290e380527c93f1baa467",
     "works/tatian-greeks/bibliography-alpha-0.37-v2.ris": "09b0214d07388506e225e50bafe708cc129f31a417d59a11209554153fadadf2",
-    "works/tatian-greeks/index.html": "a6c2a83eb3298c43bd7ac4b0acc8a935cd2ca264b0bcffc2363431d4d38956ac",
-    "works/tatian-greeks/information.html": "e6a22c09e71e222a54e94c8776f9b67b43991dcdf79f9550d035343bf19d4ac0",
+    "works/tatian-greeks/index.html": "762880c788655ce9a7ff2ed7b425c310a91ab1c73e71d435aa4ab0e9f0df515f",
+    "works/tatian-greeks/information.html": "dce03b7bd0b0f7f7fc7c87a18dd4a80a8ae062498b1971adc084d25c9e06383b",
     "works/tatian-greeks/text-bilingual-alpha-0.27-v1.txt": "6a3d5dc06d419ee54ae3abfd9e7f856256d5ff91b965921a2b04e9c69f0db946",
     "works/tatian-greeks/text-bilingual-alpha-0.27-v1.txt.gz": "1ba67194262827e9d7d24ce42d332dbd17569002d099d01e8ecf967f4badf3e4",
     "works/tatian-greeks/text-bilingual-alpha-0.32-v1.txt": "98b73db4ac3f26e3e62e2c3af9ec7975fa798e6f416038d1d39040b7bf28681e",
@@ -4891,6 +4911,14 @@
     "works/tatian-greeks/text-ko-alpha-0.35-v1.txt.gz": "9885edeeee8c374915c916d22cd0f9521b6ceffd19a817a64a8526c384293147",
     "works/tatian-greeks/text-ko-alpha-0.37-v1.txt": "0fc124c5d01432625f6757a04cef4d85513c67984d8af483b04bd0a10abe00c2",
     "works/tatian-greeks/text-ko-alpha-0.37-v1.txt.gz": "d679e237ce3481f604f91c60d5d3f6443e4c8d63e7daa9284d03db972d4c31a3",
+    "works/tertullian-apology/bibliography-alpha-0.37.1-v2.csv": "0950a205e38f4d46291eb4ad6b469366ec8e3c950eee7c75c09b107a6eea5737",
+    "works/tertullian-apology/bibliography-alpha-0.37.1-v2.ris": "79fd8cf5cff830d5ec44f3bd9e93ff3062fdc7d245095ec358d9604c70604095",
+    "works/tertullian-apology/index.html": "3c5dda7986f67694f0cc9d996004c32ae21c40f07de49fedfaf78f307d5d92cc",
+    "works/tertullian-apology/information.html": "b8ae7aba999c29dd20a41a63fae10a74fb2e9890b2dc0f477f9137deda4009f3",
+    "works/tertullian-apology/text-bilingual-alpha-0.37.1-v1.txt": "53dc878117ae34c799873d1e38acb95c72eea1aa39c17eb61ae537263edd9da8",
+    "works/tertullian-apology/text-bilingual-alpha-0.37.1-v1.txt.gz": "951c84ff2ff98f9f7aafeb6ceb42178f13701aaf7b655949fca80468a0ccdd67",
+    "works/tertullian-apology/text-ko-alpha-0.37.1-v1.txt": "459421f798bdc12de2f4e674221423963fd390e9eaa5ea88764ad0dbd712c9cb",
+    "works/tertullian-apology/text-ko-alpha-0.37.1-v1.txt.gz": "f47efa33f6a37407c5645520fd0f28cdbe8d97e89eec8ec60b9decd7c686afd6",
     "works/tertullian-marcion-1/bibliography-alpha-0.29-v1.csv": "3032c2af842699fbcfd39ffc1f4f8b63168ca3f48c8527205fc5a26e92e00efc",
     "works/tertullian-marcion-1/bibliography-alpha-0.29-v1.ris": "277b47e5b7366db443d622a59d715e95acad62c265960b8c6e14c6f44c8d5ff1",
     "works/tertullian-marcion-1/bibliography-alpha-0.29-v2.csv": "2f8d875464f21711bbf43ab7d1456e70342521f51003316e22d269d4179e2e9e",
@@ -4901,8 +4929,8 @@
     "works/tertullian-marcion-1/bibliography-alpha-0.35-v2.ris": "277b47e5b7366db443d622a59d715e95acad62c265960b8c6e14c6f44c8d5ff1",
     "works/tertullian-marcion-1/bibliography-alpha-0.37-v2.csv": "2f8d875464f21711bbf43ab7d1456e70342521f51003316e22d269d4179e2e9e",
     "works/tertullian-marcion-1/bibliography-alpha-0.37-v2.ris": "277b47e5b7366db443d622a59d715e95acad62c265960b8c6e14c6f44c8d5ff1",
-    "works/tertullian-marcion-1/index.html": "948eace0ab16cbb49cfca1576cdb394ab201c406e25ec09a32d0993b79143de3",
-    "works/tertullian-marcion-1/information.html": "aa0ca7f6c07de57bb7e3695b65365ef726e031ce0dfb45c954d3f4024b2dd193",
+    "works/tertullian-marcion-1/index.html": "901cd37ee2e4fea494a031b81c9edcc8c22a6c6d2fdd1af21581e06d8f24a1e9",
+    "works/tertullian-marcion-1/information.html": "66ab3c0f834d6849804b9090def72520b2807cc3e852afb14aeaf39aa63854e8",
     "works/tertullian-marcion-1/text-bilingual-alpha-0.29-v1.txt": "73c8e26559d40fb50724c3c018b32b3723d50702e686e5e88317ec222f0c30ad",
     "works/tertullian-marcion-1/text-bilingual-alpha-0.29-v1.txt.gz": "ec4fe548f65e9f56858a24f276ad95f6389d500d0c0c3b79aa4f643caf509d52",
     "works/tertullian-marcion-1/text-bilingual-alpha-0.32-v1.txt": "29c3f2b3e046026ab852f14846aa556c12e229ab52e769fdce2f2cbc8b7d12f8",
@@ -4925,8 +4953,8 @@
     "works/tertullian-marcion-2/bibliography-alpha-0.32-v2.ris": "f67e2b18f2f24347bbee0f32e70a010d5b92e0396f6393b4c3bfff8da368d89c",
     "works/tertullian-marcion-2/bibliography-alpha-0.35-v2.csv": "ad0337ea512021015eb5c52304490a45c456dac77d016b9a5adf432505c3532c",
     "works/tertullian-marcion-2/bibliography-alpha-0.35-v2.ris": "f67e2b18f2f24347bbee0f32e70a010d5b92e0396f6393b4c3bfff8da368d89c",
-    "works/tertullian-marcion-2/index.html": "d281638731798327ec3674ed97b7c17e0020d7783f848e60c5ea1d62ff00be55",
-    "works/tertullian-marcion-2/information.html": "b09768605bd26719f978889a66c5b76c4793edb42fed556d7dd8af42ea92c966",
+    "works/tertullian-marcion-2/index.html": "bd98929d32f67bd24ebff3f867801a90962a67f7b55089eddb09345521af820e",
+    "works/tertullian-marcion-2/information.html": "834d7f5a27e1ec4f39721c9fef0d162e3088c06ba88b142e8a85dbdc85fe48f9",
     "works/tertullian-marcion-2/text-bilingual-alpha-0.30-v1.txt": "aa41f4492c45ee06ba9a8f37006442d72bd94198d08e15c934fe730eabc80f47",
     "works/tertullian-marcion-2/text-bilingual-alpha-0.30-v1.txt.gz": "bda961e18fbac9d7a0df550191f4cb38ba5f8389b604cf7e4fcec53d280278e1",
     "works/tertullian-marcion-2/text-bilingual-alpha-0.32-v1.txt": "5a27564db1fff628554740421aed7cd7749895abb26785084267487e1c421a17",
@@ -4943,8 +4971,8 @@
     "works/tertullian-marcion-3/bibliography-alpha-0.31-v2.ris": "3ba001174af4f212c92f71fd84190d4271cb42a69168f4787676f7f34e8856a9",
     "works/tertullian-marcion-3/bibliography-alpha-0.35-v2.csv": "4df9eabdf09097c74bf46b9e846656247e2bebf79279d7fd09c31d784bca6ca8",
     "works/tertullian-marcion-3/bibliography-alpha-0.35-v2.ris": "3ba001174af4f212c92f71fd84190d4271cb42a69168f4787676f7f34e8856a9",
-    "works/tertullian-marcion-3/index.html": "f3f56d4c347cd524253e7defbb1114fa2a96b3ecef2f8c91fb8dfb811de84b40",
-    "works/tertullian-marcion-3/information.html": "84d9be95dcdd190fdad36726cce4d1388562c4be9fbeee059b2568433279617f",
+    "works/tertullian-marcion-3/index.html": "db07c1a8dc5a8360f36abd259df546559ba1493d8f432d8d8ec89a9547d62be4",
+    "works/tertullian-marcion-3/information.html": "3245e1c93e7d9e381f722bbd838c78424e31d58f2da3a1926776bd6fccc21034",
     "works/tertullian-marcion-3/text-bilingual-alpha-0.31-v1.txt": "2d319e973fd32d8518a7c512875c9c6f842ff2ec254f9e05760309002a45ee31",
     "works/tertullian-marcion-3/text-bilingual-alpha-0.31-v1.txt.gz": "9c87b741e07d9f384c375e2d59b5219cb001d1912b189bac09604ec520f2ea3e",
     "works/tertullian-marcion-3/text-bilingual-alpha-0.35-v1.txt": "9eea7c43df88b4b0c08f709e99e86918f704dcfe25b28be771dffebe76fe119d",
@@ -4955,8 +4983,8 @@
     "works/tertullian-marcion-3/text-ko-alpha-0.35-v1.txt.gz": "7255627c1af0ec4404a906443e45b0190e5a87fc0706bb00c1f3b8579d2084c2",
     "works/tertullian-marcion-4/bibliography-alpha-0.33-v2.csv": "e953cebc012d430d26053df5f8ee507e373f8b3c8f220e07d9c322755257671a",
     "works/tertullian-marcion-4/bibliography-alpha-0.33-v2.ris": "814670f8c394790c202cc24205b7a4fa643b64b43474bbfd4de6f0265a0d6c1d",
-    "works/tertullian-marcion-4/index.html": "45e7474c7e6de464eb9b32f31b631ebd6269680928628c613c50cdeb9e109df1",
-    "works/tertullian-marcion-4/information.html": "e95f007de83dacd1e812728f97b7f16c3ae67fe8f0c7d47d2e92292a1525b1dd",
+    "works/tertullian-marcion-4/index.html": "9d9bb7b541cbc978de4c0f145905993df39ab1a7a5f23a2dece76a99e2cb005a",
+    "works/tertullian-marcion-4/information.html": "9adf3fc75abb85ba3c6d138285c479ed5098c1cf166466c297599aa6c2b96a2e",
     "works/tertullian-marcion-4/text-bilingual-alpha-0.33-v1.txt": "498a648a91834d72ec573bb2f3a4d7ac966bd1f54f1b4c66144667a30e6de66f",
     "works/tertullian-marcion-4/text-bilingual-alpha-0.33-v1.txt.gz": "44627cc9a123d7157461fc900439536975b237115413732e268b27f37ee39562",
     "works/tertullian-marcion-4/text-ko-alpha-0.33-v1.txt": "a74503cd5b34d9de22e05b6ef1cafe8b06648b786ba9a99c45d578abd67a7055",
@@ -4965,8 +4993,8 @@
     "works/tertullian-marcion-5/bibliography-alpha-0.34-v2.ris": "a1d380fff5a925458fab4ebbe812d9bc22096f19c98d3f9a5c390c65ffa2ceb8",
     "works/tertullian-marcion-5/bibliography-alpha-0.35-v2.csv": "49683ac0f60ff7d46446aede2a2c02eac56688e3b52abe547199f34232e871f9",
     "works/tertullian-marcion-5/bibliography-alpha-0.35-v2.ris": "a1d380fff5a925458fab4ebbe812d9bc22096f19c98d3f9a5c390c65ffa2ceb8",
-    "works/tertullian-marcion-5/index.html": "7e7303dba69baed680a5ea82d8133377cf102ec9d8a0532d0facfc5b86bd3d0f",
-    "works/tertullian-marcion-5/information.html": "40fb4cc46bf893c53f0389085708cc28f7c10fd2c2f4a4c8e7d1927a151a5208",
+    "works/tertullian-marcion-5/index.html": "bf582320b15ef32f3ad7f67aa6ae6df829502aa011ad8f9e16f4b1e24162d810",
+    "works/tertullian-marcion-5/information.html": "eecf084e0ce7f6ad9dda41fe455035eae36b31f0370992a80a6631a7b7a6d311",
     "works/tertullian-marcion-5/text-bilingual-alpha-0.34-v1.txt": "07396a1dddcd637a13978b491c1954815375bb3c33026b9a72c2f1f194b3d194",
     "works/tertullian-marcion-5/text-bilingual-alpha-0.34-v1.txt.gz": "b4c60c1ef64ee53615e811a35cb5eaf562909c3e531f8fc9ee12088c302132c2",
     "works/tertullian-marcion-5/text-bilingual-alpha-0.35-v1.txt": "1846bb3b9a2866d6cbf85e2aeb7d977feef434ab09991fc4c2d7567bb3bd09c5",
@@ -4985,11 +5013,11 @@
     "works/theophilus-autolycus/bibliography-alpha-0.35-v2.ris": "46bcbf6f784ebe6593c05d1b3db077a3d6d1fd549430adefc90b43209e6a6074",
     "works/theophilus-autolycus/bibliography-alpha-0.37-v2.csv": "ed3ec4f9113189761df028185ec306daec3751d64f09b2417bc0be42a345ab4f",
     "works/theophilus-autolycus/bibliography-alpha-0.37-v2.ris": "46bcbf6f784ebe6593c05d1b3db077a3d6d1fd549430adefc90b43209e6a6074",
-    "works/theophilus-autolycus/book-1.html": "2176f5532eb5587e79d21b236f2638aaba359f06fcfdeba0605495de8bbe97fa",
-    "works/theophilus-autolycus/book-2.html": "8b188aac850721560625caa360430fc1252221d06bf01a3c1f3700e0ee71e6bd",
-    "works/theophilus-autolycus/book-3.html": "794a92296e694d8b120897cef4f5a430896fa12d530b756a72c009a54a73d364",
-    "works/theophilus-autolycus/index.html": "714204d68334fe00ee5914f3979ecc65ceeb39898782a47fe60d58220b8f6f1c",
-    "works/theophilus-autolycus/information.html": "4ac2fb3e4574d847a02930b7000a491c514bded1ab1133eedb390e0d465d4244",
+    "works/theophilus-autolycus/book-1.html": "6115fa2b8364f62809af03d20e1ecc7b6990901d6fedc8a7e3acb14babaf207f",
+    "works/theophilus-autolycus/book-2.html": "79edc8cbe742118d8ea0f0b60812fcc3ca05d1da0ff606ae5c41cb1d7867026a",
+    "works/theophilus-autolycus/book-3.html": "7bd175c7d7fd25053b8a9cb614435a7f5fff7b8c9cf0f61fddd1d97cd94ec020",
+    "works/theophilus-autolycus/index.html": "2a0892ba2b5eccf1f6326e2e8ebc648acf0587673d805c1306ecf413a0fb7617",
+    "works/theophilus-autolycus/information.html": "d5daa48e9ad9752faa23abb1c9afd6a08e125afbc7de01fb797843358e4a8da2",
     "works/theophilus-autolycus/text-bilingual-alpha-0.24.4-v1.txt": "a26a9d4a9a589d1cb338564e641d48afc4941240e63c8ef8f97df832686008bc",
     "works/theophilus-autolycus/text-bilingual-alpha-0.24.4-v1.txt.gz": "7bcfe4deba92ba4206ae582135c492deca2446d9da297d48be25d6eef02965d7",
     "works/theophilus-autolycus/text-bilingual-alpha-0.32-v1.txt": "0f60cc7b33a41295a86b9a5464e243aeb77475f446d2c473c39d6c9569ed8d1c",
@@ -5008,85 +5036,82 @@
     "works/theophilus-autolycus/text-ko-alpha-0.37-v1.txt.gz": "9b51bf990fc864608f2e1906ead39571bcae127371b2cac31cafc92a3a19f390"
   },
   "origin": "https://patristics.missionalbible.org",
-  "release_id": "alpha-0.37",
+  "release_id": "alpha-0.37.1",
   "schema_version": "patristics-pages-publication-1",
   "validation": {
-    "archive_catalogue": {
-      "edition_bindings_verified": true,
-      "works": 47
-    },
     "archive_expansion": {
       "budget": 1000000000,
-      "bytes_after": 710004102,
-      "bytes_before": 709651234,
+      "bytes_after": 714018139,
+      "bytes_before": 708134799,
       "exploration": {
         "by_use": {
           "exposition": 3,
           "paraphrase": 1,
           "possible_allusion": 2,
           "quotation": 7,
-          "reference": 3898
+          "reference": 3994
         },
         "curated_relations": 12,
-        "passages": 5447,
-        "scripture_passages": 880,
-        "scripture_references": 3911,
-        "works": 47
+        "passages": 5952,
+        "scripture_passages": 929,
+        "scripture_references": 4007,
+        "works": 48
       },
       "history": {
         "changed_locations": 1625,
-        "distinct_revisions": 162,
-        "snapshots": 719,
-        "works": 47
+        "distinct_revisions": 163,
+        "snapshots": 720,
+        "works": 48
       },
       "indexes": {
         "bibliography": {
           "exports": 2,
-          "groups": 24,
-          "source_records": 47
+          "groups": 25,
+          "source_records": 48
         },
         "corrections": {
-          "corrections": 5824,
-          "groups": 995,
-          "linked_groups": 995
+          "corrections": 5917,
+          "groups": 1078,
+          "linked_groups": 1078
         },
         "scripture": {
           "books": 63,
-          "chapter_links": 635
+          "chapter_links": 639
         }
       },
       "information": {
         "edition_bindings_verified": true,
-        "works": 47
+        "works": 48
       },
       "navigation_pages": 0,
       "packing": {
-        "bytes_saved": 12530641,
-        "existing_module_bytes_saved": 0,
-        "modules": 195,
+        "bytes_saved": 18848193,
+        "existing_module_bytes_saved": 5785154,
+        "modules": 197,
         "values_verified": true
       },
+      "preserved_archive_exports": 966,
       "products": {
-        "bytes": 6415093,
-        "exports": 188,
-        "works": 47
+        "bytes": 6737767,
+        "exports": 192,
+        "works": 48
       },
-      "public_status_cleaned": 47,
-      "reader_headings_simplified": 0,
-      "remaining_bytes": 289995898,
+      "public_status_cleaned": 96,
+      "reader_headings_simplified": 54,
+      "remaining_bytes": 285981861,
       "search_page": {
         "topics": 94,
-        "works": 47
+        "works": 48
       },
       "static_discovery": {
-        "bilingual_plain_text_bytes": 13232851,
+        "bilingual_plain_text_bytes": 13787780,
         "delivery": {
           "book_directories": 3,
           "bytes_added": 0,
           "bytes_saved": 0,
           "pages": [
             {
-              "anchors_verified": 62,
+              "anchors_verified": 61,
               "bytes_added": 0,
               "content_contract_sha256": "13ddd8a95a8e3fef3b635303c93882de81c42f267d12326dada3208314a968f3",
               "delivery": "static_html",
@@ -5096,7 +5121,7 @@
               "source_sha256": "2ff109a17decdd5cd35e3b340f98aed9e39d53ec540ee34c30f2e6e7d85c1d8d"
             },
             {
-              "anchors_verified": 132,
+              "anchors_verified": 131,
               "bytes_added": 0,
               "content_contract_sha256": "20ff4b1e5d806b3d8bf8890967e3bd1e18e1c57f503b38bb0d3c2c25d06e9dc6",
               "delivery": "static_html",
@@ -5106,7 +5131,7 @@
               "source_sha256": "49ac42013e8ebfd000dd241c5158e597335d56aac53ff4a83366e0464d76111b"
             },
             {
-              "anchors_verified": 61,
+              "anchors_verified": 60,
               "bytes_added": 0,
               "content_contract_sha256": "a880ef8f8709383730a0df42bd0e07e54b36b9229649c602cc80f9a8817e93c9",
               "delivery": "static_html",
@@ -5116,7 +5141,7 @@
               "source_sha256": "6ad4ba56a6c4f0f59e4b57f4919feadbb89b4ac8846980a5dcf8abc3dbc76346"
             },
             {
-              "anchors_verified": 43,
+              "anchors_verified": 42,
               "bytes_added": 0,
               "content_contract_sha256": "eb5da8c7cff7e14c4eebf184bdfa3b84ce0d7175c78e50b1b58b5e3036c0e84f",
               "delivery": "static_html",
@@ -5126,7 +5151,7 @@
               "source_sha256": "ab4f4ee356ec0ea6c20dfa68946b558719bc8bae441d7bda8996fe78f6a66494"
             },
             {
-              "anchors_verified": 41,
+              "anchors_verified": 40,
               "bytes_added": 0,
               "content_contract_sha256": "d47245f5a44d715c1b33fc94a205b160202b736a13e0453e9745645c6f765a12",
               "delivery": "static_html",
@@ -5136,7 +5161,7 @@
               "source_sha256": "b324840313090c1a62b18ce1642d4ce48690c4cdc5289c005a52ad40f49784d2"
             },
             {
-              "anchors_verified": 80,
+              "anchors_verified": 79,
               "bytes_added": 0,
               "content_contract_sha256": "4bf8f1ee690b84db45c460500ac984fb88ffb7edde9ef7965ed26818f3f92791",
               "delivery": "static_html",
@@ -5146,7 +5171,7 @@
               "source_sha256": "2b725e987390396e15edbcbd99146e6774a8882c466372d5ec81ce6d378c654e"
             },
             {
-              "anchors_verified": 50,
+              "anchors_verified": 49,
               "bytes_added": 0,
               "content_contract_sha256": "618886d460904f870e0ac1c5544e7387eefe51a616d5a02a854e763c80616d4c",
               "delivery": "static_html",
@@ -5156,7 +5181,7 @@
               "source_sha256": "49830c772ada320aed4e5d7d24efe2cc407174edffc02c2970f7dec29ea6b252"
             },
             {
-              "anchors_verified": 53,
+              "anchors_verified": 52,
               "bytes_added": 0,
               "content_contract_sha256": "e0891a6592089de938d8a3cdc2cb933e1100bae381797b4c83fffa885c663781",
               "delivery": "static_html",
@@ -5166,7 +5191,7 @@
               "source_sha256": "500e2a13c3be1599a2afd0422ae1266945826f9f86a4c46204bcbb2f26693af6"
             },
             {
-              "anchors_verified": 53,
+              "anchors_verified": 52,
               "bytes_added": 0,
               "content_contract_sha256": "95395d192c22620210ae9821f6a4218e5530bd86b5b58588d9a21a304d484bc0",
               "delivery": "static_html",
@@ -5176,7 +5201,7 @@
               "source_sha256": "fb17162857c858a45f9b1471c44d81d457a15ea39b99aaa4476260a7e0e9f0ed"
             },
             {
-              "anchors_verified": 479,
+              "anchors_verified": 478,
               "bytes_added": 0,
               "content_contract_sha256": "b0fc347a77319d16c46e6b1871e1cb515d6d938a68a299004438f01e09ceef54",
               "delivery": "static_html",
@@ -5186,7 +5211,7 @@
               "source_sha256": "382fc30bd111139c5604a575a471b4284dca93ad0bc11eb778d8de93ecd7a42c"
             },
             {
-              "anchors_verified": 46,
+              "anchors_verified": 45,
               "bytes_added": 0,
               "content_contract_sha256": "43fd6271089054fa1d76be0c5042d6298f33875099e3bfd32b2fc26bb048bc62",
               "delivery": "static_html",
@@ -5196,7 +5221,7 @@
               "source_sha256": "14fc3906dff65c0a5fe2b2873107c45cb948ba97a90ce23a18ee0451f76ee793"
             },
             {
-              "anchors_verified": 119,
+              "anchors_verified": 118,
               "bytes_added": 0,
               "content_contract_sha256": "c08a64a291b59556f124ecefb4493e68b641aa42f3107d6aa239bfa3c3e2057c",
               "delivery": "static_html",
@@ -5206,7 +5231,7 @@
               "source_sha256": "af44518eb788b85a1afacab60af862084e12804714e59ba9638dfa61553cb9c1"
             },
             {
-              "anchors_verified": 209,
+              "anchors_verified": 208,
               "bytes_added": 0,
               "content_contract_sha256": "f280692e5d5b1444d8de702c6c255fd5e0e776b8d4446abdc0d9748e2ba0a751",
               "delivery": "static_html",
@@ -5216,7 +5241,7 @@
               "source_sha256": "7b754d6d0db08ef5aca02aeda38ab885b495280ac3c67a5dca3495b07410c1c8"
             },
             {
-              "anchors_verified": 313,
+              "anchors_verified": 312,
               "bytes_added": 0,
               "content_contract_sha256": "9096d516ab4b145d50f6c67f9f58adfa8bcafa94af14d7432890615e83cd432f",
               "delivery": "static_html",
@@ -5226,7 +5251,7 @@
               "source_sha256": "b7ce380eca5232fa03fb65527940996cd3c059573ad93d4d26d3fe7471aff7df"
             },
             {
-              "anchors_verified": 251,
+              "anchors_verified": 250,
               "bytes_added": 0,
               "content_contract_sha256": "40a687d7e7ca8ee484b5379536a2156b7e13b84a183bfb387a080ed83cd3a752",
               "delivery": "static_html",
@@ -5236,7 +5261,7 @@
               "source_sha256": "494d2125c6af206496a6d9ed38e00986f36bc060f19cbc9c5e679259b47d18ee"
             },
             {
-              "anchors_verified": 337,
+              "anchors_verified": 336,
               "bytes_added": 0,
               "content_contract_sha256": "1f3c9d713411acfd2e2bc4759276510fbe6e867af31bda6c0c857549de240feb",
               "delivery": "static_html",
@@ -5246,7 +5271,7 @@
               "source_sha256": "f24af370bc720cb1875e3bf5ec6ee839162ecc7acf0c2fdddd1ea9d17cb7f9ac"
             },
             {
-              "anchors_verified": 209,
+              "anchors_verified": 208,
               "bytes_added": 0,
               "content_contract_sha256": "b37cb405e959daaaccbbc740082a09f8082c7e53f1e2f138a0018ce96c4a950e",
               "delivery": "static_html",
@@ -5256,7 +5281,7 @@
               "source_sha256": "6f160709171b533c51ed369afb1cf426888752270b1c4f435e3f3308941b2289"
             },
             {
-              "anchors_verified": 3,
+              "anchors_verified": 2,
               "bytes_added": 0,
               "content_contract_sha256": "b4a0177aac08042d8771a071eec6d36c811a82cad37c3eaa16d25e66324f5315",
               "delivery": "book_directory",
@@ -5266,7 +5291,7 @@
               "source_sha256": "1f4859c17fa28619f6e57cb7fea8d8c23cf8fe3c3334a16aaf017e1c2a42ffd1"
             },
             {
-              "anchors_verified": 288,
+              "anchors_verified": 287,
               "bytes_added": 0,
               "content_contract_sha256": "ef59ada98f53161c3a111154bed665c8be9cbec9a4d38630f656dccd47ccbd44",
               "delivery": "static_html",
@@ -5276,7 +5301,7 @@
               "source_sha256": "97e1f673af4dd0ce8541a001c0f1f6a4303e5697d1397b0d24af11292e317a15"
             },
             {
-              "anchors_verified": 223,
+              "anchors_verified": 222,
               "bytes_added": 0,
               "content_contract_sha256": "0240b7db1bf2bdeb2f32241aaf6db747ee0b49497c1202ad65951ec87a3ba884",
               "delivery": "static_html",
@@ -5286,7 +5311,7 @@
               "source_sha256": "eca0527394943c06024ee4b2410b736e5979251db7bfcee3c30e59baee33c528"
             },
             {
-              "anchors_verified": 317,
+              "anchors_verified": 316,
               "bytes_added": 0,
               "content_contract_sha256": "287495a8bd08e187bd9b0906582586e514f5e24bd68f63b4ef4fde442e71bd29",
               "delivery": "static_html",
@@ -5296,7 +5321,7 @@
               "source_sha256": "1e5f1a75db5ebf2a2c95c49d57cb1804a06091c6f023d7135216216aaa367cd5"
             },
             {
-              "anchors_verified": 422,
+              "anchors_verified": 421,
               "bytes_added": 0,
               "content_contract_sha256": "6160343b78ff5e805091811bf1b8e7f5b116da9f9d547d54c43aabfb2809b11b",
               "delivery": "static_html",
@@ -5306,7 +5331,7 @@
               "source_sha256": "56b42a9f983a06c0286252b25749500aea9d573861106808cba887273296ba5a"
             },
             {
-              "anchors_verified": 368,
+              "anchors_verified": 367,
               "bytes_added": 0,
               "content_contract_sha256": "efd827bdbf6d5b47ce465564eaf70144674a0b36142350d91cc58730be53ee2c",
               "delivery": "static_html",
@@ -5316,7 +5341,7 @@
               "source_sha256": "f7a52253d1fe242aa861ea5402179c153d7fb3acc0695bade3c209781bbb222e"
             },
             {
-              "anchors_verified": 426,
+              "anchors_verified": 425,
               "bytes_added": 0,
               "content_contract_sha256": "a24eb3fd09b9c546ddcb1e386383d01d3c838545f9dfa29f7d61ada04f1afc9c",
               "delivery": "static_html",
@@ -5326,7 +5351,7 @@
               "source_sha256": "905cb53489cdaecd52e4517950e05a438f927a4eaaabbeda8e799feb95e8c295"
             },
             {
-              "anchors_verified": 438,
+              "anchors_verified": 437,
               "bytes_added": 0,
               "content_contract_sha256": "b88b2fe03b33569662031ff44e7b9321504b7e992fee9afe5607394f1a033192",
               "delivery": "static_html",
@@ -5336,7 +5361,7 @@
               "source_sha256": "b884eaa21c5463b320fde4511043e49551a967867bf295652d0c233e313a4fb7"
             },
             {
-              "anchors_verified": 352,
+              "anchors_verified": 351,
               "bytes_added": 0,
               "content_contract_sha256": "19c5cf4488743380a4c7505c142654fbbea88bc9b7bce9ef2fda43d14e53c177",
               "delivery": "static_html",
@@ -5346,7 +5371,7 @@
               "source_sha256": "d715633b0c082d8fdf5bc8ff1d855dd136012a56ee9d961d3554f52e49593dc9"
             },
             {
-              "anchors_verified": 230,
+              "anchors_verified": 229,
               "bytes_added": 0,
               "content_contract_sha256": "a097dcf206dbedd63b8192412db58823f400c59c7670cd864d5a151288b5bfe8",
               "delivery": "static_html",
@@ -5356,7 +5381,7 @@
               "source_sha256": "fca7648301016355f245f301412786d154c3ac1332f08b7d4a4f88e8cd333bfa"
             },
             {
-              "anchors_verified": 173,
+              "anchors_verified": 172,
               "bytes_added": 0,
               "content_contract_sha256": "fd6b8f87a530d4dc86f152617e0429f147f6ddfca646c6c4e44dbb8a97623860",
               "delivery": "static_html",
@@ -5366,7 +5391,7 @@
               "source_sha256": "d058e8e867edb5231c7d5106940bb3435e10c17099609d2aea1fc1782cf709bc"
             },
             {
-              "anchors_verified": 3,
+              "anchors_verified": 2,
               "bytes_added": 0,
               "content_contract_sha256": "b4a0177aac08042d8771a071eec6d36c811a82cad37c3eaa16d25e66324f5315",
               "delivery": "book_directory",
@@ -5376,7 +5401,7 @@
               "source_sha256": "861b6b25eb068cfd21f490b03d03f907ccbaecbd970499540a021b6188967536"
             },
             {
-              "anchors_verified": 114,
+              "anchors_verified": 113,
               "bytes_added": 0,
               "content_contract_sha256": "5fbcd6878c54005008e2d65953c5037497725161de5a5c7dcdc7387fc33b991d",
               "delivery": "static_html",
@@ -5386,7 +5411,7 @@
               "source_sha256": "7fb828a98d5c25c8462cd26988aea1a874b648461f5b5072780e1db4ce1757c3"
             },
             {
-              "anchors_verified": 246,
+              "anchors_verified": 245,
               "bytes_added": 0,
               "content_contract_sha256": "db957c7022c1ba73d1cbeaa96fa40e58bfe88ba3a36a08c0671a466d60236cff",
               "delivery": "static_html",
@@ -5396,7 +5421,7 @@
               "source_sha256": "970efc143562a1ad3defc866448e039672d5b37e50513479c92765ecb3ee092b"
             },
             {
-              "anchors_verified": 154,
+              "anchors_verified": 153,
               "bytes_added": 0,
               "content_contract_sha256": "7483e734b1aa6d82fff3661c292a34c7fb803f88268039dd4f7c05d5da28419e",
               "delivery": "static_html",
@@ -5406,7 +5431,7 @@
               "source_sha256": "6b1bcc4c69138616f262296912274eb1558e70627e0b038b83e6ed70fcbd0b7a"
             },
             {
-              "anchors_verified": 102,
+              "anchors_verified": 101,
               "bytes_added": 0,
               "content_contract_sha256": "f5f21558505412595900c133dc4ae71619330589d206eb442b5a8a8ec433d9a7",
               "delivery": "static_html",
@@ -5416,7 +5441,7 @@
               "source_sha256": "bcc0cae53bcf0ac9f8bc1d5a46608c4a90f189f459655b7fa54dbe1b0eadd339"
             },
             {
-              "anchors_verified": 149,
+              "anchors_verified": 148,
               "bytes_added": 0,
               "content_contract_sha256": "e8ac0c6f3853de007ee4b54dc697008a52820c2c1ee72d402a6e5f69bbb6285e",
               "delivery": "static_html",
@@ -5426,7 +5451,7 @@
               "source_sha256": "7004d48af716c5339ca2df3976271a813ce75d03a50d82e66e8472bdf139c08e"
             },
             {
-              "anchors_verified": 34,
+              "anchors_verified": 33,
               "bytes_added": 0,
               "content_contract_sha256": "e3c61cadb0d46b13ff45096a2a1a00f4edf2bddd6c665a328598f07f673ab715",
               "delivery": "static_html",
@@ -5436,7 +5461,7 @@
               "source_sha256": "ce98688d9f05f78f2e041b242b865d5c6cc89fe9838929bf4867dfb44c8cb39d"
             },
             {
-              "anchors_verified": 211,
+              "anchors_verified": 210,
               "bytes_added": 0,
               "content_contract_sha256": "c69efb56a5de3f4d5a797fa38ebaad3aae1055638a3ed35169fcf5086fe27969",
               "delivery": "static_html",
@@ -5446,7 +5471,7 @@
               "source_sha256": "b2b9cca0a2f1af6c7c6b88872ac3207ae66fa681330aa0d786797203d39bec87"
             },
             {
-              "anchors_verified": 23,
+              "anchors_verified": 22,
               "bytes_added": 0,
               "content_contract_sha256": "69e49024ce8c66286f4e38b11df2fc908821da95a664379ac874c781310dd6b0",
               "delivery": "static_html",
@@ -5456,7 +5481,7 @@
               "source_sha256": "c4e7ccf1eb3f33610cf9d1d20101f9c0f2597d21d8e85ac2d70b5073bfc9526b"
             },
             {
-              "anchors_verified": 58,
+              "anchors_verified": 57,
               "bytes_added": 0,
               "content_contract_sha256": "59d48e08be979de46313e2d51ce72f32458e61a90497c4b33682b55927099d3c",
               "delivery": "static_html",
@@ -5466,7 +5491,7 @@
               "source_sha256": "1d9196f898403fa7540e7381e22c8a90807a80851427d60abbf6aca57173fe0f"
             },
             {
-              "anchors_verified": 48,
+              "anchors_verified": 47,
               "bytes_added": 0,
               "content_contract_sha256": "ecf1bd1812d50e056a6947fc950dc4c2a9796715ff34859e18a6b3da3a499f71",
               "delivery": "static_html",
@@ -5476,7 +5501,7 @@
               "source_sha256": "de2eb0d65aaa69dc05d8cd015314ccc79257ae320dac43fddbbec84e587892f3"
             },
             {
-              "anchors_verified": 3,
+              "anchors_verified": 2,
               "bytes_added": 0,
               "content_contract_sha256": "b4a0177aac08042d8771a071eec6d36c811a82cad37c3eaa16d25e66324f5315",
               "delivery": "book_directory",
@@ -5486,7 +5511,7 @@
               "source_sha256": "d834dd3aaf939e9e2e901794409795e720f94ba4ca8818c5c7b5249d048af1ab"
             },
             {
-              "anchors_verified": 82,
+              "anchors_verified": 81,
               "bytes_added": 0,
               "content_contract_sha256": "45fd07137e8ec2358fe3be6ac3056dce6b7e0b9e71b81318a5b430bd1fc10226",
               "delivery": "static_html",
@@ -5496,7 +5521,7 @@
               "source_sha256": "5eff33913a729f2b54c0969d608f2c85ac40dce8efa20cda53d68c5bf20ca1a1"
             },
             {
-              "anchors_verified": 12,
+              "anchors_verified": 11,
               "bytes_added": 0,
               "content_contract_sha256": "fbc9ad97f0c12bb1b968bebea95f6a4b9eba721ef9b9082b5671e2224e1783c3",
               "delivery": "static_html",
@@ -5506,7 +5531,7 @@
               "source_sha256": "ff2b9928a1e24c1699a0d0f67c4f17863c8ec9746e07b1fac2261a46e4756d1c"
             },
             {
-              "anchors_verified": 28,
+              "anchors_verified": 27,
               "bytes_added": 0,
               "content_contract_sha256": "8044b290ae7845400dd37314da1ceb51177dda9023681aaaa0bae76daf4950d6",
               "delivery": "static_html",
@@ -5516,7 +5541,7 @@
               "source_sha256": "f0bf400bd11dd34fa6986cae28dccab1bc2dd5af42152723481a2518945983c8"
             },
             {
-              "anchors_verified": 12,
+              "anchors_verified": 11,
               "bytes_added": 0,
               "content_contract_sha256": "d3379d49f1369092db46fe47047a9253535dbdd5e5d86f4bbf5f62492f997ed2",
               "delivery": "static_html",
@@ -5526,7 +5551,7 @@
               "source_sha256": "29ff32ef9cb095914fc1fe9dbd7da742b5df9b1993a0c1f3a86f7f497638850e"
             },
             {
-              "anchors_verified": 25,
+              "anchors_verified": 24,
               "bytes_added": 0,
               "content_contract_sha256": "19ee9cd03b362344a451afdabad53aff90012713cdd03855cdf5d7e7575cb03e",
               "delivery": "static_html",
@@ -5536,7 +5561,7 @@
               "source_sha256": "93e3c881a028562d9c19b23219b6ae6970a01b3e989b25bc8ce1764d668020d2"
             },
             {
-              "anchors_verified": 53,
+              "anchors_verified": 52,
               "bytes_added": 0,
               "content_contract_sha256": "895b9d57621857a2a84fa9e291ef1253a03d6224904c2f24e3162ba10b84af61",
               "delivery": "static_html",
@@ -5546,7 +5571,7 @@
               "source_sha256": "35f668e442553529cf42152827b488db977313bb61cda5be5f288b9a84ff3f6a"
             },
             {
-              "anchors_verified": 28,
+              "anchors_verified": 27,
               "bytes_added": 0,
               "content_contract_sha256": "bb0451a6fe9fe0b09beeec06bddde90eda00ac6ab935952fbda1fd4502f1389b",
               "delivery": "static_html",
@@ -5556,7 +5581,7 @@
               "source_sha256": "b1a0b827ff3b3af4a6f909eb6c5306945f67b674c3f1843d40c1846388b3bb9c"
             },
             {
-              "anchors_verified": 24,
+              "anchors_verified": 23,
               "bytes_added": 0,
               "content_contract_sha256": "451c51864e70fc5954a51b664b7b1912da520275101d5ebac1feb80ad1172740",
               "delivery": "static_html",
@@ -5566,7 +5591,7 @@
               "source_sha256": "bf35751c4b25f052b41bfec0d3fdd005aab639420ff192af2240ffde722fc7b4"
             },
             {
-              "anchors_verified": 162,
+              "anchors_verified": 161,
               "bytes_added": 0,
               "content_contract_sha256": "4324a8d27f0a0620ae0b285e11ebcddb2e39583bb9880c9e544ec6724b2a5fd2",
               "delivery": "static_html",
@@ -5576,7 +5601,7 @@
               "source_sha256": "f821be725c571c411ac1f38568163e56d4b3067c4357cc32c1b0089b187befda"
             },
             {
-              "anchors_verified": 66,
+              "anchors_verified": 65,
               "bytes_added": 0,
               "content_contract_sha256": "b7b1d981d59b09df90f2e7cb451ae4891e99c4d47efbe63067f0e4dc0e7e717d",
               "delivery": "static_html",
@@ -5586,7 +5611,7 @@
               "source_sha256": "b24d880944be60a421d79aa5b7ae737e298c0edaff12427e2b1dd67283626533"
             },
             {
-              "anchors_verified": 46,
+              "anchors_verified": 45,
               "bytes_added": 0,
               "content_contract_sha256": "8d04c4734dcece3702b20eec1bd977cebef313046b4d33e9a6037a1900627bf2",
               "delivery": "static_html",
@@ -5596,7 +5621,7 @@
               "source_sha256": "67c6b1151c00d02435a20c207655abc866d3a4a51a2e9d2041458bb56e8657c8"
             },
             {
-              "anchors_verified": 46,
+              "anchors_verified": 45,
               "bytes_added": 0,
               "content_contract_sha256": "695becdddbcf48e95ea033336729fd6086795c29578f7ba8bb3b3176e3e554c6",
               "delivery": "static_html",
@@ -5606,7 +5631,7 @@
               "source_sha256": "6298e8f47b1284680ba53c09e7002ee1bd220ace88a3c0dc91c2c5bbcef038a1"
             },
             {
-              "anchors_verified": 70,
+              "anchors_verified": 69,
               "bytes_added": 0,
               "content_contract_sha256": "a0e17d6700e8886bf186271ec4fe6357f40d40de0673e84438004904c00c2d88",
               "delivery": "static_html",
@@ -5616,7 +5641,7 @@
               "source_sha256": "fc07fb1200f0975f61f4e2160f996dc361c360eb1cec655b7dd1a39c3c84a102"
             },
             {
-              "anchors_verified": 70,
+              "anchors_verified": 69,
               "bytes_added": 0,
               "content_contract_sha256": "b93095f763dcf4ad371ce0b72a160081e296677d084af7598fc2e4fd216c8a0b",
               "delivery": "static_html",
@@ -5626,7 +5651,7 @@
               "source_sha256": "262a85f9f1e0ca0ab325566afcab5a42e5dece0ad9d0164b995a2d012c6fa9fa"
             },
             {
-              "anchors_verified": 22,
+              "anchors_verified": 21,
               "bytes_added": 0,
               "content_contract_sha256": "4438128702456e5beb724e190ffec52bd11f3a7bd45247cfbf260016abc47aed",
               "delivery": "static_html",
@@ -5636,7 +5661,7 @@
               "source_sha256": "78a49fe73398a142927f10065fd64b55c3ce87a5f67781c08ee1d1b6d594e5fc"
             },
             {
-              "anchors_verified": 18,
+              "anchors_verified": 17,
               "bytes_added": 0,
               "content_contract_sha256": "327e644c6527399d3c1a8090f8ef3e7f408d63c45dcb60fd37a1b1206d2c5d8c",
               "delivery": "static_html",
@@ -5646,7 +5671,7 @@
               "source_sha256": "e8b2b3c656e357621ccc0c7f8bd51487982eac4b54470c136fd36e610f894388"
             },
             {
-              "anchors_verified": 50,
+              "anchors_verified": 49,
               "bytes_added": 0,
               "content_contract_sha256": "8d5575294c7287cbd7feffb430d12b00bf7bf816411f6bfced8d1646dee9b2d0",
               "delivery": "static_html",
@@ -5656,7 +5681,7 @@
               "source_sha256": "270dd950fdb72a22bdf32a9090a84e00d89b418c93f881d63273299234ffd2b0"
             },
             {
-              "anchors_verified": 146,
+              "anchors_verified": 145,
               "bytes_added": 0,
               "content_contract_sha256": "d3b0d34eb145fbdeafa9e439ab1c6e981d9fc69ab2c9cf46ebc811037a8f623b",
               "delivery": "static_html",
@@ -5666,7 +5691,7 @@
               "source_sha256": "49b577ccf43b990e40b43176f582601af40dfbba0f4c8dbd17ce8f117f672b0a"
             },
             {
-              "anchors_verified": 376,
+              "anchors_verified": 375,
               "bytes_added": 0,
               "content_contract_sha256": "2991bd960ce26ee8ebdfc92a52c916132ecfdc4761885e05f4247fe231587375",
               "delivery": "static_html",
@@ -5676,7 +5701,7 @@
               "source_sha256": "983bdd495cfe1aea7c83a7b364315d331f4e3fc00d050d5c924c7913475b2283"
             },
             {
-              "anchors_verified": 82,
+              "anchors_verified": 81,
               "bytes_added": 0,
               "content_contract_sha256": "bbe5afd51619e787677e02dd6bfa93f02a2b23b6b35b8ed2a42d66c185726927",
               "delivery": "static_html",
@@ -5686,7 +5711,7 @@
               "source_sha256": "e65ffbde871e8cd6cb5a2cc0e96833715164497a74d0c3880e5eb3202b5b80ee"
             },
             {
-              "anchors_verified": 62,
+              "anchors_verified": 61,
               "bytes_added": 0,
               "content_contract_sha256": "e8e83f95d7102573762ed85c7d1abdaa91cf7c1716846ecf92f6c4336b408841",
               "delivery": "static_html",
@@ -5696,7 +5721,7 @@
               "source_sha256": "22d90dc05daf4722169e52ad2744fa01089341b76ff58576c27fc3e32d1ee171"
             },
             {
-              "anchors_verified": 62,
+              "anchors_verified": 61,
               "bytes_added": 0,
               "content_contract_sha256": "a052bb1e75e7ed280a97dc0b3764a3b9d4a655dff7e1904b3cf67d3aede74a5e",
               "delivery": "static_html",
@@ -5706,7 +5731,7 @@
               "source_sha256": "fffa2717d07aa767ce8f731c84319ca9270dd6bfa83fc2d7b5d151cec466c9d2"
             },
             {
-              "anchors_verified": 52,
+              "anchors_verified": 51,
               "bytes_added": 0,
               "content_contract_sha256": "6cadfc1d911a58bcac478787e2f37363b158f152c4bf9a581f537055b417b53c",
               "delivery": "static_html",
@@ -5716,7 +5741,7 @@
               "source_sha256": "dda8154671e6e34b28f26053dc2725d5ab99f0befc61ccffd1ecb6323dce2d52"
             },
             {
-              "anchors_verified": 90,
+              "anchors_verified": 89,
               "bytes_added": 0,
               "content_contract_sha256": "3a326363812f7196b4c37ec0e82704fe195f64b61614dc5774e3dbaf8474be22",
               "delivery": "static_html",
@@ -5726,7 +5751,7 @@
               "source_sha256": "a7b88ad408b1e5c8910364675bec861cccc6d64a042b1245014ad50c0a2d51c6"
             },
             {
-              "anchors_verified": 46,
+              "anchors_verified": 45,
               "bytes_added": 0,
               "content_contract_sha256": "75761d53472ceb089c3f25e67f89f5f414e2bb7694c344895dfbb5ccad989105",
               "delivery": "static_html",
@@ -5734,18 +5759,28 @@
               "path": "works/tertullian-marcion-5/index.html",
               "source_path": "releases/alpha-0.35/tertullian-marcion-5/index.html",
               "source_sha256": "a9b22b22bf87f80d7a78125370b2359f7a914ff840bad9842ee69f019f5a467f"
+            },
+            {
+              "anchors_verified": 807,
+              "bytes_added": 0,
+              "content_contract_sha256": "6a71860e689f617ceafc6db869dc293821e60929afe0f7ede71c4cfb53fce967",
+              "delivery": "static_html",
+              "passages": 505,
+              "path": "works/tertullian-apology/index.html",
+              "source_path": "releases/alpha-0.37.1/tertullian-apology/index.html",
+              "source_sha256": "0ecc493c5f428e1a750ffc653ab0d9cd08bd87bbfadefa454090ddef817661e8"
             }
           ],
           "readers_reused": 0,
           "schema_version": "patristics-current-reader-delivery-2",
-          "static_readers": 62
+          "static_readers": 63
         },
-        "html_pages_with_structured_data": 66,
+        "html_pages_with_structured_data": 67,
         "indexnow": {
           "configured": true,
           "key_path": "indexnow-key.txt"
         },
-        "plain_text_bytes": 7604299,
+        "plain_text_bytes": 8017505,
         "resources": [
           {
             "bilingual_bytes": 36271,
@@ -6263,6 +6298,17 @@
             "text_url": "https://patristics.missionalbible.org/works/tertullian-marcion-5/text-ko-alpha-0.35-v1.txt",
             "url": "https://patristics.missionalbible.org/works/tertullian-marcion-5/",
             "work_id": "tertullian-marcion-5"
+          },
+          {
+            "bilingual_bytes": 554929,
+            "bilingual_sha256": "53dc878117ae34c799873d1e38acb95c72eea1aa39c17eb61ae537263edd9da8",
+            "bilingual_url": "https://patristics.missionalbible.org/works/tertullian-apology/text-bilingual-alpha-0.37.1-v1.txt",
+            "bytes": 413206,
+            "path": "works/tertullian-apology/text-ko-alpha-0.37.1-v1.txt",
+            "sha256": "459421f798bdc12de2f4e674221423963fd390e9eaa5ea88764ad0dbd712c9cb",
+            "text_url": "https://patristics.missionalbible.org/works/tertullian-apology/text-ko-alpha-0.37.1-v1.txt",
+            "url": "https://patristics.missionalbible.org/works/tertullian-apology/",
+            "work_id": "tertullian-apology"
           }
         ],
         "schema_version": "patristics-static-discovery-1",
@@ -6372,6 +6418,8 @@
           "https://patristics.missionalbible.org/works/polycarp-philippians/information.html": "2026-10-25",
           "https://patristics.missionalbible.org/works/tatian-greeks/": "2026-10-25",
           "https://patristics.missionalbible.org/works/tatian-greeks/information.html": "2026-10-25",
+          "https://patristics.missionalbible.org/works/tertullian-apology/": "2026-10-25",
+          "https://patristics.missionalbible.org/works/tertullian-apology/information.html": "2026-10-25",
           "https://patristics.missionalbible.org/works/tertullian-marcion-1/": "2026-10-25",
           "https://patristics.missionalbible.org/works/tertullian-marcion-1/information.html": "2026-10-25",
           "https://patristics.missionalbible.org/works/tertullian-marcion-2/": "2026-10-25",
@@ -6388,12 +6436,12 @@
           "https://patristics.missionalbible.org/works/theophilus-autolycus/book-3.html": "2026-10-25",
           "https://patristics.missionalbible.org/works/theophilus-autolycus/information.html": "2026-10-25"
         },
-        "works": 47
+        "works": 48
       },
-      "work_guides": 0
+      "work_guides": 48
     },
-    "bytes": 710004102,
-    "catalogue_hashes_verified": 47,
+    "bytes": 714018139,
+    "catalogue_hashes_verified": 48,
     "current_reader_delivery": {
       "book_directories": 3,
       "bytes_added": 0,
@@ -7048,23 +7096,33 @@
           "path": "works/tertullian-marcion-5/index.html",
           "source_path": "releases/alpha-0.35/tertullian-marcion-5/index.html",
           "source_sha256": "a9b22b22bf87f80d7a78125370b2359f7a914ff840bad9842ee69f019f5a467f"
+        },
+        {
+          "anchors_verified": 806,
+          "bytes_added": 0,
+          "content_contract_sha256": "6a71860e689f617ceafc6db869dc293821e60929afe0f7ede71c4cfb53fce967",
+          "delivery": "static_html",
+          "passages": 505,
+          "path": "works/tertullian-apology/index.html",
+          "source_path": "releases/alpha-0.37.1/tertullian-apology/index.html",
+          "source_sha256": "0ecc493c5f428e1a750ffc653ab0d9cd08bd87bbfadefa454090ddef817661e8"
         }
       ],
       "readers_reused": 0,
       "schema_version": "patristics-current-reader-delivery-2",
-      "static_readers": 62
+      "static_readers": 63
     },
     "download_compatibility": {
-      "current_alignment_json_bytes_saved": 19850804,
+      "current_alignment_json_bytes_saved": 20527777,
       "derived_json_bytes_saved": {
-        "catalog.json": 55056,
-        "data/corrections.json": 1119974,
-        "search-index.json": 754000,
+        "catalog.json": 55429,
+        "data/corrections.json": 1123032,
+        "search-index.json": 787330,
         "topics.json": 676383
       },
-      "html_bytes_saved": 28260726,
-      "html_pages_compacted": 210,
-      "published_release_files_preserved": 2355,
+      "html_bytes_saved": 28503031,
+      "html_pages_compacted": 213,
+      "published_release_files_preserved": 2395,
       "raw_bytes_verified": true,
       "restored_routes": 114,
       "retained_routes": 532,
@@ -7072,19 +7130,19 @@
       "topic_modules_compacted": 95
     },
     "duplicate_anchors": 0,
-    "edition_checksums_verified": 2582,
-    "edition_data_files_unchanged": 1438,
-    "html_pages": 1264,
+    "edition_checksums_verified": 2585,
+    "edition_data_files_unchanged": 1440,
+    "html_pages": 1267,
     "missing_internal_links": 0,
-    "pinned_current_catalogue_json_verified": 47,
+    "pinned_current_catalogue_json_verified": 48,
     "reading_surfaces": {
       "book_directories": 9,
       "legacy_readers": 0,
-      "other": 55,
-      "pages": 214,
-      "readers": 150,
+      "other": 56,
+      "pages": 217,
+      "readers": 152,
       "relocated": 1050,
-      "top_controls": 214
+      "top_controls": 217
     },
     "relocated_edition_pages": 1050,
     "scripture_reference_bindings_verified": 534
